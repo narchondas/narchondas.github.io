@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narchondas
 - 👀 I’m interested in Artificial Intelligence (AI) and in better regulation (evaluation, impact assessment and stakeholder consultation)
-- 🌱 I’m currently learning the advantages and pitfall of the machine learning methods and algorithms
+- 🌱 I’m currently learning the advantages and pitfalls of the machine learning methods and algorithms
 - 💞️ I’m looking to collaborate on AI in the public sector and on code writing
 - 📫 How to reach me: by email, via LinkedIn
 - 😄 Pronouns: he/his
