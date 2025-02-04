@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narchondas ![image](https://github.com/user-attachments/assets/c2471820-a62c-4485-a3d7-b6b73bd022e9)
+- 👋 Hi, I’m @narchondas
 - 👀 I’m interested in Artificial Intelligence (AI) and in better regulation (evaluation, impact assessment and stakeholder consultation)
 - 🌱 I’m currently learning the advantages and pitfalls of the machine learning methods and algorithms
 - 💞️ I’m looking to collaborate on AI in the public sector and on code writing
@@ -6,7 +6,8 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love swimming in the sea for more than an hour so, a couple of times, my friends were so worried that they wanted to call the coast guards as they assumed something bad had happened to me
   
-# E-Portfolio of Nikos Archontas      
+# E-Portfolio of Nikos Archontas    ![image](https://github.com/user-attachments/assets/568bd9af-a4f0-4b7e-be9a-9ea7ae4b9893)
+  
 
 # MSc. Artificial Intelligence Cohort July 2024
 
