@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love swimming in the sea for more than an hour so, a couple of times, my friends were so worried that they wanted to call the coast guards as they assumed something bad had happened to me
   
 # E-Portfolio of Nikos Archontas 
-![image](https://github.com/user-attachments/assets/fd43d7dc-5888-4343-b638-db101fb96817)
+![f3](https://github.com/user-attachments/assets/c992b5f9-9741-437c-9b72-96b4a930178f)
 
 ## MSc. Artificial Intelligence Cohort July 2024
 
