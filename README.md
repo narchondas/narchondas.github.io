@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narchondas
+- 👋 Hi, I’m @narchondas ![image](https://github.com/user-attachments/assets/c2471820-a62c-4485-a3d7-b6b73bd022e9)
 - 👀 I’m interested in Artificial Intelligence (AI) and in better regulation (evaluation, impact assessment and stakeholder consultation)
 - 🌱 I’m currently learning the advantages and pitfalls of the machine learning methods and algorithms
 - 💞️ I’m looking to collaborate on AI in the public sector and on code writing
