@@ -45,6 +45,7 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 
 *Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
+### Induction Assignement
 **Discuss the importance of a postgraduate degree in the Computer Science field.**
 
 The education programme I am undertaking at the University of Essex Online is the MSc in Artificial Intelligence.  Even though I come from a non-STEM background, thanks to my professional experience, I came to realise how important ICT advancements are for most of the industries and the public sector, in general.   The Artificial Intelligence (AI) is at present continuously being tested and used in a variety of industries.  For example, Netflix produces hundreds of millions of film recommendations every day to subscribers, Amazon makes instant book/product suggestions depending on the search results and orders we have proceeded to.  Thanks to the strong computational power and the possibility to rapidly analyse datasets, AI is also helping to timely detect medical diseases and facilitate citizens to electronically submit documents in the public authorities by means of chatbots. 
