@@ -311,13 +311,17 @@ VI. Demonstration that the application of the approach/methods can be applied to
 
 As Foody (2023) pointed out, it is of utmost importance for the classification quality to what extent the model predictions are accurate.  The term ‘classification accuracy’ denotes the amount of error included in the dataset and shows if the classification model is effective for a particular case.  ‘The error can be calculated by comparing the classifier’s labels with reality.  In practice, the labels predicted by the classifier are compared against those obtained from a reference standard’. 
 If the accuracy does not reach a sufficient level, this might constitute the rationale for further fine-tuning the parameters and enhancing the classifier model.  If the accuracy level remains low, we are obliged to discard the classifier model and choose another one which performs better (Foody, 2023).  This is why we tested six models and found out, following fine-tuning of the parameters of the J48 model (WEKA tool), that the best prediction outcomes and tree visualisation are produced by the model 6.  
- 
+
+![image](https://github.com/user-attachments/assets/637ecb45-7921-4b01-b9f2-7555fca93eaa)
+
 When making use of the CRISP-DM process model and in particular when performing the modelling, the evaluation and deployment phases of the envisaged AI-solution, we must avoid a high rate of False Positives (FP) to prevent our finance company from granting loans to non-creditworthy loan applicants.  On the other hand, it is in our company best interest to seek a high rate of True Negatives (TN), cases that were classed as negative and also have a negative label in the reference data.  The determining factor for choosing the appropriate model algorithm should be ‘inverse recall’/‘specificity’.  This term defines the proportion of real negative cases that are correctly predicted negative (True Negative Rate/tnr) (Powers, 2007).
- 
-Figure 1 (Powers, 2007)
+
+![image](https://github.com/user-attachments/assets/21956226-9ad8-437d-953e-873444e257ca)
+
 Having said the above, a bigger sample size will be required to further update and evaluate the suggested model, given that, for experiment purposes, we used datasets from the Kaggle repository and not our own.  We believe that with further development and validation, our prediction modelling algorithm will enable us to successfully analyse the credit risk of loan applicants and therefore to support and speed up the loan approval process.
  
 **References**
+
 Archontas N. (2024), Artificial Intelligence and its applications, Individual Essay, Module 1, Understanding Artificial Intelligence, UoEO
 
 Bowman J. (20 August, 2024) How Artificial Intelligence is Used in Finance Learn how AI is transforming the financial sector Available from https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/#:~:text=AI%20is%20being%20used%20in,insurance%2C%20and%20even%20customer%20service [Accessed on 15 September 2024]
