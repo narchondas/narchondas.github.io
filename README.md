@@ -370,16 +370,12 @@ F.	pruned tree, cross-validation 20, minNumObj 10
 Our assumption is that DTs should have limited number of leaves, so the visualisation is facilitated.  If this is not the case due to multiple features, we tried tree pruning.  
 
 1. The model of unpruned tree with cross validation 10 and minNumObj2 produced an unpruned tree with 218 leaves (313 size of tree), with a percentage of 70.4% correctly classified instances vs. 29.6% of incorrectly classified instances.  The tree visualisation seems unmanageable and not clear enough.
-
 2.The model of unpruned tree with cross validation 20 and minNumObj 2, produced an unpruned tree with 218 leaves (313 size of tree) and classified correctly 70.5% of the instances vs. 29.5% of incorrectly classified instances.  The tree visualisation seems again unmanageable and not clear enough.
-
 3. The model of pruned tree with cross-validation 10 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree) and 72.8% correctly classified instances vs. 27.2% incorrectly classified instances. Tree visualisation is improved, but it remains unclear.
-
 4. The model of pruned tree with cross-validation 20 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree), and 74.2% correctly classified instances vs. 25.8% incorrectly classified instances.  Although accuracy reaches the highest level out of the six experiments, nevertheless, the tree visualisation is not straightforward and does not help.
-
 5. The model of pruned tree with cross-validation 10 and minNumObj 10 produced a pruned tree with 17 leaves (24 size of tree) and 73.4% of correctly classified instances vs. 26.6% of incorrectly classified instances.  The tree visualisation seems improved and can be easily consulted.
-
-6. The model of pruned tree with cross-validation 20 and minNumObj 10, produced a pruned tree with 17 leaves (24 size of tree) and 74% of correctly classified instances vs. 26% incorrectly classified instances.  The tree visualisation is straightforward, and the accuracy level is quite high (74%), although not as high as the model experiment 4 (74.2%).  However, given the simplicity of the tree and the particularly high level of accuracy in detecting correctly classified instances, we suggest adopting this model algorithm.  
+6. The model of pruned tree with cross-validation 20 and minNumObj 10, produced a pruned tree with 17 leaves (24 size of tree) and 74% of correctly classified instances vs. 26% incorrectly classified instances.  The tree visualisation is straightforward, and the accuracy level is quite high (74%), although not as high as the model experiment 4 (74.2%).
+However, given the simplicity of the tree and the particularly high level of accuracy in detecting correctly classified instances, we suggest adopting this model algorithm.  
 
 Due to the imbalance of the instances, we applied SMOTE (Synthetic Minority Oversampling Technique)/Randomise filters (see the results in the Annex, pp. 22-25).
 
