@@ -49,6 +49,7 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 
 *Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
+### Collaborative Discussion 1
 **Discussion Topic
 Discuss why Artificial Intelligence is now ubiquitous and why it is important for companies to invest in Artificial Intelligence technologies.
 Your discussion could consider/identify:  A typical company or industry that employs AI technologies, as well as the nature of the business to set the context for the discussion.
@@ -87,6 +88,151 @@ European Commission (2023) EU Artificial Intelligence Act, Available at https://
 Moore, R.S., Moore, M.L. and Shanahan, K.J., 2015. Creepy marketing: Three dimensions of perceived excessive online privacy violation. Marketing, pp.1-10.
 
 S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
+
+### Collaborative Discussion 2
+
+**Discussion Topic
+Identify and discuss two machine learning algorithms and the context in which they can be employed. Your discussion could consider:  Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution?  The strengths and weaknesses of this approach to learning.
+You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth.**
+
+**Initial Post**
+
+‘A decision tree is a […] supervised learning algorithm, which is utilised for both classification and regression tasks’ (IBM). It consists of a root, internal nodes and leaves.  ‘The internal nodes of the tree represent a test on an attribute or subset of attributes’ (Cohen, 2021).  Decision trees (DTs) measure ‘the difference of entropy before and after a split’ (information gain).  ‘The node with the highest gain becomes the root node’ (Bell, 2020).  DTs can easily classify data and predict the outcome based on the training data, so they are widely used, among others, for data mining, in bank/finance services to check the trustworthiness of clients, in customer service, where they direct phones calls/emails to the appropriate department (sales, after-sales services, repair/feedback, payment methods)
+
+DTs are simple to understand and interpret as they can be visualised, can process both numerical and categorical data, support a certain degree of explainability contratry to the ‘black box’ of artificial neural network and they require little to no data preparation (Learn Scikit).  Nonetheless, DTs can become overly complex as they cannot generalise well to new data (overfitting) and even slight variations can deliver a different outcome (IBM).
+
+A support vector machine (SVM) is another supervised learning approach for classifying objects/images.  ‘Classification problems aim to predict the category (class) to which a given input belongs’.  SVM algorithm identifies the optimal hyperplane among an infinite set because it assesses some data more critical than others for finding the best diving line/hyperplane: the support vectors (Prinzi et al., 2024).  SVM are used in the analysis of radiological images (breast cancer detection, cardiac disease diagnosis etc) as well as for identifying fraudulent credit card activity, recognising handwritten digits and letters etc
+
+A very good feature of SVM is that only a small training set is needed to provide very good results (Tzotsos et al., 2008), so they can generalise quite well to new data (avoiding overfitting). SVM are also effective in high-dimensional spaces and efficient in memory usage as they only need to store a small fraction of the training data. However, SVM can be also computationally intensive.  The number of possible kernels/transformations is infinite and can make it hard to choose the right one. 
+
+**References**
+
+Cohen S. MD (2021) The basics of machine learning: strategies and techniques in Artificial Intelligence and Deep Learning in Pathology. Available from https://www.sciencedirect.com/topics/computer-science/decision-tree-algorithm [Accessed on 3 September 2024]
+
+Bell, J. (2020) Machine Learning: Hands-On for Developers and Technical Professionals. 2nd ed. Chichester: Wiley
+
+European Information Technologies Certification Academy (7 August, 2023) What are some advantages of using support vector machines (SVMs) in machine learning applications? Available from https://eitca.org/artificial-intelligence/eitc-ai-mlp-machine-learning-with-python/support-vector-machine/support-vector-machine-introduction-and-application/examination-review-support-vector-machine-introduction-and-application/what-are-some-advantages-of-using-support-vector-machines-svms-in-machine-learning-applications/ [Accessed on 3 September]
+
+IBM, What is a decision tree? Available from https://www.ibm.com/topics/decision-trees [Accessed on 4 September 2024]
+
+Learn Scikit Available from https://scikit-learn.org/stable/modules/tree.html [Accessed on 4 September 2024]
+
+Prinzi, F., Currieri, T., Gaglio, S. et al. (2024) Shallow and deep learning classifiers in medical image analysis. Eur Radiol Exp 8, 26. https://doi.org/10.1186/s41747-024-00428-2
+
+Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classification for Object-Based Image Analysis.  Available from https://www.researchgate.net/publication/225929583_Support_Vector_Machine_Classification_for_Object-Based_Image_Analysis [Accessed on 4 September]
+
+**Summary**
+
+‘A decision tree, a […] supervised learning algorithm, is utilised for both classification and regression tasks’ (IBM, ND). Decision trees (DTs) measure ‘the difference of entropy before and after a split’ (information gain).  ‘The node with the highest gain becomes the root node’ (Bell, 2020).  DTs can easily classify data and predict the outcome based on the training data, so they are widely used for data mining, in banking/finance, customer service.  They are simple to understand as they can be visualised, can process both numerical and categorical data, support a certain degree of explainability contrary to the ‘black box’ of artificial neural network and they require little to no data preparation (Learn Scikit, ND).  
+
+Nonetheless, DTs can become overly complex as they work well with training data but not when applying new or unseen real-world data (overfitting) (Wang et al., 2010).  One way to avoid this is by pre-pruning and post-pruning, which help reduce overfitting (Bramer, 2007) and improve the accuracy of the overall classification, when applied to the validation dataset (Song, 2015).
+
+Support vector machines (SVMs), another supervised learning approach for classifying objects/images, identify the optimal hyperplane among an infinite set because they assess some data more critical than others for finding the best diving line/hyperplane: the support vectors (Prinzi et al., 2024).  SVMs are highly effective in handling high-dimensional data, which is invaluable in fields like text classification and bioinformatics (Ben-Hur & Weston, 2010), classification of complex patterns in medical images (Litjens et al., 2017).  A very good feature of SVMs is that only a small training set is needed to provide very good results (Tzotsos et al., 2008), so they can generalise quite well to new data.  
+
+However, SVMs can be also computationally intensive, sensitive to parameter tuning, they have difficulty in interpreting complex models and also, they can face scalability issues when applied to extremely large data sets.  Training an SVM on millions of samples can become impractical due to memory and computational constraints (Tabsharani F.)
+
+ **Reference list**
+
+Bell, J. (2020) Machine Learning: Hands-On for Developers and Technical Professionals. 2nd ed. Chichester: Wiley
+
+Ben-Hur, A. & Weston, J. (2010). A user’s guide to support vector machines. Methods in Molecular Biology, 609, 223-239.
+
+Bramer, M., (2007). Avoiding overfitting of decision trees. Principles of data mining, pp.119-134.
+
+IBM, (ND) What is a decision tree? Available from https://www.ibm.com/topics/decision-trees [Accessed on 4 September 2024]
+
+Learn Scikit, (ND) Available from https://scikit-learn.org/stable/modules/tree.html [Accessed on 4 September 2024]
+
+Litjens, G. et al. (2017). A survey on deep learning in medical image analysis. Medical Image Analysis, 42, 60-88.
+
+Prinzi, F., Currieri, T., Gaglio, S. et al. (2024) Shallow and deep learning classifiers in medical image analysis. Eur Radiol Exp 8, 26. https://doi.org/10.1186/s41747-024-00428-2
+
+Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry. 27(2):130-5. DOI: 10.11919/j.issn.1002-0829.215044
+
+Tabsharani F. (ND), Support vector machine (SVM). Available from https://www.techtarget.com/whatis/definition/support-vector-machine-SVM#:~:text=A%20support%20vector%20machine%20(SVM)%20is%20a%20type%20of%20supervised,data%20set%20into%20two%20groups [Accessed on 9 September]
+
+Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classification for Object-Based Image Analysis.  Available from https://www.researchgate.net/publication/225929583_Support_Vector_Machine_Classification_for_Object-Based_Image_Analysis [Accessed on 4 September]
+
+Wang, T., Qin, Z., Jin, Z. and Zhang, S., 2010. Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning. Journal of Systems and Software, 83(7), pp.1137-1147.
+
+### Individual Essay: Artificial Intelligence and its Applications
+
+**How to tap into the AI potential and further boost our competitiveness** 
+
+As a finance company, we grant loans to individuals and businesses (personal and corporate branch), including merchants, retailers and manufacturers for the purchase of goods and services with securities (Britannica, ND).  To further enhance our competitiveness prospects and maintain our market share in a challenging and unpredictable financial framework, there is a pressing need our company endorse a series of Artificial Intelligence (AI) enabled tools. These AI-enabled tools will aim to i) facilitate current internal business/customer operations, ii) automatically process credit risk of customers and iii) target creditworthy clients by personalising investment opportunities based on their profile.  
+This report explores the phasing-in of some AI-enabled tools in our company, the expected benefits (turnover increase and market position improvement) as well as the pitfalls and potential risks we have to take into account.   
+
+My department has made use of the NAFTA framework before making the business case for staged AI adoption.  First, we identified the problem (Need), explored to what extent the AI-solution is aligned with the company’s broader strategy (Alignment), and determined its financial viability (Finance) (off-the-shelf, open source and bespoke), and thus guarantee return on investment.   Subsequently, we duly tested the need for AI implementation and how to best integrate it in the corporate operations (Test) and then we identified the tools, which will enable us to assess the risks involved in the technology (Analyse) (Mcilrath, B. & Kotnour. T, 2002; Terence Tse et al., 2021; Poree, J., 2022; University of Oxford, 2023).
+
+i) The first key area of AI deployment could be the customer service.  We propose the extensive use of automated voice assistants answering customers’ simple questions and directing the complex ones to the appropriate department as well as the introduction of chatbots (computer programs that use artificial intelligence to imitate a conversation with a human-Bowman, 2024) for customer web/mobile application services.  Both tools will leverage natural language processing (NLP) i.e. speech and speech-to-text recognition, using supervised learning algorithms in particular Decision Trees (DTs)- (the technological characteristics of the envisaged algorithmic models and the trade-offs will be discussed further below).  By answering questions and completing routine tasks 24/7 (IBM, ND), the AI-solution will enable us to reorientate human resources to more strategic-wise departments as the customers’ questions will be automatically answered, whereas the more complex ones will be directed to the responsible department (follow-up on pending loan applications, complaints etc).  That way, we will optimise the customer experience and make sure we deal with the most critical ones.   Nonetheless, some customers may feel frustrated by this automated way of dealing with inquiries as the AI-solution may not be able to understand the question upfront and it may direct the phone call to the wrong department, which may result in us losing potential good customers. Or else, the chatbots’ answers may be the result of hallucination (generating false information and presenting it in a convincing way).
+
+ii) The second area of AI deployment could be credit risk analysis, scoring and loan approval.  In this case also, supervised learning algorithms (DTs) can also be used.  They will automatically evaluate the creditworthiness of potential customers based on their economic behaviour, financial data, credit history, potential cases of default using data extracted from centralised databases of the intra-banking system as well as on the income data from tax authorities, following the explicit consent of the candidate customers (individual/corporate).  Such algorithms will thus help our company with risk assessment, credit scoring and document verification and ultimately, they will help us speeding up the loan approval procedures.  However, the financing approval will be only complemented by automated AI tools, as human intervention will be necessary for the final decision (Bowman, 2024; PEX, 2024; Deloitte, ND; IBM, ND).  Given that ‘AI algorithms can analyse vast amounts of data to identify patterns and assess creditworthiness more accurately, […] this can lead to fewer loan defaults, reduced risk provisions, and improved profit margins, […] [This can] improve risk management leading to substantial cost savings through improved fraud detection and creditworthiness assessments’ (Chlouverakis, 2024).  
+On the other hand, such processing of sensitive financial data may result in ‘false positives’ and ‘false negatives’ due to algorithmic bias, data misuse, data privacy and security infringements.  For example, the algorithm may reject people from a given social, ethnic, social background (bias), offer a higher interest rate for the loan applicant or ask for a higher value security in comparison to other potential customers of the same creditworthiness level.
+
+iii) The third area of AI deployment could be the provision of proactive personalised financing services to customers by means of recommendations (investment advice/financing offers), based on customer journeys, peer interactions, risk preferences, and financial goals (Cloud.google, ND) as well as ‘customers' transaction history [and] spending habits […]. Through such personalisation, institutions can improve customer satisfaction and loyalty’ (Onestream, ND; IBM, ND).  In this case, an envisaged AI-solution could be an unsupervised learning algorithm (K-means), which would cluster potential customers with similar financial goals and income levels based on unlabelled data.  That way, we could be able to make personalised financial services recommendations in a proactive way, increasing our earnings and market share.  On the downside, such solution may pose some explainability challenges, as its inherent complexity and opacity complicate the understanding of their decision-making processes (Chlouverakis, 2024).  In addition, serious data privacy and safety issues may equally be raised with similar AI algorithms.
+As mentioned above, to facilitate current internal business and customer operations, and automatically analyse the credit risk of loan applicants (individual/corporate), we propose to make use of the Decision Tree (DT) algorithmic model.   A decision tree is a supervised machine learning model, which makes use of labelled input and datasets for output to train a model.   It consists of a root, internal nodes and leaves.  ‘The internal nodes of the tree represent a test on an attribute or subset of attributes’ (Cohen, 2021).   DTs can easily classify data and predict the outcome based on the training data, so they are widely used for data mining, in bank/finance services to check the trustworthiness of clients, in customer service, where they direct phones calls/emails to the appropriate department (sales, after-sales services, repair/feedback, payment methods).  Therefore, this model is suitable for us to deploy in the customer service department and in the credit risk analysis department.
+
+It has to be borne in mind, though, that all techniques and algorithms have their own particular strengths and weaknesses.   On the one hand, DTs are simple to understand and interpret as they can be visualised, can process both numerical and categorical data, support a certain degree of explainability contrary to the ‘black box’ of artificial neural network and they require little to no data preparation (Learn Scikit, ND).   
+
+On the other hand, DTs can become overly complex as they cannot generalise well to new data (overfitting) and even slight variations can deliver a different outcome (IBM, ND).   This is the reason why DTs are considered as unstable, in the sense that once an attribute value is modified, the result may be also modified, giving another outcome.  In our company, this may lead to ‘false negatives’ or ‘false positives’.  The repercussions could be: not convincingly answering the clients’ requests on the phone/web page (chatbox), forwarding a complaint to the wrong department, failing to identify the customer, which may lead to their frustration.  As for the credit risk analysis, the DT may give the wrong outcome as for the creditworthiness of a loan applicant.  Nevertheless, given that the final decision of the loan application will not entirely rely on the algorithm, but it will need human intervention, the repercussions of this disadvantage are deemed to be very limited.  
+
+As for the difficulty of this model to generalise well to new data, two of the methods to address this disadvantage are pre-pruning (preventing the generation of non-significant branches) or post-pruning (removing branches after generating a full decision tree) (Song, 2015).
+
+Regarding the targeting of creditworthy clients by personalising investment opportunities based on their profile, we envisage using the most common unsupervised learning model, which is clustering (detecting potentially useful clusters of input examples) and particularly the centroid model (k-means).  According to this model, ‘[e]ach one of the clusters has a centroid […], a point where the distance of the objects will be calculated.  The clusters are defined by an iterative process on the distances of the objects to calculate which are nearest to the centroid.  In unsupervised learning, the agent learns patterns in the input without any explicit feedback’ (Russel et al., 2021).
+
+Retail industry is heavily investing in analysing customer preferences, needs and buying behaviour through clustering techniques.   Such technique is also used in a lot of fields such as statistics, medicine, patterns identification etc (Suyal, 2024).  ‘Social media network analysis uses clustering to determine communities of users.  With so many users on Facebook, […], using these sorts of techniques can refine advertising so that certain ads go to specific groups of customers’ (Bell, 2020).   In addition, website logs and search results are often clustered to show more relevant search result groups, whereas clustering is also used to refine search engine queries (Bell, 2020).
+
+Through this model, we can group customers with similar income/creditworthiness ratings into clusters and proactively offer them personalised investment and financing advice/recommendations.  Potential mismatches of clusters and customers could be alleviated, as in that case also human intervention will be determining.
+
+Following the aforementioned analysis, our finance company could start deploying the envisaged AI-solutions as a pilot.  Then, we will collect experience/data from the customers and staff alike, proceed to the assessment of the economic results achieved and then potentially deploy the AI-solutions at a larger scale.  Some subsequent areas of potential AI deployment could be fraud detection and prevention, cash flow forecasting, automated reporting, regulatory compliance, investment management, invoice processing and predictive analytics.
+
+**Reference list**
+
+Britannica, (ND) Available from  https://www.britannica.com/money/finance-company [Accessed on 20 September 2024]
+
+Bell, J. (2020) Machine Learning: Hands-On for Developers and Technical Professionals. 2nd ed. Chichester: Wiley. Available from https://learning.oreilly.com/library/view/machine-learning-2nd/9781119642145/?sso_link=yes&sso_link_from=university-of-essex [Accessed on 15 September 2024]
+
+Bowman J. (20 August, 2024) How Artificial Intelligence is Used in Finance Learn how AI is transforming the financial sector Available from https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/#:~:text=AI%20is%20being%20used%20in,insurance%2C%20and%20even%20customer%20service [Accessed on 15 September 2024]
+
+Chlouverakis K. (26 April, 2024) How artificial intelligence is reshaping the financial services industry Available from https://www.ey.com/en_gr/financial-services/how-artificial-intelligence-is-reshaping-the-financial-services-industry [Accessed on 10 September 2024]
+
+Cloud. Google (ND), Available from https://cloud.google.com/discover/finance-ai 
+
+Cohen S. MD (2021) Chapter 2: The basics of machine learning: strategies and techniques, Artificial Intelligence and Deep Learning in Pathology. Available from 
+https://www.sciencedirect.com/topics/computer-science/decision-tree-algorithm [Accessed on 3 September 2024]
+
+Crumley B., (20 June, 2024), Finance Jobs Will Be Changed the Most by AI, Report Says, Available from https://www.inc.com/bruce-crumley/finance-jobs-will-be-changed-most-by-ai-report-says.html [Accessed on 19 September 2024]
+
+Deloitte (ND), How Artificial Intelligence is Transforming the Financial Services Industry Available from https://www.deloitte.com/ng/en/services/risk-advisory/services/how-artificial-intelligence-is-transforming-the-financial-services-industry.html [Accessed on 18 September 2024]
+
+Duboue, P. (2020) The Art of Feature Engineering: Essentials for Machine Learning. Cambridge: Cambridge University Press
+
+Finio M. & Downie A. (8 December, 2023), IBM What is AI in finance? Available from https://www.ibm.com/topics/artificial-intelligence-finance [Accessed on 15 September 2024] 
+IBM, (ND) Available from https://www.ibm.com/topics/decision-trees [Accessed on 4 September 2024]	
+
+McIlrath, B.J., & Kotnour, T. (2002). Process Alignment for Strategic Implementation. Industrial Engineering and Management Systems, University of Central Florida Available from https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=010f80bf420b7d623cf987e5727a0f0574867620 [Accessed on 19 September 2024]
+
+Learn Scikit (ND), Available from https://scikit-learn.org/stable/modules/tree.html [Accessed on 4 September 2024]
+
+Oti, E. et al (2021). Comprehensive Review of K-Means Clustering Algorithms. International Journal of Advances in Scientific Research and Engineering. Available from https://www.researchgate.net/publication/354547481_Comprehensive_Review_of_K-Means_Clustering_Algorithms [Accessed on 9 September 2024]
+
+Nishan, J. (26 May 2023) Mastering data clustering: Your comprehensive guide to K-means and K-means++, AI Accelerator Institute. Available from https://www.aiacceleratorinstitute.com/mastering-data-clustering-your-comprehensive-guide-to-k-means-and-k-means/ [Accessed on 9 September 2024)
+
+PEX Network (11 July, 2024) How AI is transforming financial services: Key roles and functions Available from https://www.processexcellencenetwork.com/ai/articles/ai-transforming-financial-services [Accessed on 15 September]
+
+Poree J. (23 September 2022), Nexus FrontierTex How Do I Identify Valid Use Cases for AI Within My Enterprise? Available from hhttps://nexusfrontier.tech/how-do-i-identify-valid-use-cases-for-ai-within-my-enterprise/ [Accessed on 12 September 2024]
+
+Russell, S, & Norvig, (2021), Artificial Intelligence: a Modern Approach, Global Edition, Pearson Education, Limited, Harlow. Available from: ProQuest Ebook Central. [Accessed on 19 September 2024].
+
+Suyal, M. & Sharma, S. (2024) A Review on Analysis of K-Means Clustering Machine Learning Algorithm based on Unsupervised Learning. Journal of Artificial Intelligence and Systems. Available from https://www.researchgate.net/publication/379878557_A_Review_on_Analysis_of_K-Means_Clustering_Machine_Learning_Algorithm_based_on_Unsupervised_Learning [Accessed on 8 September]
+
+Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry. 27(2):130-5. DOI: 10.11919/j.issn.1002-0829.215044
+Terence Tse et al.  (29 April, 2021) Five steps for companies to make AI pilots a success Available from https://blogs.lse.ac.uk/businessreview/2021/04/29/five-steps-for-companies-to-make-ai-pilots-a-success/ [Accessed on 14 September 2024]
+
+University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2 Infographic Transcript 
+
+Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
+
 
 ## Numerical Analysis
 
