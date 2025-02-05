@@ -25,6 +25,69 @@ The administrative reform process is a magnificent ‘journey’ full of excitem
 ## My Portfolio  
 Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
+## Understanding Artifical Intelligence
+
+### In this module, I shall:
+
+*Develop an understanding of the history and future of Artificial Intelligence. To include definition of AI, professional and ethical issues, as well as key application areas (Industry 4.0 and FinTech).
+
+*Develop an understanding of AI fundamentals including the Alan Turing Test, knowledge representation and approaches to developing learning systems.
+
+*Examine programming paradigms and algorithms for Machine Learning.
+
+*Examine the preparation data for AI solutions.
+
+*Develop programming abilities for learning algorithm implementation.
+
+### On completion of this module, I will be able to:
+
+*Understand the legal, ethical and professional issues brought up by AI and the impact of AI on society.
+
+*Understand and critically analyse the essential concepts, principles, methods, techniques and problems of AI.
+
+*Demonstrate a critical understanding of data requirements and programming paradigms applicable to AI.
+
+*Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
+
+**Discussion Topic
+Discuss why Artificial Intelligence is now ubiquitous and why it is important for companies to invest in Artificial Intelligence technologies.
+Your discussion could consider/identify:  A typical company or industry that employs AI technologies, as well as the nature of the business to set the context for the discussion.
+The economic benefits to the company or industry, and other implications of using Artificial Intelligence (AI) technology.  You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth.**
+
+**Initial Post**
+
+The customer recommendation system by Amazon, the world-leader retail online store, makes extensive use of AI-enabled tools to improve customer experience and satisfaction with a view to ultimately increasing the orders placed by users and the business revenues.  Amazon recommendations are based on the products purchased by the user in the past on the same site, their visits to the Amazon product web pages as well as to those purchased by other customers with similar interests.    
+
+The company even makes a step further by combining related products and offering a new more upgraded order option to the user.  The product combination is accompanied with a new price tag, so customers are indirectly pushed to buy both items based on data of preferences from customers with similar interests.  Amazon recommendation system has been made possible thanks to the possibility of analysing 'big data' real-time, originating from the order history and preferences of Amazon customers around the world.  According to S. Yin and O. Kaynak (2015), 'big data refers to data sets whose size is beyond the ability of typical database software tools to capture, store, manage, and analyze', whereas the same authors argue that the customer-centric experience will primarily dominate the AI-enabled tools environment.
+
+'The remarkable advances in computing power and the creation of the World Wide Web have facilitated the creation of very large data sets' (Russel, Stuart et al., 2021), which have subsequently contributed to the customisation of consumer order proposals.
+
+To what extent do you believe that the protection of the personal data of customers is infringed when Amazon is collecting their preferences and making recommendations to them? To what extent do you believe that the use of AI-enabled tools for recommendations is nudging customers to buy more and more products from the same company, leading to disloyal competition practices?
+
+**References**
+
+Russell, Stuart, and Peter Norvig. Artificial Intelligence: a Modern Approach, Global Edition, Pearson Education, Limited, 2021. ProQuest Ebook Central.  Availble from http://ebookcentral.proquest.com/lib/universityofessex-ebooks/detail.action?docID=6563568 [Accessed on 1 August 2024]
+
+S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
+
+**Summary**
+
+The customer recommendation system by Amazon makes extensive use of AI-enabled tools to improve customer experience with a view to ultimately increasing orders placed by users and business revenues.  Amazon recommendations are based on the products purchased by the user in the past on the same site, their visits to the Amazon product web pages as well as to those purchased by other customers with similar interests.    
+
+The company even makes a step further by offering a combination of products, accompanied with a new price tag, so customers are indirectly pushed to buy more items.  Amazon recommendation system has been made possible thanks to the possibility of analysing 'big data' real-time, originating from the order history and preferences of Amazon customers around the world.  This is line with what S. Yin and O. Kaynak (2015) have argued, namely that the customer-centric experience will primarily dominate the AI environment.
+
+Peers reacting to the post have expressed their concern primarily when it comes to the question of clarity/transparency of how customer data are being used and also to the frustration that such recommendation system may generate if perceived by online customers as too intrusive and (Moore et al., 2015) ‘creepy’. 
+
+It turns out that these companies have much more leverage than their customers concerning data collection and AI utilization.  This is why it is crucial that a legal/regulatory framework be adopted by governments. The EU AI Act (2024), one of the first attempts of a world regulator to put some boundaries and limits to the uncontrolled use of AI, seems to strike the right balance between innovation and safety/ethics. It allows researchers to experiment with AI tools in lab conditions, while at the same time prohibiting AI use representing an unacceptable risk.   It seems plausible that apart from the EU, other big regulators will follow suit and adopt similar measures, if they wish to continue trading with the EU Single market (the so called 'Brussels effect').
+
+**References**
+
+European Commission (2023) EU Artificial Intelligence Act, Available at https://artificialintelligenceact.eu/the-act/
+
+Moore, R.S., Moore, M.L. and Shanahan, K.J., 2015. Creepy marketing: Three dimensions of perceived excessive online privacy violation. Marketing, pp.1-10.
+
+S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
+
 ## Numerical Analysis
 
 ### In this module I shall:
