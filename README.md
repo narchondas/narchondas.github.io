@@ -94,6 +94,29 @@ To sum up, I opted for simplicity by highlighting only the most popular statemen
 
 In all the abovementioned cases, after the graphs are provided, it depends on the storyteller to frame the message they want to convey to the readers.  So, I think that the visualisation may at the end of the day help the storyteller develop a certain analysis and narrative for their research.
 
+### Collaborative Discussion 2
+**Discussion Topic 
+When dealing with statistical data, particularly for decision-making purposes, misinterpretations can be a serious issue.  For this collaborative discussion, read the Greenland et al. (2016) article from this week’s reading and reflect on these questions:  Under what situations should confidence intervals not be reported?  Why is a p-value not always enough to report?**
+
+A lower than 0.05 (5%) p-value, as we have learned in this Module, enables us to reject the null hypothesis and assume that the test hypothesis is valid.  Conversely, a p-value higher than 0.05 (5%) lead us to the conclusion that the null hypothesis cannot be rejected and so the sample differences may be attributed to chance.   
+
+In this regard, Ranstam (2012) argues that 'statistically insignificant outcome indicates nothing more than that the observed sample is too small to detect a population effect.  A statistically insignificant outcome should be interpreted as “absence of evidence, not evidence of absence”.  In other words, if a p-value is greater than the arbitrary cut-off of 5%, we lack evidence to assume that the test hypothesis is valid, but we cannot say with certainty that the null hypothesis is true.  According to Ranstam (2012), '[a] P-value provides only uncertainty information vis-a-vis a specific null hypothesis, no information on the statistical precision of an estimate.
+
+'The smaller the P value, the more unusual the data would be if every single assumption were correct; but a very small P value does not tell us which assumption is incorrect'.  'Not only does a P value not tell us whether the hypothesis targeted for testing is true or not; it says nothing specifically related to that hypothesis unless we can be completely assured that every other assumption used for its computation is correct—an assurance that is lacking in far too many studies' (Greenland et al., 2016)
+
+Sullivan & Feinn (2012) add another interesting dimension when dealing with and interpreting p-value and confidence intervals, that of the effect size.  'The effect size is the main finding of a quantitative study. While a P value can inform the reader whether an effect exists, the P value will not reveal the size of the effect.  In reporting and interpreting studies, both the substantive significance (effect size) and statistical significance (P value) are essential results to be reported. 
+
+This means that it is not enough to only report the p-value as this could be misleading and not informative as for our research.
+
+
+**Bibliography**
+
+Greenland, S., Senn, SJ., Rothman, K. J., Carlin, B., Poole, C., Goodman, N., & Altman, G. (2016) Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. European journal of epidemiology 31(4). 337–350. 
+
+Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a better alternative. Osteoarthritis and Cartilage Volume 20, Issue 8. 805-808. https://doi.org/10.1016/j.joca.2012.04.001
+
+Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
+
 ## Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
