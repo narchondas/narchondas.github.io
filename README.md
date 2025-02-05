@@ -49,6 +49,29 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 
 *Critically appraise and present results of a statistical analysis to a diverse audience.
 
+### Collaborative Discussion 1
+**Imagine you have submitted a paper for publication (see Brown, 1994 in this week’s reading list). The editor has returned his comments saying that he is willing to accept the paper for publication on condition that Table 2 (see Brown, 1994) is changed. He feels that ‘it is difficult for the reader to understand, contains too much information and is too large.’  You now have to redo the table 2 and present some of the findings using plots and present your results in the forum. Reflect also upon your experiences of undertaking this task and what you have learnt.**
+
+Let me open this discussion forum with my experience when dealing with the activity of Unit 5 and in particular with the Table 2 of the article.  
+
+Table 2 is quite informative as to the opinions of the general practitioners in Nottinghamshire on intrapartum care.  However, it is too cumbersome to read and not so easy to understand.  My approach would be quite different.  Let me describe to you how I reflected on this.  
+
+Table 2 refers to 24 statements to which general practitioners have expressed their agreement/disagreement/no opinion.  At first, I thought it would be a good idea to take those statements with a rate of approval above 50% to showcase the findings of the research.  However, the statements which had got above the threshold of 50% were 11, so it would not make much difference for the visualisation of the data.  
+
+Then, I chose the statements which equal to or go above 75% of the approval.  I found that 5 statements had got this percentage.   To illustrate the 5 most common opinions, I chose the horizontal bar chart (please see below) as I think it better highlights the message of the research.  Nevertheless, for the sake of the research I would put the existing Table 2 in the annex, so a more interested reader might be able to find more information.
+
+![image](https://github.com/user-attachments/assets/a92d0780-6d7c-4852-bcde-b45de2d0f9d4)
+
+
+In addition, I would also choose a couple of statements which did not get the threshold of 75% but they are quite popular among practitioners and would try to make my point by illustrating the whole spectrum of responses (Agree/Disagree/No opinion).  For example, I would take the statement on the fear of litigation and make a 'doughnut' (please see below) to highlight that only 20% of the practitioners seemed not to be afraid of litigation.  
+
+![image](https://github.com/user-attachments/assets/d742e33a-0d40-4cc5-aef3-73009221e99e)
+
+
+In brief, to better highlight my arguments, I would choose the most popular statements and create a graph (preferably a bar chart or a pie chart).  I think that for the abovementioned case boxplots, scatter plots, line graphs etc would not be suitable.  
+
+I would also choose a couple of interesting statements that I would like to refer to in my analysis and try to present the percentages of Agree/Disagree/No opinion, using a pie chart/doughnut.  I would go for the simplicity as the simplest plots/graphs seem to be effective in conveying the message and are easy-to understand for the reader.
+
 
 ## Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
