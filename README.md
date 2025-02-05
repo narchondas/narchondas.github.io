@@ -62,7 +62,7 @@ Given that AI use seems to be an irreversible trend which, will, beyond any doub
 
 As for my personal expectations after completing the course, I would like to seek a job in the EC’s AI Office, which has already been created following the implementation of the AI act in 2024. That way I will be able not only to effectively monitor and oversee the implementation of the AI act but also to suggest practical solutions, recommendations and tools for the upcoming challenges from the wider use of AI, the ultimate objective being that EU delivers more evidence-informed legislative proposals and policies.
 
- 
+
 **List of References**
 
 Deloitte. (2018) The Fourth Industrial Revolution is here-are you ready?. Available from https://www2.deloitte.com/content/dam/Deloitte/tr/Documents/manufacturing/Industry4-0_Are-you-ready_Report.pdf [Accessed 19 July 2024].
