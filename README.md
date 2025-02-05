@@ -117,7 +117,7 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
-**End of Module 2 Assessment: Individual Reflection**
+### End of Module 2 Assessment: Individual Reflection
 **Assignment topic**
 
 **This assessment focuses on your reflections on the skill and knowledge gained from the module. Please note that your reflections are not seen by other students, so you are free to discuss what is relevant to your learning and the processes you have gone through. Your reflection should address the following: Reflect in your data analysis skill and statistical knowledge and discuss how confident you are using R for statistical data analysis. Mention any challenges you faced.  Reflect upon your experience of interpreting statistical findings using p-value and confidence interval.  Also reflect upon on producing summary tables, contingency tables and producing plots using R.**
