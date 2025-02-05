@@ -236,6 +236,117 @@ University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2
 Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
 
 
+### Artificial Intelligence (AI) Solution Implementation
+**Assignment Details
+You are required to carry out an experiment using the WEKA software tool and the appropriate dataset available at UCI or Kaggle. You will need to demonstrate to the senior management of the start-up company discussed in Unit 9, the feasibility of the AI technology deployment in at least one of the key areas you identified in your Unit 9 report. It does not have to be an exact solution, but you must demonstrate the application of the idea and how the approach and methods of the experiment can be transferred.**
+
+**Implementation report**
+
+I. Business context
+
+Following the previous report of the IT department concerning the need for our start-up finance company to embrace Artificial Intelligence (AI) enabled tools in its operations, with this implementation report, we would like to demonstrate the feasibility of AI deployment, which will aim to enhance our competitiveness and improve our market share.  
+As previously discussed, there is a pressing need for our company to endorse a series of AI-enabled tools concerning three key areas: i) day-to-day business/customer operations (forwarding phone calls/emails to the competent department, smooth handling of complaints) ii) automatic credit risk analysis, scoring and loan approval and finally iii) proactive targeting of customers based on their profile through personalised recommendations for financial products/services.  To better illustrate the case for the feasibility of the AI-deployment, my department has explored how we could deploy AI-solutions in one of the aforementioned key areas, namely the credit risk analysis for loan applicants.   As already stressed, for this key area we propose making use of supervised learning methods and, in particular, of Decision Tree (DT) algorithms.   Our concept project has benefited from the CRISP-DM process model (Cross-Industry Standard Process for Data Mining) and its process model descriptions: a. business understanding, b. data understanding, c. data preparation, d. modelling, e. evaluation and f. deployment (Schröer et al., 2021).
+
+II. Justification of the dataset choice 
+
+To analyse the credit risk/scoring of loan applicants and find out what type of data is required for the final decision to grant/reject a loan application, we have primarily based our proposal on the domain knowledge of colleagues working in the department responsible for processing loan applications.  The datasets, which are valuable for the ‘manual’ processing and could be used to feed in the algorithmic model, in order to predict the credit risk of loan applicants, are the following: corporate/individual loan applicant status, gender, marital status, education, turnover for companies/yearly income for individuals, property value, default cases in the past, cases of delay in paying back instalments, level of securities, the purpose of the loan (service/investment/goods), the level of yearly tax returns, the level of existing private debts or of debts to the state authorities as well as pending mortgage/credit card debts.  
+
+Some of this data could be filled in on our company software application by the loan applicants themselves, whereas the most crucial ones, following their consent, could be retrieved, via interoperability methods, from the intra-banking system and the tax authorities’ databases.  We cannot now argue that all the above datasets will be required for our envisaged model, however, all dataset categories add information in the loan application procedure.  After having applied the model and evaluated its results, we will be better placed to decide which of the data will be absolutely required.
+
+The above process of selecting the appropriate datasets constitutes a part of feature engineering, ‘which include feature selection and extraction to reduce data dimensionality and eliminate redundancy and noise’ (Wang et al., 2021).  Choosing the appropriate subset of attributes means optimally reducing the volume of the existing data, according to the defined criteria set already by the responsible department (knowledge-based selection).  The primary purpose of such selection is to enhance the accuracy of the model prediction by discarding characteristics with little impact and by retaining at the same time the characteristics having an added value (Wang et al., 2021).  
+
+
+III. Justification of the approach to developing the prediction model
+
+Given that the factors of creditworthiness are already known by the company experts, we proposed for this AI-solution the use of the supervised learning method.  The model, which will be fed in by a number of attribute values with an information gain, is expected to result to two main prediction outcomes: 
+
+i)	cases of loan applicants with a high level of creditworthiness, where the model will advise in favour of the loan approval (Class: Yes) and 
+ii)	cases of loan applicants with a dubious creditworthiness level, where the model will advise against granting a loan (Class: No).  
+
+There might also be cases somewhere in the middle of these extremes, where loan applicants may have experienced some minor financial problems in the past, which do not make them qualify to the creditworthy customers, so further research/cross-checking should follow before the final decision is made (loan approval/rejection).   
+
+Nevertheless, according to our project, the envisaged AI-solution will only augment human capacity, because human intervention will continue being necessary for loan approval or rejection (Bowman, 2024; PEX, 2024; Deloitte, ND; IBM, ND).  As explained in our initial report, given that ‘AI algorithms can analyse vast amounts of data to identify patterns and assess creditworthiness more accurately, […] this can lead to fewer loan defaults, reduced risk provisions, and improved profit margins, […] (Chlouverakis, 2024).  
+
+Our AI-model will be further tested/evaluated so that ‘false positives/FP’ and ‘false negatives/FN’, due to algorithmic bias, data misuse, data privacy and security infringements, are avoided to the extent possible.  To give you an example of algorithmic bias, people from a given social, ethnic, social background may be biased, offered a higher interest rate for the loan applicant or asked for a higher value security in comparison to other potential customers of the same creditworthiness level (Archontas, 2024).  To improve our competitiveness and market share, we must avoid cases of FP as much as possible, while the existence of FN is less problematic, as these instances will be further examined by the responsible department (Specificity/accuracy indicator). Granting loans to FPs will jeopardise our survival and will have an adverse effect on the company assets’ value.
+
+IV. Rationale for the machine learning algorithms used
+
+We propose to make use of the Decision Tree (DT) algorithmic model, which constitutes a straightforward, easy-to-see and interpret algorithm of supervised learning with a high degree of explicability and replicability.  A DT uses labelled input and datasets for output to train a model and consists of a root, internal nodes and leaves.  ‘The internal nodes of the tree represent a test on an attribute or subset of attributes’ (Cohen, 2021).   DTs can easily classify data and predict the outcome based on the training data; this is why the model is suitable for us to deploy for the credit risk analysis/scoring/loan approval.
+
+In the initial report, we pointed out that DTs are simple to understand as they can be visualised, can process numerical/categorical data, may support a certain degree of explainability contrary to the ‘black box’ of artificial neural network and they require little to no data preparation (Learn Scikit, ND).   While DTs for credit risk analysis may be effective and efficient, we have to take into account that DTs can become overly complex as they cannot generalise well to new data (overfitting) and even slight variations can deliver a different outcome (IBM, ND).   This is the reason why DTs are considered as unstable, in the sense that once an attribute value is modified, the outcome may be also modified.  
+To illustrate our AI-solution proposal, we used open data with similar characteristics to our business available on Kaggle.  More concretely, we used the data file Credit_risk_customers (file in .csv format https://www.kaggle.com/datasets/ppb00x/credit-risk-customers )
+
+This dataset consists of 20 features of 1 000 customers/instances and could be used to predict if the loan applicant could be given credit (good/bad credit risk).  The 20 features/attributes of the file are the following: checking status, duration, credit history, purpose, credit amount, savings status, employment, instalment commitment, personal status, other parties, residence since, property magnitude, age, other payment plans, housing, existing credits, job, number of dependents, own telephone, foreign worker, class.
+
+For the sake of our pilot project run in a testing environment, we selected 9 features, which are significant from the domain knowledge point of view and subsequently removed/discarded the remaining ones, as we considered that they do not provide much added value.  After discarding the redundant features, we kept the initial 1 000 instances with 10 features (9 attributes and 1 class): checking status, duration, credit history, credit amount, savings status, employment, other payment plans, housing, existing credits, class/outcome.
+
+V. Analysis of the outputs
+
+For our analysis, we used the WEKA tool and deployed the Classification functionality, the Decision Tree and the J48 algorithmic model (Annex).  Significant tests were carried out to examine the performance differences between the prediction models.  We performed six (J48) experiments and tested their validity and accuracy with different WEKA parameters: 
+
+i)	unpruned vs. pruned tree, 
+ii)	cross-validation 10-20, 
+iii)	minNumObj 2-10 
+iv)	tree visualisation 
+(screenshots of the six model experiments can be found in the Annex)
+
+A.	unpruned tree, cross-validation 10, minNumObj2
+B.	unpruned tree, cross-validation 20, minNumObj2
+C.	pruned tree, cross-validation 10, minNumObj2
+D.	pruned tree, cross-validation 20, minNumObj2
+E.	pruned tree, cross-validation 10, minNumObj 10
+F.	pruned tree, cross-validation 20, minNumObj 10
+
+Our assumption is that DTs should have limited number of leaves, so the visualisation is facilitated.  If this is not the case due to multiple features, we tried tree pruning.  
+
+1. The model of unpruned tree with cross validation 10 and minNumObj2 produced an unpruned tree with 218 leaves (313 size of tree), with a percentage of 70.4% correctly classified instances vs. 29.6% of incorrectly classified instances.  The tree visualisation seems unmanageable and not clear enough.
+2.The model of unpruned tree with cross validation 20 and minNumObj 2, produced an unpruned tree with 218 leaves (313 size of tree) and classified correctly 70.5% of the instances vs. 29.5% of incorrectly classified instances.  The tree visualisation seems again unmanageable and not clear enough.
+3. The model of pruned tree with cross-validation 10 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree) and 72.8% correctly classified instances vs. 27.2% incorrectly classified instances. Tree visualisation is improved, but it remains unclear.
+4. The model of pruned tree with cross-validation 20 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree), and 74.2% correctly classified instances vs. 25.8% incorrectly classified instances.  Although accuracy reaches the highest level out of the six experiments, nevertheless, the tree visualisation is not straightforward and does not help.
+5. The model of pruned tree with cross-validation 10 and minNumObj 10 produced a pruned tree with 17 leaves (24 size of tree) and 73.4% of correctly classified instances vs. 26.6% of incorrectly classified instances.  The tree visualisation seems improved and can be easily consulted.
+6. The model of pruned tree with cross-validation 20 and minNumObj 10, produced a pruned tree with 17 leaves (24 size of tree) and 74% of correctly classified instances vs. 26% incorrectly classified instances.  The tree visualisation is straightforward, and the accuracy level is quite high (74%), although not as high as the model experiment 4 (74.2%).  However, given the simplicity of the tree and the particularly high level of accuracy in detecting correctly classified instances, we suggest adopting this model algorithm.  
+Due to the imbalance of the instances, we applied SMOTE (Synthetic Minority Oversampling Technique)/Randomise filters (see the results in the Annex, pp. 22-25).
+
+VI. Demonstration that the application of the approach/methods can be applied to the identified problem 
+
+As Foody (2023) pointed out, it is of utmost importance for the classification quality to what extent the model predictions are accurate.  The term ‘classification accuracy’ denotes the amount of error included in the dataset and shows if the classification model is effective for a particular case.  ‘The error can be calculated by comparing the classifier’s labels with reality.  In practice, the labels predicted by the classifier are compared against those obtained from a reference standard’. 
+If the accuracy does not reach a sufficient level, this might constitute the rationale for further fine-tuning the parameters and enhancing the classifier model.  If the accuracy level remains low, we are obliged to discard the classifier model and choose another one which performs better (Foody, 2023).  This is why we tested six models and found out, following fine-tuning of the parameters of the J48 model (WEKA tool), that the best prediction outcomes and tree visualisation are produced by the model 6.  
+ 
+When making use of the CRISP-DM process model and in particular when performing the modelling, the evaluation and deployment phases of the envisaged AI-solution, we must avoid a high rate of False Positives (FP) to prevent our finance company from granting loans to non-creditworthy loan applicants.  On the other hand, it is in our company best interest to seek a high rate of True Negatives (TN), cases that were classed as negative and also have a negative label in the reference data.  The determining factor for choosing the appropriate model algorithm should be ‘inverse recall’/‘specificity’.  This term defines the proportion of real negative cases that are correctly predicted negative (True Negative Rate/tnr) (Powers, 2007).
+ 
+Figure 1 (Powers, 2007)
+Having said the above, a bigger sample size will be required to further update and evaluate the suggested model, given that, for experiment purposes, we used datasets from the Kaggle repository and not our own.  We believe that with further development and validation, our prediction modelling algorithm will enable us to successfully analyse the credit risk of loan applicants and therefore to support and speed up the loan approval process.
+ 
+**References**
+Archontas N. (2024), Artificial Intelligence and its applications, Individual Essay, Module 1, Understanding Artificial Intelligence, UoEO
+
+Bowman J. (20 August, 2024) How Artificial Intelligence is Used in Finance Learn how AI is transforming the financial sector Available from https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-finance/#:~:text=AI%20is%20being%20used%20in,insurance%2C%20and%20even%20customer%20service [Accessed on 15 September 2024]
+
+Chlouverakis K. (26 April, 2024) How artificial intelligence is reshaping the financial services industry Available from https://www.ey.com/en_gr/financial-services/how-artificial-intelligence-is-reshaping-the-financial-services-industry [Accessed on 10 September 2024]
+
+Cohen S. MD (2021) Chapter 2: The basics of machine learning: strategies and techniques, Artificial Intelligence and Deep Learning in Pathology. Available from https://www.sciencedirect.com/topics/computer-science/decision-tree-algorithm [Accessed on 3 September 2024]
+
+Deloitte (ND), How Artificial Intelligence is Transforming the Financial Services Industry Available from https://www.deloitte.com/ng/en/services/risk-advisory/services/how-artificial-intelligence-is-transforming-the-financial-services-industry.html [Accessed on 18 September 2024]
+
+Foody, G. M. & Huang, S. (2023) Challenges in the real world use of classification accuracy metrics: From recall and precision to the Matthews correlation coefficient. PloS one 18 (10): e0291908–e0291908. Available from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291908 [Accessed on 5 October 2024]
+
+IBM, (ND) Available from https://www.ibm.com/topics/decision-trees [Accessed on 4 September 2024]	
+
+Learn Scikit (ND), Available from https://scikit-learn.org/stable/modules/tree.html [Accessed on 4 September 2024]
+
+PEX Network (11 July, 2024) How AI is transforming financial services: Key roles and functions Available from https://www.processexcellencenetwork.com/ai/articles/ai-transforming-financial-services [Accessed on 15 September]
+
+Powers, D.M.W. (2007), Evaluation: from precision, recall and F-measure to ROC, Informedness, Markedness & Correlation, *AILab, School of Computer Science, Engineering and Mathematics, Flinders University, South Australia, Australia Available from https://www.researchgate.net/publication/228529307_Evaluation_From_Precision_Recall_and_F-Factor_to_ROC_Informedness_Markedness_Correlation [Accessed on 10 October 2024]
+
+Schröer, C., Kruse, F. & Gomez, J.M. (2021) A Systematic Literature Review on Applying CRISP-DM Process Model. Procedia computer science. 181526–534. Available from https://www.sciencedirect.com/science/article/pii/S1877050921002416?via%3Dihub [Accessed on 5 October 2024]
+
+Wang, Z., Xia, L., Yuan, H., Srinivasan, R.S. & Song, X. (2022) Principles, research status, and prospects of feature engineering for data-driven building energy prediction: A comprehensive review. Journal of Building Engineering. 58105028.
+
+WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://www.waikato.ac.nz/int/research/institutes-centres-entities/institutes/artificial-intelligence-institute/research/software/
+
+
+
+
 ## Numerical Analysis
 
 ### In this module I shall:
