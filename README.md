@@ -52,6 +52,8 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 ### Collaborative Discussion 1
 **Imagine you have submitted a paper for publication (see Brown, 1994 in this week’s reading list). The editor has returned his comments saying that he is willing to accept the paper for publication on condition that Table 2 (see Brown, 1994) is changed. He feels that ‘it is difficult for the reader to understand, contains too much information and is too large.’  You now have to redo the table 2 and present some of the findings using plots and present your results in the forum. Reflect also upon your experiences of undertaking this task and what you have learnt.**
 
+**Initial Post**
+
 Let me open this discussion forum with my experience when dealing with the activity of Unit 5 and in particular with the Table 2 of the article.  
 
 Table 2 is quite informative as to the opinions of the general practitioners in Nottinghamshire on intrapartum care.  However, it is too cumbersome to read and not so easy to understand.  My approach would be quite different.  Let me describe to you how I reflected on this.  
@@ -72,6 +74,25 @@ In brief, to better highlight my arguments, I would choose the most popular stat
 
 I would also choose a couple of interesting statements that I would like to refer to in my analysis and try to present the percentages of Agree/Disagree/No opinion, using a pie chart/doughnut.  I would go for the simplicity as the simplest plots/graphs seem to be effective in conveying the message and are easy-to understand for the reader.
 
+**Summary Post**
+
+To provide a good visualisation of the Table 2, I took a different approach from the one taken by the authors of the article.  As Table 2 refers to 24 statements to which general practitioners have expressed their agreement/disagreement/no opinion, I thought it would be a good idea to take only those statements with a rate of approval above 75% to better showcase the findings of the research.   
+
+I found that 5 statements had got this percentage.   To illustrate the 5 most common opinions, I chose the horizontal bar chart as I think it better highlights the message of the research.  Nevertheless, for the sake of the research I would put the existing Table 2 in the annex, so a more interested reader might be able to find more information.
+
+In addition, I would also choose a couple of statements which did not get the threshold of 75% but they are quite popular among practitioners and would try to make my point by illustrating the whole spectrum of responses (Agree/Disagree/No opinion).  For example, I would take the statement on the fear of litigation and make a 'doughnut' to highlight that only 20% of the practitioners seemed not to be afraid of litigation.  
+
+In brief, to better highlight my arguments, I would choose the most popular statements and create a graph (preferably a bar chart or a pie chart).  I think that for the abovementioned case boxplots, scatter plots, line graphs etc would not be suitable.  
+
+I would also choose a couple of interesting statements that I would like to refer to in my analysis and try to present the percentages of Agree/Disagree/No opinion, using a pie chart/doughnut.  I would go for the simplicity as the simplest plots/graphs seem to be effective in conveying the message and are easy-to understand for the reader.
+
+My peers with whom I had the opportunity to exchange some ideas tested different methods equally valid and effective.  In brief, Elias opted for using AI-enabled tools to make a very easy to read graph which was quite nice to see.  As for Jaco, I particularly liked the approach of keeping the 'No opinion' option in the graph as according to him, this piece of information is quite worth telling.  For example, if practitioners overwhelmingly decline to answer a question, then the researcher has to understand the reason behind this behaviour.  So, both methods developed by my two peers are worth keeping in mind.  
+
+As for the inclusion or not of the ‘No opinion’ answers when calculating the percentages, some researchers opt for discarding them and choose to measure only the valid ones ‘Agree’ and ‘Disagree’.  Nevertheless, there are some others who prefer to give a full account of the 'Agree', 'Disagree' and No opinion' answer options and they calculate the percentage of all these options.  In my opinion, both approaches can be used depending on the findings of the research and on whether we wish to give a detailed or less detailed account of the data we have collected.
+
+To sum up, I opted for simplicity by highlighting only the most popular statements and by putting the whole table with all the details in an annex.  Another method was to provide very descriptive graph with vivid colours to highlight the differences of popularity among practitioners of the 24 statements.  Last but not least, it could be another option to focus on the 'Agree' rate and the rate of the 'No opinion' as this aspect could be very informative for our understanding of the research findings.  
+
+In all the abovementioned cases, after the graphs are provided, it depends on the storyteller to frame the message they want to convey to the readers.  So, I think that the visualisation may at the end of the day help the storyteller develop a certain analysis and narrative for their research.
 
 ## Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
