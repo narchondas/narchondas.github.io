@@ -117,6 +117,45 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
+**End of Module 2 Assessment: Individual Reflection**
+**Assignment topic
+This assessment focuses on your reflections on the skill and knowledge gained from the module. Please note that your reflections are not seen by other students, so you are free to discuss what is relevant to your learning and the processes you have gone through. Your reflection should address the following: Reflect in your data analysis skill and statistical knowledge and discuss how confident you are using R for statistical data analysis. Mention any challenges you faced.  Reflect upon your experience of interpreting statistical findings using p-value and confidence interval.  Also reflect upon on producing summary tables, contingency tables and producing plots using R.**
+
+The Numerical Analysis module is part of the MSc programme, I am following at the University of Essex Online, in the field of Artificial Intelligence.   The aim of this module is for postgraduate students to: ‘a) develop a systematic understanding of foundational mathematical principles and methods, b) facilitate their ability to interpret the results generated when using data science and AI tools, c) critically evaluate the use of statistical analysis and the numeric interpretation of results as aids in the decision-making process and d) critically appraise and present results of a statistical analysis to a diverse audience’ (UoEO Module Home, n.d.).  A prominent role in achieving these objectives plays the familiarisation of the postgraduate student with the RStudio, which makes statistical data analysis and representation of analysis results (plots, graphs) of large datasets much easier and faster.
+
+For this individual reflection, I will make use of mainly two reflective models: 
+a) ‘What? So What? Now what?’ (experience, implication of the situation and action plan) (Driscol, 1994 and Rolfe et al., 2001) and 
+b) the Gibbs’ reflective Cycle (description, feelings, evaluation, analysis, conclusion, action plan) (UoEO Short Guide to Reflective Writing, n.d. and The University of Edinburgh Reflection Toolkit, n.d.).  
+
+According to the structure of the module, mathematical concepts and foundations of statistical data analysis were first presented on the learning platform either via lecturecasts, unit notes, or reading lists.  Further, we were tasked to perform RStudio commands to get a certain given result (by following the recommended material instructions).  Then, we were supposed to perform several formative tasks and data activities, to familiarise ourselves with the software and learn how to formulate commands (coding process) and get data analysis results by ‘trial and error’.
+Given that I do not come from a STEM background myself, having to deal with mathematical concepts and statistical foundations was quite overwhelming for me, not to say a daunting task.  However, I was aware that some basic concepts of statistical analysis would be very helpful for me to advance with the following modules in the Artificial Intelligence programme.  What I have learned in this module, I believe will largely help me interpret statistical analysis results (assessing the p-value, the Confidence Interval (CI), the correlation co-efficient etc), be critical about the robustness of the findings and evaluate the usefulness of the statistical results as aids to decision-making process.
+
+I enjoyed the first introductory units of the module very much, where basic mathematical and statistical concepts were effectively explained such as mean/median, minimum/maximum/range, variance/standard deviation, the difference between descriptive and inferential statistics etc.  In this effort of mine, my principal ally was the unit notes, the recommended reading lists, the seminar sessions and the activities we were asked to perform later.  The pace of the learning was normal, at least in the first half of the module, but it acquired much greater difficulty towards the end.  
+
+In the last units, it has to be borne in mind that the lecturecasts were very difficult to understand, as they were intended for a more expert audience or at least to those who were already knowledgeable.  This is why I got to watch them again and again and, in particular, after having read the recommended bibliography, watched YouTube videos and visited informative websites on statistics and RStudio (Annex).   I was quite determined to get a grasp of all items to be covered in the module, so I made use of every available reliable source apart from the module material (Annex).  I also exchanged a series of emails with my tutor who kindly gave me feedback on the commands I had performed on RStudio and some hints when I needed some extra help.  
+Another formative activity that also contributed to my learning process was engaging in a discussion with my peers (Collaborative discussions 1 & 2). Even though, due to the non-mandatory nature of the activity, not all peers contributed to the discussion, I exchanged valuable opinions with those who participated.  Having to draft a post and respond to the comments of the peers, made me read other material than that offered in the module, from the University of Essex online library and the Google Scholar.  Writing a post in a collaborative discussion forum may be work-intensive, as each postgraduate student is keen to share an impactful contribution, which will generate interest (Annex).
+
+Nevertheless, the trickiest part for my learning process was performing commands and getting statistical results on RStudio.  This seemed to me quite frustrating at some point, as the absence of a bracket ‘()’ or the superfluous addition of a character made the software giving an ‘error’.  In many cases, it was not clear to me where the error was lying.  This is why I had to repeat many times the commands, making sure that all components were included, ask guidance from my tutor, and seek help from reliable YouTube videos and websites.  After having completed the module, I now feel much more confident with at least the basic commands of the software such as performing basic arithmetic, converting variables, and managing missing variables, developing graphs and plots, creating sub samples, performing statistical analysis using a null or alternative hypothesis, taking a decision based on p-value and statistical significance and running normality tests, correlations tests, and regression analysis.
+
+Familiarising myself with RStudio and statistical analysis made me realise how important it is to be able to understand if the result I get is statistically significant, if I can reject the null hypothesis and accept the alternative one (when the p-value is lower than 0.05), how to interpret the Confidence Interval etc  This will help me get an insight into whether the statistical analysis I read is reliable or not, so I can make an evidence-informed decision.  I am sure that the valuable knowledge gained in this module will help me understand better how the Artificial Intelligence is working as well as its potential and opportunities but also its risks and implications in our lives.
+
+To conclude, I got to understand how important it is to learn by experience and by ‘trial and error’, especially when having to learn mathematical and statistical analysis concepts and perform RStudio commands.  While the feeling of frustration when you do not get the desired result or when you find it difficult to grasp a certain concept is overwhelming, on the other hand, it is equally rewarding when you are patient, read very carefully the material, ask the tutor for guidance, follow the seminar sessions, watch YouTube videos, seek other reliable sources and finally when you deepen your knowledge and reach the desired objective.
+ 
+**List of References**
+
+Driscoll J. (1994). Reflective practice for practise. Senior Nurse, 13, 47 -50
+
+Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan 
+
+The University of Edinburgh (n.d.). Reflection Toolkit. Available from https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience [Accessed on 9 January 2025]
+
+UoEO (n.d.). Numerical Analysis October 2024, Module Home Available from https://www.my-course.co.uk/course/view.php?id=12569&section=0 [Accessed on 12 January 2025]
+
+UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to reflective writing.pdf [Accessed on 9 January]
+
+UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 6 January]
+
+
 ## Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
