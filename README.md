@@ -50,6 +50,10 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 ### Collaborative Discussion 1
 
+### Instructions
+*Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.
+*Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.
+
 ‘System failure is a system that fails to develop or does so in a stunted fashion’ (Carlsson and Jacobsson ,1997 in Bergek et al., 2008).   The first six months of 2018, the national IT systems across the NHS in Wales experienced such system failures as a total of 21 outages took place resulting in various disruptions for GPs, health care staff and patients (Postelnicu, 2018).   
 
 These IT system failures in the Welsh NHS affected appointments, prescriptions and in general the health care provision as the professionals were unable to access electronic patients records for several hours (Donnely, 2018).   Moreover, patients could not book or re-book or cancel their appointments, nor be given test results, whereas GPs could not have access to blood and X-Ray results (BBC, 2018).  Dr Peter Saul, of the Royal College of GPs in Wales, said: "Today, IT systems are as critical to clinicians as stethoscopes and scanners. Data outages can be extraordinarily disruptive for practices and for patients’ (Geraint, 2018).
