@@ -46,6 +46,7 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 *Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 ### Induction Assignement
+
 **Discuss the importance of a postgraduate degree in the Computer Science field.**
 
 The education programme I am undertaking at the University of Essex Online is the MSc in Artificial Intelligence.  Even though I come from a non-STEM background, thanks to my professional experience, I came to realise how important ICT advancements are for most of the industries and the public sector, in general.   The Artificial Intelligence (AI) is at present continuously being tested and used in a variety of industries.  For example, Netflix produces hundreds of millions of film recommendations every day to subscribers, Amazon makes instant book/product suggestions depending on the search results and orders we have proceeded to.  Thanks to the strong computational power and the possibility to rapidly analyse datasets, AI is also helping to timely detect medical diseases and facilitate citizens to electronically submit documents in the public authorities by means of chatbots. 
@@ -97,8 +98,10 @@ Hern A. & Milmo D. (February 24, 2023) Everything you wanted to know about AI �
 *Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
 ### Collaborative Discussion 1
-**Discussion Topic
-Discuss why Artificial Intelligence is now ubiquitous and why it is important for companies to invest in Artificial Intelligence technologies.
+
+**Discussion Topic**
+
+**Discuss why Artificial Intelligence is now ubiquitous and why it is important for companies to invest in Artificial Intelligence technologies.
 Your discussion could consider/identify:  A typical company or industry that employs AI technologies, as well as the nature of the business to set the context for the discussion.
 The economic benefits to the company or industry, and other implications of using Artificial Intelligence (AI) technology.  You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth.**
 
@@ -138,8 +141,9 @@ S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Poin
 
 ### Collaborative Discussion 2
 
-**Discussion Topic
-Identify and discuss two machine learning algorithms and the context in which they can be employed. Your discussion could consider:  Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution?  The strengths and weaknesses of this approach to learning.
+**Discussion Topic**
+
+**Identify and discuss two machine learning algorithms and the context in which they can be employed. Your discussion could consider:  Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution?  The strengths and weaknesses of this approach to learning.
 You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth.**
 
 **Initial Post**
@@ -203,8 +207,10 @@ Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classificatio
 Wang, T., Qin, Z., Jin, Z. and Zhang, S., 2010. Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning. Journal of Systems and Software, 83(7), pp.1137-1147.
 
 ### Individual Essay: Artificial Intelligence and its Applications
-**Assignment Details
-A local start-up finance company is vaguely aware of AI and the potential benefits, as well as the harms that these technologies can cause to society. This has caused the Senior Management of the company to have some reservations about AI. As an Artificial Intelligence consultant, you are to present a report to persuade the management of the company to accept your idea to employ AI technologies to improve business processes for competitiveness.  Your report should identify three key areas to which the company could apply AI technologies to facilitate its operations and increase their return on investment. The report should also consider data needed, as well as the sort of approach that will be required to develop an AI system.**
+
+**Assignment Details**
+
+**A local start-up finance company is vaguely aware of AI and the potential benefits, as well as the harms that these technologies can cause to society. This has caused the Senior Management of the company to have some reservations about AI. As an Artificial Intelligence consultant, you are to present a report to persuade the management of the company to accept your idea to employ AI technologies to improve business processes for competitiveness.  Your report should identify three key areas to which the company could apply AI technologies to facilitate its operations and increase their return on investment. The report should also consider data needed, as well as the sort of approach that will be required to develop an AI system.**
 
 **How to tap into the AI potential and further boost our competitiveness** 
 
@@ -284,8 +290,9 @@ Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from 
 
 
 ### Artificial Intelligence (AI) Solution Implementation
-**Assignment Details
-You are required to carry out an experiment using the WEKA software tool and the appropriate dataset available at UCI or Kaggle. You will need to demonstrate to the senior management of the start-up company discussed in Unit 9, the feasibility of the AI technology deployment in at least one of the key areas you identified in your Unit 9 report. It does not have to be an exact solution, but you must demonstrate the application of the idea and how the approach and methods of the experiment can be transferred.**
+
+**Assignment Details**
+**You are required to carry out an experiment using the WEKA software tool and the appropriate dataset available at UCI or Kaggle. You will need to demonstrate to the senior management of the start-up company discussed in Unit 9, the feasibility of the AI technology deployment in at least one of the key areas you identified in your Unit 9 report. It does not have to be an exact solution, but you must demonstrate the application of the idea and how the approach and methods of the experiment can be transferred.**
 
 **Implementation report**
 
@@ -395,8 +402,6 @@ Schröer, C., Kruse, F. & Gomez, J.M. (2021) A Systematic Literature Review on A
 Wang, Z., Xia, L., Yuan, H., Srinivasan, R.S. & Song, X. (2022) Principles, research status, and prospects of feature engineering for data-driven building energy prediction: A comprehensive review. Journal of Building Engineering. 58105028.
 
 WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://www.waikato.ac.nz/int/research/institutes-centres-entities/institutes/artificial-intelligence-institute/research/software/
-
-
 
 
 ## Numerical Analysis
