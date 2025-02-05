@@ -156,6 +156,8 @@ Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classificatio
 Wang, T., Qin, Z., Jin, Z. and Zhang, S., 2010. Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning. Journal of Systems and Software, 83(7), pp.1137-1147.
 
 ### Individual Essay: Artificial Intelligence and its Applications
+**Assignment Details
+A local start-up finance company is vaguely aware of AI and the potential benefits, as well as the harms that these technologies can cause to society. This has caused the Senior Management of the company to have some reservations about AI. As an Artificial Intelligence consultant, you are to present a report to persuade the management of the company to accept your idea to employ AI technologies to improve business processes for competitiveness.  Your report should identify three key areas to which the company could apply AI technologies to facilitate its operations and increase their return on investment. The report should also consider data needed, as well as the sort of approach that will be required to develop an AI system.**
 
 **How to tap into the AI potential and further boost our competitiveness** 
 
