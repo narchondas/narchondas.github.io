@@ -320,6 +320,7 @@ When making use of the CRISP-DM process model and in particular when performing 
 
 Having said the above, a bigger sample size will be required to further update and evaluate the suggested model, given that, for experiment purposes, we used datasets from the Kaggle repository and not our own.  We believe that with further development and validation, our prediction modelling algorithm will enable us to successfully analyse the credit risk of loan applicants and therefore to support and speed up the loan approval process.
  
+
 **References**
 
 Archontas N. (2024), Artificial Intelligence and its applications, Individual Essay, Module 1, Understanding Artificial Intelligence, UoEO
