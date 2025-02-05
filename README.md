@@ -321,6 +321,7 @@ III. Justification of the approach to developing the prediction model
 Given that the factors of creditworthiness are already known by the company experts, we proposed for this AI-solution the use of the supervised learning method.  The model, which will be fed in by a number of attribute values with an information gain, is expected to result to two main prediction outcomes: 
 
 i)	cases of loan applicants with a high level of creditworthiness, where the model will advise in favour of the loan approval (Class: Yes) and 
+
 ii)	cases of loan applicants with a dubious creditworthiness level, where the model will advise against granting a loan (Class: No).  
 
 There might also be cases somewhere in the middle of these extremes, where loan applicants may have experienced some minor financial problems in the past, which do not make them qualify to the creditworthy customers, so further research/cross-checking should follow before the final decision is made (loan approval/rejection).   
@@ -345,26 +346,41 @@ V. Analysis of the outputs
 For our analysis, we used the WEKA tool and deployed the Classification functionality, the Decision Tree and the J48 algorithmic model (Annex).  Significant tests were carried out to examine the performance differences between the prediction models.  We performed six (J48) experiments and tested their validity and accuracy with different WEKA parameters: 
 
 i)	unpruned vs. pruned tree, 
+
 ii)	cross-validation 10-20, 
+
 iii)	minNumObj 2-10 
+
 iv)	tree visualisation 
+
 (screenshots of the six model experiments can be found in the Annex)
 
 A.	unpruned tree, cross-validation 10, minNumObj2
+
 B.	unpruned tree, cross-validation 20, minNumObj2
+
 C.	pruned tree, cross-validation 10, minNumObj2
+
 D.	pruned tree, cross-validation 20, minNumObj2
+
 E.	pruned tree, cross-validation 10, minNumObj 10
+
 F.	pruned tree, cross-validation 20, minNumObj 10
 
 Our assumption is that DTs should have limited number of leaves, so the visualisation is facilitated.  If this is not the case due to multiple features, we tried tree pruning.  
 
 1. The model of unpruned tree with cross validation 10 and minNumObj2 produced an unpruned tree with 218 leaves (313 size of tree), with a percentage of 70.4% correctly classified instances vs. 29.6% of incorrectly classified instances.  The tree visualisation seems unmanageable and not clear enough.
+
 2.The model of unpruned tree with cross validation 20 and minNumObj 2, produced an unpruned tree with 218 leaves (313 size of tree) and classified correctly 70.5% of the instances vs. 29.5% of incorrectly classified instances.  The tree visualisation seems again unmanageable and not clear enough.
+
 3. The model of pruned tree with cross-validation 10 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree) and 72.8% correctly classified instances vs. 27.2% incorrectly classified instances. Tree visualisation is improved, but it remains unclear.
-4. The model of pruned tree with cross-validation 20 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree), and 74.2% correctly classified instances vs. 25.8% incorrectly classified instances.  Although accuracy reaches the highest level out of the six experiments, nevertheless, the tree visualisation is not straightforward and does not help.
-5. The model of pruned tree with cross-validation 10 and minNumObj 10 produced a pruned tree with 17 leaves (24 size of tree) and 73.4% of correctly classified instances vs. 26.6% of incorrectly classified instances.  The tree visualisation seems improved and can be easily consulted.
-6. The model of pruned tree with cross-validation 20 and minNumObj 10, produced a pruned tree with 17 leaves (24 size of tree) and 74% of correctly classified instances vs. 26% incorrectly classified instances.  The tree visualisation is straightforward, and the accuracy level is quite high (74%), although not as high as the model experiment 4 (74.2%).  However, given the simplicity of the tree and the particularly high level of accuracy in detecting correctly classified instances, we suggest adopting this model algorithm.  
+   
+5. The model of pruned tree with cross-validation 20 and minNumObj 2 produced a pruned tree with 60 leaves (92 size of tree), and 74.2% correctly classified instances vs. 25.8% incorrectly classified instances.  Although accuracy reaches the highest level out of the six experiments, nevertheless, the tree visualisation is not straightforward and does not help.
+   
+7. The model of pruned tree with cross-validation 10 and minNumObj 10 produced a pruned tree with 17 leaves (24 size of tree) and 73.4% of correctly classified instances vs. 26.6% of incorrectly classified instances.  The tree visualisation seems improved and can be easily consulted.
+   
+9. The model of pruned tree with cross-validation 20 and minNumObj 10, produced a pruned tree with 17 leaves (24 size of tree) and 74% of correctly classified instances vs. 26% incorrectly classified instances.  The tree visualisation is straightforward, and the accuracy level is quite high (74%), although not as high as the model experiment 4 (74.2%).  However, given the simplicity of the tree and the particularly high level of accuracy in detecting correctly classified instances, we suggest adopting this model algorithm.
+    
 Due to the imbalance of the instances, we applied SMOTE (Synthetic Minority Oversampling Technique)/Randomise filters (see the results in the Annex, pp. 22-25).
 
 VI. Demonstration that the application of the approach/methods can be applied to the identified problem 
