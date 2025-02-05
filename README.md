@@ -97,6 +97,7 @@ Hern A. & Milmo D. (February 24, 2023) Everything you wanted to know about AI �
 
 *Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
+
 ### Collaborative Discussion 1
 
 **Discussion Topic**
@@ -121,6 +122,7 @@ Russell, Stuart, and Peter Norvig. Artificial Intelligence: a Modern Approach, G
 
 S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
 
+
 **Summary**
 
 The customer recommendation system by Amazon makes extensive use of AI-enabled tools to improve customer experience with a view to ultimately increasing orders placed by users and business revenues.  Amazon recommendations are based on the products purchased by the user in the past on the same site, their visits to the Amazon product web pages as well as to those purchased by other customers with similar interests.    
@@ -138,6 +140,7 @@ European Commission (2023) EU Artificial Intelligence Act, Available at https://
 Moore, R.S., Moore, M.L. and Shanahan, K.J., 2015. Creepy marketing: Three dimensions of perceived excessive online privacy violation. Marketing, pp.1-10.
 
 S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
+
 
 ### Collaborative Discussion 2
 
@@ -172,6 +175,7 @@ Prinzi, F., Currieri, T., Gaglio, S. et al. (2024) Shallow and deep learning cla
 
 Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classification for Object-Based Image Analysis.  Available from https://www.researchgate.net/publication/225929583_Support_Vector_Machine_Classification_for_Object-Based_Image_Analysis [Accessed on 4 September]
 
+
 **Summary**
 
 ‘A decision tree, a […] supervised learning algorithm, is utilised for both classification and regression tasks’ (IBM, ND). Decision trees (DTs) measure ‘the difference of entropy before and after a split’ (information gain).  ‘The node with the highest gain becomes the root node’ (Bell, 2020).  DTs can easily classify data and predict the outcome based on the training data, so they are widely used for data mining, in banking/finance, customer service.  They are simple to understand as they can be visualised, can process both numerical and categorical data, support a certain degree of explainability contrary to the ‘black box’ of artificial neural network and they require little to no data preparation (Learn Scikit, ND).  
@@ -182,7 +186,7 @@ Support vector machines (SVMs), another supervised learning approach for classif
 
 However, SVMs can be also computationally intensive, sensitive to parameter tuning, they have difficulty in interpreting complex models and also, they can face scalability issues when applied to extremely large data sets.  Training an SVM on millions of samples can become impractical due to memory and computational constraints (Tabsharani F.)
 
- **Reference list**
+**Reference list**
 
 Bell, J. (2020) Machine Learning: Hands-On for Developers and Technical Professionals. 2nd ed. Chichester: Wiley
 
@@ -205,6 +209,7 @@ Tabsharani F. (ND), Support vector machine (SVM). Available from https://www.tec
 Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classification for Object-Based Image Analysis.  Available from https://www.researchgate.net/publication/225929583_Support_Vector_Machine_Classification_for_Object-Based_Image_Analysis [Accessed on 4 September]
 
 Wang, T., Qin, Z., Jin, Z. and Zhang, S., 2010. Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning. Journal of Systems and Software, 83(7), pp.1137-1147.
+
 
 ### Individual Essay: Artificial Intelligence and its Applications
 
@@ -292,6 +297,7 @@ Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from 
 ### Artificial Intelligence (AI) Solution Implementation
 
 **Assignment Details**
+
 **You are required to carry out an experiment using the WEKA software tool and the appropriate dataset available at UCI or Kaggle. You will need to demonstrate to the senior management of the start-up company discussed in Unit 9, the feasibility of the AI technology deployment in at least one of the key areas you identified in your Unit 9 report. It does not have to be an exact solution, but you must demonstrate the application of the idea and how the approach and methods of the experiment can be transferred.**
 
 **Implementation report**
@@ -429,6 +435,7 @@ WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://ww
 *Critically appraise and present results of a statistical analysis to a diverse audience.
 
 ### Collaborative Discussion 1
+
 **Imagine you have submitted a paper for publication (see Brown, 1994 in this week’s reading list). The editor has returned his comments saying that he is willing to accept the paper for publication on condition that Table 2 (see Brown, 1994) is changed. He feels that ‘it is difficult for the reader to understand, contains too much information and is too large.’  You now have to redo the table 2 and present some of the findings using plots and present your results in the forum. Reflect also upon your experiences of undertaking this task and what you have learnt.**
 
 **Initial Post**
@@ -453,6 +460,7 @@ In brief, to better highlight my arguments, I would choose the most popular stat
 
 I would also choose a couple of interesting statements that I would like to refer to in my analysis and try to present the percentages of Agree/Disagree/No opinion, using a pie chart/doughnut.  I would go for the simplicity as the simplest plots/graphs seem to be effective in conveying the message and are easy-to understand for the reader.
 
+
 **Summary Post**
 
 To provide a good visualisation of the Table 2, I took a different approach from the one taken by the authors of the article.  As Table 2 refers to 24 statements to which general practitioners have expressed their agreement/disagreement/no opinion, I thought it would be a good idea to take only those statements with a rate of approval above 75% to better showcase the findings of the research.   
@@ -474,8 +482,10 @@ To sum up, I opted for simplicity by highlighting only the most popular statemen
 In all the abovementioned cases, after the graphs are provided, it depends on the storyteller to frame the message they want to convey to the readers.  So, I think that the visualisation may at the end of the day help the storyteller develop a certain analysis and narrative for their research.
 
 ### Collaborative Discussion 2
-**Discussion Topic 
-When dealing with statistical data, particularly for decision-making purposes, misinterpretations can be a serious issue.  For this collaborative discussion, read the Greenland et al. (2016) article from this week’s reading and reflect on these questions:  Under what situations should confidence intervals not be reported?  Why is a p-value not always enough to report?**
+
+**Discussion Topic**
+
+**When dealing with statistical data, particularly for decision-making purposes, misinterpretations can be a serious issue.  For this collaborative discussion, read the Greenland et al. (2016) article from this week’s reading and reflect on these questions:  Under what situations should confidence intervals not be reported?  Why is a p-value not always enough to report?**
 
 A lower than 0.05 (5%) p-value, as we have learned in this Module, enables us to reject the null hypothesis and assume that the test hypothesis is valid.  Conversely, a p-value higher than 0.05 (5%) lead us to the conclusion that the null hypothesis cannot be rejected and so the sample differences may be attributed to chance.   
 
@@ -496,7 +506,9 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
+
 ### End of Module 2 Assessment: Individual Reflection
+
 **Assignment topic**
 
 **This assessment focuses on your reflections on the skill and knowledge gained from the module. Please note that your reflections are not seen by other students, so you are free to discuss what is relevant to your learning and the processes you have gone through. Your reflection should address the following: Reflect in your data analysis skill and statistical knowledge and discuss how confident you are using R for statistical data analysis. Mention any challenges you faced.  Reflect upon your experience of interpreting statistical findings using p-value and confidence interval.  Also reflect upon on producing summary tables, contingency tables and producing plots using R.**
@@ -562,6 +574,7 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 ### Collaborative Discussion 1
 
 ### Instructions
+
 **Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.  Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.**
 
 ‘System failure is a system that fails to develop or does so in a stunted fashion’ (Carlsson and Jacobsson ,1997 in Bergek et al., 2008).   The first six months of 2018, the national IT systems across the NHS in Wales experienced such system failures as a total of 21 outages took place resulting in various disruptions for GPs, health care staff and patients (Postelnicu, 2018).   
@@ -576,6 +589,7 @@ The Welsh NHS IT system failures had to do with infrastructures which share cybe
 Realising to what extent governments and public or private databases are vulnerable to failures or to external threats is crucial for how public policies will take shape and public goods will be delivered to citizens in the future.  Concerns about the vulnerability may even make countries roll back their initial plans for full replacement of the physical dimension into the digital one.  ‘Sweden and Norway are backpedalling on plans for cashless societies over fears that fully digital payment systems would leave them vulnerable to Russian security threats, and concern for those unable to use them.  Prolonged power cuts, system failures or digital attacks on payment systems and banks could leave cash as the only alternative that is easily available’ (Bryant, 2024).
 
 ### Bibliography
+
 BBC (24 January 2018), Welsh NHS systems back up after computer 'chaos', Available at https://www.bbc.com/news/uk-wales-42803118 [Accessed on 31 January 2025]
 
 Bergek A., Jacobsson S., Carlsson B., Lindmark S., Rickne A. (2008), Analyzing the functional dynamics of technological innovation systems: A scheme of analysis, Research Policy, Volume 37, Issue 3, 2008, Pages 407-429, https://doi.org/10.1016/j.respol.2007.12.003.
@@ -590,9 +604,6 @@ Postelnicu, L. (8 November 2018), HealthcareITNews, Report on informatics system
 Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understanding, and analyzing critical infrastructure interdependencies," IEEE Control Systems Magazine, vol. 21, no. 6, pp. 11-25, December 2001, doi: 10.1109/37.969131.
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
-
-
-
 
 
 <!---
