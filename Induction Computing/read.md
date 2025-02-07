@@ -45,4 +45,4 @@ European Commission. (2024) C(2024) 380 final Communication to the Commission Ar
 
 Hern A. & Milmo D. (February 24, 2023) Everything you wanted to know about AI – but were afraid to ask. The Guardian. Available from: https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes [accessed 20 July 2024].
 
-[Go to Main Menu](README.md)
+[Go to Main Menu](https://narchondas.github.io/)
