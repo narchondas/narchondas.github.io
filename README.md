@@ -29,7 +29,7 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 
 [2. Understanding Artificial Intelligence](/Understanding Artificial Intelligence/read.md)
 
-[3. NUmerical Analysis](/Numerical Analysis/read.md)
+[3. Numerical Analysis](/Numerical Analysis/read.md)
 
 [4. Machine Learning](/Machine Learning/read.md)
 
