@@ -23,7 +23,7 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 ### Collaborative Discussion 1
 
-### Instructions
+#### Instructions
 
 **Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.  Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.**
 
@@ -38,7 +38,7 @@ The Welsh NHS IT system failures had to do with infrastructures which share cybe
 
 Realising to what extent governments and public or private databases are vulnerable to failures or to external threats is crucial for how public policies will take shape and public goods will be delivered to citizens in the future.  Concerns about the vulnerability may even make countries roll back their initial plans for full replacement of the physical dimension into the digital one.  ‘Sweden and Norway are backpedalling on plans for cashless societies over fears that fully digital payment systems would leave them vulnerable to Russian security threats, and concern for those unable to use them.  Prolonged power cuts, system failures or digital attacks on payment systems and banks could leave cash as the only alternative that is easily available’ (Bryant, 2024).
 
-### Bibliography
+#### Bibliography
 
 BBC (24 January 2018), Welsh NHS systems back up after computer 'chaos', Available at https://www.bbc.com/news/uk-wales-42803118 [Accessed on 31 January 2025]
 
