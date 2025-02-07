@@ -25,7 +25,7 @@ The administrative reform process is a magnificent ‘journey’ full of excitem
 ## My Portfolio  
 Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
-[1. Induction Computing](narchondas.github.io/Induction Computing)
+[1. Induction Computing](/Induction Computing)
 
 ### This module aims to: 
 
