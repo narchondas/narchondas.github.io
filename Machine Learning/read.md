@@ -39,15 +39,15 @@ Use the following links to navigate to the start of the sections
 
 ### Self-assessment
 
-Very motivated to learn about Machine Learning and advance with my MSc
+Very motivated to learn about machine learning and advance with my MSc
 
 Focused on timely delivery of good quality assignments
 
-Good with time managemtn, note taking and studying new material
+Good with time management, note taking and studying new material
 
 Lack of a STEM background, so more difficult to get quickly familiar with the concepts and perform the formative acitivities
 
-Lack of familiarity with coding and in particular Python
+Lack of familiarity with coding, in particular Python
 
 
 ### Set goals
@@ -58,31 +58,65 @@ Get familiar with data analytics based on machine learning and with programming 
 
 Understand how machine learning and data analytics can be used in real-world applications
 
-Being able to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms
+Be able to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms
+
+Regularly update my GitHub
 
 
 ### Develop strategies
 
+Study the required and additional reading of each Module Unit
+
+Take e-notes and highlight the most important sections
+
+Understand the formative activities and try to test my knowledge with examples 
+
+Prepare all seminar activities
+
+Perform the required formative activities of the Module Unit
+
+Plan in advance for the assignments
+
+Make sure there is sufficient time to fine-tune assignments
+
+Gather feedback from peers
+
 
 ### Gather resources
 
-Studying material of each Module Unit
+Study all the required and additional material of each Module Unit
 
 Prepare seminar activities
 
 Perform all formative activities
 
-Seeking other explanatory reliable material on internet (websites, videos, classes etc)
+Seek other explanatory reliable material on internet (websites, videos, classes etc)
 
-Reaching out to the tutor
+Reach out to my project group's peers
+
+Reach out to the tutor
 
 
 ### Create timeline
 
+Study all required and additional material every week
 
+Plan in advance the assignments
+
+Timely deliver the common project with my group peers
+
+Timely deliver the assignment (presentation)
+
+Timely submit my e-portfolio
 
 
 ### Track progress and revise
+
+Regularly monitor if targets are met
+
+Reconsider strategy, if needed
+
+Monitor the timely delivery of good quality assignments
 
 
 [Back to the top](#Machine-Learning)
