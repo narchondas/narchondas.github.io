@@ -73,7 +73,7 @@ To sum up, I opted for simplicity by highlighting only the most popular statemen
 In all the abovementioned cases, after the graphs are provided, it depends on the storyteller to frame the message they want to convey to the readers.  So, I think that the visualisation may at the end of the day help the storyteller develop a certain analysis and narrative for their research.
 
 
-## Response to my peers' posts
+### Response to my peers' posts
 
 
 Hello Elias,
