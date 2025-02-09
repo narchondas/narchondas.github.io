@@ -2,6 +2,7 @@
 
 Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
+
 - 👋 Hi, I’m @narchondas
 - 👀 I’m interested in Artificial Intelligence (AI) and in better regulation (evaluation, impact assessment and stakeholder consultation)
 - 🌱 I’m currently learning the advantages and pitfalls of the machine learning methods and algorithms
