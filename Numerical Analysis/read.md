@@ -8,7 +8,7 @@ Use the following links to navigate to the start of the sections
 
 [3. End of Module Assessment 1: Statistical Analysis Presentation](#End-of-Module-Assessment-1-Statistical-Analysis-Presentation)
 
-[4. End of Module 2 Assessment: Individual Reflection](#End-of-Module-2-Assessment-Individual-Reflection)
+[4. End of Module Assessment 2: Individual Reflection](#End-of-Module-2-Assessment-Individual-Reflection)
 
 
 ## Learning outcomes
@@ -703,7 +703,7 @@ I will go through the slides now.
 [Back to the top](#Numerical-Analysis)
 
 
-## End of Module 2 Assessment: Individual Reflection
+## End of Module Assessment 2: Individual Reflection
 
 **Assignment topic**
 
