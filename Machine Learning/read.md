@@ -4,6 +4,7 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 Use the follwoing links to navigate to the start of the sections
 
 [1. Collaborative Discussion](#Collaborative-Discussion)
+
 [2. Seminars & formative activities](#Seminars-&-formative-activities)
 
 ### Learning outcomes
