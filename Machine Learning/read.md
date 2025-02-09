@@ -29,6 +29,29 @@ Use the following links to navigate to the start of the sections
 
 *Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
+
+## Professional Skills matrix and action plan PDP
+
+
+### Self-assessment
+
+
+### Set goals
+
+
+### Develop strategies
+
+
+### Gather resources
+
+
+### Create timeline
+
+
+### Track progress and revise
+
+
+
 ## Collaborative Discussion
 
 ### Initial & summary posts
