@@ -6,9 +6,9 @@ Use the following links to navigate to the start of the sections
 
 [2. Collaborative Discussion 2](#Collaborative-Discussion-2)
 
-[3. End of Module Assessment 1: Statistical Analysis Presentation](
+[3. End of Module Assessment 1: Statistical Analysis Presentation](#End-of-Module-Assessment-1:-Statistical-Analysis-Presentation)
 
-[4. End of Module 2 Assessment: Individual Reflection](#-End-of-Module-2-Assessment:-Individual-Reflection)
+[4. End of Module 2 Assessment: Individual Reflection](#End-of-Module-2-Assessment:-Individual-Reflection)
 
 
 ## Learning outcomes
