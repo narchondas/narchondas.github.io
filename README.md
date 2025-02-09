@@ -13,7 +13,7 @@
 
 ## MSc. Artificial Intelligence Cohort July 2024
 
-## Professional
+## Professional bio
 I am an expert in Better Regulation and in particular in Stakeholder Engagement. Since 2018, I have been working on European Commission's evaluations, impact assessments and stakeholder consultations. 
 
 As Bellevue programme fellow in the SGMAP (2016-2017), I had the opportunity to work in the French public administration and deal with a different and challenging administrative and e-government context. 
