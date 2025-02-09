@@ -6,7 +6,7 @@ Use the following links to navigate to the start of the sections
 
 [2. Collaborative Discussion 2](#Collaborative-Discussion-2)
 
-[3. Individual Essay: Artificial Intelligence and its Applications](#Individual Essay-:-Artificial-Intelligence-and-its-Applications)
+[3. Individual Essay: Artificial Intelligence and its Applications](#Individual Essay-Artificial-Intelligence-and-its-Applications)
 
 [4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-(AI)-Solution-Implementation)
 
