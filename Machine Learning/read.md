@@ -39,8 +39,26 @@ Use the following links to navigate to the start of the sections
 
 ### Self-assessment
 
+Very motivated to learn about Machine Learning and advance with my MSc
+
+Focused on timely delivery of good quality assignments
+
+Good with time managemtn, note taking and studying new material
+
+Lack of a STEM background, so more difficult to get quickly familiar with the concepts and perform the formative acitivities
+
+Lack of familiarity with coding and in particular Python
+
 
 ### Set goals
+
+Learn about the key paradigms and algorithms in machine learning
+
+Get familiar with data analytics based on machine learning and with programming tools, such as Python or R
+
+Understand how machine learning and data analytics can be used in real-world applications
+
+Being able to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms
 
 
 ### Develop strategies
@@ -48,8 +66,20 @@ Use the following links to navigate to the start of the sections
 
 ### Gather resources
 
+Studying material of each Module Unit
+
+Prepare seminar activities
+
+Perform all formative activities
+
+Seeking other explanatory reliable material on internet (websites, videos, classes etc)
+
+Reaching out to the tutor
+
 
 ### Create timeline
+
+
 
 
 ### Track progress and revise
