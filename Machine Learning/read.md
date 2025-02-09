@@ -5,7 +5,9 @@ Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussion](#Collaborative-Discussion)
 
-[2. Seminars & formative activities](#Seminar-&-formative-activities)
+[2.  Professional Skills matrix and action plan PDP](#Professional-Skills-matrix-and-action-plan-PDP)
+
+[3. Seminars & formative activities](#Seminar-&-formative-activities)
 
 ## Learning outcomes
 
