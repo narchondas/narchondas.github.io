@@ -69,7 +69,7 @@ Moore, R.S., Moore, M.L. and Shanahan, K.J., 2015. Creepy marketing: Three dimen
 S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
 
 
-## Response to my peers' posts
+### Response to my peers' posts
 
 Hello Abdullah,
 
