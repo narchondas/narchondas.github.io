@@ -127,7 +127,7 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
 
-### End of Module 2 Assessment: Individual Reflection
+## End of Module 2 Assessment: Individual Reflection
 
 **Assignment topic**
 
