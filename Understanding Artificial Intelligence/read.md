@@ -23,7 +23,9 @@
 *Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
 
-### Collaborative Discussion 1
+## Collaborative Discussion 1
+
+### Initial & summary posts
 
 **Discussion Topic**
 
@@ -67,7 +69,54 @@ Moore, R.S., Moore, M.L. and Shanahan, K.J., 2015. Creepy marketing: Three dimen
 S. Yin and O. Kaynak, "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015.  Available from https://ieeexplore.ieee.org/document/7067026 [Accessed on 2 August 2024]
 
 
-### Collaborative Discussion 2
+## Response to my peers' posts
+
+Hello Abdullah,
+
+thanks for sharing your post on Facebook and on the use of AI to eliminate fake news.  In this response of mine, I would like to further comment on the AI use as for the targeted advertisement, as I believe the issue raises a lot of questions related to ethics, privacy and data protection, but also it is of paramount importance for business efficiency and revenue increase.  
+
+According to Facebook Business (2020), the company makes use of two key elements when it comes to advertisement namely the consumer/user group selected by advertisers and the rating of their advertisement auction system.  The aim is to show the right advertisement for the right Facebook user, thus enhancing the personalised user experience.
+
+Meta (Facebook) has recently taken a step further and is intending to allow advertisers 'to automate the creation of multiple versions of adverts featuring different text and images aimed at different audiences'.  Businesses wishing to advertise the same product or service via the platform will be able to differentiate the advertisement content and the way this advertisement is shown to the Facebook user (language, colours, message etc) in an automated way (using AI-enabled tools), depending on their demographic, geographical etc characteristics (Marr, 2023).
+
+While it seems a tautology that targeted advertisement could boost business earnings, on the other hand, one could also argue that this 'extremely' targeted advertisement might have some unexpected and unintended repercussions on the user experience if this is perceived as too invasive.  This could at best lead to dissatisfaction or disconcert of technologically minded users, who might be extremely worried about their privacy and data protection.
+
+
+Dear Abdulaziz,
+
+you raise a number of interesting points regarding the relation between Artificial Intelligence and e-commerce and to what extent companies can take advantage of the AI-enabled tools to optimise process, demand and customer experience, among others.
+
+I totally agree with your takeaways and I could kindly draw your attention to the four ways AI is transforming e-commerce, as Nick Heethuis puts it (Forbes, 16 February 2022). These are AI copyrighting, chatbots and virtual assistants (as you have already mentioned), personalisation of the customer experience and inventory management (you have also mentioned).
+
+E-commerce companies by means of AI-enabled tools can:
+
+1. gain analytical insights into what the consumers are interested in at a particular moment, what their tastes and preferences are, what price they are willing to pay
+
+2. create a personalised customer experience, making smart and timely recommendations, offering a combination of related products (Amazon) before checking out
+
+3. enhance their competitiveness by adjusting demand and storage capacity.
+
+As we have learned, S. Yin and O. Kaynak (2015) argue that the customer-centric experience will primarily dominate the AI-enabled tools environment, whereas Mike Loukides (2021) stresses that the retail sector' maturity as for the AI in 2021 was quite high at 40%. This is at least very promising when it comes to the AI design, implementation and deployment in the e-commerce/retail sector. One might expect that this positive upward trend is going to be strengthened in the immediate future.
+
+**References**
+
+Heethuis N. (16 February, 2022) Intelligence Is Transforming E-Commerce. Forbes. Available from: https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/ [Accessed 6 August 2024]
+
+Yin S. and Kaynak O., "Big Data for Modern Industry: Challenges and Trends [Point of View]," in Proceedings of the IEEE, vol. 103, no. 2, pp. 143-146, Feb. 2015. Available from https://ieeexplore.ieee.org/document/7067026 [Accessed 6 August 2024]
+
+Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Available from https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2021/ [Accessed 6 August 2024]
+
+
+**References**
+
+Facebook (2020, 11 June) Good questions, real answers: How does Facebook use machine learning to deliver ads? Facebook Business. Available from https://www.facebook.com/business/news/good-questions-real-answers-how-does-facebook-use-machine-learning-to-deliver-ads [Accessed 8 August 2024]
+
+Marr, B. (2023, 2 May) 5 Amazing ways Meta (Facebook) is using Generative AI. Forbes. Available from https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/ [Accessed 8 August 2024]
+
+
+## Collaborative Discussion 2
+
+### Initial & summary posts
 
 **Discussion Topic**
 
@@ -135,8 +184,55 @@ Tzotsos, Angelos & Argialas, Demetre (2008) Support Vector Machine Classificatio
 
 Wang, T., Qin, Z., Jin, Z. and Zhang, S., 2010. Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning. Journal of Systems and Software, 83(7), pp.1137-1147.
 
+### Response to my peers' posts
 
-### Individual Essay: Artificial Intelligence and its Applications
+Dear Elias, 
+
+thanks for your thoughts on supervised/unsupervised learning algorithms.  On my side, I would like to discuss much further the K-means algorithm.
+
+K-means clustering, as you say, is an unsupervised machine learning algorithm used for clustering or grouping similar data points together in a dataset.  It constitutes a partitioning algorithm that divides the data into non-overlapping clusters, where each data point belongs to a single cluster (Nishan, 2023).  In other words, ‘the k-means algorithm is aimed at partitioning objects or points to be analysed into well-separated clusters’.  There is no optimal k-means algorithm, as it primarily depends on the characteristics of the data set, the size and the number of variables in the instances (Oti et al, 2021).
+
+When it comes to K-means algorithm, the treatment of outliers merits some consideration.  Even though outlier detection has mostly to do with the domain knowledge and expertise in the feature engineering, an outlier is identified when the distance to the closest centroid seems significant.  The k-means algorithm is said to more easily identify sparseness of data points from isolation.  Points in sparse areas are not outliers, while isolated points are (Duboue, 2020). 
+
+The cluster analysis is a data mining tool that is increasingly used nowadays in large and multidimensional databases.  As you mention in your post, retail industry (online shops) are heavily investing in analysing customer preference, needs and buying behaviour through clustering ML techniques.  Apart from the retail industry, such technique is used in a lot of fields such as statistics, medicine, patterns identification etc (Suyal, 2024)
+
+**References**
+
+Duboue, P. (2020) The Art of Feature Engineering: Essentials for Machine Learning. Cambridge: Cambridge University Press
+
+Nishan, J. (26 May 2023) Mastering data clustering: Your comprehensive guide to K-means and K-means++, AI Accelerator Institute. Available from https://www.aiacceleratorinstitute.com/mastering-data-clustering-your-comprehensive-guide-to-k-means-and-k-means/ [Accessed on 9 September 2024)
+
+Oti, E. et al (2021). Comprehensive Review of K-Means Clustering Algorithms. International Journal of Advances in Scientific Research and Engineering. Available from https://www.researchgate.net/publication/354547481_Comprehensive_Review_of_K-Means_Clustering_Algorithms [Accessed on 9 September 2024]
+
+Suyal, M. & Sharma, S. (2024) A Review on Analysis of K-Means Clustering Machine Learning Algorithm based on Unsupervised Learning. Journal of Artificial Intelligence and Systems. Available from https://www.researchgate.net/publication/379878557_A_Review_on_Analysis_of_K-Means_Clustering_Machine_Learning_Algorithm_based_on_Unsupervised_Learning [Accessed on 8 September]
+
+Dear Jaco,
+
+in my peer response, I would like to add to the discussion on the decision trees and more specifically in the pruning process.
+
+As you argue, a decision tree (DTs) is a supervised machine learning model, which makes use of labelled input and datasets for output to train a model.
+
+The way DTs are structured enable us to easily understand the rationale of a decision and to ‘explain’ (justify) the decision-making process.  There are a lot of advantages, for instance, DTs do not require data preprocessing, they can work with versatile data, and they are good at detecting outliers.  Nevertheless, one may end up with very large DTs, which cannot generalise (overfitting).  A minor variation may give a totally different result, whereas attention should be paid when interpreting decision tree models and when using the results of these models to develop causal hypotheses (Aswini, ND) (Song, 2015).
+
+DTs can be used in a variety of fields from a recommendation engine (taking the decisions made by consumers over time and creating nodes based on those decisions) (Anon), to medical decisions and diagnoses.
+
+I would like to say a few words about one of the methods to remove overfitting: pruning.
+
+A way to build a decision tree model is to grow a large tree first, and then prune it to optimal size by removing nodes that provide less additional information.  There are two types of pruning, pre-pruning (forward pruning) and post-pruning (backward pruning).
+
+Pre-pruning prevents the generation of non-significant branches, while post-pruning is used after generating a full decision tree to remove branches aiming to improve the accuracy of the overall classification when applied to the validation dataset (Song, 2015).
+
+
+**References**
+
+Aswini R., (ND) Why Do We Use Decision Trees in Machine Learning? Available from: https://www.turing.com/kb/importance-of-decision-trees-in-machine-learning [Accessed on 10 September 2024]
+
+Anon, (ND), Decision Tree. Available from: https://www.mastersindatascience.org/learning/machine-learning-algorithms/decision-tree/ [Accessed on 10 September 2024]
+
+Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry. 27(2):130-5. DOI: 10.11919/j.issn.1002-0829.215
+
+
+## Individual Essay: Artificial Intelligence and its Applications
 
 **Assignment Details**
 
@@ -219,7 +315,7 @@ University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2
 Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
 
 
-### Artificial Intelligence (AI) Solution Implementation
+## Artificial Intelligence (AI) Solution Implementation
 
 **Assignment Details**
 
