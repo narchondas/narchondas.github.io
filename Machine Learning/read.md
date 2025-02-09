@@ -1,6 +1,13 @@
 ## Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
+Use the follwoing links to navigate to the start of the sections
+
+[1. Collaborative Discussion](#Collaborative-Discussion)
+[2. Seminars & formative activities](#Seminars-&-formative-activities)
+
+### Learning outcomes
+
 ### In the module Machine Learning I shall:
 
 *Learn about the key paradigms and algorithms in machine learning.
@@ -21,7 +28,7 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 *Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-### Collaborative Discussion 1
+### Collaborative Discussion
 
 #### Instructions
 
@@ -55,11 +62,16 @@ Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understandin
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
 
+[Back tot he top](##)
+
+## Seminar & formative activities
+
 ## Unit 2 Seminar preparation
 [Google Colab - A Tutorial on Exploratory Data Analysis.ipynb](https://colab.research.google.com/drive/1kyW5klZuhNqhlnIZJHFCwaqEHYzrrRNZ)
 
 ## Unit 2 Seminar EDA tutorial
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
+[Back tot he top](##)
 
 [Go to main Menu](https://narchondas.github.io/)
