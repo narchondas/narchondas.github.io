@@ -1,4 +1,8 @@
-## Induction Computing
+# Induction Computing
+
+[1. Induction Assignment](#Induction-Assignement)
+
+## Learning outcomes
 
 ### This module aims to: 
 
@@ -18,7 +22,8 @@
 
 *Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
-### Induction Assignement
+
+### Induction Assignment
 
 **Discuss the importance of a postgraduate degree in the Computer Science field.**
 
