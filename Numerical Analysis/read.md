@@ -144,12 +144,12 @@ Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Eno
 
 ## End of Module Assessment 1: Statistical Analysis Presentation
 
-Statistical Analysis Presentation
+### Statistical Analysis Presentation
 
 (https://docs.google.com/presentation/d/1F513wybGMd0HCvb8AYJnWsDeCPQlIaUyy_j7mMIyhv8/edit#slide=id.p1)
 
 
-Transcript of the audio file
+### Transcript of the audio file
 
 Audio file
 Transcript
