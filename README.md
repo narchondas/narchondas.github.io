@@ -2,9 +2,6 @@
 
 Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
-![f3](https://github.com/user-attachments/assets/c992b5f9-9741-437c-9b72-96b4a930178f)
-
-
 - 👋 Hi, I’m @narchondas
 - 👀 I’m interested in Artificial Intelligence (AI) and in better regulation (evaluation, impact assessment and stakeholder consultation)
 - 🌱 I’m currently learning the advantages and pitfalls of the machine learning methods and algorithms
@@ -13,6 +10,10 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love swimming in the sea for more than an hour so, a couple of times, my friends were so worried that they wanted to call the coast guards as they assumed something bad had happened to me
   
+
+![f3](https://github.com/user-attachments/assets/c992b5f9-9741-437c-9b72-96b4a930178f)
+
+
 
 ## MSc. Artificial Intelligence Cohort July 2024
 
