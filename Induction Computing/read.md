@@ -1,6 +1,6 @@
 # Induction Computing
 
-[1. Induction Assignment](#Induction-Assignement)
+[1. Induction Assignment](#Induction-Assignment)
 
 ## Learning outcomes
 
