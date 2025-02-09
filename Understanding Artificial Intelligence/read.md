@@ -1,4 +1,14 @@
-## Understanding Artifical Intelligence
+# Understanding Artifical Intelligence
+
+Use the following links to navigate to the start of the sections
+
+[1. Collaborative Discussion 1](#Collaborative-Discussion-1)
+
+[2. Collaborative Discussion 2](#Collaborative-Discussion-2)
+
+[3. Individual Essay: Artificial Intelligence and its Applications](#Individual Essay-:-Artificial-Intelligence-and-its-Applications)
+
+[4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-(AI)-Solution-Implementation)
 
 ### In this module, I shall:
 
