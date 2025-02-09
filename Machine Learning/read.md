@@ -88,6 +88,37 @@ Fishenden J. (18 Mar 2024), Digital government: problems on the horizon, Compute
 Yuchong Li, Qinghui Liu, A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments, Energy Reports, Volume 7, 2021, Pages 8176-8186, https://doi.org/10.1016/j.egyr.2021.08.126. 
 
 
+Dear Jaco,
+
+your insight into IT system failures highlights a critical dimension:  IT failures and data breaches often result not only from cyber-attacks and cyber-threats but also from hastily implemented fixes and insufficiently tested releases.  As you argue in your post, this failure underscores the risks of prioritising rapid release cycles and depending on addressing issues as they emerge in production (Khern-am-nuai, 2024), all in the pursuit of faster time-to-market for competitive advantage.  In such scenarios, a robust rollback strategy becomes indispensable, allowing organisations to revert to a previous version of software seamlessly.
+
+Consider the incident in March 2017, where personal data of hundreds of millions of individuals was stolen from Equifax, a major credit reporting agency in the United States (Fruhlinger, 2020).  This incident, which compromised the assessment of the financial health of nearly everyone nationwide, might have been mitigated with an effective rollback procedure in place.  However, as Fellows (2023) highlights, rollbacks are not without risks.  While they offer a crucial safety net for software development teams, enabling swift issue resolution post-deployment, they can also complicate matters.  Mismanaged rollback attempts can exacerbate issues, leading to significant financial ramifications and eroding customer trust and satisfaction.
+
+In essence, preparing a comprehensive rollback strategy is crucial for addressing IT failures effectively.  This process involves a detailed focus on multiple factors such as:
+
+-starting with careful planning and documentation of rollback procedures to ensure all steps are clear and executable
+
+-conducting trials to simulate rollback scenarios to identify potential issues before they occur in a live environment
+
+-establishing robust communication channels to ensure all teams are aligned and informed during rollback actions
+
+-regularly updating and testing rollback documentation to keep the strategy relevant and effective
+
+-learning from previous IT failures by analysing the root causes and outcomes to provide invaluable insights for future preparedness and
+
+-monitoring rollback performance to help identify areas for improvement and enhance system resilience.
+
+By integrating these elements into the rollback strategy, organisations can strengthen their capacity to handle IT failures, thereby safeguarding operational continuity and maintaining stakeholder trust (Fellows, 2023).
+
+
+#### Bibliography
+
+Fruhlinger, J. (12 February 2020) Equifax data breach FAQ: What happened, who was affected, what was the impact? CSO Available at  https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html [Accessed on 7 February 2025]
+
+Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Releases, LoopQA, Available from https://www.workwithloop.com/blog/the-dangers-of-ineffective-rollbacks-in-software-releases [Accessed on 7 February 2025]
+
+Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
+
 
 [Back to the top](##)
 
