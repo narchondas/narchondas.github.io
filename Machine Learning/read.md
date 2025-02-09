@@ -1,4 +1,4 @@
-## Machine-Learning
+# Machine-Learning
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
@@ -7,7 +7,7 @@ Use the following links to navigate to the start of the sections
 
 [2. Seminars & formative activities](#Seminar-&-formative-activities)
 
-### Learning outcomes
+## Learning outcomes
 
 ### In the module Machine Learning I shall:
 
@@ -29,7 +29,11 @@ Use the following links to navigate to the start of the sections
 
 *Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-### Collaborative Discussion
+## Collaborative Discussion
+
+### Initial & summary posts
+
+**Initial Post**
 
 **Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.  Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.**
 
@@ -60,6 +64,30 @@ Postelnicu, L. (8 November 2018), HealthcareITNews, Report on informatics system
 Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understanding, and analyzing critical infrastructure interdependencies," IEEE Control Systems Magazine, vol. 21, no. 6, pp. 11-25, December 2001, doi: 10.1109/37.969131.
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
+
+**Summary post**
+
+### Response to my peers' posts
+
+Thanks, Elias, for your insightful post on the data breaches, affecting, in particular, government-run databases, which may be due to cyber-attacks or just IT system failures.   
+
+As Yuchong L. et al. (2021) put it, governments nowadays due to the interconnected cyberspace, we are interacting with, are confronted with multiple and much more complex safety risks than in the past.  For instance, the concept of security is not only military threat to internal or external borders.  The character of the cyber threats and IT systems failure is such that the geographical dimension is not relevant.  In other words, a cyber threat and attack can come from a state or non-state actor far away from the national boundaries.  ‘These threats are sporadic, multidimensional, and because they are associated with sensitive networks and infrastructure, their level of damage is very high’.  This kind of threat requires a different response from governments and private actors alike, which has mainly to do with investing more on IT infrastructure.  Such resources should aim at preserving the databases intact, avoiding as much as possible data leakages and mitigating the impacts if such data breaches or cyber-attacks take place.
+
+Similarly, the National Audit Office in the UK pointed out that changes in the digital service delivery “have mainly focused on improvements to the citizen’s online experience ... Without a deeper understanding of digital transformation, senior leaders often focus on tactical solutions and quick fixes and avoid addressing the underlying inefficiencies that contribute to driving future costs” (Fishenden J. 2024).  The changes referred to, among others, could include designing ‘scalable, secure and resilient systems’. 
+
+On the same issue, Booth R. (2025) concludes that state actors will find it very difficult to successfully address the lack of advanced digital and cyber-skills in the public sector workforce, enhance accountability for cyber-attacks and ‘better manage the risks posed by legacy IT’.  This is why policy and digital transformation need to go hand in hand and be ‘co-designed — managed, developed, and adapted together to reflect and respond to an ever-changing political, legal, social, and economic landscape’.
+
+ 
+
+#### Bibliography
+
+Booth, R. (29 January 2025) 'Threat of cyber-attacks on Whitehall "is severe and advancing quickly", NAO says', The Guardian. Available at: https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao [Accessed on 29 January 2025].
+
+Fishenden J. (18 Mar 2024), Digital government: problems on the horizon, ComputerWeekly.com.  Available from https://www.computerweekly.com/opinion/Digital-government-problems-on-the-horizon [Accessed on 6 February 2025]
+
+Yuchong Li, Qinghui Liu, A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments, Energy Reports, Volume 7, 2021, Pages 8176-8186, https://doi.org/10.1016/j.egyr.2021.08.126. 
+
+
 
 [Back to the top](##)
 
