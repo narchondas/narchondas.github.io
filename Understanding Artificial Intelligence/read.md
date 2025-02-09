@@ -10,6 +10,7 @@ Use the following links to navigate to the start of the sections
 
 [4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-(AI)-Solution-Implementation)
 
+
 ### In this module, I shall:
 
 *Develop an understanding of the history and future of Artificial Intelligence. To include definition of AI, professional and ethical issues, as well as key application areas (Industry 4.0 and FinTech).
