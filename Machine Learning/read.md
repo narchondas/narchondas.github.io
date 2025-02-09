@@ -53,7 +53,7 @@ Use the following links to navigate to the start of the sections
 ### Track progress and revise
 
 
-[Back to the top](#)
+[Back to the top](#Machine-Learning)
 
 
 ## Collaborative Discussion
@@ -151,7 +151,7 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
 
-[Back to the top](#)
+[Back to the top](#Machine-Learning)
 
 
 ## Seminar and formative activities
@@ -164,6 +164,6 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
 
-[Back to the top](#)
+[Back to the top](#Machine-Learning)
 
 [Go to main Menu](https://narchondas.github.io/)
