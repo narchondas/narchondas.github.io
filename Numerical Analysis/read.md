@@ -1,4 +1,4 @@
-## Numerical Analysis
+# Numerical Analysis
 
 ### In this module I shall:
 
@@ -22,7 +22,10 @@
 
 *Critically appraise and present results of a statistical analysis to a diverse audience.
 
-### Collaborative Discussion 1
+
+## Collaborative Discussion 1
+
+### Initial & summary posts
 
 **Imagine you have submitted a paper for publication (see Brown, 1994 in this week’s reading list). The editor has returned his comments saying that he is willing to accept the paper for publication on condition that Table 2 (see Brown, 1994) is changed. He feels that ‘it is difficult for the reader to understand, contains too much information and is too large.’  You now have to redo the table 2 and present some of the findings using plots and present your results in the forum. Reflect also upon your experiences of undertaking this task and what you have learnt.**
 
@@ -69,7 +72,36 @@ To sum up, I opted for simplicity by highlighting only the most popular statemen
 
 In all the abovementioned cases, after the graphs are provided, it depends on the storyteller to frame the message they want to convey to the readers.  So, I think that the visualisation may at the end of the day help the storyteller develop a certain analysis and narrative for their research.
 
-### Collaborative Discussion 2
+
+## Response to my peers'posts
+
+
+Hello Elias,
+
+it's been quite a while since the last time we spoke to each other via the discussion forum.  I was quite impressed with what you did considering the complexity of the dataset (a lot of statements, percentages etc).  
+
+As you say, putting everything in one table/spreadsheet is not ideal from a visualisation point of view.  Nevertheless, I strongly believe that such information should be part of the research paper as it provides a detailed information on the opinions of the consulted individuals.
+
+Taking advantage of the AI capabilities as for the visualisation of the data seemed to me quite smart from your side.  Why should we not try prompting the AI tool (ChatGPT) when we wish to create effective and though-provoking graphs for our research purposes? 
+
+As you may have noticed, I opted for a different way of highlighting interesting research data.  In my case, I chose the most popular statements and produced plots/bars/doughnut using Excel.  At the end of the day, when you read a paper you will not understand the rationale of the research unless you visualise the most significant arguments/points.  So I chose the most popular statements and made some graphs.  
+
+Having said the above, for the sake of the objectivity of the research, I would put the whole table with the data as an Annex to the paper, so the reader who would be more interested to look at the details should be able to do so.
+
+
+Dear Jaco,
+
+I very much liked your approach in depicting the research data.  First, you tried to summarise the statements, so they become more reader friendly.   Then, I particularly liked your reasoning as for the inclusion in your graph of the answer options 'Agree' and 'No opinion'.  
+
+In fact, I have been thinking quite a while about how to treat the component 'No opinion', as it may give us valuable information.  For example, if 40% of the respondents declined to give a straightforward answer, then it might be a proof that something was wrong with the question itself or with the issue it raised.  However, it is equally intriguing how you deal with the 'No opinion' component when calculating the percentages.  Do you take it into account or not?
+
+Some researchers opt for discarding 'No opinion' answers and calculate only the valid ones.  Nevertheless, there are some others who prefer to give a full account of the 'Agree', 'Disagree' and No opinion' answer options.  
+
+In my opinion, both approaches can be used depending on the findings of the research and whether we wish to give a detailed or less detailed account of the data we have collected.
+
+
+
+## Collaborative Discussion 2
 
 **Discussion Topic**
 
