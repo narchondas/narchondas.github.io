@@ -5,7 +5,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussion](#Collaborative-Discussion)
 
-[2. Seminars & formative activities](#Seminars-&-formative-activities)
+[2. Seminars & formative activities](##Seminar & formative activities)
 
 ### Learning outcomes
 
@@ -61,7 +61,7 @@ Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understandin
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
 
-[Back to the top](## Machine-Learning)
+[Back to the top](##Machine-Learning)
 
 ## Seminar & formative activities
 
@@ -71,6 +71,6 @@ Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to res
 ## Unit 2 Seminar EDA tutorial
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
-[Back to the top](## Machine-Learning)
+[Back to the top](##Machine-Learning)
 
 [Go to main Menu](https://narchondas.github.io/)
