@@ -127,7 +127,9 @@ Monitor the timely delivery of good quality assignments
 
 ## Collaborative Discussion
 
+
 ### Initial & summary posts
+
 
 **Initial Post**
 
@@ -162,10 +164,13 @@ Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understandin
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
 
 
+
 **Summary post**
 
 
+
 ### Response to my peers' posts
+
 
 Thanks, Elias, for your insightful post on the data breaches, affecting, in particular, government-run databases, which may be due to cyber-attacks or just IT system failures.   
 
