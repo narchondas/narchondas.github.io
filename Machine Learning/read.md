@@ -37,7 +37,7 @@ Use the following links to navigate to the start of the sections
 [Back to the top](#Machine-Learning)
 
 
-## Professional Skills matrix and action plan PDP
+## Professional Skills matrix and action plan (PDP)
 
 
 ### Self-assessment
