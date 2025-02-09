@@ -61,7 +61,7 @@ Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understandin
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
 
-[Back tot he top](##)
+[Back to the top](##)
 
 ## Seminar & formative activities
 
@@ -71,6 +71,6 @@ Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to res
 ## Unit 2 Seminar EDA tutorial
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
-[Back tot he top](##)
+[Back to the top](##)
 
 [Go to main Menu](https://narchondas.github.io/)
