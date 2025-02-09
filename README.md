@@ -1,4 +1,4 @@
-## My Portfolio  
+# My Portfolio  
 
 Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
