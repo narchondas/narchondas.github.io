@@ -1,4 +1,7 @@
-# E-Portfolio of Nikos Archontas 
+## My Portfolio  
+
+Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
+
 ![f3](https://github.com/user-attachments/assets/c992b5f9-9741-437c-9b72-96b4a930178f)
 
 
@@ -22,10 +25,8 @@ As team leader and project manager, working in the Greek Ministry of Interior (2
 
 The administrative reform process is a magnificent ‘journey’ full of excitement, setbacks but also of great achievements which better the lives of the European citizens.
 
-# University of Essex Learning Experience
+## University of Essex Learning Experience
 
-## My Portfolio  
-Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will find information about my studies, experience, and projects.  
 
 [1. Induction Computing](/Induction Computing/read.md)
 
