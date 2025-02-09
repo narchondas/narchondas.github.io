@@ -1,5 +1,18 @@
 # Numerical Analysis
 
+Use the following links to navigate to the start of the sections
+
+[1. Collaborative Discussion 1](#Collaborative-Discussion-1)
+
+[2. Collaborative Discussion 2](#Collaborative-Discussion-2)
+
+[3. End of Module Assessment 1: Statistical Analysis Presentation](
+
+[4. End of Module 2 Assessment: Individual Reflection](#-End-of-Module-2-Assessment:-Individual-Reflection)
+
+
+## Learning outcomes
+
 ### In this module I shall:
 
 *Develop a systematic understanding of foundational mathematical principles and methods, as well as core and specialised concepts underpinning computing logic.
@@ -125,6 +138,15 @@ Greenland, S., Senn, SJ., Rothman, K. J., Carlin, B., Poole, C., Goodman, N., & 
 Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a better alternative. Osteoarthritis and Cartilage Volume 20, Issue 8. 805-808. https://doi.org/10.1016/j.joca.2012.04.001
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
+
+
+## End of Module Assessment 1: Statistical Analysis Presentation
+
+Statistical Analysis Presentation
+(https://docs.google.com/presentation/d/1F513wybGMd0HCvb8AYJnWsDeCPQlIaUyy_j7mMIyhv8/edit#slide=id.p1)
+
+Transcript of the audio file
+(https://docs.google.com/document/d/1NZBDDYlKaKV6L7gzbl8JgD_RDbs94uitfiBvVukOJVc/edit?tab=t.0)
 
 
 ## End of Module 2 Assessment: Individual Reflection
