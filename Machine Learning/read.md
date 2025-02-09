@@ -7,7 +7,7 @@ Use the following links to navigate to the start of the sections
 
 [2.  Professional Skills matrix and action plan PDP](#Professional-Skills-matrix-and-action-plan-PDP)
 
-[3. Seminars & formative activities](#Seminar-&-formative-activities)
+[3. Seminars & formative activities](#Seminar-and-formative-activities)
 
 ## Learning outcomes
 
@@ -53,6 +53,8 @@ Use the following links to navigate to the start of the sections
 ### Track progress and revise
 
 
+[Back to the top](#)
+
 
 ## Collaborative Discussion
 
@@ -90,7 +92,9 @@ Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understandin
 
 Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
 
+
 **Summary post**
+
 
 ### Response to my peers' posts
 
@@ -111,6 +115,7 @@ Booth, R. (29 January 2025) 'Threat of cyber-attacks on Whitehall "is severe and
 Fishenden J. (18 Mar 2024), Digital government: problems on the horizon, ComputerWeekly.com.  Available from https://www.computerweekly.com/opinion/Digital-government-problems-on-the-horizon [Accessed on 6 February 2025]
 
 Yuchong Li, Qinghui Liu, A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments, Energy Reports, Volume 7, 2021, Pages 8176-8186, https://doi.org/10.1016/j.egyr.2021.08.126. 
+
 
 
 Dear Jaco,
@@ -136,6 +141,7 @@ In essence, preparing a comprehensive rollback strategy is crucial for addressin
 By integrating these elements into the rollback strategy, organisations can strengthen their capacity to handle IT failures, thereby safeguarding operational continuity and maintaining stakeholder trust (Fellows, 2023).
 
 
+
 #### Bibliography
 
 Fruhlinger, J. (12 February 2020) Equifax data breach FAQ: What happened, who was affected, what was the impact? CSO Available at  https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html [Accessed on 7 February 2025]
@@ -145,9 +151,10 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
 
-[Back to the top](##)
+[Back to the top](#)
 
-## Seminar & formative activities
+
+## Seminar and formative activities
 
 
 ### Unit 2 Seminar preparation
@@ -157,6 +164,6 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
 
-[Back to the top](##)
+[Back to the top](#)
 
 [Go to main Menu](https://narchondas.github.io/)
