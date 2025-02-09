@@ -112,6 +112,7 @@ Some researchers opt for discarding 'No opinion' answers and calculate only the 
 
 In my opinion, both approaches can be used depending on the findings of the research and whether we wish to give a detailed or less detailed account of the data we have collected.
 
+[Back to the top](#Numerical-Analysis)
 
 
 ## Collaborative Discussion 2
@@ -139,6 +140,7 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
+[Back to the top](#Numerical-Analysis)
 
 ## End of Module Assessment 1: Statistical Analysis Presentation
 
@@ -147,6 +149,8 @@ Statistical Analysis Presentation
 
 Transcript of the audio file
 (https://docs.google.com/document/d/1NZBDDYlKaKV6L7gzbl8JgD_RDbs94uitfiBvVukOJVc/edit?tab=t.0)
+
+[Back to the top](#Numerical-Analysis)
 
 
 ## End of Module 2 Assessment: Individual Reflection
@@ -189,5 +193,6 @@ UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to
 
 UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 6 January]
 
+[Back to the top](#Numerical-Analysis)
 
 [Go to main Menu](https://narchondas.github.io/)
