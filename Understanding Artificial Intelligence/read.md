@@ -114,13 +114,6 @@ Yin S. and Kaynak O., "Big Data for Modern Industry: Challenges and Trends [Poin
 Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Available from https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2021/ [Accessed 6 August 2024]
 
 
-**References**
-
-Facebook (2020, 11 June) Good questions, real answers: How does Facebook use machine learning to deliver ads? Facebook Business. Available from https://www.facebook.com/business/news/good-questions-real-answers-how-does-facebook-use-machine-learning-to-deliver-ads [Accessed 8 August 2024]
-
-Marr, B. (2023, 2 May) 5 Amazing ways Meta (Facebook) is using Generative AI. Forbes. Available from https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/ [Accessed 8 August 2024]
-
-
 ## Collaborative Discussion 2
 
 ### Initial & summary posts
