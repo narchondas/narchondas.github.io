@@ -5,7 +5,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussion](#Collaborative-Discussion)
 
-[2. Seminars & formative activities](##Seminar & formative activities)
+[2. Seminars & formative activities](#Seminar-&-formative-activities)
 
 ### Learning outcomes
 
