@@ -10,6 +10,7 @@ Use the following links to navigate to the start of the sections
 
 [4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-(AI)-Solution-Implementation)
 
+## Learning outcomes
 
 ### In this module, I shall:
 
@@ -124,6 +125,7 @@ Yin S. and Kaynak O., "Big Data for Modern Industry: Challenges and Trends [Poin
 
 Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Available from https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2021/ [Accessed 6 August 2024]
 
+[Back to the top](#Understanding-Artificial-Intelligence)
 
 ## Collaborative Discussion 2
 
@@ -243,6 +245,9 @@ Anon, (ND), Decision Tree. Available from: https://www.mastersindatascience.org/
 Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry. 27(2):130-5. DOI: 10.11919/j.issn.1002-0829.215
 
 
+[Back to the top](#Understanding-Artificial-Intelligence)
+
+
 ## Individual Essay: Artificial Intelligence and its Applications
 
 **Assignment Details**
@@ -324,6 +329,8 @@ Terence Tse et al.  (29 April, 2021) Five steps for companies to make AI pilots 
 University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2 Infographic Transcript 
 
 Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
+
+[Back to the top](#Understanding-Artificial-Intelligence)
 
 
 ## Artificial Intelligence (AI) Solution Implementation
@@ -453,5 +460,6 @@ Wang, Z., Xia, L., Yuan, H., Srinivasan, R.S. & Song, X. (2022) Principles, rese
 
 WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://www.waikato.ac.nz/int/research/institutes-centres-entities/institutes/artificial-intelligence-institute/research/software/
 
+[Back to the top](#Understanding-Artificial-Intelligence)
 
 [Go to main Menu](https://narchondas.github.io/)
