@@ -152,284 +152,548 @@ Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Eno
 ### Transcript of the audio file
 
 Audio file
+
 Transcript
+
 00:00:01
+
 Hello my name
+
 00:00:02
+
 Is Nikos and I'm studying the Master of Science in Artificial Intelligence.
+
 00:00:09
+
 This is the presentation of the Statistical analysis
+
 00:00:14
+
 That I performed based on the Health Survey for England data set for 2011, and this is the assignment of module 2.
+
 00:00:29
+
 So we were tasked by the University of Essex Online to produce some R studio.
+
 00:00:37
+
 Commands and produce the results of the survey using the data set on the Health Survey for England in 2011.
+
 00:00:50
+
 This health survey is designed to monitor trends in the nation’s health, and it provides some information that cannot be obtained from other sources on a range of issues, for instance.
+
 00:01:05
+
 How depressed English people feel, what is the status of the mental health?
+
 00:01:13
+
 Of them and what types of counseling they have used, if they drink alcohol, if they smoke, etc.
+
 00:01:23
+
 And this data set consists of a lot of variables in total 58.
+
 00:01:31
+
 I performed several Rstudio commands.
+
 00:01:35
+
 Let's say I tried to see the numbers of rows, the tables to find out the numbers in the categories in each variable.
+
 00:01:47
+
 I perform Chi-square test.
+
 00:01:49
+
 Non parametric tests as well and some also correlation tests as well.
+
 00:01:58
+
 It was really easy to perform.
+
 00:02:02
+
 These tasks with Rstudio and it can really process very very fast.
+
 00:02:09
+
 These analysis.
+
 00:02:12
+
 In particular, when you have to deal with such a big data set.  On the other hand, it is a little bit of a challenge because if you forget to put.
+
 00:02:26
+
 A bracket or to do a typo.
+
 00:02:33
+
 This does not work.  So let's go back to our presentation.
+
 00:02:39
+
 The first question was about.
+
 00:02:42
+
 The total respondents, which are included in the sample.
+
 00:02:47
+
 I produced some Rstudio commands and find out the number of rows
+
 00:02:54
+
 We can say that the respondents of the sample are 10617 people.
+
 00:03:02
+
 The second question was about the percentage of the people who drink alcohol and in that analysis I excluded the non-valid answers.
+
 00:03:15
+
 So I performed this analysis based on the Yes and No answers and I found out that approximately 79% of the people drink alcohol and approximately 21% claim.
+
 00:03:31
+
 Not to do so.
+
 00:03:36
+
 The other question was about the percentage of women in the sample and the numbers.
+
 00:03:42
+
 Are the following so.
+
 00:03:45
+
 5765 women have participated in the survey.
+
 00:03:53
+
 Representing more or less 56% of the total respondents.  When it comes to the highest educational level that I found was the NVQ 4 NVQ 5 slash degree or equivalent.
 I kind of performed a Rstudio command to see the table and the categories of this variable.
+
 00:04:29
+
 Let's go to the descriptive statistics and.
+
 00:04:35
+
 To see how many divorced and separated people have participated in the sample.
+
 00:04:42
+
 To be able to see this kind of figure.
+
 00:04:46
+
 I performed some Rstudio commands and found out the table.
+
 00:04:51
+
 And all the numbers of the categories of the marital status variable.
+
 00:04:56
+
 And also you can notice that category four and five represent the separated and divorced people.
+
 00:05:03
+
 So in total you have 224 separated people and 594.
+
 00:05:10
+
 Divorced people participating in the sample, representing 9 and half percent of the total sum excluding the non-valid answers.
+
 00:05:25
+
 Here I was tasked to find the mean, median, mode, minimum, maximum range, and standard deviation of three variables.
+
 00:05:35
+
 In particular, that of the household size, the body mass index and the age of last birthday.
+
 00:05:43
+
 I'm not going to describe in every detail all the numbers but let me focus on one variable.
+
 00:05:49
+
 Let's go to the household size and.
+
 There the median number is 3, so I assume that.
+
 00:05:58
+
 You have two parents and one child.
+
 00:06:01
+
 Minimum is one people, so you have just one people participate in the household and maximum 10 people. The range is 9 and the standard deviation is 1.37.
+
 00:06:15
+
 And let's go also to the age where the range is much greater because you have.
+
 00:06:24
+
 Babies also.
+
 00:06:26
+
 Taken into account in a survey.  You have minimum, zero and maximum 100. So the range is 100 and the standard deviation is much larger 23.83.
+
 00:06:43
+
 Here we were asked to run a significant test to find out.
+
 00:06:50
+
 Which gender drinks more alcohol?
+
 00:06:54
+
 So basically 84%.
+
 00:06:59
+
 Of men claim to drink alcohol and 74% of women claim to do so.
+
 00:07:08
+
 Here I performed the Chi-square test.
+
 00:07:16
+
 And so that the result of the test was 114.15 and the P value.
+
 Is close to 0, far smaller than the 0.05 So we can reassume that the test is statistically significant.
+
 00:07:37
+
 There is a statistically significant association between.
+
 00:07:41
+
 Gender and drinking alcohol so we can assume that the distribution of alcohol consumption is not the same.
 The null hypothesis is men and women have the same levels of alcohol consumption 
 So we can reasonably assume that men and women do not have the same alcohol consumption levels and their consumption differs.
+
 00:08:15
+
 When it comes to the region, the English region which drinks the most alcohol there, I performed again a Chi-square test.
+
 00:08:25
+
 And the result was 98.53 and the P value is much much less than 5% so.
+
 00:08:37
+
 This indicates.
+
 00:08:38
+
 That there is a statistically significant difference in alcohol consumption across regions in England and of course this is corroborated by the small value.
-00:08:49
+
 We can reject the null hypothesis according to which all English regions have the same level of alcohol consumption.
 We can really assume that the regions of England have different levels of alcohol consumption and to be more precise.
+
 00:09:09
+
 Region 9 South West.
+
 00:09:12
+
 Stands out as a region with significantly higher alcohol consumption than several other regions, approximately 84%.
+
 00:09:26
+
 Here.
+
 00:09:29
+
 I investigate whether there is a statistical difference between any women on the following variable.
+
 00:09:36
+
 So.
+
 00:09:38
+
 As for the height before.
+
 00:09:41
+
 Engaging in our command in our commands, I tried to find out whether the data on height is normally distributed.
+
 00:09:54
+
 And I perform the Anderson Darling normality test and the value was approximately 400 and the P value close to 0.
+
 00:10:03
+
 The data on the height significantly deviates from a normal distribution.
+
 00:10:10
+
 So this is why I performed the non-parametric test.
+
 00:10:14
+
 Wilcoxon ran-sum test (the Mann Whitney U test).
+
 00:10:20
+
 The statistical difference for this variable and the result I got, for instance an extremely small P value indicates that the difference in height between the two genders is statistically significant. So we can reject.
+
 00:10:39
+
 The null hypothesis that men and women.
+
 00:10:42
+
 Have the same kind of height and we can really assume that they have different height.
+
 00:10:52
+
 So men tend to be taller than women on average, as you can see.
+
 00:11:01
+
 I had to perform the same kind of statistical analysis as for another variable, the weight.
-00:11:09
+
 So again, I performed the Anderson Darling normally test to check whether the data on weight is normally distributed and it was not the case.
+
 00:11:22
+
 So I performed again the non-parametric test.
+
 00:11:29
+
 The Wilcoxon rank-sum tests (Mann Whitney U test).
+
 00:11:33
+
 And the values I got indicated that there is indeed a difference in weight between the two genders, which is statistically significant.
+
 00:11:42
+
 So in that sense, the p-value is close to 0, much less than 5%.
+
 00:11:48
+
 So we can reasonably reject the null hypothesis according to which men and women have the same weight.
+
 We can reasonably assume that genders do not have the same weight.
+
 00:12:03
+
 So basically as you can see, men tend to be heavier than women on average.
+
 00:12:12
+
 On that slide, you can see the result of the correlation exercise.
+
 00:12:19
+
 Among four variables the drink nowadays.
+
 00:12:23
+
 Total household income.
+
 00:12:25
+
 Age at last birthday and gender. I'm not going to get into the details because you can read.
+
 00:12:34
+
 The results. But basically we had to produce the r (the correlation coefficient).
+
 00:12:42
+
 To see whether there would be a positive or negative correlation between.
+
 00:12:48
+
 Two variables.
+
 00:12:52
+
 And let me give you an example.
+
 00:12:55
+
 Let's take the drink nowadays and the total household income variables correlation exercise and we found.
+
 00:13:05
+
 That the r (the correlation coefficient) which indicates the strength and the direction of the correlation is close to 0.
+
 00:13:15
+
 It might be a little bit positive correlation, but it's close to 0 and the P-value also.
+
 00:13:22
+
 Is close to 0, so it is statistically significant.
+
 00:13:29
+
 Let's focus on the total household income and the gender, and there you can see a really very low close to 0 r and the p-value 0.6297, indicating that this kind of analysis is not statistically significant.
+
 00:14:01
+
 In conclusion, the P value was used to test the null hypothesis that there is no correlation between the two variables.
+
 00:14:11
+
 Very small p-value indicates that the correlation is statistically significant.
+
 00:14:20
+
 The majority of the relationships seem to be statistically significant but extremely weak, meaning that.
+
 00:14:28
+
 While there is kind of a very, very weak, extremely weak positive correlation between some variables.
+
 00:14:36
+
 We can assume that other variables may play a more significant role.
 Let's then focus on some findings and compare the findings with some relevant literature on gender and alcohol correlation in the UK.
 At more or less the findings of the survey corroborate what I have read in literature.
+
 00:15:04
+
 And 84% of men treat alcohol, compared to 74%
+
 00:15:11
+
 Of women who claim to do so.
+
 00:15:15
+
 The means that the general gap in alcohol consumption is narrowing over the last years.  In the past at least, men were considered to drink much more alcohol and much more often.
+
 00:15:31
+
 And this kind of rise in alcohol conception in women can be attributed to targeting advertising for a female public, to the pricing and to the changing socio-economic patterns of women.
+
 00:15:47
+
 And these factors may have impacted the rise in alcohol consumption among them.
+
 00:15:56
+
 However, men prefer drinking different kinds of alcohol, beers and spirits in public spaces, and women tend to drink more wine in non-public spaces, let's say at home.
 Men are more likely to engage in binge drinking than women. Also, is another.
+
 00:16:19
+
 Point that I would like to stress.
+
 00:16:25
+
 Unfortunately, women tend to suffer more alcohol related health issues due to their body composition than men because women have a higher fat content and less water content.
+
 00:16:44
+
 So this is has a negative impact on their health.
+
 00:16:50
+
 Also, another point I would like to highlight is that the research has shown.
+
 00:16:56
+
 That the lowest socio-economic status is often associated with higher rates of alcohol consumption, particularly among men, and another interesting.
+
 00:17:08
+
 Piece of information is that.
+
 00:17:11
+
 People living in urban areas generally drink more alcohol than those living in rural areas.
+
 00:17:22
+
 So let me conclude and let me give you some recommendations on how to deal.
+
 00:17:30
+
 The alcohol consumption problem we could also.
+
 00:17:35
+
 Consider some targeted campaigns of awareness raising for health risks associated with high alcohol consumption.
+
 00:17:44
+
 According to the literature, a high a high price does have an impact on alcohol consumption.
+
 00:17:51
+
 Maybe we could also envisage this kind of policy.
+
 00:17:57
+
 We could also try some very extensive information campaigns making use of widely known role models which will try to disassociate alcohol consumption with influential and privileged social status.
+
 00:18:18
+
 A similar campaign to that on anti-tobacco can be very effective.
+
 00:18:23
+
 So let me remind you that you have some product labeling rules, and you have the obligation.
+
 00:18:31
+
 To include some health warnings on the package of the cigarettes and you have a advertising prohibition.
+
 00:18:42
+
 The result was that the share of smokers, at least in wealthier countries, tend to continuously diminish.
+
 00:18:48
+
 So we could also consider this kind of policy options.
+
 00:18:54
+
 Another useful tool would be the extensive communication from doctors and health experts on the health risks associated with alcohol consumption. Apart from the health issues.
 We may include the physical verbal violence, the irresponsible driving, the anti-social behaviour, some accidents, etc.
 So basically we could target different kinds of groups like schools, universities, work and family also.
 The social media, television, podcast, radio and newspapers for this kind of campaign.
 And this is the bibliography which helped me to deliver the presentation, in particular the findings and some conclusions and recommendations on the alcohol drinking problem in general in the UK, but in general as well.
+
 00:19:54
+
 And here I would like to show you the appendix of the Rstudio commands and the screenshots I have copy pasted here on the PowerPoint presentation.
+
 00:20:08
+
 I don't know to what extent you will be able to see the commands in PPT.
+
 00:20:14
+
 So let me just.
+
 00:20:18
+
 Go through by clicking the button and for you to see my screenshots of the Rstudio commands.
+
 00:20:26
+
 Before that, I would like to thank you for your attention and it was really a very interesting and challenging task to perform this kind of exercise on Rstudio and to find out some interesting insights on alcohol consumption in England, based on the Health Survey for England.
 So thank you very much for your attention.
 I will go through the slides now.
