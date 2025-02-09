@@ -72,7 +72,7 @@ Study the required and additional reading of each Module Unit
 
 Take e-notes and highlight the most important sections
 
-Understand the formative activities and try to test my knowledge with examples 
+Understand the formative activities and test my knowledge with examples 
 
 Prepare all seminar activities
 
