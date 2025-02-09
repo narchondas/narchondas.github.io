@@ -8,7 +8,7 @@ Use the following links to navigate to the start of the sections
 
 [3. Individual Essay: Artificial Intelligence and its Applications](#Individual-Essay-Artificial-Intelligence-and-its-Applications)
 
-[4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-(AI)-Solution-Implementation)
+[4. Artificial Intelligence (AI) Solution Implementation](#Artificial-Intelligence-AI-Solution-Implementation)
 
 
 ## Learning outcomes
