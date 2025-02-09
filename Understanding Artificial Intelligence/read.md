@@ -82,6 +82,13 @@ Meta (Facebook) has recently taken a step further and is intending to allow adve
 While it seems a tautology that targeted advertisement could boost business earnings, on the other hand, one could also argue that this 'extremely' targeted advertisement might have some unexpected and unintended repercussions on the user experience if this is perceived as too invasive.  This could at best lead to dissatisfaction or disconcert of technologically minded users, who might be extremely worried about their privacy and data protection.
 
 
+**References**
+
+Facebook (2020, 11 June) Good questions, real answers: How does Facebook use machine learning to deliver ads? Facebook Business. Available from https://www.facebook.com/business/news/good-questions-real-answers-how-does-facebook-use-machine-learning-to-deliver-ads [Accessed 8 August 2024]
+
+Marr, B. (2023, 2 May) 5 Amazing ways Meta (Facebook) is using Generative AI. Forbes. Available from https://www.forbes.com/sites/bernardmarr/2023/05/02/5-amazing-ways-how-meta-facebook-is-using-generative-ai/ [Accessed 8 August 2024]
+
+
 Dear Abdulaziz,
 
 you raise a number of interesting points regarding the relation between Artificial Intelligence and e-commerce and to what extent companies can take advantage of the AI-enabled tools to optimise process, demand and customer experience, among others.
