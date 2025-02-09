@@ -31,8 +31,6 @@ Use the follwoing links to navigate to the start of the sections
 
 ### Collaborative Discussion
 
-#### Instructions
-
 **Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.  Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.**
 
 ‘System failure is a system that fails to develop or does so in a stunted fashion’ (Carlsson and Jacobsson ,1997 in Bergek et al., 2008).   The first six months of 2018, the national IT systems across the NHS in Wales experienced such system failures as a total of 21 outages took place resulting in various disruptions for GPs, health care staff and patients (Postelnicu, 2018).   
