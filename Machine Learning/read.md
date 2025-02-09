@@ -7,7 +7,7 @@ Use the following links to navigate to the start of the sections
 
 [2.  Professional Skills matrix and action plan PDP](#Professional-Skills-matrix-and-action-plan-PDP)
 
-[3. Seminars & formative activities](#Seminar-and-formative-activities)
+[3. Seminars and formative activities](#Seminar-and-formative-activities)
 
 ## Learning outcomes
 
