@@ -9,7 +9,9 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminars and formative activities](#Seminar-and-formative-activities)
 
+
 ## Learning outcomes
+
 
 ### In the module Machine Learning I shall:
 
@@ -20,6 +22,7 @@ Use the following links to navigate to the start of the sections
 *Experience how machine learning and data analytics can be used in real-world applications.
 
 *Acquire the ability to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms.
+
 
 ### On completion of the module Machine Learning, I will be able to:
 
