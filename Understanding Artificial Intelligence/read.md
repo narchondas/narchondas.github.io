@@ -15,25 +15,25 @@ Use the following links to navigate to the start of the sections
 
 ### In this module, I shall:
 
-*Develop an understanding of the history and future of Artificial Intelligence. To include definition of AI, professional and ethical issues, as well as key application areas (Industry 4.0 and FinTech).
+* Develop an understanding of the history and future of Artificial Intelligence. To include definition of AI, professional and ethical issues, as well as key application areas (Industry 4.0 and FinTech).
 
-*Develop an understanding of AI fundamentals including the Alan Turing Test, knowledge representation and approaches to developing learning systems.
+* Develop an understanding of AI fundamentals including the Alan Turing Test, knowledge representation and approaches to developing learning systems.
 
-*Examine programming paradigms and algorithms for Machine Learning.
+* Examine programming paradigms and algorithms for Machine Learning.
 
-*Examine the preparation data for AI solutions.
+* Examine the preparation data for AI solutions.
 
-*Develop programming abilities for learning algorithm implementation.
+* Develop programming abilities for learning algorithm implementation.
 
 ### On completion of this module, I will be able to:
 
-*Understand the legal, ethical and professional issues brought up by AI and the impact of AI on society.
+* Understand the legal, ethical and professional issues brought up by AI and the impact of AI on society.
 
-*Understand and critically analyse the essential concepts, principles, methods, techniques and problems of AI.
+* Understand and critically analyse the essential concepts, principles, methods, techniques and problems of AI.
 
-*Demonstrate a critical understanding of data requirements and programming paradigms applicable to AI.
+* Demonstrate a critical understanding of data requirements and programming paradigms applicable to AI.
 
-*Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
+* Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
 
 ## Collaborative Discussion 1
