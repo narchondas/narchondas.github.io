@@ -6,21 +6,21 @@
 
 ### This module aims to: 
 
-*Provide an introduction to KOL and the University of Essex Online, its virtual learning environment (VLE), Moodle, and the available library resources.  Familiarise students with the resources available in the Study Skills Hub. Guide students on how to best engage in online learning (learning communities, organising learning).
+* Provide an introduction to KOL and the University of Essex Online, its virtual learning environment (VLE), Moodle, and the available library resources.  Familiarise students with the resources available in the Study Skills Hub. Guide students on how to best engage in online learning (learning communities, organising learning).
 
-*Introduce students to the ideas of reflective learning and critical thinking.
+* Introduce students to the ideas of reflective learning and critical thinking.
 
-*Refresh students’ knowledge of referencing and the avoidance of academic dishonesty.
+* Refresh students’ knowledge of referencing and the avoidance of academic dishonesty.
 
-*Introduce the skills required for successful completion of future modules (including academic writing and research skills).
+* Introduce the skills required for successful completion of future modules (including academic writing and research skills).
 
 ### In this module I shall:
 
-*Demonstrate the technical and personal requirements of online learning.
+* Demonstrate the technical and personal requirements of online learning.
 
-*Demonstrate competencies in the use of the tools available to online learners.
+* Demonstrate competencies in the use of the tools available to online learners.
 
-*Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
+* Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 
 ### Induction Assignment
