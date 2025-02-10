@@ -15,25 +15,25 @@ Use the following links to navigate to the start of the sections
 
 ### In this module I shall:
 
-*Develop a systematic understanding of foundational mathematical principles and methods, as well as core and specialised concepts underpinning computing logic.
+* Develop a systematic understanding of foundational mathematical principles and methods, as well as core and specialised concepts underpinning computing logic.
 
-*Understand the foundation for the development and application of programming and data-driven techniques, from both a theoretical and practical viewpoint.
+* Understand the foundation for the development and application of programming and data-driven techniques, from both a theoretical and practical viewpoint.
 
-*Facilitate the ability to interpret the results generated when using these data science and ai tools.
+* Facilitate the ability to interpret the results generated when using these data science and ai tools.
 
-*Gain an understanding of the real-world applications of these computational tools, and contemporary issues related to these computational techniques.
+* Gain an understanding of the real-world applications of these computational tools, and contemporary issues related to these computational techniques.
 
-*The opportunity to take a reflective and independent approach to the learning process.
+* The opportunity to take a reflective and independent approach to the learning process.
 
 ### On completion of this module I will be able to:
 
-*Demonstrate systematic understanding of the key mathematical and statistical concepts and techniques which underpin mechanisms in Data Science and AI.
+* Demonstrate systematic understanding of the key mathematical and statistical concepts and techniques which underpin mechanisms in Data Science and AI.
 
-*Apply mathematical and statistical methods in these fields to help in the decision-making process.
+* Apply mathematical and statistical methods in these fields to help in the decision-making process.
 
-*Critically evaluate the use of statistical analysis and the numeric interpretation of results as aids in the decision-making process.
+* Critically evaluate the use of statistical analysis and the numeric interpretation of results as aids in the decision-making process.
 
-*Critically appraise and present results of a statistical analysis to a diverse audience.
+* Critically appraise and present results of a statistical analysis to a diverse audience.
 
 
 ## Collaborative Discussion 1
