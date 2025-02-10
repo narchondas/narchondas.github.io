@@ -43,84 +43,84 @@ Use the following links to navigate to the start of the sections
 
 ### Self-assessment
 
-Very motivated to learn about machine learning and advance with my MSc
+*Very motivated to learn about machine learning and advance with my MSc
 
-Focused on timely delivery of good quality assignments
+*Focused on timely delivery of good quality assignments
 
-Good with time management, note taking and studying new material
+*Good with time management, note taking and studying new material
 
-Lack of a STEM background, so more difficult to get quickly familiar with the concepts and perform the formative acitivities
+*Lack of a STEM background, so more difficult to get quickly familiar with the concepts and perform the formative acitivities
 
-Lack of familiarity with coding, in particular Python
+*Lack of familiarity with coding, in particular Python
 
 
 ### Set goals
 
-Learn about the key paradigms and algorithms in machine learning
+*Learn about the key paradigms and algorithms in machine learning (i.e. Exploratory Data Analysis, correlation, regression, clustering, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), model selection and evaluation)
 
-Get familiar with data analytics based on machine learning and with programming tools, such as Python or R
+*Get familiar with data analytics based on machine learning and with programming tools, such as Python or R
 
-Understand how machine learning and data analytics can be used in real-world applications
+*Understand how machine learning and data analytics can be used in real-world applications
 
-Be able to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms
+*Be able to gather and synthesise information from multiple sources to aid in the systematic analysis of complex problems using machine learning tools and algorithms
 
-Regularly update my GitHub
+*Regularly update my GitHub
 
 
 ### Develop strategies
 
-Study the required and additional reading of each Module Unit
+*Study the required and additional reading of each Module Unit (i.e. Exploratory Data Analysis, correlation, regression, clustering, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), model selection and evaluation)
 
-Take e-notes and highlight the most important sections
+*Take e-notes and highlight the most important sections
 
-Understand the formative activities and test my knowledge with examples 
+*Understand the formative activities and test my knowledge with examples 
 
-Prepare all seminar activities
+*Prepare all seminar activities
 
-Perform the required formative activities of the Module Unit
+*Perform the required formative activities of the Module Unit
 
-Plan in advance for the assignments
+*Plan in advance for the assignments
 
-Make sure there is sufficient time to fine-tune assignments
+*Make sure there is sufficient time to fine-tune assignments
 
-Gather feedback from peers
+*Gather feedback from peers
 
 
 ### Gather resources
 
-Study all the required and additional material of each Module Unit
+*Study all the required and additional material of each Module Unit (i.e. Exploratory Data Analysis, correlation, regression, clustering, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), model selection and evaluation)
 
-Prepare seminar activities
+*Prepare seminar activities
 
-Perform all formative activities
+*Perform all formative activities
 
-Seek other explanatory reliable material on internet (websites, videos, classes etc)
+*Seek other explanatory reliable material on internet (websites, videos, classes etc)
 
-Reach out to my project group's peers
+*Reach out to my project group's peers
 
-Reach out to the tutor
+*Reach out to the tutor
 
 
 ### Create timeline
 
-Study all required and additional material every week
+*Study all required and additional material every week (i.e. Exploratory Data Analysis, correlation, regression, clustering, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), model selection and evaluation)
 
-Plan in advance the assignments
+*Plan in advance the assignments
 
-Timely deliver the common project with my group peers
+*Timely deliver the common project with my group peers
 
-Timely deliver the assignment (presentation)
+*Timely deliver the assignment (presentation)
 
-Timely submit my e-portfolio
+*Timely submit my e-portfolio
 
 
 ### Track progress and revise
 
-Regularly monitor if targets are met
+*Regularly monitor if targets are met
 
-Reconsider strategy, if needed
+*Reconsider strategy, if needed
 
-Monitor the timely delivery of good quality assignments
+*Monitor the timely delivery of good quality assignments
 
 
 [Back to the top](#Machine-Learning)
