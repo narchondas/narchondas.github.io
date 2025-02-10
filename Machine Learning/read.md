@@ -168,6 +168,43 @@ Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to res
 
 **Summary post**
 
+System failures occur when systems fail to develop adequately or remain underdeveloped (Carlsson and Jacobsson, 1997 in Bergek et al., 2008).  In early 2018, the NHS in Wales encountered 21 critical IT system outages, disrupting services for GPs, healthcare staff, and patients (Postelnicu, 2018).  These disruptions hindered access to electronic patient records, affecting appointments, prescriptions, and healthcare delivery (Donnely, 2018).  Patients struggled with booking or cancelling appointments and obtaining test results, while GPs couldn’t access blood test and X-ray data (BBC, 2018).  Dr. Peter Saul from the Royal College of GPs in Wales emphasised the criticality of IT systems to clinical practice, warning of significant disruptions from data outages (Geraint, 2018).
+
+The Fourth Industrial Revolution is characterised by unprecedented speed, scope, and systemic impact, leading to complex interdependencies across systems that can disrupt lives and industries globally (Schwab, 2016).  Nevertheless, there is rising concern over how extensive data availability affects personal control and privacy.
+
+Interdependency is defined as ‘a bidirectional relationship between two infrastructures through which the state of each infrastructure influences or is correlated to the state of the other’ (Rinaldi et al., 2001). These connections pose challenges due to the complexity of national IT infrastructures.
+
+The Welsh NHS IT system failures had to do with infrastructures which share cyber interdependency (Rinaldi et al., 2001), meaning that their state depends on information transmitted through the information infrastructure.  Eventually, such weaknesses in system structure may lead to interaction failures (related to networks) and to institutional failures (related to institutions) as it was the case of the Welsh NHS outages and may have an impact on the public trust towards state actors and operators.
+
+However, our infrastructure was already heavily technologised and interdependent nearly 25 years ago, with risks of disruptions cascading across sectors, making it clear that vulnerabilities were present even in the early stages of digital reliance (Rinaldi et al., 2001).  The point is that today, due to the rapid technological advances, such as data integration and cyber-based systems, these complexities are largely amplified (Schwab, 2016).
+
+A key challenge is modernising legacy systems necessary for organisations yet obsolete for Industry 4.0 (Venâncio et al., 2022).  Although Industry 4.0 offers clear benefits, high transformation costs hinder adoption.  Updating systems is vital but complicated by system evolution and integration (Clarke et al., 2024).
+
+Understanding vulnerabilities is vital for future policy development and public service delivery.  Concerns over these vulnerabilities could prompt reconsideration of digital transitions, as seen in Sweden and Norway's re-evaluation of cashless societies due to security threats and accessibility issues (Bryant, 2024).
+
+ 
+#### Bibliography
+
+BBC (24 January 2018), Welsh NHS systems back up after computer 'chaos', Available at https://www.bbc.com/news/uk-wales-42803118 [Accessed on 31 January 2025]
+
+Bergek A., Jacobsson S., Carlsson B., Lindmark S., Rickne A. (2008), Analyzing the functional dynamics of technological innovation systems: A scheme of analysis, Research Policy, Volume 37, Issue 3, 2008, Pages 407-429, https://doi.org/10.1016/j.respol.2007.12.003.
+
+Bryant, M. (30 October 2024) Sweden and Norway rethink cashless society plans over Russia security fears, The Guardian, Available at https://www.theguardian.com/world/2024/oct/30/sweden-and-norway-rethink-cashless-society-plans-over-russia-security-fears [Accessed on 29 January 2025]
+
+Clarke, P. et al. (2024) ‘Investigating Systems Modernisation: Approaches, Challenges and Risks’, in M. Yilmaz et al. (eds). EuroSPI 2024, München, Germany. Available at: https://link.springer.com/chapter/10.1007/978-3-031-71139-8_10 [Accessed: 10 February 2025].
+
+Donnelly, C. (25 January 2018), NHS Wales IT outage: What went wrong with its datacentres?, ComputerWeekly.com, Available at https://www.computerweekly.com/news/252433769/NHS-Wales-IT-outage-What-went-wrong-with-its-datacentres [Accessed on 31 January 2025]
+
+Geraint, T. (8 November 2018), Outdated NHS Wales IT system 'needs a reboot', BBC Wales News, Available at https://www.bbc.com/news/uk-wales-46126048 [Accessed on 30 January 2025]
+
+Postelnicu, L. (8 November 2018), HealthcareITNews, Report on informatics systems in NHS Wales raises "alarming findings", Available at https://www.healthcareitnews.com/news/emea/report-informatics-systems-nhs-wales-raises-alarming-findings [Accessed on 31 January 2025]
+
+Rinaldi S. M., Peerenboom J. P. & Kelly T. K. (2001), "Identifying, understanding, and analyzing critical infrastructure interdependencies," IEEE Control Systems Magazine, vol. 21, no. 6, pp. 11-25, December 2001, doi: 10.1109/37.969131.
+
+Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond. World Economic Forum. Available at https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond [Accessed: 29 January 2025].
+
+Venâncio, A.L.A.C. et al. (2022) ‘Technology prioritization framework to adapt maintenance legacy systems for Industry 4.0 requirement: an interoperability approach’, Production, 32, p. e20210035. Available at https://www.researchgate.net/publication/360478607_Technology_prioritization_framework_to_adapt_maintenance_legacy_systems_for_Industry_40_requirement_an_interoperability_approach [Accessed on 10 February 2025]
+
 
 
 ### Response to my peers' posts
