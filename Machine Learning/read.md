@@ -4,11 +4,11 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1.  Professional Skills matrix and action plan PDP](#Professional-Skills-matrix-and-action-plan-PDP)
+[1.  Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-pdp)
 
-[2. Collaborative Discussion](#Collaborative-Discussion)
+[2. Collaborative Discussion](#collaborative-discussion)
 
-[3. Seminars and formative activities](#Seminar-and-formative-activities)
+[3. Seminars and formative activities](#seminar-and-formative-activities)
 
 
 ## Learning outcomes
@@ -35,7 +35,7 @@ Use the following links to navigate to the start of the sections
 
 * Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-[Back to the top](#Machine-Learning)
+[Back to the top](#machine-learning)
 
 
 ## Professional Skills matrix and action plan PDP
@@ -124,7 +124,7 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#Machine-Learning)
+[Back to the top](#machine-learning)
 
 
 ## Collaborative Discussion
@@ -265,7 +265,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 
 
-[Back to the top](#Machine-Learning)
+[Back to the top](#machine-learning)
 
 
 ## Seminar and formative activities
@@ -279,7 +279,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 
 
-[Back to the top](#Machine-Learning)
+[Back to the top](#machine-learning)
 
 
 [Go to main Menu](https://narchondas.github.io/)
