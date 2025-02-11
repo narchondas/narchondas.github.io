@@ -2,6 +2,9 @@
 
 This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
+![image](https://github.com/user-attachments/assets/11a20925-3e89-4935-a16f-7362705c6449)
+
+
 Use the following links to navigate to the start of the sections
 
 [1.  Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-pdp)
