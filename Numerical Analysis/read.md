@@ -1,5 +1,8 @@
 # Numerical Analysis
 
+![image](https://github.com/user-attachments/assets/ac96fae5-042d-4eb7-ac9a-44e2dc3fb785)
+
+
 Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussion 1](#collaborative-discussion-1)
