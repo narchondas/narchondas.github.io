@@ -123,6 +123,7 @@ Use the following links to navigate to the start of the sections
 * Monitor the timely delivery of good quality assignments
 
 
+
 [Back to the top](#Machine-Learning)
 
 
@@ -263,6 +264,7 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
 
+
 [Back to the top](#Machine-Learning)
 
 
@@ -276,6 +278,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
 
+
 [Back to the top](#Machine-Learning)
+
 
 [Go to main Menu](https://narchondas.github.io/)
