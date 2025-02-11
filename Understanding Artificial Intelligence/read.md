@@ -1,5 +1,8 @@
 # Understanding Artificial Intelligence
 
+![image](https://github.com/user-attachments/assets/ac9ffe4c-dd30-4876-9e37-a0abd7aa42bb)
+
+
 Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussion 1](#collaborative-discussion-1)
