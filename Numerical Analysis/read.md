@@ -2,13 +2,13 @@
 
 Use the following links to navigate to the start of the sections
 
-[1. Collaborative Discussion 1](#Collaborative-Discussion-1)
+[1. Collaborative Discussion 1](#collaborative-discussion-1)
 
-[2. Collaborative Discussion 2](#Collaborative-Discussion-2)
+[2. Collaborative Discussion 2](#collaborative-discussion-2)
 
-[3. End of Module Assessment 1: Statistical Analysis Presentation](#End-of-Module-Assessment-1-Statistical-Analysis-Presentation)
+[3. End of Module Assessment 1: Statistical Analysis Presentation](#end-of-module-assessment-1-statistical-analysis-presentation)
 
-[4. End of Module Assessment 2: Individual Reflection](#End-of-Module-Assessment-2-Individual-Reflection)
+[4. End of Module Assessment 2: Individual Reflection](#end-of-module-assessment-2-individual-reflection)
 
 
 ## Learning outcomes
@@ -112,7 +112,7 @@ Some researchers opt for discarding 'No opinion' answers and calculate only the 
 
 In my opinion, both approaches can be used depending on the findings of the research and whether we wish to give a detailed or less detailed account of the data we have collected.
 
-[Back to the top](#Numerical-Analysis)
+[Back to the top](#numerical-analysis)
 
 
 ## Collaborative Discussion 2
@@ -140,7 +140,7 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
-[Back to the top](#Numerical-Analysis)
+[Back to the top](#numerical-analysis)
 
 ## End of Module Assessment 1: Statistical Analysis Presentation
 
@@ -154,7 +154,7 @@ Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Eno
 (https://docs.google.com/document/d/1bojGT9jiYe9Fy5tF9vi-1ji2FDx8g8GJv7LNu3Nv1SY/edit?tab=t.0)
 
 
-[Back to the top](#Numerical-Analysis)
+[Back to the top](#numerical-analysis)
 
 
 ## End of Module Assessment 2: Individual Reflection
@@ -197,6 +197,6 @@ UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to
 
 UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 6 January]
 
-[Back to the top](#Numerical-Analysis)
+[Back to the top](#numerical-analysis)
 
 [Go to main Menu](https://narchondas.github.io/)
