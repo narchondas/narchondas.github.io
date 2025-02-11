@@ -1,5 +1,8 @@
 # Induction Computing
 
+![image](https://github.com/user-attachments/assets/b58433e1-3256-4322-805d-d05aab85f8a1)
+
+
 [1. Induction Assignment](#induction-assignment)
 
 ## Learning outcomes
