@@ -117,10 +117,11 @@ Some researchers opt for discarding 'No opinion' answers and calculate only the 
 
 In my opinion, both approaches can be used depending on the findings of the research and whether we wish to give a detailed or less detailed account of the data we have collected.
 
-[Back to the top](#numerical-analysis)
 
 ![image](https://github.com/user-attachments/assets/6746f6b9-9fce-4003-828b-a385170acb3b)
 
+
+[Back to the top](#numerical-analysis)
 
 
 ## Collaborative Discussion 2
@@ -148,9 +149,10 @@ Ranstam, J. (2012) Why the P-value culture is bad and confidence intervals a bet
 
 Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Enough. Journal of Graduate Medical  Education Available on https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-07/Sullivan_JGME_2012.pdf [Accessed on 17 December 2024]
 
-[Back to the top](#numerical-analysis)
 
 ![image](https://github.com/user-attachments/assets/f3fe77ff-3359-4f1d-9542-c17a0dbb078c)
+
+[Back to the top](#numerical-analysis)
 
 
 ## End of Module Assessment 1: Statistical Analysis Presentation
@@ -208,9 +210,14 @@ UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to
 
 UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 6 January]
 
+
+![image](https://github.com/user-attachments/assets/82bca8cf-f9f6-46ef-991c-503a91f80233)
+
+
 [Back to the top](#numerical-analysis)
+
 
 [Go to main Menu](https://narchondas.github.io/)
 
-![image](https://github.com/user-attachments/assets/82bca8cf-f9f6-46ef-991c-503a91f80233)
+
 
