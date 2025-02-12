@@ -166,6 +166,8 @@ Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Eno
 
 (https://docs.google.com/document/d/1bojGT9jiYe9Fy5tF9vi-1ji2FDx8g8GJv7LNu3Nv1SY/edit?tab=t.0)
 
+![image](https://github.com/user-attachments/assets/8edd48fa-b832-4c4f-9d6e-878445fc5197)
+
 
 [Back to the top](#numerical-analysis)
 
