@@ -63,5 +63,5 @@ Hern A. & Milmo D. (February 24, 2023) Everything you wanted to know about AI â€
 [Go to Main Menu](https://narchondas.github.io/)
 
 
-(![image](https://github.com/user-attachments/assets/bb4fc4d4-4a87-4002-8252-82df5c8a4bdb)
+![image](https://github.com/user-attachments/assets/bb4fc4d4-4a87-4002-8252-82df5c8a4bdb)
 
