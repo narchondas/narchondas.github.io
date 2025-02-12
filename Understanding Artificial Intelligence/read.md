@@ -39,6 +39,9 @@ Use the following links to navigate to the start of the sections
 * Apply and evaluate critically the various methods, tools and technologies applied to an AI project in order to develop an effective plan and delivery of solutions to a business problem.
 
 
+![image](https://github.com/user-attachments/assets/69ca2958-0846-42b4-8573-400932eefcb0)
+
+
 ## Collaborative Discussion 1
 
 ### Initial & summary posts
@@ -130,6 +133,9 @@ Yin S. and Kaynak O., "Big Data for Modern Industry: Challenges and Trends [Poin
 Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Available from https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2021/ [Accessed 6 August 2024]
 
 [Back to the top](#understanding-artificial-intelligence)
+
+(![image](https://github.com/user-attachments/assets/3b751424-3a4a-4f3c-a36a-63f42b6c3690)
+
 
 ## Collaborative Discussion 2
 
@@ -251,6 +257,9 @@ Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classifi
 
 [Back to the top](#understanding-artificial-intelligence)
 
+(![image](https://github.com/user-attachments/assets/84667618-b1a8-454b-8120-1421371e721d)
+
+
 
 ## Individual Essay: Artificial Intelligence and its Applications
 
@@ -335,6 +344,9 @@ University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2
 Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
 
 [Back to the top](#understanding-artificial-intelligence)
+
+(![image](https://github.com/user-attachments/assets/a75cc881-4282-4129-9d72-a8c31fd41e99)
+
 
 
 ## Artificial Intelligence (AI) Solution Implementation
@@ -467,3 +479,6 @@ WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://ww
 [Back to the top](#understanding-artificial-intelligence)
 
 [Go to main Menu](https://narchondas.github.io/)
+
+(![image](https://github.com/user-attachments/assets/9fc12672-8358-4650-b261-b667704f045c)
+
