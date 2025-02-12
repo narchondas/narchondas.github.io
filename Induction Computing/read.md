@@ -26,7 +26,7 @@
 * Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 
-(![image](https://github.com/user-attachments/assets/9bfc6d48-b06f-42d6-9be8-0ac7af1a0326)
+![image](https://github.com/user-attachments/assets/9bfc6d48-b06f-42d6-9be8-0ac7af1a0326)
 
 
 
