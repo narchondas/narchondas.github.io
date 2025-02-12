@@ -38,7 +38,7 @@ Use the following links to navigate to the start of the sections
 
 * Critically appraise and present results of a statistical analysis to a diverse audience.
 
-(![image](https://github.com/user-attachments/assets/fee8d49c-bfea-4a01-b44e-eb0ee8d67381)
+![image](https://github.com/user-attachments/assets/fee8d49c-bfea-4a01-b44e-eb0ee8d67381)
 
 
 ## Collaborative Discussion 1
@@ -119,7 +119,7 @@ In my opinion, both approaches can be used depending on the findings of the rese
 
 [Back to the top](#numerical-analysis)
 
-(![image](https://github.com/user-attachments/assets/6746f6b9-9fce-4003-828b-a385170acb3b)
+![image](https://github.com/user-attachments/assets/6746f6b9-9fce-4003-828b-a385170acb3b)
 
 
 
@@ -150,7 +150,7 @@ Sullivan G.M., Feinn R. (2012) Using Effect Size—or Why the P Value Is Not Eno
 
 [Back to the top](#numerical-analysis)
 
-(![image](https://github.com/user-attachments/assets/f3fe77ff-3359-4f1d-9542-c17a0dbb078c)
+![image](https://github.com/user-attachments/assets/f3fe77ff-3359-4f1d-9542-c17a0dbb078c)
 
 
 ## End of Module Assessment 1: Statistical Analysis Presentation
@@ -212,5 +212,5 @@ UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https:/
 
 [Go to main Menu](https://narchondas.github.io/)
 
-(![image](https://github.com/user-attachments/assets/82bca8cf-f9f6-46ef-991c-503a91f80233)
+![image](https://github.com/user-attachments/assets/82bca8cf-f9f6-46ef-991c-503a91f80233)
 
