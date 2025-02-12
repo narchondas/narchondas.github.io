@@ -134,7 +134,7 @@ Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Avail
 
 [Back to the top](#understanding-artificial-intelligence)
 
-(![image](https://github.com/user-attachments/assets/3b751424-3a4a-4f3c-a36a-63f42b6c3690)
+![image](https://github.com/user-attachments/assets/3b751424-3a4a-4f3c-a36a-63f42b6c3690)
 
 
 ## Collaborative Discussion 2
@@ -257,7 +257,7 @@ Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classifi
 
 [Back to the top](#understanding-artificial-intelligence)
 
-(![image](https://github.com/user-attachments/assets/84667618-b1a8-454b-8120-1421371e721d)
+![image](https://github.com/user-attachments/assets/84667618-b1a8-454b-8120-1421371e721d)
 
 
 
@@ -345,7 +345,7 @@ Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from 
 
 [Back to the top](#understanding-artificial-intelligence)
 
-(![image](https://github.com/user-attachments/assets/a75cc881-4282-4129-9d72-a8c31fd41e99)
+![image](https://github.com/user-attachments/assets/a75cc881-4282-4129-9d72-a8c31fd41e99)
 
 
 
@@ -480,5 +480,5 @@ WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://ww
 
 [Go to main Menu](https://narchondas.github.io/)
 
-(![image](https://github.com/user-attachments/assets/9fc12672-8358-4650-b261-b667704f045c)
+![image](https://github.com/user-attachments/assets/9fc12672-8358-4650-b261-b667704f045c)
 
