@@ -38,11 +38,9 @@ Use the following links to navigate to the start of the sections
 
 * Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-[Back to the top](#machine-learning)
-
 ![image](https://github.com/user-attachments/assets/3c451f45-1cfe-4300-ade1-4a85bb7912dd)
 
-
+[Back to the top](#machine-learning)
 
 ## Professional Skills matrix and action plan PDP
 
@@ -130,10 +128,9 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#machine-learning)
-
 ![image](https://github.com/user-attachments/assets/af9afda4-2bdb-4e16-a44a-a7d70b76ae8f)
 
+[Back to the top](#machine-learning)
 
 
 ## Collaborative Discussion
@@ -274,10 +271,11 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 
 
-[Back to the top](#machine-learning)
 
 ![image](https://github.com/user-attachments/assets/f54eee9c-f8c4-4162-9450-903272316a88)
 
+
+[Back to the top](#machine-learning)
 
 
 ## Seminar and formative activities
@@ -294,7 +292,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Back to the top](#machine-learning)
 
 
-[Go to main Menu](https://narchondas.github.io/)
-
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
+
+[Go to main Menu](https://narchondas.github.io/)
 
