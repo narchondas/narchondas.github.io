@@ -40,6 +40,9 @@ Use the following links to navigate to the start of the sections
 
 [Back to the top](#machine-learning)
 
+![image](https://github.com/user-attachments/assets/3c451f45-1cfe-4300-ade1-4a85bb7912dd)
+
+
 
 ## Professional Skills matrix and action plan PDP
 
@@ -128,6 +131,9 @@ Use the following links to navigate to the start of the sections
 
 
 [Back to the top](#machine-learning)
+
+![image](https://github.com/user-attachments/assets/af9afda4-2bdb-4e16-a44a-a7d70b76ae8f)
+
 
 
 ## Collaborative Discussion
@@ -270,6 +276,9 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Back to the top](#machine-learning)
 
+![image](https://github.com/user-attachments/assets/f54eee9c-f8c4-4162-9450-903272316a88)
+
+
 
 ## Seminar and formative activities
 
@@ -286,3 +295,6 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 
 [Go to main Menu](https://narchondas.github.io/)
+
+![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
+
