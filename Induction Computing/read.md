@@ -26,6 +26,10 @@
 * Demonstrate academic skills, e.g. essay/report writing, research techniques, referencing, reflective learning and critical thinking at a level commensurate with Postgraduate study.
 
 
+(![image](https://github.com/user-attachments/assets/9bfc6d48-b06f-42d6-9be8-0ac7af1a0326)
+
+
+
 ### Induction Assignment
 
 **Discuss the importance of a postgraduate degree in the Computer Science field.**
@@ -57,3 +61,7 @@ Hern A. & Milmo D. (February 24, 2023) Everything you wanted to know about AI â€
 
 
 [Go to Main Menu](https://narchondas.github.io/)
+
+
+(![image](https://github.com/user-attachments/assets/bb4fc4d4-4a87-4002-8252-82df5c8a4bdb)
+
