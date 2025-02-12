@@ -132,9 +132,10 @@ Yin S. and Kaynak O., "Big Data for Modern Industry: Challenges and Trends [Poin
 
 Loukides M. (21 April, 2021) AI Adoption in the Enterprise 2021. O'Reilly. Available from https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2021/ [Accessed 6 August 2024]
 
+![image](https://github.com/user-attachments/assets/3b751424-3a4a-4f3c-a36a-63f42b6c3690)
+
 [Back to the top](#understanding-artificial-intelligence)
 
-![image](https://github.com/user-attachments/assets/3b751424-3a4a-4f3c-a36a-63f42b6c3690)
 
 
 ## Collaborative Discussion 2
@@ -255,10 +256,10 @@ Anon, (ND), Decision Tree. Available from: https://www.mastersindatascience.org/
 Song YY, Lu Y. (25 April 2015), Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry. 27(2):130-5. DOI: 10.11919/j.issn.1002-0829.215
 
 
-[Back to the top](#understanding-artificial-intelligence)
-
 ![image](https://github.com/user-attachments/assets/84667618-b1a8-454b-8120-1421371e721d)
 
+
+[Back to the top](#understanding-artificial-intelligence)
 
 
 ## Individual Essay: Artificial Intelligence and its Applications
@@ -343,10 +344,11 @@ University of Oxford (2023), Artificial Intelligence Programme, Module 6, Unit 2
 
 Anon (ND), Revolutionizing Finance: The AI in Finance Advantage, Available from https://www.onestream.com/blog/ai-in-finance/ [Accessed on 19 September 2024]
 
-[Back to the top](#understanding-artificial-intelligence)
 
 ![image](https://github.com/user-attachments/assets/a75cc881-4282-4129-9d72-a8c31fd41e99)
 
+
+[Back to the top](#understanding-artificial-intelligence)
 
 
 ## Artificial Intelligence (AI) Solution Implementation
@@ -476,9 +478,13 @@ Wang, Z., Xia, L., Yuan, H., Srinivasan, R.S. & Song, X. (2022) Principles, rese
 
 WEKA (Waikato Environment for Knowledge Analysis) tool Available from https://www.waikato.ac.nz/int/research/institutes-centres-entities/institutes/artificial-intelligence-institute/research/software/
 
+
+![image](https://github.com/user-attachments/assets/9fc12672-8358-4650-b261-b667704f045c)
+
+
 [Back to the top](#understanding-artificial-intelligence)
+
 
 [Go to main Menu](https://narchondas.github.io/)
 
-![image](https://github.com/user-attachments/assets/9fc12672-8358-4650-b261-b667704f045c)
 
