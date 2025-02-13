@@ -287,6 +287,9 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 ### Unit 2 Seminar EDA tutorial
 [Unit02 A Tutorial on Exploratory Data Analysis Nikos.ipynb with with Auto-mpg dataset](https://colab.research.google.com/drive/1RIbnisc1QqH9JPXOVonCp59SF2cFWYZR)
 
+### Unit 3 Formative activities
+[Unit03 Ex1 covariance_pearson_correlation Nikos.ipynb](https://colab.research.google.com/drive/1Ax28xx3ksf9dRT-HRjr8_QYH9x0zdRim)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
