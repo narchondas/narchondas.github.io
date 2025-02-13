@@ -297,6 +297,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit03 Ex3 multiple_linear_regression_Nikos.ipynb](https://colab.research.google.com/drive/1QyEYyHwfKUaRA52FmwtvYs_DJsW9wq98#scrollTo=fTMgg-KktciV)
 
+[Unit03 Ex4 polynomial_regression Nikos.ipynb](https://colab.research.google.com/drive/1PJqh_aoMwmeXBntwnCGT2rbpe0vYHsT3)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
