@@ -301,7 +301,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 ### Unit 4 Seminar Linear Regression with Scikit-Learn
 
-[Unit04 correlation regression Global population Global GDP Nikos.ipynb](https://colab.research.google.com/drive/1Z4Ipqx-EGx_0KyrGxfofpgYaZbl7cSAY#scrollTo=P9AkIA1zp8kI)
+[Unit04 correlation regression global population global GDP Nikos.ipynb](https://colab.research.google.com/drive/1Z4Ipqx-EGx_0KyrGxfofpgYaZbl7cSAY#scrollTo=P9AkIA1zp8kI)
 
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
