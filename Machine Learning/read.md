@@ -303,6 +303,10 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit04 correlation regression global population global GDP Nikos.ipynb](https://colab.research.google.com/drive/1Z4Ipqx-EGx_0KyrGxfofpgYaZbl7cSAY#scrollTo=P9AkIA1zp8kI)
 
+### Unit 5 Seminar Clustering
+
+[e-Portfolio Activity: Jaccard Coefficient Calculations](https://docs.google.com/document/d/1IX7jQggR8-KPUVErDUr4XF1zTAJf4Gp7x7KO3_Zzp68/edit?tab=t.0#heading=h.jqkhbeerjcqc)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
