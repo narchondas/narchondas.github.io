@@ -313,6 +313,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit06 K-Means Iris Nikos notebook.ipynb](https://colab.research.google.com/drive/1Upy4ZJzyprRxZUVobepxch1tFYAz7n63)
 
+[Unit06 K-Means Wine Nikos notebook.ipynb](https://colab.research.google.com/drive/103z7n4knUP91ontDtQ2UgxBxRsPfFmn8#scrollTo=l4hxj92bJKav)
 
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
