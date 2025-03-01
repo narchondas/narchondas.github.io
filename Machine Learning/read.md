@@ -317,6 +317,10 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit06 K-Means Weather Nikos notebook.ipynb](https://colab.research.google.com/drive/1j-JZux7ivDgFfBV7odTPinBKU6eAnZnH#scrollTo=DCg2KFaWc_JE)
 
+[Unit06 Draft Team 3 Project 1.0](https://colab.research.google.com/drive/1_EimSdS0lwO3i4bleFiFiKC2R1BVa0pq)
+
+[Unit06 Drfat Team 3 Project 2.0](https://colab.research.google.com/drive/1wnMLv1BXyLDLGbGG5U3sAuXx8YuZdolK)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
