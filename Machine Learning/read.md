@@ -307,7 +307,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [e-Portfolio Activity: Jaccard Coefficient Calculations](https://docs.google.com/document/d/1IX7jQggR8-KPUVErDUr4XF1zTAJf4Gp7x7KO3_Zzp68/edit?tab=t.0#heading=h.jqkhbeerjcqc)
 
-### Unit 6 Unit K-Means Clustering Tutorial
+### Unit 6 K-Means Clustering Tutorial
 
 [Unit06 K-Means demo notebook Nikos.ipynb](https://colab.research.google.com/drive/16sJcIPlYkx6liZrOazrCA8uf3u1K2pD9#scrollTo=eRIvskt9EJXn)
 
@@ -316,6 +316,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Unit06 K-Means Wine Nikos notebook.ipynb](https://colab.research.google.com/drive/103z7n4knUP91ontDtQ2UgxBxRsPfFmn8#scrollTo=l4hxj92bJKav)
 
 [Unit06 K-Means Weather Nikos notebook.ipynb](https://colab.research.google.com/drive/1j-JZux7ivDgFfBV7odTPinBKU6eAnZnH#scrollTo=DCg2KFaWc_JE)
+
+#### Unit 6 Team 3 Project
 
 [Unit06 Draft Team 3 Project 1.0](https://colab.research.google.com/drive/1_EimSdS0lwO3i4bleFiFiKC2R1BVa0pq)
 
