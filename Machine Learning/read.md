@@ -319,6 +319,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 #### Unit 6 Team 3 Project
 
+[Team Contract of the Group 3 Machine Learning Project](https://drive.google.com/drive/my-drive)
+
 [Unit06 Draft Team 3 Project 1.0](https://colab.research.google.com/drive/1_EimSdS0lwO3i4bleFiFiKC2R1BVa0pq)
 
 [Unit06 Drfat Team 3 Project 2.0](https://colab.research.google.com/drive/1wnMLv1BXyLDLGbGG5U3sAuXx8YuZdolK)
