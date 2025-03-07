@@ -325,6 +325,14 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit06 Draft Team 3 Project 2.0](https://colab.research.google.com/drive/1wnMLv1BXyLDLGbGG5U3sAuXx8YuZdolK)
 
+#### Unit 7 Perceptron Activities
+
+[Unit07 Ex1 simple_perceptron.ipynb](https://colab.research.google.com/drive/1ntHokgYHxZjdmAt3abiIAL1xai6dno61)
+
+[Unit07 Ex2 perceptron_AND_operator.ipynb](https://colab.research.google.com/drive/1nmKHwR0rwsob5rBqvlYZ4ur8gPaXvx7f)
+
+[Unit07 Ex3 multi-layer Perceptron.ipynb](https://colab.research.google.com/drive/1oLlWcgpMjP71oFvmbUIcvEpN6nGBRxgS)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
