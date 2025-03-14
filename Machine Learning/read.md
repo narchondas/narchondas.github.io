@@ -13,7 +13,7 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminars and formative activities](#seminar-and-formative-activities)
 
-[4. Development Team Project: Project Report](#development_team_project_project_report)
+[4. Development Team Project: Project Report](#development_team_project_:_project_report)
 
 
 ## Learning outcomes
@@ -343,7 +343,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 ## Development Team Project: Project Report
 
-[Development Team Project: Project Report](https://docs.google.com/document/d/1mJ-__9TzhgBQ5gXbwDcHHig4eIiA2RP4E03JssAH6yE/edit?tab=t.0)
+[Airbnb business analysis using a data science approach](https://docs.google.com/document/d/1mJ-__9TzhgBQ5gXbwDcHHig4eIiA2RP4E03JssAH6yE/edit?tab=t.0)
+
 
 [Back to the top](#machine-learning)
 
