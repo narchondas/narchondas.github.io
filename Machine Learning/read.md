@@ -13,7 +13,7 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminars and formative activities](#seminar-and-formative-activities)
 
-[4. Development Team Project: Project Report](#development_team_project_report)
+[4. Development Team Project Report](#development_team_project_report)
 
 
 ## Learning outcomes
