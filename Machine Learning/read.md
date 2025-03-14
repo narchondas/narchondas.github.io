@@ -347,7 +347,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 [Development Team Project Report: Airbnb business analysis using a data science approach](https://docs.google.com/document/d/1mJ-__9TzhgBQ5gXbwDcHHig4eIiA2RP4E03JssAH6yE/edit?tab=t.0)
 
 
-![image](https://chatai.com/wp-content/uploads/2023/11/tr71123-ai-art.jpeg)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai-robotic-technology-background&psig=AOvVaw3h9sRkKFhRXwlFAj8vGDK8&ust=1742046335226000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCPicz77aiYwDFQAAAAAdAAAAABCJAQ))
 
 
 [Back to the top](#machine-learning)
