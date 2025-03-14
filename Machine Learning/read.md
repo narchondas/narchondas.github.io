@@ -7,13 +7,13 @@ This is my learning experience for Module 3 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1.  Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-pdp)
+[1. Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-pdp)
 
 [2. Collaborative Discussion](#collaborative-discussion)
 
 [3. Seminars and formative activities](#seminar-and-formative-activities)
 
-[4. Development Team Project Report](#development_team_project_report)
+[4. Development Team Project Report](#development-team-project-report)
 
 
 ## Learning outcomes
