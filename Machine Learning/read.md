@@ -335,6 +335,8 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit07 Ex3 multi-layer Perceptron.ipynb](https://colab.research.google.com/drive/1oLlWcgpMjP71oFvmbUIcvEpN6nGBRxgS)
 
+[Unit08 Ex4 gradient_descent_cost_function Nikos.ipynb](https://colab.research.google.com/drive/12MdAlYDGVwVptVGZ9J5cPoaMs9Y3jlRJ#scrollTo=NU2IasUx8xte)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
