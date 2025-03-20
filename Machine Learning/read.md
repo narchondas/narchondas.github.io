@@ -478,7 +478,9 @@ Airbnb has significant growth potential in New York City. The dataset reveals hi
 
 This report identifies key business opportunities in New York City for Airbnb, including targeted marketing strategies and revenue optimization. By focusing on specific areas, Airbnb can enhance customer satisfaction and increase revenue. The report also demonstrates the use of data analysis and machine learning for strategic decision-making and business growth. 
 
-[Appendix] (https://docs.google.com/document/d/1Lsp4QxIUlRFz3F30o8c_Nn5KXITORoz6/edit#heading=h.z2076sy3xpjj)
+
+[**Appendix**] (https://docs.google.com/document/d/1Lsp4QxIUlRFz3F30o8c_Nn5KXITORoz6/edit#heading=h.z2076sy3xpjj)
+
 
 **References:**
 
