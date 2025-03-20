@@ -395,6 +395,7 @@ In Manhattan and Brooklyn, room type had a significant impact on pricing. Entire
 
 Box plots confirmed that Entire Home/Apartment listings had more than double the median price of Private and Shared rooms. The number of reviews had no significant impact on price. Minimum nights had a weak correlation with price, showing lower prices for properties that allowed single-night stays (Figure 5).
 
+
 ![image](https://github.com/user-attachments/assets/cc0d0850-b035-47b1-a9dc-998788a72637)
 
 Figure 4: Correlation Matrix for Manhattan and Brooklyn data.
@@ -500,6 +501,7 @@ Sharma, U., & Gupta, D. (2021). Analyzing the applications of the internet of th
 
 Toader, V., Negrușa, A.L., Bode, O.R., & Rus, R.V. (2022). Analysis of price determinants in the case of Airbnb listings. Economic Research-Ekonomska Istraživanja, 35(1), 2487–2509.
 Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodological foundations (2nd ed.). Boston: Kluwer Academic Publishers.
+
 
 
 
