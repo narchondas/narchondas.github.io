@@ -353,6 +353,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 **Nikos Archontas, Fabian Narel, Matilda Nilsson, João Torres and Maryum Rasool**
 
+
 **Introduction**
 
 The rise of online platforms like Airbnb has transformed the hotel industry by giving customers more control over pricing, reviews, and location research (Sharma & Gupta, 2021). Airbnb has become a top accommodation option worldwide, especially in New York City (Jiao & Bai, 2019). This report analyzes Airbnb listings in NYC, focusing on pricing, availability, location, reviews, and property types. Understanding these factors can help Airbnb optimize pricing and improve guest engagement.
@@ -375,15 +376,18 @@ The number of Airbnb listings by neighborhood groups showed that Manhattan had t
 
 Figure 1: Visualisation of the number of Airbnb listings per neighborhood group
 
+
 ![image](https://github.com/user-attachments/assets/751e7771-4c27-4652-89db-72f01a330297)
 
 Figure 2: Violin Plot depicting the density and distribution of prices for airbnb listings for each New York neighborhood group in 2019
+
 
 Manhattan had the highest median price at $150 per night, while the Bronx had the lowest at $65 per night. Summary statistics revealed the overall median price was $142.33, with a standard deviation of $196.99, indicating significant price differences across listings (Figure 2, Figure 3).
 
 ![image](https://github.com/user-attachments/assets/00b2d2ab-55b2-4331-b6a7-7f0173cc9218)
 
 Figure 3: Descriptive statistics on the dataset, achieved through the data.describe command.
+
 
 In Manhattan and Brooklyn, room type had a significant impact on pricing. Entire homes and apartments had a moderate positive correlation with price (r=0.476), while private rooms had a negative correlation (r=-0.450), supporting the preference for privacy in these neighborhoods (Perez-Sanchez et al., 2019). Longitude also showed a negative correlation with price, reflecting Manhattan's property value decline from expensive areas like SoHo to more affordable locations like East Harlem (Coles et al., 2017) (Figure 4). The number of reviews had a weak correlation with price.
 
@@ -395,15 +399,19 @@ Box plots confirmed that Entire Home/Apartment listings had more than double the
 
 Figure 4: Correlation Matrix for Manhattan and Brooklyn data.
 
+
 ![image](https://github.com/user-attachments/assets/71271849-2641-4daa-9001-1748fefb711d)
 
 Figure 5: Box plots comparing Price Distribution by Room Type, Number of Reviews, Minimum Nights Required and Room Type combined with Number of Reviews
+
 
 ![image](https://github.com/user-attachments/assets/24c726c5-040b-43f7-86c7-3b16e72f7c88)
 
 Figure 6: Histogram of nightly prices for NYC Airbnb listings (prices capped at $1000).
 
+
 The distribution of NYC Airbnb prices was highly skewed, with most listings priced under $1,000, though a few luxury properties exceeded $10,000. The median price was inflated by high-end properties. The market reflected a mix of budget and premium options, with 75% of listings allowing stays of five nights or fewer (Figure 6).
+
 
 Correlation Analysis
 
@@ -413,22 +421,28 @@ Expensive listings tend to have fewer reviews, suggesting lower booking frequenc
 
 Figure 7: Visualisation of scatter plot of price vs. number of reviews
 
+
 The scatter plot (Figure 7) supports this, showing a dense cluster of low-priced, well-reviewed listings and scattered high-priced listings with few reviews. Many expensive listings had 0–5 reviews, reflecting rare bookings. This reinforces the price-occupancy trade-off, where lower prices attract more bookings, while higher prices target fewer guests. Price showed minimal correlation with other features, aside from the slight negative link with reviews.
+
 
 Machine Learning Analysis
 
 To further explore patterns at the neighborhood level, we performed K-Means clustering on neighborhoods based on average price and average number of reviews per listing as well as linear regression to examine the relationship between prices and various predictors, including neighborhood group, number of reviews, and host listing count, with the idea to determine whether these factors impact price (Schroeder et al., 2017).
 
+
 Linear Regression
 
 The linear regression model tests whether neighborhood group, reviews, and host listing count influence price. While statistically significant (F = 205.263, p < 0.001), it explains only 9.3% of price variance (R² = 0.093), indicating many unaccounted factors (Chatterjee & Hadi, 2006). The high RMSE (112.457) reflects substantial predictive error. We reject the null hypothesis, confirming that at least one predictor impacts price (Field, 2024).
+
 
 ![image](https://github.com/user-attachments/assets/05563560-2dec-4e3a-9213-3d195bd462f7)
 
 Table 2: Regression table highlighting the effects individuals have on price
 
+
 The analysis confirms significant price differences among neighborhood groups, with Manhattan and Brooklyn commanding higher prices than the Bronx. Listings with more reviews tend to have lower prices, indicating budget-friendly properties attract more guests (Perez-Sanchez et al., 2018; Coles et al., 2017), while "reviews per month" had no significant impact.
 Linear regression identifies neighborhood groups as a key price predictor, with Manhattan and Brooklyn as premium markets. However, its low explanatory power (R² = 9.3%) suggests future models should include factors like room type, amenities, seasonality, and demand for better accuracy (Chatterjee & Hadi, 2006; Schroeder et al., 2017).
+
 
 K-Means Clustering
 
@@ -442,8 +456,11 @@ Performing K-Means clustering on NYC neighborhoods based on average price and nu
 
 These clusters represent different market segments, from high-end to budget-friendly options, and illustrate varying pricing strategies and guest demands across the city.
 
+
 ![image](https://github.com/user-attachments/assets/4e70dc1a-c710-4410-a4ba-0914a9385aff)
+
 Figure 8: Visualisation of K-means clustering of neighborhoods
+
 
 The cluster visualization (Figure 8) shows three distinct groups: budget (low-price, high-review), mid-range (moderate price and reviews), and luxury (high-price, low-reviews). This segmentation offers strategic insights for Airbnb hosts and stakeholders. Hosts in mid-range areas should differentiate their listings to stand out, while budget hosts should focus on high occupancy and positive reviews. Luxury hosts should emphasize exclusive amenities and experiences. Airbnb can tailor marketing and pricing strategies based on these segments, targeting budget travelers with promotions and luxury segments through niche channels.
 
