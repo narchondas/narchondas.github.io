@@ -354,6 +354,7 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 **Nikos Archontas, Fabian Narel, Matilda Nilsson, João Torres and Maryum Rasool**
 
 
+
 **Introduction**
 
 The rise of online platforms like Airbnb has transformed the hotel industry by giving customers more control over pricing, reviews, and location research (Sharma & Gupta, 2021). Airbnb has become a top accommodation option worldwide, especially in New York City (Jiao & Bai, 2019). This report analyzes Airbnb listings in NYC, focusing on pricing, availability, location, reviews, and property types. Understanding these factors can help Airbnb optimize pricing and improve guest engagement.
@@ -396,9 +397,11 @@ In Manhattan and Brooklyn, room type had a significant impact on pricing. Entire
 Box plots confirmed that Entire Home/Apartment listings had more than double the median price of Private and Shared rooms. The number of reviews had no significant impact on price. Minimum nights had a weak correlation with price, showing lower prices for properties that allowed single-night stays (Figure 5).
 
 
+
 ![image](https://github.com/user-attachments/assets/cc0d0850-b035-47b1-a9dc-998788a72637)
 
 Figure 4: Correlation Matrix for Manhattan and Brooklyn data.
+
 
 
 ![image](https://github.com/user-attachments/assets/71271849-2641-4daa-9001-1748fefb711d)
@@ -406,9 +409,11 @@ Figure 4: Correlation Matrix for Manhattan and Brooklyn data.
 Figure 5: Box plots comparing Price Distribution by Room Type, Number of Reviews, Minimum Nights Required and Room Type combined with Number of Reviews
 
 
+
 ![image](https://github.com/user-attachments/assets/24c726c5-040b-43f7-86c7-3b16e72f7c88)
 
 Figure 6: Histogram of nightly prices for NYC Airbnb listings (prices capped at $1000).
+
 
 
 The distribution of NYC Airbnb prices was highly skewed, with most listings priced under $1,000, though a few luxury properties exceeded $10,000. The median price was inflated by high-end properties. The market reflected a mix of budget and premium options, with 75% of listings allowing stays of five nights or fewer (Figure 6).
