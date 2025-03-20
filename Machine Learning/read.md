@@ -349,21 +349,26 @@ Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from Crowd
 
 [Unit 6 Development Team Project Report: Airbnb business analysis using a data science approach](https://docs.google.com/document/d/1mJ-__9TzhgBQ5gXbwDcHHig4eIiA2RP4E03JssAH6yE/edit?tab=t.0)
 
-**Development Team Project: Project Report
-Nikos Archontas, Fabian Narel, Matilda Nilsson, João Torres and Maryum Rasool**
+**Development Team Project: Project Report**
+
+**Nikos Archontas, Fabian Narel, Matilda Nilsson, João Torres and Maryum Rasool**
 
 **Introduction**
 
 The rise of online platforms like Airbnb has transformed the hotel industry by giving customers more control over pricing, reviews, and location research (Sharma & Gupta, 2021). Airbnb has become a top accommodation option worldwide, especially in New York City (Jiao & Bai, 2019). This report analyzes Airbnb listings in NYC, focusing on pricing, availability, location, reviews, and property types. Understanding these factors can help Airbnb optimize pricing and improve guest engagement.
 
 **1.	Proposed Business Analytic Question**
+
 Which NYC neighborhood had the highest average Airbnb listing price in 2019, and what factors contributed to its high pricing? Additionally, is there a statistical relationship between Airbnb prices and the number of reviews a listing receives?
 
 **2.	Data Analysis**
+
 Data Preprocessing
+
 The dataset initially contained 48,895 rows and 16 columns. We removed records with zero reviews, zero prices, and extreme outliers. After preprocessing, the dataset was reduced to 38,833 entries.
 
 Exploratory Data Analysis (EDA)
+
 The number of Airbnb listings by neighborhood groups showed that Manhattan had the highest number of listings, closely followed by Brooklyn. Staten Island and the Bronx had considerably fewer listings (Figure 1).
 
 ![image](https://github.com/user-attachments/assets/7f04a6a6-7cc2-47a6-8de3-a7fb8b89fad7)
@@ -401,6 +406,7 @@ Figure 6: Histogram of nightly prices for NYC Airbnb listings (prices capped at 
 The distribution of NYC Airbnb prices was highly skewed, with most listings priced under $1,000, though a few luxury properties exceeded $10,000. The median price was inflated by high-end properties. The market reflected a mix of budget and premium options, with 75% of listings allowing stays of five nights or fewer (Figure 6).
 
 Correlation Analysis
+
 Expensive listings tend to have fewer reviews, suggesting lower booking frequency. In the 2019 NYC data, the weak negative correlation (r ≈ -0.058, p ≈ 2.6×10⁻³⁷) indicates that budget-friendly listings attract more guests and reviews, while high-priced ones cater to a niche market (Martinez et al., 2017). This aligns with research on tourism demand dynamics, where lower prices can boost occupancy, but higher prices reduce the guest pool (Toader et al., 2022).
 
 ![image](https://github.com/user-attachments/assets/68fda223-76c0-4abf-9a13-204c8484a7d3)
@@ -410,9 +416,11 @@ Figure 7: Visualisation of scatter plot of price vs. number of reviews
 The scatter plot (Figure 7) supports this, showing a dense cluster of low-priced, well-reviewed listings and scattered high-priced listings with few reviews. Many expensive listings had 0–5 reviews, reflecting rare bookings. This reinforces the price-occupancy trade-off, where lower prices attract more bookings, while higher prices target fewer guests. Price showed minimal correlation with other features, aside from the slight negative link with reviews.
 
 Machine Learning Analysis
+
 To further explore patterns at the neighborhood level, we performed K-Means clustering on neighborhoods based on average price and average number of reviews per listing as well as linear regression to examine the relationship between prices and various predictors, including neighborhood group, number of reviews, and host listing count, with the idea to determine whether these factors impact price (Schroeder et al., 2017).
 
 Linear Regression
+
 The linear regression model tests whether neighborhood group, reviews, and host listing count influence price. While statistically significant (F = 205.263, p < 0.001), it explains only 9.3% of price variance (R² = 0.093), indicating many unaccounted factors (Chatterjee & Hadi, 2006). The high RMSE (112.457) reflects substantial predictive error. We reject the null hypothesis, confirming that at least one predictor impacts price (Field, 2024).
 
 ![image](https://github.com/user-attachments/assets/05563560-2dec-4e3a-9213-3d195bd462f7)
@@ -423,6 +431,7 @@ The analysis confirms significant price differences among neighborhood groups, w
 Linear regression identifies neighborhood groups as a key price predictor, with Manhattan and Brooklyn as premium markets. However, its low explanatory power (R² = 9.3%) suggests future models should include factors like room type, amenities, seasonality, and demand for better accuracy (Chatterjee & Hadi, 2006; Schroeder et al., 2017).
 
 K-Means Clustering
+
 Performing K-Means clustering on NYC neighborhoods based on average price and number of reviews to segment the market into three distinct groups:
 
 ●	Cluster 1 – "Luxury Markets": High price, low reviews. Representing about 1% of neighborhoods, these areas have ultra-expensive listings with minimal bookings, catering to an exclusive clientele (e.g., Fort Wadsworth, Staten Island).
@@ -439,9 +448,11 @@ Figure 8: Visualisation of K-means clustering of neighborhoods
 The cluster visualization (Figure 8) shows three distinct groups: budget (low-price, high-review), mid-range (moderate price and reviews), and luxury (high-price, low-reviews). This segmentation offers strategic insights for Airbnb hosts and stakeholders. Hosts in mid-range areas should differentiate their listings to stand out, while budget hosts should focus on high occupancy and positive reviews. Luxury hosts should emphasize exclusive amenities and experiences. Airbnb can tailor marketing and pricing strategies based on these segments, targeting budget travelers with promotions and luxury segments through niche channels.
 
 **3.	Findings and Recommendations**
+
 Airbnb has significant growth potential in New York City. The dataset reveals high demand near major landmarks, which could be leveraged to increase profits by targeting accommodations in these areas. Additionally, offering a mix of premium housing in high-demand sectors and smaller rooms in less popular areas could help Airbnb remain competitive through dynamic pricing. By tracking location-specific trends and local events, Airbnb can better plan promotional offers tailored to neighborhoods and hot spots.
 
 **4.	Conclusion**
+
 This report identifies key business opportunities in New York City for Airbnb, including targeted marketing strategies and revenue optimization. By focusing on specific areas, Airbnb can enhance customer satisfaction and increase revenue. The report also demonstrates the use of data analysis and machine learning for strategic decision-making and business growth. 
 
 [Appendix] (https://docs.google.com/document/d/1Lsp4QxIUlRFz3F30o8c_Nn5KXITORoz6/edit#heading=h.z2076sy3xpjj)
