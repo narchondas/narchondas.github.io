@@ -227,7 +227,7 @@ Similarly, the National Audit Office in the UK pointed out that changes in the d
 
 On the same issue, Booth R. (2025) concludes that state actors will find it very difficult to successfully address the lack of advanced digital and cyber-skills in the public sector workforce, enhance accountability for cyber-attacks and ‘better manage the risks posed by legacy IT’.  This is why policy and digital transformation need to go hand in hand and be ‘co-designed — managed, developed, and adapted together to reflect and respond to an ever-changing political, legal, social, and economic landscape’.
 
- 
+
 
 #### Bibliography
 
@@ -289,17 +289,16 @@ Apart from the above, the use of AI in writing raises important ethical consider
 As AI technologies become more integrated into writing processes, it is crucial to develop ethical frameworks that transparently acknowledge the contributions of both human and AI agents.  As the field continues to evolve, it will be essential to strike a balance between leveraging AI's capabilities and preserving the irreplaceable value of human creativity in writing.
 
 
+
 #### Bibliography
 
 Anguiano D & Beckett L., (1 September 2023) How Hollywood writers triumphed over AI – and why it matters, The Guardian, Available at https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence [Accessed on 20 March 2025]
 
 Ankerstein CA, (2024) A machine that still doesn’t quite understand us, English Today 40, 167–175. https://doi.org/10.1017/ S0266078423000433
 
-
 Aronson, J.K. (2023) When I use a word . . . ChatGPT: a differential diagnosis, Centre for Evidence Based Medicine, Nuffield Department of Primary Care Health Sciences, University of Oxford, BMJ 2023;382:p1862  http://dx.doi.org/10.1136/bmj.p1862
 
 Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell. 2021. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. ” In FAccT ‘21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. Accessed September 29, 2024. https://dl.acm.org/doi/10.1145/3442188.3445922.
-
 
 Cavna, M. & Chery, S.(6 May 2023), Could AI help script a sitcom? Some striking writers fear so, Washington Post Available at https://www.washingtonpost.com/lifestyle/2023/05/06/ai-writers-strike/ [Accessed on 20 March 2025]
  
