@@ -272,6 +272,47 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
 
+**Initial Post**
+
+**Read/listen to the article by Hutson (2021) in Nature on Robo-writers. Post your thoughts on the risks and benefits of the use AI writers at different levels, from administrative work to creative writing.**
+
+The integration of AI technologies into the writing process has significantly altered traditional notions of authorship, creativity, and intellectual labour.  AI writers work by observing statistical relationships between words and phrases, but lack true understanding of their meaning, rendering them akin to ‘a mouth without a brain’, as Yejin Choi highlighted (Hutson, 2021).  The issue of AI writers came, so prominently, to the fore for the first time during the 2023 Hollywood writers' strike, where the use of AI-powered writing tools was a major point of contention.  Hollywood script writers managed to establish guardrails on the technology's use to prevent it from replacing human creativity (Merchant, 2023; Anguiano et al., 2023).
+
+This highlights the importance of human experience and fantasy in creative writing, which AI writers currently cannot replicate (Hutson, 2021). The inability of AI writers to truly comprehend the meaning of words and phrases (semantics) is a significant constraint, as it limits their capacity to craft compelling narratives that resonate with human emotions and experiences.   AI writers, if effectively chain-prompted, could generate a plot and a script; nevertheless, the end result will exclusively be based on already existing data and material on which the AI tool was trained and consequently, it is doubtful to what extent that could replicate human creativity, improvisation and novelty.
+
+Anguiano et al. (2023) reported that the new contract between Hollywood writers and studios ensures that AI tools be used under the control of writers, rather than as a means of automation, underscoring the value of human input in the creative process.  The limitations of AI writers are also highlighted by Guan et al. (2020), who argue that existing neural language generation models struggle with repetition, logic conflicts, and lack of long-range coherence in generated stories.  These limitations emphasise the need for a critical approach to the use of AI in creative writing.  As Bender et al. (2024) point out, 'the tendency of human interlocutors to impute meaning where there is none can mislead both NLP researchers and the general public into taking synthetic text as meaningful'.
+
+While movie studios may make some of use AI writers, one cannot envisage for the time being that current generative pre-trained transformers (GPT) can produce full scripts of comedies and dramas enriched with human wit, jokes, daily expressions thus replacing the complexity and nuances of human experience and fantasy in storytelling (Hutson, 2021 and Guan et al., 2020).
+
+Apart from the above, the use of AI in writing raises important ethical considerations such as transparency about AI contributions, human accountability for the final product, potential biases in AI-generated content, risk of plagiarism and copyright infringement etc
+
+As AI technologies become more integrated into writing processes, it is crucial to develop ethical frameworks that transparently acknowledge the contributions of both human and AI agents.  As the field continues to evolve, it will be essential to strike a balance between leveraging AI's capabilities and preserving the irreplaceable value of human creativity in writing.
+
+
+#### Bibliography
+
+Anguiano D & Beckett L., (1 September 2023) How Hollywood writers triumphed over AI – and why it matters, The Guardian, Available at https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence [Accessed on 20 March 2025]
+
+Ankerstein CA, (2024) A machine that still doesn’t quite understand us, English Today 40, 167–175. https://doi.org/10.1017/ S0266078423000433
+
+
+Aronson, J.K. (2023) When I use a word . . . ChatGPT: a differential diagnosis, Centre for Evidence Based Medicine, Nuffield Department of Primary Care Health Sciences, University of Oxford, BMJ 2023;382:p1862  http://dx.doi.org/10.1136/bmj.p1862
+
+Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell. 2021. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. ” In FAccT ‘21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. Accessed September 29, 2024. https://dl.acm.org/doi/10.1145/3442188.3445922.
+
+
+Cavna, M. & Chery, S.(6 May 2023), Could AI help script a sitcom? Some striking writers fear so, Washington Post Available at https://www.washingtonpost.com/lifestyle/2023/05/06/ai-writers-strike/ [Accessed on 20 March 2025]
+ 
+Guan J., Huang F., Zhao Z., Zhu X. & Huang, M. 2020. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. Transactions of the Association for Computational Linguistics, 8:93–108.
+ 
+Hendrycks D., Burns C., Basart S., Zou A., Mazeika M., Song D., Steinhardt J., (2021) Measuring Massive Multitask Language Understanding, arXiv:2009.03300v3 [cs.CY] https://doi.org/10.48550/arXiv.2009.03300
+ 
+Hornik S. (27 July 2023) Hollywood writers fear losing work to AI, BBC News, Available at https://www.bbc.com/news/business-66289583 [Accessed on 20 mArch 2025]
+ 
+Hutson, M. (2021) Robo-writers: the rise and risks of language-generating AI, Nature 591, 22-25 doi: https://doi.org/10.1038/d41586-021-00530-0
+ 
+Merchant, B. (25 September 2023), The writers’ strike was the first workplace battle between humans and AI. The humans won, Los Angeles Times, Available at https://www.latimes.com/business/technology/story/2023-09-25/column-sag-aftra-strike-writers-victory-humans-over-ai#:~:text=The%20writers'%20strike%20was%20the,a%20line%20in%20the%20sand [Accessed on 20 March 2025]
+
 
 
 ![image](https://github.com/user-attachments/assets/f54eee9c-f8c4-4162-9450-903272316a88)
