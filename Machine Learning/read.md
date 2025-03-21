@@ -9,7 +9,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-pdp)
 
-[2. Collaborative Discussion](#collaborative-discussion)
+[2. Collaborative Discussions](#collaborative-discussions)
 
 [3. Seminars and formative activities](#seminar-and-formative-activities)
 
@@ -135,7 +135,7 @@ Use the following links to navigate to the start of the sections
 [Back to the top](#machine-learning)
 
 
-## Collaborative Discussion
+## Collaborative Discussions
 
 
 ### Initial & summary posts
