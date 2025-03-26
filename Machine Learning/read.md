@@ -367,7 +367,7 @@ Merchant, B. (25 September 2023), The writers’ strike was the first workplace 
 
 [Unit06 Draft Team 3 Project 2.0](https://colab.research.google.com/drive/1wnMLv1BXyLDLGbGG5U3sAuXx8YuZdolK)
 
-#### Unit 7 Perceptron Activities
+### Unit 7 Perceptron Activities
 
 [Unit07 Ex1 simple_perceptron.ipynb](https://colab.research.google.com/drive/1ntHokgYHxZjdmAt3abiIAL1xai6dno61)
 
@@ -375,11 +375,11 @@ Merchant, B. (25 September 2023), The writers’ strike was the first workplace 
 
 [Unit07 Ex3 multi-layer Perceptron.ipynb](https://colab.research.google.com/drive/1oLlWcgpMjP71oFvmbUIcvEpN6nGBRxgS)
 
-#### Unit 8 Gradient Cost Function
+### Unit 8 Gradient Cost Function
 
 [Unit08 Ex4 gradient_descent_cost_function Nikos.ipynb](https://colab.research.google.com/drive/12MdAlYDGVwVptVGZ9J5cPoaMs9Y3jlRJ#scrollTo=NU2IasUx8xte)
 
-#### Unit 9 CNN Model Activity
+### Unit 9 CNN Model Activity
 
 [Unit09 Ex1 Convolutional Neural Networks (CNN) Nikos- Object Recognition.ipynb](https://colab.research.google.com/drive/1IXodETKJD8oY80DIKQlpV0d_w02FTafu#scrollTo=oN6lYUSp1n0x)
 
