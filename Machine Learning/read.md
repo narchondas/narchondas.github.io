@@ -138,6 +138,9 @@ Use the following links to navigate to the start of the sections
 ## Collaborative Discussions
 
 
+### Initial, summary posts & response to peers' posts
+
+
 
 ### Collaborative Discussion 1
 
