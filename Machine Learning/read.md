@@ -379,6 +379,10 @@ Merchant, B. (25 September 2023), The writers’ strike was the first workplace 
 
 [Unit08 Ex4 gradient_descent_cost_function Nikos.ipynb](https://colab.research.google.com/drive/12MdAlYDGVwVptVGZ9J5cPoaMs9Y3jlRJ#scrollTo=NU2IasUx8xte)
 
+#### Unit 9 CNN Model Activity
+
+[Unit09 Ex1 Convolutional Neural Networks (CNN) Nikos- Object Recognition.ipynb](https://colab.research.google.com/drive/1IXodETKJD8oY80DIKQlpV0d_w02FTafu#scrollTo=oN6lYUSp1n0x)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
