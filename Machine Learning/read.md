@@ -216,7 +216,7 @@ Venâncio, A.L.A.C. et al. (2022) ‘Technology prioritization framework to adap
 
 
 
-### Response to my peers' posts
+#### Response to my peers' posts
 
 
 Thanks, Elias, for your insightful post on the data breaches, affecting, in particular, government-run databases, which may be due to cyber-attacks or just IT system failures.   
@@ -311,6 +311,38 @@ Hornik S. (27 July 2023) Hollywood writers fear losing work to AI, BBC News, Ava
 Hutson, M. (2021) Robo-writers: the rise and risks of language-generating AI, Nature 591, 22-25 doi: https://doi.org/10.1038/d41586-021-00530-0
  
 Merchant, B. (25 September 2023), The writers’ strike was the first workplace battle between humans and AI. The humans won, Los Angeles Times, Available at https://www.latimes.com/business/technology/story/2023-09-25/column-sag-aftra-strike-writers-victory-humans-over-ai#:~:text=The%20writers'%20strike%20was%20the,a%20line%20in%20the%20sand [Accessed on 20 March 2025]
+
+
+
+#### Response to my peers' posts
+
+
+Thanks, Elias, for your post.  I think the issue on social biases in Large Language Models (LLMs), you raise, is a very pertinent one.  While LLM agents demonstrate remarkable capabilities, nevertheless, they risk amplifying harmful social biases present in their training data.  Research reveals LLMs exhibit ingroup solidarity (favouring perceived social groups) and outgroup hostility (derogating others), mirroring human psychological patterns (Hu et al., 2025 and An., 2023).  These biases manifest through direct prompting and natural conversations, potentially reinforcing societal stereotypes (Salecha et al., 2024 and Hu et al., 2025).  
+
+It is worth noting three key mitigation strategies emerging from recent studies:
+
+i) Training data curation (filtering biased content during pre-training to reduce baseline bias levels) (Hu et al. 2025),
+
+ii) Specialised fine-tuning (techniques like Social Contact Debiasing (SCD) fine-tune models via instructions using psychologically grounded prompts simulating positive intergroup interactions and this way they can reduce bias by up to 40% in controlled experiments) (An., 2023 and Raj et al., 2024) and
+
+iii) Architectural scaling (larger models show improved robustness when combined with meta-generation techniques like parallel decoding and step verification) (Raj et al. 2024 and Wolfe, 2025).
+
+The most effective approaches combine technical interventions with social psychology principles.  While scaling improves reliability, researchers emphasise that deliberate de-biasing protocols remain essential – even advanced models like GPT-4 exhibit social desirability bias, skewing personality trait assessments toward culturally preferred responses (Salecha et al., 2024).  
+
+Ongoing challenges include maintaining de-biasing effectiveness across languages and preventing bias regeneration during continuous learning.
+
+ 
+**Bibliography**
+
+Anonymous (2023), Measuring Social Bias in Large Language Models, ACL Anthology, Available at  A Psychological View to Social Bias in LLMs: Evaluation and Mitigation | OpenReview (Accessed on 25 March 2025)
+
+Hu, T., Kyrychenko, Y., Rathje, S. Collier N., Van der Linden S, Roozenbeek J. (2025), Generative language models exhibit social identity biases. Nat Comput Sci 5, 65–75. https://doi.org/10.1038/s43588-024-00741-1
+
+Raj C.,  Mukherjee A.,  Caliskan A.,  Anastasopoulos A.,  Zhu Z. (2024), Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis, arXiz, Available at [2407.02030] Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis [Accessed on 26 March 2025]
+
+Salecha A., Ireland M. E., Subrahmanya S., Sedoc J., Ungar L. H., Eichstaedt J. C. (2024), Large language models display human-like social desirability biases in Big Five personality surveys, PNAS Nexus, Volume 3, Issue 12, December 2024, pgae533, Available at https://doi.org/10.1093/pnasnexus/pgae533 [Accessed on 24 March 2025]
+
+Wolfe, C. R. (2025) Scaling Laws for LLMs: From GPT-3 to o3, Deep (Learning) Focus Available at https://cameronrwolfe.substack.com/p/llm-scaling-laws [Accessed on 26 March 2025] 
 
 
 
