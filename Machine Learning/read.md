@@ -272,6 +272,7 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
 
+
 **Initial Post**
 
 **Read/listen to the article by Hutson (2021) in Nature on Robo-writers. Post your thoughts on the risks and benefits of the use AI writers at different levels, from administrative work to creative writing.**
@@ -331,8 +332,10 @@ The most effective approaches combine technical interventions with social psycho
 
 Ongoing challenges include maintaining de-biasing effectiveness across languages and preventing bias regeneration during continuous learning.
 
+
  
 **Bibliography**
+
 
 Anonymous (2023), Measuring Social Bias in Large Language Models, ACL Anthology, Available at  A Psychological View to Social Bias in LLMs: Evaluation and Mitigation | OpenReview (Accessed on 25 March 2025)
 
