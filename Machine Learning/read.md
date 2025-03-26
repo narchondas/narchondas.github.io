@@ -138,7 +138,8 @@ Use the following links to navigate to the start of the sections
 ## Collaborative Discussions
 
 
-### Initial & summary posts
+
+### Collaborative Discussion 1
 
 
 **Initial Post**
@@ -271,6 +272,9 @@ Fellows, B. (10 July 2023) The Dangers of Ineffective Rollbacks in Software Rele
 
 Khern-am-nuai, W. (2024) 'Key Lessons Learned for Technology Managers from CrowdStrike Global IT Outage', IEEE Engineering Management Review, pp. 1–5. Available at: https://doi.org/10.1109/EMR.2024.345209
 
+
+
+### Collaborative Discussion 2 
 
 
 **Initial Post**
