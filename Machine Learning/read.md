@@ -322,7 +322,7 @@ Thanks, Elias, for your post.  I think the issue on social biases in Large Langu
 
 It is worth noting three key mitigation strategies emerging from recent studies:
 
-i) Training data curation (filtering biased content during pre-training to reduce baseline bias levels) (Hu et al. 2025),
+i) Training data curation (filtering biased content during pre-training to reduce baseline bias levels) (Hu et al. 2025)
 
 ii) Specialised fine-tuning (techniques like Social Contact Debiasing (SCD) fine-tune models via instructions using psychologically grounded prompts simulating positive intergroup interactions and this way they can reduce bias by up to 40% in controlled experiments) (An., 2023 and Raj et al., 2024) and
 
