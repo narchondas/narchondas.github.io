@@ -344,7 +344,7 @@ Ongoing challenges include maintaining de-biasing effectiveness across languages
 **Bibliography**
 
 
-Anonymous (2023), Measuring Social Bias in Large Language Models, ACL Anthology, Available at  A Psychological View to Social Bias in LLMs: Evaluation and Mitigation | OpenReview (Accessed on 25 March 2025)
+Anonymous (2023), Measuring Social Bias in Large Language Models, ACL Anthology, Available at A Psychological View to Social Bias in LLMs: Evaluation and Mitigation | OpenReview (Accessed on 25 March 2025)
 
 Hu, T., Kyrychenko, Y., Rathje, S. Collier N., Van der Linden S, Roozenbeek J. (2025), Generative language models exhibit social identity biases. Nat Comput Sci 5, 65–75. https://doi.org/10.1038/s43588-024-00741-1
 
