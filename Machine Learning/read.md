@@ -425,6 +425,10 @@ Wolfe, C. R. (2025) Scaling Laws for LLMs: From GPT-3 to o3, Deep (Learning) Foc
 
 [Unit09 Ex1 Convolutional Neural Networks (CNN) Nikos- Object Recognition.ipynb](https://colab.research.google.com/drive/1IXodETKJD8oY80DIKQlpV0d_w02FTafu#scrollTo=oN6lYUSp1n0x)
 
+### Unit 11 Model Performance Measurement
+
+[Unit11_model_Performance_Measurement Nikos.ipynb](https://colab.research.google.com/drive/1-GnLGf3-2FAd9r3nuXVglD_MFXMu1v5f#scrollTo=sVAQVpSklr3C)
+
 
 ![image](https://github.com/user-attachments/assets/e5e02087-c23a-42a0-b40d-5e5b26e0ce44)
 
