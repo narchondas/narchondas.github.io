@@ -15,6 +15,8 @@ Use the following links to navigate to the start of the sections
 
 [4. Development Team Project Report](#development-team-project-report)
 
+[5. End of Module Assignment: Individual Reflection](#end-of-module-assignment-individual-reflection)
+
 
 ## Learning outcomes
 
@@ -609,3 +611,90 @@ Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodol
 
 [Go to main Menu](https://narchondas.github.io/)
 
+
+## End of Module Assignment: Individual Reflection
+
+
+This reflection examines my learning experience with Module 3 on Machine Learning, which combined theoretical concepts with real-world applications.  The module progressed systematically from foundational mathematical concepts to learning models, algorithms, and ultimately to the design of complete application systems integrating multiple machine learning components.
+
+
+**Module Content and Learning Outcomes**
+
+The module emphasised data analytics requirements while teaching systematic approaches to machine learning implementation.  Key learning outcomes included:
+
+•	Understanding legal, social, ethical, and professional issues faced by machine learning professionals
+
+•	Recognising the applicability and challenges of different datasets for machine learning algorithms
+
+•	Applying machine learning techniques to real-world problems with technical risk and uncertainty
+
+•	Developing skills to function effectively in virtual professional development teams
+
+(UoEO Module Home, n.d.).  
+
+For this individual reflection, I will make use of mainly two reflective models: 
+
+a) ‘What? So What? Now what?’ (experience, implication of the situation and action plan) (Driscol, 1994 and Rolfe et al., 2001) and 
+
+b) the Gibbs’ reflective Cycle (description, feelings, evaluation, analysis, conclusion, action plan) (UoEO Short Guide to Reflective Writing, n.d. and The University of Edinburgh Reflection Toolkit, n.d.).  
+
+In this module, I gained insights into how machine learning influences daily life—from internet browsing to bank loan decisions—by leveraging big data to improve autonomous decision-making accuracy.  The module covered essential data science processes including Exploratory Data Analysis (EDA), which ensures validity of AI project outcomes by validating raw data and generating business insights.
+
+My understanding deepened regarding statistical techniques like correlation and regression that quantify relationships between variables, as well as cluster analysis for grouping similar objects.  I learned about artificial neural networks (ANNs) that mimic the animal brain's learning and adaptation processes, driving Industry 4.0 advancements.  Additionally, I studied convolutional neural networks (CNNs) that enable computer vision applications in self-driving vehicles, healthcare, and agriculture.
+
+The unit on model selection and evaluation was particularly valuable, teaching how to select appropriate tools for specific tasks while focusing on improving prediction accuracy (making use of metrics such as Recall, Precision, Sensitivity, Specificity, Error rate and Classification Accuracy, F1 Score etc).  Importantly, I learned about the "no-free lunch theorem," which establishes that no single machine learning approach outperforms all others across all circumstances (Miroslav, 2021).
+
+**Challenges with GitHub e-Portfolio**
+
+As part of the module requirements, postgraduate students had to submit project work and formative activities as an e-portfolio on GitHub.  Being unfamiliar with this platform, I searched for tutorials on YouTube and resources to understand how to create an e-portfolio.  Despite extensive research both on the University website and internet resources, I found the process difficult and time-consuming.
+
+I sought assistance from the Study Skills Hub, hoping to receive guidance or a crash course on GitHub.  Surprisingly, my request fell into an ‘institutional gap’—the Study Skills Hub claimed they don't provide training for module-specific software, while failing to recognise that GitHub was about the submission format rather than the machine learning content itself.
+Fortunately, a peer of mine (J.E.) volunteered to help me, providing a 45-minute online tutorial that covered Markdown language basics and e-portfolio creation.  This situation highlighted a significant institutional shortcoming—the University should provide basic GitHub training rather than letting students waste valuable time that could otherwise be devoted to learning machine learning concepts and algorithms.
+
+
+**Assessment of Module 3 Material**
+
+What most helped me grasp the Module material was the collection of Colab Notebooks, which I had to run by following the explanations and the commands already included in them.  Apart from performing the recommended commands with the built-in values and datasets, I tried also to play with coding by introducing different values to see how the outcomes differed.  That way, I managed to understand better the resulting graphs and plots.  Whenever it was hard for me to interpret what the outcome implied, I had recourse to the AI-enabled tool on Colab or used ChatGPT.  Another valuable source which helped delve into the ML world, was the available lecturecasts throughout the Units.
+
+However, the reading materials had significant shortcomings.  While the lecturecasts were informative and accessible, the required reading—primarily Miroslav's "An Introduction to Machine Learning" (2021)—was not user-friendly for non-tech savvy students.  The suggested chapters often seemed irrelevant to unit learning outcomes, possibly because they were referencing an outdated version of the book.  The content was heavily mathematical and disconnected from the practical knowledge gained through the units.
+
+Similarly, the additional reading options frequently had minimal connection to unit topics, raising questions about their alignment with learning objectives.
+
+
+**Team Project Experience**
+
+Our team project analysed factors determining average price levels for Airbnb listings in New York City (2019) and investigated potential relationships between pricing and customer review quantities.
+
+The team members were, in general, very reactive, cooperative and constructive.  At first, I took the initiative to create a WhatsApp group for immediate messaging and coordination and made sure we set the online meeting at a time suitable to all, bearing in mind the different time zones we were living in.   Having completed preliminary data analysis before our first meeting, I helped formulate interesting business analytical questions.  We divided tasks among team members and created a shared Google document for collaborative writing.
+
+Despite clear initial task allocation, we encountered a common challenge in group work: most team members performed all project tasks (likely to maximise their learning) and wanted to include their findings in the report. This created redundancy and required difficult decisions about which content to keep in the main report versus which content to relegate to the appendix.  In these circumstances, one has also to be aware of the necessity for all team members to feel as part of the project, in the sense that everybody should have some of their analysis included in the main report.  
+
+In retrospect, more detailed task division might have prevented parallel drafting and analysis duplication.  Having said the above, the end result as for the quality and granularity far exceeded my initial expectations and it is a testament to the principle that ‘whole is greater than the sum of its parts’.
+
+The module provided practical data analysis experience while developing teamwork skills in a virtual professional environment. Though institutional support for technical tools like GitHub was lacking, peer collaboration helped overcome this obstacle. The practical components—particularly the Colab Notebooks and team project—were more valuable than the theoretical readings, which often lacked relevance and accessibility for non-specialists.
+Overall, this machine learning module successfully combined theoretical concepts with practical applications, preparing students for real-world data analytics challenges despite some administrative and resource limitations.
+
+
+**List of References**
+
+Driscoll J. (1994). Reflective practice for practise. Senior Nurse, 13, 47 -50
+
+Miroslav, K. (2021) An Introduction to Machine Learning. 3rd Ed. Springer. Chapter 12
+
+Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan 
+
+The University of Edinburgh (n.d.). Reflection Toolkit. Available from https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience [Accessed on 17 March 2025]
+
+UoEO (n.d.). Machine Learning January 2025, Module Home Available from https://www.my-course.co.uk/course/view.php?id=12901&section=0 [Accessed on 15 March 2025]
+
+UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to reflective writing.pdf [Accessed on 17 March]
+
+UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 10 March]
+
+
+![image](https://github.com/user-attachments/assets/48c77e34-06e6-435e-bc7c-dbe3ab41617c)
+
+
+[Back to the top](#machine-learning)
+
+[Go to main Menu](https://narchondas.github.io/)
