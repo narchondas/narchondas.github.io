@@ -644,6 +644,7 @@ My understanding deepened regarding statistical techniques like correlation and 
 
 The unit on model selection and evaluation was particularly valuable, teaching how to select appropriate tools for specific tasks while focusing on improving prediction accuracy (making use of metrics such as Recall, Precision, Sensitivity, Specificity, Error rate and Classification Accuracy, F1 Score etc).  Importantly, I learned about the "no-free lunch theorem," which establishes that no single machine learning approach outperforms all others across all circumstances (Miroslav, 2021).
 
+
 **Challenges with GitHub e-Portfolio**
 
 As part of the module requirements, postgraduate students had to submit project work and formative activities as an e-portfolio on GitHub.  Being unfamiliar with this platform, I searched for tutorials on YouTube and resources to understand how to create an e-portfolio.  Despite extensive research both on the University website and internet resources, I found the process difficult and time-consuming.
@@ -692,7 +693,7 @@ UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to
 UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 10 March]
 
 
-![image](https://github.com/user-attachments/assets/48c77e34-06e6-435e-bc7c-dbe3ab41617c)
+![image](https://github.com/user-attachments/assets/415bdf38-7787-4b42-8501-a98ae018e178)
 
 
 [Back to the top](#machine-learning)
