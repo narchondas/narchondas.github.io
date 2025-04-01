@@ -655,7 +655,7 @@ Fortunately, a peer of mine (J.E.) volunteered to help me, providing a 45-minute
 
 **Assessment of Module 3 Material**
 
-What most helped me grasp the Module material was the collection of Colab Notebooks, which I had to run by following the explanations and the commands already included in them.  Apart from performing the recommended commands with the built-in values and datasets, I tried also to play with coding by introducing different values to see how the outcomes differed.  That way, I managed to understand better the resulting graphs and plots.  Whenever it was hard for me to interpret what the outcome implied, I had recourse to the AI-enabled tool on Colab or used ChatGPT.  Another valuable source which helped delve into the ML world, was the available lecturecasts throughout the Units.
+What most helped me grasp the Module material was the collection of Colab Notebooks, which I had to run by following the explanations and the commands already included in them.  Apart from performing the recommended commands with the built-in values and datasets, I tried also to play with coding by introducing different values to see how the outcomes differed.  That way, I managed to understand better the resulting graphs and plots.  Whenever it was hard for me to interpret what the outcome implied, I had recourse to the AI-enabled tool on Colab or used ChatGPT.  Another valuable source which helped me delve into the ML world, was the available lecturecasts throughout the Units.
 
 However, the reading materials had significant shortcomings.  While the lecturecasts were informative and accessible, the required reading—primarily Miroslav's "An Introduction to Machine Learning" (2021)—was not user-friendly for non-tech savvy students.  The suggested chapters often seemed irrelevant to unit learning outcomes, possibly because they were referencing an outdated version of the book.  The content was heavily mathematical and disconnected from the practical knowledge gained through the units.
 
@@ -673,7 +673,7 @@ Despite clear initial task allocation, we encountered a common challenge in grou
 In retrospect, more detailed task division might have prevented parallel drafting and analysis duplication.  Having said the above, the end result as for the quality and granularity far exceeded my initial expectations and it is a testament to the principle that ‘whole is greater than the sum of its parts’.
 
 The module provided practical data analysis experience while developing teamwork skills in a virtual professional environment. Though institutional support for technical tools like GitHub was lacking, peer collaboration helped overcome this obstacle. The practical components—particularly the Colab Notebooks and team project—were more valuable than the theoretical readings, which often lacked relevance and accessibility for non-specialists.
-Overall, this machine learning module successfully combined theoretical concepts with practical applications, preparing students for real-world data analytics challenges despite some administrative and resource limitations.
+Overall, this machine learning module successfully combined theoretical concepts with practical applications, preparing postgraduate students for real-world data analytics challenges despite some administrative and resource limitations.
 
 
 **List of References**
