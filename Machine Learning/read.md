@@ -615,7 +615,7 @@ Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodol
 
 
 
-## Summative Assessment:Individual Presentation
+## Summative Assessment: Individual Presentation
 
 ### Neural Network Models for Object Recognition
 
