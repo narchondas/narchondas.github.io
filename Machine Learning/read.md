@@ -612,6 +612,26 @@ Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodol
 [Go to main Menu](https://narchondas.github.io/)
 
 
+
+## Summative Assessment:Individual Presentation
+
+### Neural Network Models for Object Recognition
+
+(https://docs.google.com/presentation/d/1ET_he6Ajbu4q3ztOg-_p0Kw7Qc3jt9tfLSjmbrDqX80/edit?slide=id.p1#slide=id.p1)
+
+
+### Transcript of the presentation's audio file
+
+(https://docs.google.com/document/d/1WBJUU0VRA0LSaTpCIwKPEYBXGTzNIcBQE0AbUHlLKFg/edit?tab=t.0)
+
+![image](https://github.com/user-attachments/assets/8edd48fa-b832-4c4f-9d6e-878445fc5197)
+
+
+[Back to the top](#machine-learning)
+
+
+
+
 ## End of Module Assignment: Individual Reflection
 
 
