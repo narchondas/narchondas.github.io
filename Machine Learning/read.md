@@ -626,7 +626,7 @@ Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodol
 
 (https://docs.google.com/document/d/1WBJUU0VRA0LSaTpCIwKPEYBXGTzNIcBQE0AbUHlLKFg/edit?tab=t.0)
 
-![image](https://github.com/user-attachments/assets/8edd48fa-b832-4c4f-9d6e-878445fc5197)
+![image](https://github.com/user-attachments/assets/59defe72-299c-4b6b-bef4-3dd3e0b1da8a)
 
 
 [Back to the top](#machine-learning)
