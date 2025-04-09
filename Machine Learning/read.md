@@ -15,7 +15,9 @@ Use the following links to navigate to the start of the sections
 
 [4. Development Team Project Report](#development-team-project-report)
 
-[5. End of Module Assignment: Individual Reflection](#end-of-module-assignment-individual-reflection)
+[5. Summative Assessment: Individual Presentation](#summative-assessment-individual-presentation)
+
+[6. End of Module Assignment: Individual Reflection](#end-of-module-assignment-individual-reflection)
 
 
 ## Learning outcomes
