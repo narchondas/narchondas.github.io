@@ -619,12 +619,12 @@ Wedel, M., & Kamakura, W.A. (2000). Market segmentation: Conceptual and methodol
 
 ### Neural Network Models for Object Recognition
 
-(https://docs.google.com/presentation/d/1ET_he6Ajbu4q3ztOg-_p0Kw7Qc3jt9tfLSjmbrDqX80/edit?slide=id.p1#slide=id.p1)
+[Module 3 Assignment Individual Presentation](https://docs.google.com/presentation/d/1ET_he6Ajbu4q3ztOg-_p0Kw7Qc3jt9tfLSjmbrDqX80/edit?slide=id.p1#slide=id.p1)
 
 
 ### Transcript of the presentation's audio file
 
-(https://docs.google.com/document/d/1WBJUU0VRA0LSaTpCIwKPEYBXGTzNIcBQE0AbUHlLKFg/edit?tab=t.0)
+[Module 3 Assignment Individual Presentation Final Transcript](https://docs.google.com/document/d/1WBJUU0VRA0LSaTpCIwKPEYBXGTzNIcBQE0AbUHlLKFg/edit?tab=t.0)
 
 ![image](https://github.com/user-attachments/assets/59defe72-299c-4b6b-bef4-3dd3e0b1da8a)
 
