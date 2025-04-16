@@ -339,7 +339,6 @@ The development of such a framework is crucial to ensure that creators are adequ
 The use of AI as a primary tool for art creation also introduces the risk of creating stereotypes and uniformly distributed standards, which could remove the people's willingness to acquire inspiration from the art. While movie studios may make some use of AI writers, one cannot envisage for the time being that current generative pre-trained transformers (GPT) can produce full scripts of comedies and dramas enriched with human wit, jokes, daily expressions thus replacing the complexity and nuances of human experience and fantasy in storytelling (Hutson, 2021 and Guan et al., 2020).
 
 In conclusion, while AI offers immense improvements in productivity, its use in creative work raises serious questions about authorship, originality, and intellectual property. The balance between augmentation and replacement is critical, and AI should be used as a creative support tool, rather than a substitute for human input (Anantrasirichai and Bull, 2022). By acknowledging the limitations of AI writers and protecting the intellectual property rights of creators, we can ensure that human creativity and innovation continue to thrive in the age of AI.
-
  
 
 
