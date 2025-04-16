@@ -326,6 +326,43 @@ Merchant, B. (25 September 2023), The writers’ strike was the first workplace 
 
 
 
+**Summary Post**
+
+The integration of AI technologies into the writing process has significantly altered traditional notions of authorship, creativity, and intellectual labour.  AI writers work by observing statistical relationships between words and phrases, but lack true understanding of their meaning, rendering them akin to ‘a mouth without a brain’, as Yejin Choi highlighted (Hutson, 2021). This limitation is a significant constraint, as it limits their capacity to craft compelling narratives that resonate with human emotions and experiences.
+
+The creativity of humans is a unique and essential aspect of writing, which AI script writers currently cannot replicate (Hutson, 2021). Human experience and fantasy are crucial elements in creative writing, and AI writers, if effectively chain-prompted, could generate a plot and a script; nevertheless, the end result will exclusively be based on already existing data and material on which the AI tool was trained (Anguiano et al., 2023).  As a result, it is doubtful to what extent AI writers can replicate human creativity, improvisation, and novelty.
+
+Moreover, the use of AI in writing raises important ethical considerations, such as transparency about AI contributions, human accountability for the final product, potential biases in AI-generated content, and risk of plagiarism and copyright infringement (Hutson, 2021). The issue of copyright infringement is particularly concerning, as AI companies often utilise existing creative works to train their generative models without compensating the original creators (Sweney, 2025). This practice highlights the need for a dedicated and continuously updated legal framework that addresses these issues and protects the intellectual property rights of creators (Levendowski, 2018).
+
+The development of such a framework is crucial to ensure that creators are adequately compensated for their contributions and to prevent the exploitation of their work (Ducru et al., 2024). As AI continues to play a more prominent role in creative fields, it is essential to establish clearer frameworks for intellectual property and develop mechanisms to ensure that creators are protected (Floridi and Chiriatti, 2020). The limitations of AI writers are also highlighted by Guan et al. (2020), who argue that existing neural language generation models struggle with repetition, logic conflicts, and lack of long-range coherence in generated stories. These limitations emphasise the need for a critical approach to the use of AI in creative writing.
+
+The use of AI as a primary tool for art creation also introduces the risk of creating stereotypes and uniformly distributed standards, which could remove the people's willingness to acquire inspiration from the art. While movie studios may make some use of AI writers, one cannot envisage for the time being that current generative pre-trained transformers (GPT) can produce full scripts of comedies and dramas enriched with human wit, jokes, daily expressions thus replacing the complexity and nuances of human experience and fantasy in storytelling (Hutson, 2021 and Guan et al., 2020).
+
+In conclusion, while AI offers immense improvements in productivity, its use in creative work raises serious questions about authorship, originality, and intellectual property. The balance between augmentation and replacement is critical, and AI should be used as a creative support tool, rather than a substitute for human input (Anantrasirichai and Bull, 2022). By acknowledging the limitations of AI writers and protecting the intellectual property rights of creators, we can ensure that human creativity and innovation continue to thrive in the age of AI.
+
+ 
+
+
+#### Bibliography
+
+Anantrasirichai, N. and Bull, D. (2022) ‘Artificial Intelligence in the Creative Industries: A Review’, Artificial Intelligence Review, 55(1), pp. 589–656. Available from https://doi.org/10.1007/s10462-021-10039-7. 
+
+Anguiano D & Beckett L., (1 September 2023) How Hollywood writers triumphed over AI – and why it matters, The Guardian, Available at https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence [Accessed on 20 March 2025] 
+
+Ducru, P. et al. (2024) ‘AI Royalties -- an IP Framework to Compensate Artists & IP Holders for AI-Generated Content’. arXiv. Available at: https://doi.org/10.48550/arXiv.2406.11857.
+
+Floridi, L. and Chiriatti, M. (2020) 'GPT-3: Its nature, scope, limits, and consequences', Minds and Machines, 30(4), pp. 681–694. 
+
+Guan J., Huang F., Zhao Z., Zhu X. & Huang, M. 2020. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. Transactions of the Association for Computational Linguistics, 8:93–108. 
+
+Hutson, M. (2021) Robo-writers: the rise and risks of language-generating AI, Nature 591, 22-25 doi: https://doi.org/10.1038/d41586-021-00530-0 
+
+Levendowski, A. (2018) 'How copyright law can fix artificial intelligence’s implicit bias problem', Washington Law Review, 93(2), pp. 579–630. 
+
+Sweney, M. (2025) ‘AI firms are “scraping the value” from UK’s £125bn creative industries, says Channel 4 boss’, The Guardian, 1 April. Available from https://www.theguardian.com/technology/2025/apr/01/ai-firms-scraping-value-uk-creative-industries-says-channel-4-boss-alex-mahon [Accessed on 6 April 2025].
+
+
+
 #### Response to my peers' posts
 
 
