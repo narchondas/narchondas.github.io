@@ -415,15 +415,15 @@ While caution is essential—especially regarding accuracy and source reliabilit
 **Bibliography**
 
 
-Anonymous (no date), Using AI ethically in writing assignments, The University of Kansas, Center for Teaching Excellence Available from Ethical use of AI in writing assignments | Center for Teaching Excellence [Accessed on 17 April 2025]
+Anonymous (no date), Using AI ethically in writing assignments, The University of Kansas, Center for Teaching Excellence Available from https://cte.ku.edu/ethical-use-ai-writing-assignments [Accessed on 17 April 2025]
 
-Kapuściński M., (2024) Everything You Wanted to Know About ChatGPT But Were Afraid to Ask, TTMS Available from  Everything You Wanted to Know About ChatGPT | TTMS [Accessed on 17 April 2025]
+Kapuściński M., (2024) Everything You Wanted to Know About ChatGPT But Were Afraid to Ask, TTMS Available from https://ttms.com/everything-you-wanted-to-know-about-chatgpt-but-were-afraid-to-ask/ [Accessed on 17 April 2025]
 
-Kapuściński M., (2025) ChatGPT 4.5 – What’s New? Practical Examples and Applications, TTMS. Available from ChatGPT 4.5 – What's New? | TTMS [Accessed on 17 April 2025]
+Kapuściński M., (2025) ChatGPT 4.5 – What’s New? Practical Examples and Applications, TTMS. Available from https://ttms.com/chatgpt-4-5-whats-new-practical-examples-and-applications/ [Accessed on 17 April 2025]
 
 Steiss J. et al. (2024), Comparing the quality of human and ChatGPT feedback of students’ writing, Learning and Instruction, Volume 91, https://doi.org/10.1016/j.learninstruc.2024.101894.
 
-Thorburn R. (2024), How to use AI to Generate Student Feedback, English for Asia, Available from How to use AI to Generate Student Feedback | Hong Kong TESOL [Accessed on 17 April 2025]
+Thorburn R. (2024), How to use AI to Generate Student Feedback, English for Asia, Available from https://hongkongtesol.com/blog/how-use-ai-generate-student-feedback [Accessed on 17 April 2025]
 
 
 
