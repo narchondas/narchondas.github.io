@@ -396,6 +396,37 @@ Wolfe, C. R. (2025) Scaling Laws for LLMs: From GPT-3 to o3, Deep (Learning) Foc
 
 
 
+Thank you Fabian for your thoughtful overview of the risks and benefits of using Large Language Models like GPT.  I agree that while AI-generated text is impressively easy to produce and can serve as a highly effective assistant for routine writing tasks, it is crucial to recognise the limitations and potential pitfalls you have outlined.
+
+On the one hand, producing text with AI is remarkably easy and efficient. For routine or repetitive tasks—such as drafting emails, summarising meetings, or generating feedback—AI can act as a reliable assistant, saving time and helping overcome writer’s block (Kapuściński, 2024 and Kapuściński, 2025). Its ability to quickly generate drafts or suggest improvements makes it highly effective for daily administrative work, where minor errors are easily caught and corrected by humans.
+
+However, this ease comes with significant caveats. AI-generated answers can be unreliable, sometimes based on fabricated sources or “hallucinations”—plausible-sounding but false information (Kapuściński, 2024 and Kapuściński, 2025). GPT models, in particular, tend to produce insipid and neutral text that aims to please the reader rather than challenge them or offer innovative solutions Kapuściński, 2025). This agreeable style can mask a lack of originality and sometimes leads to generic or uncritical responses.
+
+There are two main ways to leverage AI in writing.
+
+AI as a drafting assistant:  You provide a hint or prompt, and the AI generates a draft. The human then reviews, fine-tunes, and polishes the text, improving syntax, accuracy, and style (Kapuściński, 2025, Anonymous, n.d.). This workflow is ideal for speeding up the initial stages of writing, while ensuring quality through human oversight.
+
+AI as a feedback provider:  The human creates the initial draft, and the AI reviews it, offering suggestions for improvement, adding arguments, or proposing sources (Thornburn, 2024 and Steiss et al., 2024). This approach is valuable for enhancing clarity, structure, and argumentation, especially when seeking diverse perspectives or quick, actionable feedback.
+
+While caution is essential—especially regarding accuracy and source reliability—being educated about AI’s strengths and limitations enables users to harness its benefits effectively, particularly for repetitive or time-consuming tasks (Kapuściński, 2025). Used wisely, AI is a transformative tool, but it always requires a critical, informed human in the loop.
+
+
+
+**Bibliography**
+
+
+Anonymous (no date), Using AI ethically in writing assignments, The University of Kansas, Center for Teaching Excellence Available from Ethical use of AI in writing assignments | Center for Teaching Excellence [Accessed on 17 April 2025]
+
+Kapuściński M., (2024) Everything You Wanted to Know About ChatGPT But Were Afraid to Ask, TTMS Available from  Everything You Wanted to Know About ChatGPT | TTMS [Accessed on 17 April 2025]
+
+Kapuściński M., (2025) ChatGPT 4.5 – What’s New? Practical Examples and Applications, TTMS. Available from ChatGPT 4.5 – What's New? | TTMS [Accessed on 17 April 2025]
+
+Steiss J. et al. (2024), Comparing the quality of human and ChatGPT feedback of students’ writing, Learning and Instruction, Volume 91, https://doi.org/10.1016/j.learninstruc.2024.101894.
+
+Thorburn R. (2024), How to use AI to Generate Student Feedback, English for Asia, Available from How to use AI to Generate Student Feedback | Hong Kong TESOL [Accessed on 17 April 2025]
+
+
+
 ![image](https://github.com/user-attachments/assets/f54eee9c-f8c4-4162-9450-903272316a88)
 
 
