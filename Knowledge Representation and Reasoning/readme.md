@@ -18,7 +18,7 @@ Use the following links to navigate to the start of the sections
 
 ### In the module Knowledge Representation and Reasoning I shall:
 
-* Discuss how to define knowledge and explain the concept of KRR and its relationship to data and information.
+*Discuss how to define knowledge and explain the concept of KRR and its relationship to data and information.
   
 *Gain an appreciation of the importance and rationale for employing formal approaches to KRR.
 
@@ -29,7 +29,7 @@ Use the following links to navigate to the start of the sections
 
 ### On completion of the module Knowledge Representation and Reasoning, I will be able to:
 
-* Critique the need for formal approaches to knowledge representation and reasoning.
+*Critique the need for formal approaches to knowledge representation and reasoning.
   
 *Review critically properties of a knowledge-based system.
 
@@ -45,6 +45,12 @@ Use the following links to navigate to the start of the sections
 
 
 ## Collaborative discussions
+
+Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems.
+
+Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.
+
+How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.
 
 
 ![image](https://github.com/user-attachments/assets/668798c3-8875-48b4-8bfb-f729f82ed8ec)
