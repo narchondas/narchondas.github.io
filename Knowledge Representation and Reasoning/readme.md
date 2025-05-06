@@ -52,10 +52,10 @@ Use the following links to navigate to the start of the sections
 ### Collaborative Discussion 1
 
 
-**Initial Post**
 
 **Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems. Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.  How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.**
 
+**Initial Post**
 
 The assertion that knowledge representation (KR) is a recent phenomenon, emerging only with the development of computing technology, is not entirely accurate.  While the formal study of KR as a subfield of artificial intelligence (AI) began in the mid-20th century, the human need to represent, store, and transmit knowledge is ancient and predates computers by millennia.
 
