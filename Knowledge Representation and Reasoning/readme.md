@@ -9,7 +9,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussions](#collaborative-discussions)
 
-[2. Seminars and formative activities](#seminar-and-formative-activities)
+[2. Seminars and formative activities](#seminars-and-formative-activities)
 
 
 
@@ -53,7 +53,9 @@ Discuss this assertion. Do you agree or disagree with this opinion? Justify your
 How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.
 
 
+
 ![image](https://github.com/user-attachments/assets/668798c3-8875-48b4-8bfb-f729f82ed8ec)
+
 
 
 
@@ -63,7 +65,9 @@ How is reasoning related to knowledge representation (KR)? Is KR still useful wi
 ## Seminars and formative activities 
 
 
+
 ![image](https://github.com/user-attachments/assets/51a7c4c0-6a1e-40c7-bc48-0e4a681b669a)
+
 
 
 
