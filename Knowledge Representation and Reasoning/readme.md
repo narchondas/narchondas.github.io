@@ -46,11 +46,15 @@ Use the following links to navigate to the start of the sections
 
 ## Collaborative discussions
 
-Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems.
+### Initial, summary posts & response to peers' posts
 
-Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.
 
-How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.
+### Collaborative Discussion 1
+
+
+**Initial Post**
+
+**Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems. Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.  How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.**
 
 
 
