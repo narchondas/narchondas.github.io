@@ -57,6 +57,29 @@ Use the following links to navigate to the start of the sections
 **Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems. Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.  How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references.**
 
 
+The assertion that knowledge representation (KR) is a recent phenomenon, emerging only with the development of computing technology, is not entirely accurate.  While the formal study of KR as a subfield of artificial intelligence (AI) began in the mid-20th century, the human need to represent, store, and transmit knowledge is ancient and predates computers by millennia.
+
+Humans have always sought ways to externalise and perpetuate knowledge beyond individual memory.  One of the most striking examples is the use of Egyptian hieroglyphics, which date back to around 3300 BC.  Hieroglyphics served not only as a means of communication but also as a sophisticated system for encoding religious, historical, and administrative knowledge in a durable, interpretable form.  This demonstrates that the need to represent knowledge systematically is deeply rooted in human culture.  As Weststeijn (2011) put it, ‘[c]ommunication through images is more fundamental than that through alphabetic signs’.
+
+Beyond pictorial and written systems, the development of formal logic by philosophers and mathematicians such as Aristotle, Leibniz, and later George Boole, further exemplifies pre-computer knowledge representation. These formal systems were designed to capture the structure of reasoning and argumentation, providing a symbolic language for expressing complex ideas and relationships (Brachman & Levesque, 2004).
+
+With the advent of computers, the study of KR gained new urgency and direction. Computers made it possible to automate reasoning and manipulate large bodies of knowledge efficiently.  This led to the development of explicit KR formalisms such as semantic networks, frames, and ontologies, which are central to AI research today (Brachman & Levesque, 2004).
+
+Reasoning is fundamentally linked to knowledge representation (KR).  KR structures and encodes information so that a system can "understand" it, while reasoning uses this structured knowledge to draw inferences, solve problems, and make decisions (Lee, 2024).  In essence, KR provides the what (facts, relationships, rules), and reasoning provides the how (deriving new information, making conclusions).
+
+KR alone, without reasoning support, is limited in usefulness.  While it allows for the organisation, storage, and retrieval of information, the real power of KR is realised when reasoning mechanisms are applied.  Reasoning transforms static data into actionable insights by enabling systems to infer new knowledge, detect inconsistencies, and make decisions.  Without reasoning, KR is reduced to a sophisticated database, lacking the ability to generate new conclusions or adapt to new situations.
+
+
+#### References
+
+Brachman, R. J., & Levesque, H. J. (2004). Knowledge Representation and Reasoning. Morgan Kaufmann.
+
+Davis, E., & Marcus, G. (2015). "Commonsense Reasoning and Commonsense Knowledge in Artificial Intelligence." Communications of the ACM, 58(9), 92–103.
+
+Lee A. (2024), Knowledge Representation and Reasoning in AI: Analyzing Different Approaches to Knowledge Representation and Reasoning in Artificial Intelligence Systems, Journal of Artificial Intelligence Research, Volume 4 Issue 1
+
+Weststeijn, T. (2011) 'From hieroglyphs to universal characters. Pictography in the early modern Netherlands', Netherlands Yearbook for History of Art / Nederlands Kunsthistorisch Jaarboek, 61(1), pp. 238–281.
+
 
 ![image](https://github.com/user-attachments/assets/668798c3-8875-48b4-8bfb-f729f82ed8ec)
 
