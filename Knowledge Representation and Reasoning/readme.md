@@ -38,7 +38,7 @@ Use the following links to navigate to the start of the sections
 *Examine and incorporate different modelling approaches to solving KRR problems.
 
 
-![image](![image](https://github.com/user-attachments/assets/96e7c730-c504-4a3e-bb0f-304ea7326c24)
+![image](https://github.com/user-attachments/assets/96e7c730-c504-4a3e-bb0f-304ea7326c24)
 
 
 [Back to the top](#knowledge-representation-and-reasoning)
