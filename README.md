@@ -38,7 +38,7 @@ The administrative reform process is a magnificent ‘journey’ full of excitem
 
 [4. Machine Learning](/Machine Learning/read.md)
 
-[5. Knowledge Representation and Reasoning](/Knowledge Representation and Reasoning/read.md)
+[5. Knowledge Representation and Reasoning](Knowledge Representation and Reasoning/readme.md)
 
 
 
