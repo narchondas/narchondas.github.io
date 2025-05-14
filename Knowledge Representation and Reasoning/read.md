@@ -108,7 +108,6 @@ Weststeijn, T. (2011) 'From hieroglyphs to universal characters. Pictography in 
 
 
 
-
 #### Response to my peers' posts
 
 
