@@ -81,6 +81,33 @@ Lee A. (2024), Knowledge Representation and Reasoning in AI: Analyzing Different
 Weststeijn, T. (2011) 'From hieroglyphs to universal characters. Pictography in the early modern Netherlands', Netherlands Yearbook for History of Art / Nederlands Kunsthistorisch Jaarboek, 61(1), pp. 238–281.
 
 
+**Summary Post**
+
+
+The assertion that knowledge representation (KR) is a recent phenomenon, emerging only with the development of computing technology, is not entirely accurate.  As Weststeijn (2011) notes, the use of visual language in pictography, such as Egyptian hieroglyphics, demonstrates that KR has strong historic roots.  Hieroglyphics served not only as a means of communication but also as a sophisticated system for encoding religious, historical, and administrative knowledge in a durable, interpretable form.  The human need to represent, store, and transmit knowledge is ancient, predating computers by millennia.  Formal logic, developed by philosophers such as Aristotle and Leibniz, further exemplifies pre-computer KR, providing a symbolic language for expressing complex ideas and relationships (Brachman & Levesque, 2004).  
+
+KR structures and encodes information, allowing reasoning processes to draw inferences and make decisions (Lee, 2024). Reasoning is critical for the functionality and utility of KR, and its contemporary understanding in computing is rooted in its ability to enable automated reasoning with systems like semantic networks and ontologies (Brachman and Levesque, 2004).  Moreover, KR's utility is not limited to formal reasoning support, as structured data systems serve critical roles in numerous fields, such as archiving and retrieval in libraries (Davis et al., 1992).  
+
+KR is a continuation of ancient practices, with a distinct conceptual foundation, rather than a new invention. The use of formal logic, for instance, not only represented knowledge but also guided reasoning processes in mathematics and philosophy (Russell & Norvig, 2010). Ultimately, KR provides the structures necessary for reasoning processes, enabling systems to infer new information, detect inconsistencies and make decisions, and thus transcending its computational applications to root deeply in human efforts to encode and re-utilise knowledge. 
+
+
+
+#### References
+
+Brachman, R. J., & Levesque, H. J. (2004). Knowledge Representation and Reasoning. Morgan Kaufmann.
+
+Davis, R., Shrobe, H., & Szolovits, P. (1992). What is a knowledge representation? AI Magazine, 14(1), 17-33
+
+Davis, E., & Marcus, G. (2015). "Commonsense Reasoning and Commonsense Knowledge in Artificial Intelligence." Communications of the ACM, 58(9), 92–103.
+
+Lee A. (2024), Knowledge Representation and Reasoning in AI: Analyzing Different Approaches to Knowledge Representation and Reasoning in Artificial Intelligence Systems, Journal of Artificial Intelligence Research, Volume 4 Issue 1
+
+Russell, S., & Norvig, P. (2010). Artificial Intelligence: A Modern Approach (3rd ed.). Prentice Hall.
+
+Weststeijn, T. (2011) 'From hieroglyphs to universal characters. Pictography in the early modern Netherlands', Netherlands Yearbook for History of Art / Nederlands Kunsthistorisch Jaarboek, 61(1), pp. 238–281.
+
+
+
 
 #### Response to my peers' posts
 
