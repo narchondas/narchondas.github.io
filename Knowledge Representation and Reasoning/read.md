@@ -9,7 +9,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Collaborative Discussions](#collaborative-discussions)
 
-[2. Seminars and formative activities](#seminars-and-formative-activities)
+[2. Seminar and formative activities](#seminar-and-formative-activities)
 
 
 
@@ -161,7 +161,7 @@ Weststeijn, T. (2011). The Visible World: Dutch Visual Culture and the Rise of E
 [Back to the top](#knowledge-representation-and-reasoning)
 
 
-## Seminars and formative activities 
+## Seminar and formative activities 
 
 
 
