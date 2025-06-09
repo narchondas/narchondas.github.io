@@ -196,7 +196,7 @@ Weststeijn, T. (2011). The Visible World: Dutch Visual Culture and the Rise of E
 
 [Formative Activities](https://docs.google.com/document/d/147jzP4P6S2AxhWFLjuSvzJT96GOdvuK-HK5yBYoutnE/edit?tab=t.0)
 
-Exercise on Protege
+[Exercise on Protege]
 ![image](https://github.com/user-attachments/assets/c3c35ba6-3eb3-4ddf-b0fc-6951637cba0c)
 
 
