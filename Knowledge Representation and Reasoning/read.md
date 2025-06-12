@@ -11,6 +11,8 @@ Use the following links to navigate to the start of the sections
 
 [2. Seminar and formative activities](#seminar-and-formative-activities)
 
+[3. Case Study Review](#case-study-review)
+
 
 
 ## Learning outcomes
@@ -203,6 +205,13 @@ Weststeijn, T. (2011). The Visible World: Dutch Visual Culture and the Rise of E
 
 ![image](https://github.com/user-attachments/assets/51a7c4c0-6a1e-40c7-bc48-0e4a681b669a)
 
+
+
+
+## Case Study Review 
+
+
+**This assignment requires students to critically analyse the paper ‘A curated ontology-based large-scale knowledge graph of artificial intelligence tasks and benchmarks’ by Kathrin Blagec (Blagec, K. et al. (2022) A curated, ontology-based, large-scale knowledge graph of artificial intelligence tasks and benchmarks.), which introduces the Intelligence Task Ontology (ITO).**
 
 
 
