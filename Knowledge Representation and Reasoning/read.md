@@ -179,7 +179,6 @@ OWL Lite offers limited expressiveness, and KIF, though logic-rich, lacks native
 Therefore, OWL2 stands out as the most effective ontology language for enabling intelligent, scalable, and interoperable knowledge systems on the web.
 
 
-
 #### References
 
 Guarino, N., Oberle, D. and Staab, S. (2009) ‘What is an ontology?’, in Staab, S. and Studer, R. (eds.) Handbook on Ontologies. Berlin: Springer, pp. 1–171.
