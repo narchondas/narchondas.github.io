@@ -159,6 +159,36 @@ Weststeijn, T. (2011). The Visible World: Dutch Visual Culture and the Rise of E
 
 
 
+### Collaborative Discussion 2
+
+
+
+**How is an ontology defined in this thesis? Based on the identified definition, which language do you believe is the most useful to express ontologies that can be utilised by software agents on the WWW: KIF, OWL2, RDF or OWL-lite?**
+
+**Initial Post**
+
+An ontology is a structured, formal framework for representing knowledge about a domain, enabling logic-based reasoning to infer new information. It is defined, following Gruber (1993), as “a formal, explicit specification of a shared conceptualisation,” where conceptualisation denotes an abstract model of a phenomenon in the world (as cited in Nassim, 2022). Ontologies facilitate the sharing and reuse of knowledge by providing a semantic structure for communication between systems, humans, or both.
+
+Ontologies are composed of classes (concepts/categories), properties (attributes/relationships), and individuals (instances of classes). These components form the basis for creating domain models that can be interpreted by machines and understood by humans. As Guarino, Oberle, and Staab (2009) argue, ontologies are key enablers of semantic interoperability, offering a common vocabulary and grammar for representing data.
+The Semantic Web is a research domain aimed at transforming the current human-centric web into a machine-interpretable structure, thereby facilitating greater interoperability among web-based data sources. Unlike the conventional web, which is primarily designed for human comprehension and thus hampers seamless data exchange across systems, the Semantic Web seeks to enable automated information processing and integration (Bernstein et al., 2016, as cited in Nassim, 2022). 
+
+Choosing an appropriate ontology language for the Semantic Web requires support for formal specification, logical inference, and interoperability. Among the options—KIF (Knowledge Interchange Format), OWL2, RDF (Resource Description Framework), and OWL-lite—OWL2 stands out as the most useful for this purpose.  OWL2 (Web Ontology Language 2), a W3C standard, offers a high level of logical expressiveness grounded in Description Logics, enabling decidable reasoning (Nassim, 2022). It integrates with RDF for data representation, while extending its capabilities for richer semantic modelling.
+
+OWL Lite offers limited expressiveness, and KIF, though logic-rich, lacks native web support and adoption. OWL2, by contrast, underpins key semantic web applications such as DBpedia and semantic web services, where it facilitates automated reasoning and interoperability (Nassim, 2022 and UoEO, n.d.).
+
+Therefore, OWL2 stands out as the most effective ontology language for enabling intelligent, scalable, and interoperable knowledge systems on the web.
+
+
+
+#### References
+
+Guarino, N., Oberle, D. and Staab, S. (2009) ‘What is an ontology?’, in Staab, S. and Studer, R. (eds.) Handbook on Ontologies. Berlin: Springer, pp. 1–171.
+
+Nasim, T. M. (2022) 'Improving Ontology Alignment Using Machine Learning Techniques', ProQuest Dissertations & Theses.
+
+UoEO (n.d.), Lecturecast, Module 4 Knowledge Representation and Reasoning, , Unit 9 Formalism Techniques and Applications.
+
+
 
 [Back to the top](#knowledge-representation-and-reasoning)
 
