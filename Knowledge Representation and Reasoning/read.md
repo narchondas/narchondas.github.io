@@ -189,6 +189,11 @@ UoEO (n.d.), Lecturecast, Module 4 Knowledge Representation and Reasoning, , Uni
 
 
 
+
+![image](https://github.com/user-attachments/assets/f4e35001-436c-433a-ad84-bc820b68651e)
+
+
+
 [Back to the top](#knowledge-representation-and-reasoning)
 
 
