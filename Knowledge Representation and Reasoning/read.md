@@ -260,7 +260,7 @@ UoEO (n.d.), Lecturecast, Module 4 Knowledge Representation and Reasoning, , Uni
 **Analysis and Application of the Intelligence Task Ontology (ITO) in AI Benchmarking**
 
 
-**This assignment requires students to critically analyse the paper ‘A curated ontology-based large-scale knowledge graph of artificial intelligence tasks and benchmarks’ by Kathrin Blagec (Blagec, K. et al. (2022) A curated, ontology-based, large-scale knowledge graph of artificial intelligence tasks and benchmarks.), which introduces the Intelligence Task Ontology (ITO).**
+**This assignment requires students to critically analyse the paper ‘A curated ontology-based large-scale knowledge graph of artificial intelligence tasks and benchmarks’ by Kathrin Blagec (Blagec, K. et al. (2022), which introduces the Intelligence Task Ontology (ITO).**
 
 
 
