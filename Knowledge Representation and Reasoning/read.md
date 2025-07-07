@@ -189,6 +189,31 @@ UoEO (n.d.), Lecturecast, Module 4 Knowledge Representation and Reasoning, , Uni
 
 
 
+**Summary Post** 
+
+Ontologies serve as structured, formal frameworks for representing domain knowledge in a way that enables logic-based reasoning and semantic interoperability. Drawing from Gruber (1993), an ontology is defined as “a formal, explicit specification of a shared conceptualisation,” where conceptualisation refers to an abstract model of phenomena in the world (as cited in Nassim, 2022). This shared abstraction allows for coherent knowledge exchange between both machines and humans. As Guarino, Oberle, and Staab (2009) argue, ontologies provide the semantic 'scaffolding' necessary for interoperability across diverse systems by offering a common vocabulary and logic for data structuring.
+
+Ontologies are fundamentally composed of three core components: classes (or concepts), properties (attributes or relationships), and individuals (instances of classes). This triadic structure facilitates the development of domain models that are both human-understandable and machine-interpretable. As discussed, such organisation is instrumental in achieving the objectives of the Semantic Web, a paradigm shift from a human-centric web to a machine-readable framework designed to enhance data integration and automated inference (Bernstein et al., 2016, as cited in Nassim, 2022).
+
+Central to enabling the Semantic Web is the choice of an ontology language. Among the candidates—KIF, RDF, OWL Lite, and OWL2—OWL2 (Web Ontology Language 2) emerges as the most robust and widely adopted solution. A W3C standard grounded in Description Logics, OWL2 supports decidable reasoning while offering integration with RDF, thereby enhancing both expressiveness and interoperability (Nassim, 2022; UoEO, n.d.). Its structured profiles—EL (Expressive Language), QL (Query Language), and RL (Rule Language)—allow developers to tailor ontologies to specific reasoning and performance needs (Horrocks et al., 2003).
+
+Given its expressive power, logical soundness, and modularity, OWL2 is well positioned to serve as the foundational language for intelligent, scalable, and interoperable Semantic Web applications, including DBpedia and complex data integration systems. Its broad adoption and alignment with W3C standards further reinforce its relevance and effectiveness for ontology-based knowledge representation in contemporary digital ecosystems.
+
+
+#### References
+
+Guarino, N., Oberle, D. and Staab, S. (2009) ‘What is an ontology?’, in Staab, S. and Studer, R. (eds.) Handbook on Ontologies. Berlin: Springer, pp. 1–17.
+
+Gruber, T. R. (1993) ‘A translation approach to portable ontology specifications’, Knowledge Acquisition, 5(2), pp. 199–220.
+
+Horrocks, I., Patel-Schneider, P. F. and van Harmelen, F. (2003) ‘From SHIQ and RDF to OWL: The making of a web ontology language’, Journal of Web Semantics, 1(1), pp. 7–26.
+
+Nasim, T. M. (2022) Improving Ontology Alignment Using Machine Learning Techniques. Master’s Thesis. Arizona State University.
+
+UoEO (n.d.). Lecturecast, Module 4 Knowledge Representation and Reasoning, Unit 9 Formalism Techniques and Applications.
+
+
+
 #### Response to my peers' posts
 
 
