@@ -7,11 +7,17 @@ This is my learning experience from Module 4 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1. Collaborative Discussions](#collaborative-discussions)
+[1. Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-PDP)
 
-[2. Seminar and formative activities](#seminar-and-formative-activities)
+[2. Collaborative Discussions](#collaborative-discussions)
 
-[3. Case Study Review](#case-study-review)
+[3. Seminar and formative activities](#seminar-and-formative-activities)
+
+[4. Case Study Review](#case-study-review)
+
+[5. Modelling Assignment](#modelling-assignment)
+
+[6. Individual Reflection](#individual-reflection)
 
 
 
@@ -20,30 +26,116 @@ Use the following links to navigate to the start of the sections
 
 ### In the module Knowledge Representation and Reasoning I shall:
 
-*Discuss how to define knowledge and explain the concept of KRR and its relationship to data and information.
+*Discuss how to define knowledge and explain the concept of Knowledge Representation and Reasoning and its relationship to data and information.
   
-*Gain an appreciation of the importance and rationale for employing formal approaches to KRR.
+*Gain an appreciation of the importance and rationale for employing formal approaches to Knowledge Representation and Reasoning.
 
-*Demonstrate an understanding of the basics of logic and its application to KRR problems.
+*Demonstrate an understanding of the basics of logic and its application to Knowledge Representation and Reasoning problems.
 
-*Acquire an understanding of the professional competence required to able be to identify and examine KRR technologies for Artificial Intelligence applications.
+*Acquire an understanding of the professional competence required to be able to identify and examine Knowledge Representation and Reasoning technologies for Artificial Intelligence applications.
 
 
 ### On completion of the module Knowledge Representation and Reasoning, I will be able to:
 
-*Critique the need for formal approaches to knowledge representation and reasoning.
+*Critique the need for formal approaches to Knowledge Representation and Reasoning.
   
 *Review critically properties of a knowledge-based system.
 
 *Appraise critically modelling techniques for knowledge representation and reasoning.
 
-*Examine and incorporate different modelling approaches to solving KRR problems.
+*Examine and incorporate different modelling approaches to solving Knowledge Representation and Reasoning problems.
 
 
 ![image](https://github.com/user-attachments/assets/96e7c730-c504-4a3e-bb0f-304ea7326c24)
 
 
 [Back to the top](#knowledge-representation-and-reasoning)
+
+
+
+## Professional Skills matrix and action plan PDP
+
+
+### Self-assessment
+
+* Very motivated to learn about Knowledge Representation and Reasoning and advance with my MSc.
+
+* Focused on timely delivery of good quality assignments.
+
+* Good with time management, note taking and studying new material.
+
+* Lack of a STEM background, so more difficult to get quickly familiar with the concepts and perform the formative acitivities i.e. coding and Protege exercises.
+
+
+### Set goals
+
+* Learn about the importance and rationale for employing formal approaches to Knowledge Representation and Reasoning.
+
+* Acquire an understanding of the professional competence required to be able to identify and examine Knowledge Representation and Reasoning technologies for Artificial Intelligence applications.
+
+* Understand the basics of logic and its application to KRR problems.
+
+* Be able to appraise critically modelling techniques for knowledge representation and reasoning.
+
+* Regularly update my GitHub.
+
+
+### Develop strategies
+
+* Study the required and additional reading of each Module Unit.
+
+* Take e-notes and highlight the most important sections.
+
+* Understand the formative activities and test my knowledge with examples.
+
+* Prepare all seminar activities.
+
+* Perform the required formative activities of the Module Unit.
+
+* Plan in advance for the assignments.
+
+* Make sure there is sufficient time to fine-tune assignments.
+
+* Gather feedback from tutor and peers.
+
+
+### Gather resources
+
+* Study all the required and additional material of each Module Unit. 
+
+* Prepare seminar activities.
+
+* Perform all formative activities (i.e. Protege exercises).
+
+* Seek other explanatory reliable material on internet (websites, videos, classes etc).
+
+* Reach out to my project group's peers.
+
+* Reach out to the tutor.
+
+
+### Create timeline
+
+* Study all required and additional material every week.
+  
+* Plan in advance the assignments.
+
+* Timely deliver the modelling assignment. 
+
+* Timely submit my e-portfolio.
+
+
+### Track progress and revise
+
+* Regularly monitor if targets are met.
+
+* Reconsider strategy, if needed.
+
+* Monitor the timely delivery of good quality assignments.
+
+
+[Back to the top](#knowledge-representation-and-reasoning)
+
 
 
 ## Collaborative discussions
