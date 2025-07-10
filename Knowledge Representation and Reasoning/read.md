@@ -498,7 +498,7 @@ Tolan, S. Pesole, A. Martínez-Plumed, F. Fernández-Macías E.  Hernández-Oral
 
 
 
-("https://github.com/user-attachments/assets/c2c34c32-4752-49e2-bb25-ff7e211ab201") 
+<img width="768" height="514" alt="image" src="https://github.com/user-attachments/assets/9450eb16-5bff-4de2-8ec4-6cbec4577f0b" />
 
 
 
@@ -513,7 +513,7 @@ Tolan, S. Pesole, A. Martínez-Plumed, F. Fernández-Macías E.  Hernández-Oral
 
 
 
-(![Capture](https://github.com/user-attachments/assets/1fca64bb-7af3-41bc-99aa-38ceca681bfd)
+![Capture](https://github.com/user-attachments/assets/1fca64bb-7af3-41bc-99aa-38ceca681bfd)
 
 
 
