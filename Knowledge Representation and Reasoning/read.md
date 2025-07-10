@@ -73,9 +73,9 @@ Use the following links to navigate to the start of the sections
 
 * Acquire an understanding of the professional competence required to be able to identify and examine Knowledge Representation and Reasoning technologies for Artificial Intelligence applications.
 
-* Understand the basics of logic and its application to KRR problems.
+* Understand the basics of logic and its application to Knowledge Representation and Reasoning problems.
 
-* Be able to appraise critically modelling techniques for knowledge representation and reasoning.
+* Be able to appraise critically modelling techniques for Knowledge Representation and Reasoning.
 
 * Regularly update my GitHub.
 
@@ -101,15 +101,13 @@ Use the following links to navigate to the start of the sections
 
 ### Gather resources
 
-* Study all the required and additional material of each Module Unit. 
+* Study all the required and additional resources of each Module Unit. 
 
 * Prepare seminar activities.
 
 * Perform all formative activities (i.e. Protege exercises).
 
 * Seek other explanatory reliable material on internet (websites, videos, classes etc).
-
-* Reach out to my project group's peers.
 
 * Reach out to the tutor.
 
@@ -484,6 +482,39 @@ Tolan, S. Pesole, A. Martínez-Plumed, F. Fernández-Macías E.  Hernández-Oral
 
 
 ![knowledge-graph](https://github.com/user-attachments/assets/61a09a1e-424a-423b-80b1-dc047dbe9c64)
+
+
+
+[Back to the top](#knowledge-representation-and-reasoning)
+
+
+
+
+## Modelling Assignment
+
+**In this assignment, you are tasked with employing the Protégé software (download or web version) to construct a prototype ontology as the backbone for an AI-driven job-matching service. This service matches job seekers with suitable employment opportunities, aligning with their individual skills, experiences, and preferences.**
+
+
+
+
+
+("https://github.com/user-attachments/assets/c2c34c32-4752-49e2-bb25-ff7e211ab201") 
+
+
+
+
+[Back to the top](#knowledge-representation-and-reasoning)
+
+
+
+## Individual Reflection
+
+
+
+
+
+(![Capture](https://github.com/user-attachments/assets/1fca64bb-7af3-41bc-99aa-38ceca681bfd)
+
 
 
 
