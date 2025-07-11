@@ -7,7 +7,7 @@ This is my learning experience from Module 4 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1. Professional Skills matrix and action plan PDP](#professional-skills-matrix-and-action-plan-PDP)
+[1. Professional Skills matrix and action plan PDP](professional-skills-matrix-and-action-plan-PDP)
 
 [2. Collaborative Discussions](#collaborative-discussions)
 
