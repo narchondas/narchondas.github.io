@@ -496,6 +496,52 @@ Tolan, S. Pesole, A. Martínez-Plumed, F. Fernández-Macías E.  Hernández-Oral
 
 
 
+In a dynamic, competitive and ever-changing labour market, the alignment between job seekers' profiles and available employment opportunities remains a persistent challenge. Traditional recruitment methods often fall short in capturing the multidimensional attributes, such as qualifications, hard/soft skills, preferences, and experiences, essential for effective job matching. To address this complexity, the proposed AI-driven job matching service leverages formal knowledge representation through ontology modelling, offering a semantic foundation for personalised and scalable job-matchmaking.  
+
+Ontologies serve as a foundational component in knowledge-based AI systems. As defined by Gruber (1993), an ontology is "a formal, explicit specification of a shared conceptualisation," a definition widely cited in AI research and reaffirmed in Marquis et al. (2020) and Corcho et al. (2007). This structured approach enables consistent representation and inference of complex knowledge, allowing for machine-interpretable semantic relationships that transcend traditional data schemas.  
+
+The developed ontology originates from owl:Thing and is structured around the core classes: Person (with subclasses Job Seeker, Employer), Job Offer, Education Level and Qualifications, IT Skills, Work Experience, Individual Skills, Personal Preferences, and Remuneration Level. Subclasses within Education Level and Qualifications include Secondary (e.g., General, Administrative Secretary), Technical (e.g., Maintenance, Logistics, Computing), and University (e.g., Bachelor’s Degree, Master’s Degree, PhD). IT Skills covers AI, Microsoft 365, databases, photo/video editing, and statistical packages. Work Experience is categorised as No Experience, Less than 5 Years, and More than 5 Years.  
+
+Personal Preferences include desired Work Location (EU, Nationwide, Non-EU, Proximity), Sector (Public: EU Institutions, Local Authorities; Private: Agriculture, Healthcare, Retail, Construction-Building, Finance-Banking, Manufacturing), Type of Contract (Permanent, Temporary), and Recommendations from Previous Employers (Yes, No). Remuneration Level is segmented into four income brackets.  Individual Skills include sub-classes such as Negotiation, Policy, Managerial, Leadership-Initiative, Entrepreneurship, Administrative Work.
+
+Object properties capture relationships between entities: isSeekingJob, hasPreferences, isEquippedWith, hasObtained (all four related to the Job Seeker), isOfferingJob (related to the Employer), isRemunerated, isLocated, and requires (related to the JobOffer).  For instance, a Job Offer requiring “Leadership-Initiative” and “DataAnalytics” can be semantically linked to a Job Seeker who possesses the corresponding profile.
+An ontology formally represents domain knowledge using classes, subclasses, attributes, and relationships (Debellis, 2021). In OWL, classes define categories (e.g. JobOffer, Person), while subclasses refine them (e.g. Secondary Education, Technical Education, University Education). Object properties (e.g. hasPreferences, is OfferingJob) link individuals and support logical inference (Debellis, 2021). This structure enables flexible, machine-readable representations and logic-based reasoning. Ontologies also support scalability and explainability by separating knowledge from reasoning procedures, allowing updates without modifying inference mechanisms (Marquis et al., 2020). 
+
+By formalising these relationships, the ontology enables AI algorithms to reason over data, facilitating precise and tailored job recommendations. The structured representation allows for both exact and approximate matches, considering hierarchical relations (e.g. Education Level and Qualifications), contextual preferences (e.g. desired work location), and qualitative distinctions (e.g. with/without prior employer recommendations). This ontology-centred approach significantly enhances both the efficiency of candidate-job alignment and the quality of the user experience by enabling personalised, semantically-driven search results. By explicitly modelling key concepts such as skills, qualifications, preferences, and job requirements, the system can move beyond simplistic keyword-matching and instead deliver tailored recommendations that reflect the nuanced profiles of both job seekers and employers. 
+
+Furthermore, the modular and extensible architecture of the ontology facilitates cross-sectoral scalability, ensuring that the model can be adapted to different industries, geographic regions, and evolving labour market trends. This design also supports seamless integration with labour market analytics and external data sources, reinforcing its applicability to contemporary digital employment services.
+
+To validate the semantic structure, the ontology was evaluated using formal reasoning tools available in Protégé and structured, according to OWL 2, DL standards to support formal reasoning. It was tested using Protégé’s built-in reasoners, such as Pellet, and the DL Query tool to verify logical consistency and inferencing capabilities. For example, by creating an individual instance like JobSeekerA and assigning it specific qualifications (e.g. Bachelor’sDegree), skills (Microsoft365Skill), and preferences (DesiredWorkLocation: EU), and then constructing JobOffer instances with corresponding constraints (i.e. requires = Microsoft365Skill, isLocated = EU), the reasoner is able to deduce a match. This form of semantic alignment allows the system to verify subclass hierarchies, property assertions, and compatibility based on logical rules.
+
+Such a structure is crucial for supporting intelligent, AI-enabled job matching. By linking job seeker attributes with job requirements through clearly defined object properties and class restrictions, the ontology enables precise, explainable, and context-aware recommendations. Moreover, its design allows for ongoing evolution. New domain-relevant concepts—such as RemoteWork or SpokenLanguages—and corresponding properties (i.e. SpeaksLanguages) can be incorporated without the need for major restructuring. This capacity for incremental refinement positions the ontology as a robust foundation for building adaptive, intelligent recruitment systems capable of responding to the dynamic nature of the labour market.
+As already mentioned, this project has laid the groundwork for an ontology-driven job matching service by formally representing key concepts such as job seekers, job offers, skills, qualifications, and preferences. Through the use of OWL 2 and Protégé, a structured semantic model was designed to enable more accurate and personalised job-matching processes compared to traditional keyword-based systems.
+
+However, several limitations of this prototype must be acknowledged. First, the ontology operates in a closed conceptual space and lacks integration with external semantic resources. Linking the current model to established ontologies such as DBpedia (a project that extracts structured information from Wikipedia), ESCO (a multilingual classification of European skills, competences, qualifications and occupations), or FOAF (a vocabulary for describing people and their relationships) could significantly enrich its vocabulary and reasoning capabilities, enabling a more comprehensive and interoperable system. Second, the current structure is based on predefined assumptions and illustrative categories, which may not fully capture the complexity of real-world labour markets.  
+
+To improve the ontology’s validity and utility, further empirical work is essential. This includes engaging with domain knowledge experts such as human resources professionals, employers, and job seekers to refine the class hierarchies, properties, and competency requirements. Practical feedback from stakeholders would help align the model with actual recruitment processes and candidate experiences.
+
+In addition, ontology-mediated query answering could enable the enrichment of incomplete data sources by leveraging structured background knowledge. This strategy aligns with the vision of the Semantic Web, that it is to say, the web being transformed into a machine-understandable ecosystem of interoperable data (Bernstein et al., 2016; Nasim, 2022).
+
+Consequently, while this ontology provides a promising foundation for AI-based job matching, it remains a conceptual prototype. Its full potential can only be realised through iterative development, real-world validation, and integration with broader knowledge bases and systems.
+The full ontology is available at the following URL: http://www.semanticweb.org/user/ontologies/2025/6/AI-job-matching-Ontology
+
+[Annex with Protege screenshots]
+
+
+**References**
+
+Bernstein, A., Hendler, J. and Noy, N.F., 2016. A new look at the semantic web. Communications of the ACM, 59(9), pp.35–37. https://doi.org/10.1145/2890489
+
+Corcho, O. Fernández-López, M. Gómez-Pérez, A. (2007) What Are Ontologies and How Can We Build Them? DOI: 10.4018/978-1-59904-045-5.ch003
+
+Debellis, M. (2021). A Practical Guide to Building OWL Ontologies Using Protégé 5.5 and Plugins
+
+Gruber, T.R., 1993. A translation approach to portable ontology specifications. Knowledge Acquisition, 5(2), pp.199–220. https://doi.org/10.1006/knac.1993.1008
+
+Marquis, P., Papini, O., & Prade, H. (2020). A Guided Tour of Artificial Intelligence Research: Volume I: Knowledge Representation, Reasoning and Learning. Springer
+
+Nasim, T.M., 2022. Improving ontology alignment using machine learning techniques. ProQuest Dissertations & Theses Global
+
 
 
 <img width="768" height="514" alt="image" src="https://github.com/user-attachments/assets/9450eb16-5bff-4de2-8ec4-6cbec4577f0b" />
