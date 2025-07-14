@@ -505,6 +505,7 @@ The developed ontology originates from owl:Thing and is structured around the co
 Personal Preferences include desired Work Location (EU, Nationwide, Non-EU, Proximity), Sector (Public: EU Institutions, Local Authorities; Private: Agriculture, Healthcare, Retail, Construction-Building, Finance-Banking, Manufacturing), Type of Contract (Permanent, Temporary), and Recommendations from Previous Employers (Yes, No). Remuneration Level is segmented into four income brackets.  Individual Skills include sub-classes such as Negotiation, Policy, Managerial, Leadership-Initiative, Entrepreneurship, Administrative Work.
 
 Object properties capture relationships between entities: isSeekingJob, hasPreferences, isEquippedWith, hasObtained (all four related to the Job Seeker), isOfferingJob (related to the Employer), isRemunerated, isLocated, and requires (related to the JobOffer).  For instance, a Job Offer requiring “Leadership-Initiative” and “DataAnalytics” can be semantically linked to a Job Seeker who possesses the corresponding profile.
+
 An ontology formally represents domain knowledge using classes, subclasses, attributes, and relationships (Debellis, 2021). In OWL, classes define categories (e.g. JobOffer, Person), while subclasses refine them (e.g. Secondary Education, Technical Education, University Education). Object properties (e.g. hasPreferences, is OfferingJob) link individuals and support logical inference (Debellis, 2021). This structure enables flexible, machine-readable representations and logic-based reasoning. Ontologies also support scalability and explainability by separating knowledge from reasoning procedures, allowing updates without modifying inference mechanisms (Marquis et al., 2020). 
 
 By formalising these relationships, the ontology enables AI algorithms to reason over data, facilitating precise and tailored job recommendations. The structured representation allows for both exact and approximate matches, considering hierarchical relations (e.g. Education Level and Qualifications), contextual preferences (e.g. desired work location), and qualitative distinctions (e.g. with/without prior employer recommendations). This ontology-centred approach significantly enhances both the efficiency of candidate-job alignment and the quality of the user experience by enabling personalised, semantically-driven search results. By explicitly modelling key concepts such as skills, qualifications, preferences, and job requirements, the system can move beyond simplistic keyword-matching and instead deliver tailored recommendations that reflect the nuanced profiles of both job seekers and employers. 
@@ -514,6 +515,7 @@ Furthermore, the modular and extensible architecture of the ontology facilitates
 To validate the semantic structure, the ontology was evaluated using formal reasoning tools available in Protégé and structured, according to OWL 2, DL standards to support formal reasoning. It was tested using Protégé’s built-in reasoners, such as Pellet, and the DL Query tool to verify logical consistency and inferencing capabilities. For example, by creating an individual instance like JobSeekerA and assigning it specific qualifications (e.g. Bachelor’sDegree), skills (Microsoft365Skill), and preferences (DesiredWorkLocation: EU), and then constructing JobOffer instances with corresponding constraints (i.e. requires = Microsoft365Skill, isLocated = EU), the reasoner is able to deduce a match. This form of semantic alignment allows the system to verify subclass hierarchies, property assertions, and compatibility based on logical rules.
 
 Such a structure is crucial for supporting intelligent, AI-enabled job matching. By linking job seeker attributes with job requirements through clearly defined object properties and class restrictions, the ontology enables precise, explainable, and context-aware recommendations. Moreover, its design allows for ongoing evolution. New domain-relevant concepts—such as RemoteWork or SpokenLanguages—and corresponding properties (i.e. SpeaksLanguages) can be incorporated without the need for major restructuring. This capacity for incremental refinement positions the ontology as a robust foundation for building adaptive, intelligent recruitment systems capable of responding to the dynamic nature of the labour market.
+
 As already mentioned, this project has laid the groundwork for an ontology-driven job matching service by formally representing key concepts such as job seekers, job offers, skills, qualifications, and preferences. Through the use of OWL 2 and Protégé, a structured semantic model was designed to enable more accurate and personalised job-matching processes compared to traditional keyword-based systems.
 
 However, several limitations of this prototype must be acknowledged. First, the ontology operates in a closed conceptual space and lacks integration with external semantic resources. Linking the current model to established ontologies such as DBpedia (a project that extracts structured information from Wikipedia), ESCO (a multilingual classification of European skills, competences, qualifications and occupations), or FOAF (a vocabulary for describing people and their relationships) could significantly enrich its vocabulary and reasoning capabilities, enabling a more comprehensive and interoperable system. Second, the current structure is based on predefined assumptions and illustrative categories, which may not fully capture the complexity of real-world labour markets.  
@@ -524,6 +526,15 @@ In addition, ontology-mediated query answering could enable the enrichment of in
 
 Consequently, while this ontology provides a promising foundation for AI-based job matching, it remains a conceptual prototype. Its full potential can only be realised through iterative development, real-world validation, and integration with broader knowledge bases and systems.
 The full ontology is available at the following URL: http://www.semanticweb.org/user/ontologies/2025/6/AI-job-matching-Ontology
+
+
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/b4bf0c29-9fc9-426c-ba85-caf65a00f21e" />
+
+
+
+<img width="940" height="1617" alt="image" src="https://github.com/user-attachments/assets/f998c75a-2a4b-4e46-bbcf-eba92a67bcd7" />
+
+
 
 [Annex with Protege screenshots]
 
