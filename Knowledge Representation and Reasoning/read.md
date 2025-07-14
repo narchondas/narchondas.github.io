@@ -537,7 +537,7 @@ The full ontology is available at the following URL: http://www.semanticweb.org/
 
 
 
-[Annex with Protege screenshots]
+[Annex with Protege screenshots](https://docs.google.com/document/d/1X8rXceAgwa73qh9nbOEakMRHW55yaEbyLrEw-50TzQI/edit?tab=t.0)
 
 
 **References**
