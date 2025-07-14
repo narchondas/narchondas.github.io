@@ -525,6 +525,7 @@ To improve the ontology’s validity and utility, further empirical work is esse
 In addition, ontology-mediated query answering could enable the enrichment of incomplete data sources by leveraging structured background knowledge. This strategy aligns with the vision of the Semantic Web, that it is to say, the web being transformed into a machine-understandable ecosystem of interoperable data (Bernstein et al., 2016; Nasim, 2022).
 
 Consequently, while this ontology provides a promising foundation for AI-based job matching, it remains a conceptual prototype. Its full potential can only be realised through iterative development, real-world validation, and integration with broader knowledge bases and systems.
+
 The full ontology is available at the following URL: http://www.semanticweb.org/user/ontologies/2025/6/AI-job-matching-Ontology
 
 
