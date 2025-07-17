@@ -7,7 +7,7 @@ This is my learning experience from Module 4 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1. Learning outcomes and PDP](#learning-outcomes)
+[1. Learning outcomes and action plan PDP](#learning-outcomes)
 
 [2. Collaborative Discussions](#collaborative-discussions)
 
