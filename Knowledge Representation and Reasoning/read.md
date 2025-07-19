@@ -591,7 +591,9 @@ Maintaining a weekly study schedule allowed me to engage continuously with the c
 One of the key insights I gained was a deeper appreciation of KRR as a core area within AI. The module showed that KRR focuses on the use of explicit, symbolic, and declarative representations of information, which enable intelligent reasoning mechanisms to derive further, implicit knowledge. These symbolic representations typically model domain-specific information but are flexible enough to accommodate broader forms of knowledge. A major advantage of this formal structuring lies in the modularity and flexibility of the knowledge base (KB): it can be updated—by adding, modifying, or removing information—without altering the reasoning procedures themselves (Delgrande et al., 2023).
 
 To structure this reflection, I adopted two reflective models: 
+
 •	the ‘What? So What? Now What?’ framework (Driscoll, 1994; Rolfe et al., 2001) and 
+
 •	the Gibbs’ Reflective Cycle, which encourages systematic reflection through description, evaluation, analysis, and forward planning 
 (UoEO Short Guide to Reflective Writing, n.d.; The University of Edinburgh Reflection Toolkit, n.d.).
 
