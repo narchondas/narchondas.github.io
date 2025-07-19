@@ -570,6 +570,66 @@ Nasim, T.M., 2022. Improving ontology alignment using machine learning technique
 
 
 
+This individual reflection examines my learning experience with Module 4 on Knowledge Representation and Reasoning (KRR), which involved developing an understanding of the mechanisms responsible for intelligent behaviour—an essential part of Artificial Intelligence (AI). The module covered the core concepts and principles of KRR and reviewed the methodologies, frameworks, and tools that enable postgraduate students to engage with and envision both current and future developments in this field. Its overarching aim was to equip students with theoretical and practical skills while increasing awareness of the real-world applications of KRR as a key component of AI solutions (UoEO, Module Home, n.d.).
+
+The learning outcomes of this module were clearly defined to: 
+•	Discuss the definition of knowledge and explain the concept of KRR and its relationship to data and information
+•	Appreciate the importance and rationale of formal approaches to KRR
+•	Understand the basics of logic and its application to KRR problems 
+•	Develop the competence necessary to identify and evaluate KRR technologies for use in AI applications.
+
+Throughout the module, I was highly motivated to deepen my understanding of KRR. I managed to deliver all assignments on time and to a high standard, using effective time management, organised notetaking, and a disciplined approach to studying. I also maintained a regularly updated GitHub repository, documenting my practical engagement and learning progression.
+
+All assignments were carefully planned and executed, allowing sufficient time for review and refinement. Feedback from tutors and peers, particularly through collaborative discussions, was constructively incorporated to enhance the quality of my submissions. I consistently made full use of the learning materials provided, completed technical tasks involving Protégé, and supplemented my understanding with external resources such as video tutorials and explanatory web-based content. Additionally, I actively sought support from the module tutor during seminars to clarify doubts and consolidate my understanding.
+
+Maintaining a weekly study schedule allowed me to engage continuously with the content, while simultaneously monitoring progress against my personal learning goals. When necessary, I adjusted my study techniques to remain aligned with the module's demands. This structured and reflective learning approach enabled me to successfully meet the objectives of the module and build a strong foundation in KRR.
+
+One of the key insights I gained was a deeper appreciation of KRR as a core area within AI. The module showed that KRR focuses on the use of explicit, symbolic, and declarative representations of information, which enable intelligent reasoning mechanisms to derive further, implicit knowledge. These symbolic representations typically model domain-specific information but are flexible enough to accommodate broader forms of knowledge. A major advantage of this formal structuring lies in the modularity and flexibility of the knowledge base (KB): it can be updated—by adding, modifying, or removing information—without altering the reasoning procedures themselves (Delgrande et al., 2023).
+
+To structure this reflection, I adopted two reflective models: 
+•	the ‘What? So What? Now What?’ framework (Driscoll, 1994; Rolfe et al., 2001) and 
+•	the Gibbs’ Reflective Cycle, which encourages systematic reflection through description, evaluation, analysis, and forward planning 
+(UoEO Short Guide to Reflective Writing, n.d.; The University of Edinburgh Reflection Toolkit, n.d.).
+
+Knowledge representation is inherently linked to reasoning, which involves deriving new knowledge from existing information (Lee, 2024). I found it particularly fascinating to trace this need for knowledge representation back to human history. For instance, the use of Egyptian hieroglyphics—dating as far back as 3300 BC—offers a striking example of how early societies developed systems not only for communication but also for encoding complex religious, administrative, and historical knowledge in a structured, interpretable format (Archontas, 2025). This long-standing human drive to externalise and organise knowledge parallels the construction of ontologies today and underpins the broader project of the semantic web.
+
+Reasoning, as I learned, enables AI systems to deduce, conclude, and solve problems based on the knowledge they are equipped with (Lee, 2024). My understanding of Explainable AI (XAI) also deepened, particularly concerning its goal to improve the transparency and interpretability of AI systems. KRR plays a crucial role in this area, as it can help reveal how an artificial neural network (ANN) arrived at a given output, thereby mitigating the limitations of the so-called “black box” approach. Furthermore, the study of ontologies highlighted their role in enabling abstraction and refinement—key elements of human and machine reasoning alike (Confalonieri, 2023).
+
+My learning was also enhanced by engaging with the seminar activities, completing all formative tasks, and studying the full range of required and recommended readings. Beyond this, I experimented with Protégé software and Description Logic (DL) queries, which helped me understand how formal representations lead to concrete outputs. By manipulating classes, properties, and individuals (based on OWL:Thing), I was able to appreciate how AI systems can infer new facts through logical consistency. When I encountered technical obstacles—particularly in defining object and data properties—I turned to online tutorials and AI-based support tools such as ChatGPT and Perplexity. The lecturecasts available throughout the module were also instrumental in reinforcing my understanding of key theoretical and technical concepts.
+
+In the Case Study Review assignment (Unit 7), I examined the Intelligence Task Ontology (ITO) to assess its structure, methodology, and relevance in current AI research. My analysis focused on how ITO organises AI tasks, connects them to benchmarks and evaluation metrics, and promotes semantic interoperability. By reviewing its data model and use cases, I evaluated the strengths and limitations of the ontology, ultimately demonstrating how structured representations like ITO can foster clarity and comparability in an increasingly complex AI research landscape.
+However, the most engaging and rewarding assignment was the one on ontology modelling (Unit 11). It provided a practical, hands-on opportunity to work with Protégé and develop a prototype ontology for an AI-based job-matching system. The process required a clear grasp of logical relationships to ensure the ontology could support an intelligent and meaningful matching mechanism. This task was both intellectually stimulating and practically enriching, and I thoroughly enjoyed the experience.
+
+Overall, this module significantly enhanced my understanding of Knowledge Representation and Reasoning. I acquired the skills needed to create formal ontologies, which serve as the backbone of rule-based knowledge-based systems. This practical experience revealed the power of structured knowledge modelling in enabling intelligent decision-making. Nonetheless, I identified an area for further improvement: I would benefit from additional training on how to leverage existing ontologies, especially regarding query languages and reasoning methods in Protégé. Learning how to query ontologies and interpret the outputs would further refine my ability to build scalable and interoperable AI systems.
+
+
+**List of References**
+
+Archontas, N. (2025), Collaborative Discussion 1 Initial Post, Module 4 KRR, UoEO.
+
+Confalonieri R. & Guizzardi G. (2023) On the Multiple Roles of Ontologies in Explainable AI, DOI: 10.3233/NAI-240754
+
+Delgrande, J.P. et al. (2023) 'Current and Future Challenges in Knowledge Representation and Reasoning', Dagstuhl Manifestos, 1(1), pp. 1–58
+
+Driscoll J. (1994). Reflective practice for practise. Senior Nurse, 13, 47 -50
+
+Lee, A. (2024) Knowledge Representation and Reasoning in AI: Analyzing Different Approaches to Knowledge Representation and Reasoning in Artificial Intelligence Systems, Journal of Artificial Intelligence Research, Vol. 4, Issue 1, Semi Annual Edition
+
+Miroslav, K. (2021) An Introduction to Machine Learning. 3rd Ed. Springer. Chapter 12
+
+Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan 
+
+The University of Edinburgh (n.d.). Reflection Toolkit. Available from https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience [Accessed on 15 July 2025]
+
+UoEO (n.d.). Knowledge Representation and Reasoning April 2025, Module Home Available from https://www.my-course.co.uk/course/view.php?id=13457&section=0 [Accessed on 15 July 2025]
+
+UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to reflective writing.pdf [Accessed on 14 July 2025]
+
+UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 14 July 2025]
+
+
+
+
 
 
 ![Capture](https://github.com/user-attachments/assets/1fca64bb-7af3-41bc-99aa-38ceca681bfd)
