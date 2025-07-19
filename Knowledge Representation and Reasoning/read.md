@@ -573,9 +573,13 @@ Nasim, T.M., 2022. Improving ontology alignment using machine learning technique
 This individual reflection examines my learning experience with Module 4 on Knowledge Representation and Reasoning (KRR), which involved developing an understanding of the mechanisms responsible for intelligent behaviour—an essential part of Artificial Intelligence (AI). The module covered the core concepts and principles of KRR and reviewed the methodologies, frameworks, and tools that enable postgraduate students to engage with and envision both current and future developments in this field. Its overarching aim was to equip students with theoretical and practical skills while increasing awareness of the real-world applications of KRR as a key component of AI solutions (UoEO, Module Home, n.d.).
 
 The learning outcomes of this module were clearly defined to: 
+
 •	Discuss the definition of knowledge and explain the concept of KRR and its relationship to data and information
+
 •	Appreciate the importance and rationale of formal approaches to KRR
+
 •	Understand the basics of logic and its application to KRR problems 
+
 •	Develop the competence necessary to identify and evaluate KRR technologies for use in AI applications.
 
 Throughout the module, I was highly motivated to deepen my understanding of KRR. I managed to deliver all assignments on time and to a high standard, using effective time management, organised notetaking, and a disciplined approach to studying. I also maintained a regularly updated GitHub repository, documenting my practical engagement and learning progression.
