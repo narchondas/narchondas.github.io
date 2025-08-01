@@ -5,8 +5,8 @@ Welcome to my portfolio for the MSc in Artificial Intelligence! Here, you will f
 
 - 👋 Hi, I’m @narchondas
 - 👀 I’m interested in Artificial Intelligence (AI), Better Regulation, Evaluation, Impact Assessment, and Stakeholder Consultation
-- 🌱 I’m currently exploring the transformative potential of AI to enhance public governance, while also addressing its associated risks and   regulatory challenges
-- 💞️ I’m looking to collaborate on AI applications in the public sector, ethical and explainable AI, and code for policy-oriented tools
+- 🌱 I’m currently exploring the transformative potential of AI, while also addressing its associated risks and regulatory challenges
+- 💞️ I’m looking to collaborate on AI applications in the public sector, ethical and explainable AI, and on coding for policy-oriented tools
 - 📫 How to reach me: by email, via [LinkedIn](http://www.linkedin.com/in/nikos-archontas-5a9a90234)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love swimming in the open sea for so long that my friends once nearly called the coast guard out of worry!
