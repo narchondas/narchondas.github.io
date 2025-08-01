@@ -26,8 +26,7 @@ In 2016–2017, I was honoured to serve as a Bellevue Programme fellow within SG
 
 From 2002 to 2016, I held leadership roles in the Greek Ministry of Interior, acting as team leader and programme manager on numerous structural reform and e-government initiatives. These programmes were instrumental in the modernisation of the Greek public administration and the delivery of improved public services.
 
-I view administrative reform as a continuous and inspiring journey — one marked by challenges and achievements, but also by significant setbacks and above all, by its capacity to improve the everyday lives of European citizens.
-
+I view administrative reform as a dynamic and inspiring journey — shaped by achievements and inevitable setbacks alike, yet ultimately driven by its profound potential to improve the everyday lives of European citizens.
 
 ## University of Essex Learning Experience
 
