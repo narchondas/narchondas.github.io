@@ -22,7 +22,7 @@ Use the following links to navigate to the start of the sections
 ## Learning outcomes
 
 
-### In the module Intellignet Agents I shall:
+### In the module Intelligent Agents I shall:
 
 *Understand the motivations for, and appropriate use of, agent-based computing.
 
