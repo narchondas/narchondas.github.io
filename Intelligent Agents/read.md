@@ -144,6 +144,12 @@ Use the following links to navigate to the start of the sections
 
 
 
+**Agent Based Systems: Discuss what has led to the rise of agent-based systems and the benefits that this approach can offer to organisations.**
+
+
+**Initial Post**
+
+
 
 
 [Back to the top](#intelligent-agents)
