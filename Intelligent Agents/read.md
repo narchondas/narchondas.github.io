@@ -141,3 +141,23 @@ Use the following links to navigate to the start of the sections
 
 
 ### Collaborative Discussion 1
+
+
+
+
+
+[Back to the top](#intelligent-agents)
+
+
+
+## Seminar and formative activities 
+
+
+
+### Unit 1 Formative Activities
+
+
+[Back to the top](#intelligent-agents)
+
+
+
