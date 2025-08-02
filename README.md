@@ -41,6 +41,8 @@ I view administrative reform as a continuous and inspiring journey — one marke
 
 [5. Knowledge Representation and Reasoning](/Knowledge Representation and Reasoning/read.md)
 
+[6. Intelligent Agents](/Intelligent Agents/read.md)
+
 
 
 
