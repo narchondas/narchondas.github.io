@@ -2,7 +2,8 @@
 
 This is my learning experience from Module 5 of the MSc Artificial Intelligence
 
-![image](<img width="458" height="458" alt="image" src="https://github.com/user-attachments/assets/2a09cb9a-2d19-4266-9871-41499e440f20" />)
+![Capture](https://github.com/user-attachments/assets/82544658-5f24-4a29-9c94-8aaf03abe099)
+
 
 
 Use the following links to navigate to the start of the sections
@@ -14,11 +15,7 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminar and formative activities](#seminar-and-formative-activities)
 
-[4. Case Study Review](#case-study-review)
 
-[5. Modelling Assignment](#modelling-assignment)
-
-[6. Individual Reflection](#individual-reflection)
 
 
 
@@ -47,7 +44,8 @@ Use the following links to navigate to the start of the sections
 *Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
 
-![image](<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/fee179da-28f8-408c-badb-860e9ac0a952" />)
+![ial](https://github.com/user-attachments/assets/2db3f9b4-42c8-4934-b9c7-b1b965c7cb2a)
+
 
 
 [Back to the top](#intelligent-agents)
