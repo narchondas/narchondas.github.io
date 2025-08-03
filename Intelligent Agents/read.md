@@ -149,6 +149,23 @@ Use the following links to navigate to the start of the sections
 
 **Initial Post**
 
+The rise of agent-based systems is closely tied to the growing complexity of modern computing environments and broader technological trends. Traditional centralised systems are increasingly inadequate for managing dynamic, distributed infrastructures such as supply chains, logistics networks, and smart cities. As highlighted in the lecturecast of Unit 1 (UoEO, n.d.), converging trends like ubiquity, interconnection, intelligence, delegation, and human-orientation have driven the development of systems capable of operating autonomously in uncertain and partially observable environments. The expansion of the Internet of Things (IoT), 5G networks, and edge computing has created conditions where systems must not only act independently but also coordinate and adapt in real time. Wooldridge (2009) defines agents as computational systems embedded in environments that are capable of flexible, autonomous action in pursuit of delegated objectives, with the ability to act proactively, reactively, and socially.
+
+For organisations, agent-based systems offer improvements in scalability, fault tolerance, and decision-making autonomy. In smart manufacturing, agents support decentralised process control and allow for modular, adaptive production systems (Pulikottil et al., 2023). Logistics operations, such as those pioneered by Amazon’s robotics, demonstrate how multi-agent architectures can increase flexibility and reduce human labour costs (Wasesa et al., 2017). In traffic systems, distributed agents enable responsive and efficient traffic flow control across geographically dispersed networks (Wang, 2005). These systems exemplify Wooldridge’s distinction between agents and passive software: agents possess autonomy, control their own actions, and are capable of collaboration and negotiation to meet shared objectives.
+
+ 
+
+**References**
+
+Pulikottil, T., Estrada-Jimenez, L.A., Ur Rehman, H. et al. (2023) Agent-based manufacturing — review and expert evaluation. Int J Adv Manuf Technol 127, 2151–2180. https://doi.org/10.1007/s00170-023-11517-8
+
+UoEo, (n.d.) Module Intelligent Agents, Unit 1, Lecturecast.
+
+Wang, F.Y. (2005). Agent-based control for networked traffic management systems in IEEE Intelligent Systems, vol. 20, no. 5, pp. 92-96, Sept.-Oct. 2005, doi: 10.1109/MIS.2005.80
+
+Wasesa, M. Stam, A., van Heck E.  (2017). Investigating agent-based inter-organizational systems and business network performance: Lessons learned from the logistics sector. Journal of Enterprise Information Management 6 March 2017, 30 (2): 226–243. https://doi.org/10.1108/JEIM-07-2015-0069
+
+Wooldridge, M.J. (2009). An Introduction to MultiAgent Systems. John Wiley & Sons
 
 
 
