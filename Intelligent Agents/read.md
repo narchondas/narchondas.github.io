@@ -230,7 +230,7 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 
-### Unit 1 Formative Activities
+### Unit Formative Activities
 
 
 [Back to the top](#intelligent-agents)
