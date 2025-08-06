@@ -216,6 +216,11 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 
+<img width="3094" height="1590" alt="image" src="https://github.com/user-attachments/assets/f3554e2c-8b0a-4280-8c0e-3a3053a4c58a" />
+
+
+
+
 [Back to the top](#intelligent-agents)
 
 
