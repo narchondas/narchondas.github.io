@@ -169,6 +169,53 @@ Wooldridge, M.J. (2009). An Introduction to MultiAgent Systems. John Wiley & Son
 
 
 
+**Response to my peers'posts**
+
+
+The increasing complexity and decentralised nature of modern systems has created a landscape in which traditional centralised computing models often prove inadequate. In response, agent-based systems (ABS) have become an effective paradigm for modelling environments where independent, interactive components must make decisions in parallel. These systems do not operate in isolation but instead function within a dynamic ecosystem of partially observable and often unpredictable variables (Wooldridge, 2009).
+
+Recent developments in computational infrastructure, particularly in IoT, edge computing, and ubiquitous connectivity, have intensified the need for distributed intelligence. In such environments, ABS enable real-time responsiveness through autonomous agents that exhibit goal-oriented, reactive, and socially cooperative behaviours (UoEO, no date). Their strength lies not only in their independence but also in their ability to interact meaningfully with other agents or human operators to align local actions with broader system objectives.
+
+Notably, the capacity of ABS to manage disruptions is increasingly vital. In manufacturing, for instance, the deployment of agents across modular production units supports adaptive operations, enabling continuity during demand shifts or mechanical failures (Pulikottil et al., 2023). Similarly, agent-driven coordination in logistics enhances flexibility in the face of supply chain volatility (Wasesa et al., 2017).
+
+Furthermore, the integration of adjustable autonomy mechanisms allows agents to assess when human intervention is preferable, particularly in high-risk or uncertain conditions (UoEO, no date). This layered decision model not only reinforces system resilience but also reflects an increasing trust in computational agents to act judiciously within delegated boundaries.
+
+Overall, ABS represent a conceptual and technical evolution toward systems that are capable of distributed control, intelligent adaptation, and collaborative behaviour under complexity.
+
+ 
+
+**References**
+
+Pulikottil, T., Estrada-Jimenez, L.A., Ur Rehman, H. et al. (2023). Agent-based manufacturing — review and expert evaluation. International Journal of Advanced Manufacturing Technology, 127, 2151–2180. https://doi.org/10.1007/s00170-023-11517-8
+
+UoEO. (n.d.). Module 5: Intelligent Agents – Unit 1 Lecturecast. University of Essex Online.
+
+Wasesa, M., Stam, A., & van Heck, E. (2017). Investigating agent-based inter-organisational systems and business network performance. Journal of Enterprise Information Management, 30(2), 226–243. https://doi.org/10.1108/JEIM-07-2015-0069
+
+Wooldridge, M. J. (2009). An Introduction to MultiAgent Systems (2nd ed.). John Wiley & Sons.
+
+
+
+The argument presented offers a timely assessment of the foundational role agents play in modern computing. The definition cited, according to which agents are systems capable of autonomous action in an environment, resonates strongly with core theoretical frameworks (Wooldridge, 2009). This perspective is further supported by the lecturecast of the Unit 1, which characterises agents as entities that perceive, reason, and act under partial control and incomplete information (UoEO, no date).
+
+The observation that agent capabilities are shaped primarily by the constraints of hardware and software is particularly pertinent. As outlined in the UoEO material (no date), agents range from reactive software daemons and control systems to proactive, learning-enabled systems operating in complex environments such as manufacturing or logistics. This flexibility demonstrates the scalability of agent-based systems and their suitability across both physical and digital domains.
+
+The increasing convergence of agent-based models with generative AI, particularly through large language models, introduces a new dimension of capability. With recent developments such as OpenAI’s ChatGPT agents, computational entities are now being deployed to perform knowledge-based tasks previously limited to human professionals (OpenAI, 2025). While this enhances organisational efficiency and reduces the time and cost associated with complex tasks, it also raises important questions around over-reliance and the need for human oversight.
+
+In sum, the post effectively identifies both the technical robustness and emerging challenges associated with agent-based systems. Their increasing autonomy, versatility, and integration into real-world applications underscore their importance in shaping the future of intelligent systems.
+
+ 
+
+**References**
+
+OpenAI (2025) Introducing ChatGPT agent: bridging research and action, OpenAI. Available at: https://openai.com/index/introducing-chatgpt-agent/ (Accessed: 3 August 2025).
+
+UoEO (no date) Module 5: Intelligent Agents – Unit 1 Lecturecast. University of Essex Online.
+
+Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester: John Wiley & Sons.
+
+
+
 [Back to the top](#intelligent-agents)
 
 
