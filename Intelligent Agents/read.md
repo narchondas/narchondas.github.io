@@ -216,7 +216,8 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 
-<img width="3094" height="1590" alt="image" src="https://github.com/user-attachments/assets/f3554e2c-8b0a-4280-8c0e-3a3053a4c58a" />
+<img width="890" height="524" alt="image" src="https://github.com/user-attachments/assets/65ee5769-dceb-404d-8d7a-2be46c87ea1c" />
+
 
 
 
