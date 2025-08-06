@@ -155,7 +155,7 @@ For organisations, agent-based systems offer improvements in scalability, fault 
 
  
 
-**References**
+#### References
 
 Pulikottil, T., Estrada-Jimenez, L.A., Ur Rehman, H. et al. (2023) Agent-based manufacturing — review and expert evaluation. Int J Adv Manuf Technol 127, 2151–2180. https://doi.org/10.1007/s00170-023-11517-8
 
@@ -169,7 +169,7 @@ Wooldridge, M.J. (2009). An Introduction to MultiAgent Systems. John Wiley & Son
 
 
 
-**Response to my peers'posts**
+#### Response to my peers' posts
 
 
 The increasing complexity and decentralised nature of modern systems has created a landscape in which traditional centralised computing models often prove inadequate. In response, agent-based systems (ABS) have become an effective paradigm for modelling environments where independent, interactive components must make decisions in parallel. These systems do not operate in isolation but instead function within a dynamic ecosystem of partially observable and often unpredictable variables (Wooldridge, 2009).
@@ -184,7 +184,7 @@ Overall, ABS represent a conceptual and technical evolution toward systems that 
 
  
 
-**References**
+#### References
 
 Pulikottil, T., Estrada-Jimenez, L.A., Ur Rehman, H. et al. (2023). Agent-based manufacturing — review and expert evaluation. International Journal of Advanced Manufacturing Technology, 127, 2151–2180. https://doi.org/10.1007/s00170-023-11517-8
 
@@ -206,7 +206,7 @@ In sum, the post effectively identifies both the technical robustness and emergi
 
  
 
-**References**
+#### References
 
 OpenAI (2025) Introducing ChatGPT agent: bridging research and action, OpenAI. Available at: https://openai.com/index/introducing-chatgpt-agent/ (Accessed: 3 August 2025).
 
