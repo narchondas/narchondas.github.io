@@ -169,8 +169,42 @@ Wooldridge, M.J. (2009). An Introduction to MultiAgent Systems. John Wiley & Son
 
 
 
-#### Response to my peers' posts
+**Summary Post**
 
+The rise of agent-based systems is driven by the growing complexity of modern computing environments and converging technological trends. Centralised systems are increasingly inadequate for managing dynamic, distributed infrastructures such as supply chains, logistics networks, and smart cities. As highlighted in the lecturecast of Unit 1, factors like ubiquity, interconnection, intelligence, delegation, and human-orientation have spurred the development of systems capable of autonomous operation in uncertain and partially observable environments (UoEo, no date). The growth of the Internet of Things (IoT), 5G, and edge computing has created conditions where systems must act independently while coordinating and adapting in real time. Wooldridge (2009) defines agents as computational systems embedded in environments, capable of proactive, reactive, and social behaviour in pursuit of delegated objectives.
+
+For organisations, agent-based systems improve scalability, fault tolerance, and decision-making autonomy. In manufacturing, they enable decentralised process control and adaptive production (Pulikottil et al., 2023). In logistics, multi-agent architectures like Amazon’s robotics enhance flexibility and reduce labour costs (Wasesa, Stam and van Heck, 2017). In traffic management, distributed agents support responsive and efficient flow control (Wang, 2005).
+
+Nonetheless, significant challenges remain. Scalability issues can arise as the number of agents grows, increasing coordination overhead and complexity (Durfee, 2004). When multi-agent systems are spread across many different devices and technologies, it creates more entry points for hackers, making the whole system harder to secure. (Zhang et al., 2025). In healthcare, LLM-based agents face novel risks, including adversarial prompts embedded in online sources that could manipulate medical decisions (Qiu et al., 2025).
+
+Resilience-oriented design can address these issues. In manufacturing, redundant sensors and controllers sustain production if agents fail (Pulikottil et al., 2023). In logistics, authenticated communication and stress testing preserve coordination under pressure (Wasesa, Stam and van Heck, 2017). In traffic systems, anomaly detection and self-healing controls mitigate faulty data and reroute flows automatically (Wang, 2005). Embedding such safeguards is essential to sustaining scalability, reliability, and autonomy (Zhang et al., 2025).
+
+Agent-based systems hold transformative potential for distributed operations, but their long-term success depends on integrating preventive measures and adaptive mechanisms alongside autonomy.
+
+ 
+#### References
+
+Department for Science and Technology (2025) Shake up of tech and AI usage across NHS and other public services to deliver plan for change. Available at: https://www.gov.uk/government/news/shake-up-of-tech-and-ai-usage-across-nhs-and-other-public-services-to-deliver-plan-for-change (Accessed: 7 August 2025).
+
+Durfee, E.H. (2004) ‘Challenges to scaling up agent coordination’, Distributed Artificial Intelligence Journal.
+
+Pulikottil, T., Estrada-Jimenez, L.A., Ur Rehman, H. et al. (2023) ‘Agent-based manufacturing — review and expert evaluation’, International Journal of Advanced Manufacturing Technology, 127, pp. 2151–2180. doi:10.1007/s00170-023-11517-8.
+
+Qiu, J. et al. (2025) ‘Emerging cyber attack risks of medical AI agents’, arXiv [cs.CR]. Available at: http://arxiv.org/abs/2504.03759.
+
+UoEo (no date) Module Intelligent Agents, Unit 1, Lecturecast.
+
+Wang, F.Y. (2005) ‘Agent-based control for networked traffic management systems’, IEEE Intelligent Systems, 20(5), pp. 92–96. doi:10.1109/MIS.2005.80.
+
+Wasesa, M., Stam, A. and van Heck, E. (2017) ‘Investigating agent-based inter-organizational systems and business network performance: Lessons learned from the logistics sector’, Journal of Enterprise Information Management, 30(2), pp. 226–243. doi:10.1108/JEIM-07-2015-0069.
+
+Wooldridge, M.J. (2009) An introduction to multiagent systems. Chichester: John Wiley & Sons.
+
+Zhang, Y., Li, Y., Zhao, T., Zhu, K., Wang, H. and Vasconcelos, N. (2025) ‘Achilles heel of distributed multi agent systems’, arXiv [Preprint].
+
+
+
+#### Response to my peers' posts
 
 The increasing complexity and decentralised nature of modern systems has created a landscape in which traditional centralised computing models often prove inadequate. In response, agent-based systems (ABS) have become an effective paradigm for modelling environments where independent, interactive components must make decisions in parallel. These systems do not operate in isolation but instead function within a dynamic ecosystem of partially observable and often unpredictable variables (Wooldridge, 2009).
 
