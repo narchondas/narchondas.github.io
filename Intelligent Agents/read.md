@@ -272,9 +272,9 @@ In sum, ACLs prioritise autonomy and expressiveness in distributed systems, but 
 
 #### References
 
-Finin, T., Labrou, Y. and Mayfield, J. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM), ACM, pp. 456–463. Available at: https://dl.acm.org/doi/10.1145/191246.191322
+Finin, T., Fritzson, R., McKay, D. and McEntire R. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM), ACM, pp. 456–463. Available at: https://dl.acm.org/doi/10.1145/191246.191322
 
-Payne, T.R. and Tamma, V. (2014) ‘Negotiating over ontological correspondences with asymmetric and incomplete knowledge’, Autonomous Agents and Multi-Agent Systems, 28(3). Available at:  https://ifmas.csc.liv.ac.uk/Proceedings/aamas2014/aamas/p517.pdf 
+Payne, T.R. and Tamma, V. (2014) ‘Negotiating over ontological correspondences with asymmetric and incomplete knowledge’, Autonomous Agents and Multi-Agent Systems, AAMAS, 13(1), pp. 517-524. Available at:  https://ifmas.csc.liv.ac.uk/Proceedings/aamas2014/aamas/p517.pdf 
 
 Searle, J.R. (1969) Speech Acts: An Essay in the Philosophy of Language. Cambridge: Cambridge University Press. 
 
