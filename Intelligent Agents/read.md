@@ -302,6 +302,7 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 **Unit 6**
+
 **Create an agent dialogue, using KQML and KIF, between two agents (named Alice and Bob).  Alice is an agent designed to procure stock and Bob is an agent that controls the stock levels for a warehouse.  This dialogue should see Alice asking Bob about the available stock of 50 inch televisions, and also querying the number of HDMI slots the televisions have.**
 
 Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialogue covers: (1) availability of 50-inch televisions, and (2) their HDMI port count.
