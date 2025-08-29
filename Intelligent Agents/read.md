@@ -300,6 +300,63 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 ### Unit Formative Activities
 
 
+
+**Unit 6**
+**Create an agent dialogue, using KQML and KIF, between two agents (named Alice and Bob).  Alice is an agent designed to procure stock and Bob is an agent that controls the stock levels for a warehouse.  This dialogue should see Alice asking Bob about the available stock of 50 inch televisions, and also querying the number of HDMI slots the televisions have.**
+
+Agent Dialogue (KQML with KIF content)
+
+Alice is a procurement agent and Bob is a warehouse inventory agent.
+
+The dialogue covers: (1) availability of 50-inch televisions, and (2) their HDMI port count.
+
+**Message 1
+Alice asks Bob: How many 50-inch televisions are in stock?**
+
+(kqml
+  (performative ask-one)
+  (:sender Alice)
+  (:receiver Bob)
+  (:language KIF)
+  (:content
+    (stock-level (Television 50-inch) ?n)))
+
+**Message 2
+Bob replies: There are 84 units.**
+
+(kqml
+  (performative tell)
+  (:sender Bob)
+  (:receiver Alice)
+  (:language KIF)
+  (:in-reply-to Message-1)
+  (:content
+    (= (stock-level (Television 50-inch)) 84)))
+
+**Message 3
+Alice asks Bob: How many HDMI slots do these televisions have?**
+
+(kqml
+  (performative ask-one)
+  (:sender Alice)
+  (:receiver Bob)
+  (:language KIF)
+  (:content
+    (hdmi-slots (Television 50-inch) ?m)))
+
+**Message 4
+Bob replies: They have 3 HDMI slots.**
+
+(kqml
+  (performative tell)
+  (:sender Bob)
+  (:receiver Alice)
+  (:language KIF)
+  (:in-reply-to Message-3)
+  (:content
+    (= (hdmi-slots (Television 50-inch)) 3)))
+
+
 [Back to the top](#intelligent-agents)
 
 
