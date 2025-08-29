@@ -282,6 +282,48 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 
+#### Response to my peers' posts
+
+
+
+Your post makes an important point about the abstraction and interoperability ACLs such as KQML provide. Building on this, one of their key contributions lies in the grounding of performatives in speech act theory, linking messages to agents’ cognitive states such as belief, knowledge, desire, and intention (Labrou and Finin, 1994; Labrou and Finin, 1997). This means that an ACL message is not merely a data transfer but an expression of intent, enabling richer communicative acts like commitments, negotiations, or declarations.
+
+A second advantage is the structuring of multi-step interactions through 'conversation policies'. These policies formally specify how performatives like ask-if, tell, or sorry can be sequenced, ensuring coherent dialogues across heterogeneous agents (Labrou and Finin, 1997). Such mechanisms extend far beyond conventional method calls, which lack protocol-level semantics and assume deterministic execution.
+
+However, the drawbacks are equally significant. KQML long suffered from a lack of formally defined semantics, resulting in inconsistent implementations and undermining standardisation efforts (Finin et al., 1994). Moreover, agent conversations impose computational overhead compared with lightweight method invocations, and their success ultimately depends on shared ontologies to ensure semantic alignment across domains (Payne and Tamma, 2014). These requirements make ACLs more expressive but also more complex than direct method calls in Python or Java.
+
+In short, ACLs prioritise autonomy and semantic richness, supporting negotiation and cooperation in distributed environments, but this expressiveness is balanced by efficiency costs and unresolved challenges of interoperability.
+
+
+#### References
+
+Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM). ACM, pp. 456–463. Available at: https://dl.acm.org/doi/10.1145/191246.191322
+
+Labrou, Y. and Finin, T. (1994) ‘A semantics approach for KQML—a general purpose communication language for software agents’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM). ACM, pp. 447–455. Available at: https://www.researchgate.net/publication/221614440_A_Semantics_Approach_for_KQML
+
+Labrou, Y. and Finin, T. (1997) ‘Semantics and conversations for an agent communication language’, Proceedings of the 15th International Joint Conference on Artificial Intelligence (IJCAI), pp. 584–591.
+
+Payne, T.R. and Tamma, V. (2014) ‘Negotiating over ontological correspondences with asymmetric and incomplete knowledge’, Autonomous Agents and Multi-Agent Systems, 13(1), pp. 517–524. Available at: https://ifmas.csc.liv.ac.uk/Proceedings/aamas2014/aamas/p517.pdf
+
+Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester: Wiley.
+
+
+
+Your post rightly highlights abstraction and interoperability as central strengths of ACLs such as KQML. I would emphasise, however, one additional but often overlooked advantage: ACLs formalise not only individual messages but also the structure of conversations. Labrou and Finin (1997) demonstrate that KQML provides explicit conversation policies, which define permissible sequences of performatives (e.g., ask-if followed by tell or sorry). This ability to embed protocol-level semantics enables multi-agent systems to sustain coherent dialogues, something method invocation in Python or Java cannot provide, as it remains limited to isolated, deterministic calls.
+
+On the downside, a major limitation of ACLs is precisely the lack of stable semantic standardisation. Early versions of KQML were criticised for relying on loosely defined semantics, which often led to inconsistent implementations and hindered true interoperability across platforms (Finin et al., 1994). Even with later semantic frameworks, effective communication still presupposes agreed ontologies, making ACLs far more fragile in practice than the lightweight reliability of direct method calls.
+
+In this sense, ACLs excel in modelling dialogues between autonomous agents, but their promise of universal interoperability remains constrained by unresolved semantic challenges.
+
+
+#### References
+
+Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM). ACM, pp. 456–463.
+
+Labrou, Y. and Finin, T. (1997) ‘Semantics and conversations for an agent communication language’, Proceedings of the 15th International Joint Conference on Artificial Intelligence (IJCAI), pp. 584–591.
+
+
+
 
 <img width="890" height="524" alt="image" src="https://github.com/user-attachments/assets/65ee5769-dceb-404d-8d7a-2be46c87ea1c" />
 
