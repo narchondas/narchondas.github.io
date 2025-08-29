@@ -307,8 +307,9 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialogue covers: (1) availability of 50-inch televisions, and (2) their HDMI port count.
 
-**Message 1
-Alice asks Bob: How many 50-inch televisions are in stock?**
+**Message 1**
+
+**Alice asks Bob: How many 50-inch televisions are in stock?**
 
 (kqml
 
@@ -325,8 +326,9 @@ Alice asks Bob: How many 50-inch televisions are in stock?**
     (stock-level (Television 50-inch) ?n)))
     
 
-**Message 2
-Bob replies: There are 84 units.**
+**Message 2**
+
+**Bob replies: There are 84 units.**
 
 (kqml
 
@@ -345,8 +347,9 @@ Bob replies: There are 84 units.**
     (= (stock-level (Television 50-inch)) 84)))
     
 
-**Message 3
-Alice asks Bob: How many HDMI slots do these televisions have?**
+**Message 3**
+
+**Alice asks Bob: How many HDMI slots do these televisions have?**
 
 (kqml
 
@@ -362,8 +365,9 @@ Alice asks Bob: How many HDMI slots do these televisions have?**
   
     (hdmi-slots (Television 50-inch) ?m)))
 
-**Message 4
-Bob replies: They have 3 HDMI slots.**
+**Message 4**
+
+**Bob replies: They have 3 HDMI slots.**
 
 (kqml
 
