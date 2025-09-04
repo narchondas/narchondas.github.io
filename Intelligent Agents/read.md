@@ -457,7 +457,8 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 
 
 
-  <img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/0268ddb4-c015-489b-8361-90d540d19b2e" />
+  <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/1730cc7b-320c-48ba-ad5c-826557b62df2" />
+
 
 
 
@@ -472,7 +473,8 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 
 
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/384e0fe3-a876-45ae-b796-cb85e29a24bf" />
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/578a5914-ca8d-4a31-81eb-a090a9a927f0" />
+
 
 
 
