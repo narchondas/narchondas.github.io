@@ -133,6 +133,10 @@ Use the following links to navigate to the start of the sections
 * Monitor the timely delivery of good quality assignments.
 
 
+
+<img width="462" height="280" alt="image" src="https://github.com/user-attachments/assets/ed32fded-eb53-498e-b4e4-65b732fa89a1" />
+
+
 [Back to the top](#intelligent-agents)
 
 
