@@ -462,7 +462,7 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 
 ## Development Team Project Report
 
-**Group D Contract**(https://docs.google.com/document/d/1RhPnR619GzCJswkbZsA7rtuLk7V3z4n_D2sXLvpiNvM/edit?tab=t.0)
+[**Group D Contract**](https://docs.google.com/document/d/1RhPnR619GzCJswkbZsA7rtuLk7V3z4n_D2sXLvpiNvM/edit?tab=t.0)
 
 
 
