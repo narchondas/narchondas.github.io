@@ -472,6 +472,11 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 
 
 
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/6210b946-01c2-4ec7-9a98-44ac3cac73d7" />
+
+
+
+
 [Back to the top](#intelligent-agents)
 
 
