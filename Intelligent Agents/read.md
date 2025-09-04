@@ -456,6 +456,11 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
     (= (hdmi-slots (Television 50-inch)) 3)))
 
 
+
+    <img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/0268ddb4-c015-489b-8361-90d540d19b2e" />
+
+
+
 [Back to the top](#intelligent-agents)
 
 
