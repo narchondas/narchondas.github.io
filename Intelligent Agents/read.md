@@ -134,7 +134,8 @@ Use the following links to navigate to the start of the sections
 
 
 
-<img width="462" height="280" alt="image" src="https://github.com/user-attachments/assets/ed32fded-eb53-498e-b4e4-65b732fa89a1" />
+<img width="996" height="542" alt="image" src="https://github.com/user-attachments/assets/67262e02-961d-457a-b520-613c353a7bba" />
+
 
 
 [Back to the top](#intelligent-agents)
