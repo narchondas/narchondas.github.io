@@ -15,6 +15,8 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminar and formative activities](#seminar-and-formative-activities)
 
+[4. Development Team Project Report](#development-team-project-report)
+
 
 
 
@@ -457,6 +459,15 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 [Back to the top](#intelligent-agents)
 
 
+
+## Development Team Project Report
+
+**Group D Contract**(https://docs.google.com/document/d/1RhPnR619GzCJswkbZsA7rtuLk7V3z4n_D2sXLvpiNvM/edit?tab=t.0)
+
+
+
+
+[Back to the top](#intelligent-agents)
 
 
 [Go to main Menu](https://narchondas.github.io/)
