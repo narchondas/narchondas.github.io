@@ -282,6 +282,32 @@ Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester
 
 
 
+**Summary Post**
+
+The use of agent communication languages (ACLs), such as the Knowledge Query and Manipulation Language (KQML), offers distinct advantages over traditional method invocation in languages such as Python or Java. ACLs are grounded in speech act theory, which frames communication as more than the execution of functions: messages may serve as requests, commitments, or declarations (Searle, 1969; Finin et al., 1994). This expressiveness makes ACLs particularly well-suited for open, distributed systems, where heterogeneous agents must cooperate, negotiate, or exchange knowledge without relying on tightly coupled interfaces (Wooldridge, 2009).
+
+A key advantage of ACLs lies in the autonomy they confer. Whereas method calls deterministically execute specified code, ACL messages empower agents to decide whether and how to respond in accordance with their goals and constraints. As Wooldridge (2009) notes, objects “do it for free,” but agents “do it because they want to.” This autonomy, as further emphasised by Jennings, Sycara and Wooldridge (1998), underpins negotiation-based problem solving in distributed environments, thereby enabling more adaptive forms of interaction than object-oriented invocation alone.
+
+Nevertheless, ACLs also bring challenges. KQML in particular suffered from weak standardisation, leading to interoperability issues due to loosely defined semantics and inconsistent implementations (Finin et al., 1994). Furthermore, effective communication requires ontology alignment to ensure semantic interoperability, yet mismatches in shared vocabularies can undermine otherwise coherent dialogues (Payne and Tamma, 2014). These issues illustrate the trade-offs between expressiveness and efficiency: ACLs enable richer forms of interaction, but at the cost of added complexity, semantic uncertainty, and computational overhead.
+
+In sum, ACLs highlight the difference between object invocation and agent communication, privileging autonomy, negotiation, and semantic richness, but their benefits must be balanced against practical difficulties of implementation and interoperability.
+
+
+
+#### References
+
+Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM), ACM, pp. 456–463. Available at: https://dl.acm.org/doi/10.1145/191246.191322
+
+Jennings, N.R., Sycara, K. and Wooldridge, M. (1998) ‘A roadmap of agent research and development’, Autonomous Agents and Multi-Agent Systems, 1(1), pp. 7–38.
+
+Payne, T.R. and Tamma, V. (2014) ‘Negotiating over ontological correspondences with asymmetric and incomplete knowledge’, Proceedings of the 2014 International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), pp. 517–524. Available at: https://ifmas.csc.liv.ac.uk/Proceedings/aamas2014/aamas/p517.pdf
+
+Searle, J.R. (1969) Speech Acts: An Essay in the Philosophy of Language. Cambridge: Cambridge University Press.
+
+Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester: Wiley.
+
+
+
 #### Response to my peers' posts
 
 
