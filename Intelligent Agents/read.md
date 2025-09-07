@@ -467,7 +467,7 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
 
    **Unit 8** 
 
-   Create a constituency-based parse tree for the following phrases:
+   **Create a constituency-based parse tree for the following phrases:**
 
    **The government raised interest rates.**
    
