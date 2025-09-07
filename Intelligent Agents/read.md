@@ -472,70 +472,123 @@ Alice is a procurement agent and Bob is a warehouse inventory agent.  The dialog
    **The government raised interest rates.**
    
    (S
+   
   (NP-SBJ (DT The) (NN government))
+  
   (VP (VBD raised)
+  
       (NP (NN interest) (NNS rates)))
+      
   (. .))
+  
 
 S
+
 ├── NP-SBJ
+
 │   ├── DT  The
+
 │   └── NN  government
+
 ├── VP
+
 │   ├── VBD raised
-│   └── NP
+
+│   └── 
+
 │       ├── NN  interest
+
 │       └── NNS rates
+
 └── .   .
 
 
 **The internet gives everyone a voice.**
 
 (S
+
   (NP-SBJ (DT The) (NN internet))
+  
   (VP (VBZ gives)
+  
       (NP (NN everyone))
+      
       (NP (DT a) (NN voice)))
+      
   (. .))
+  
 
 S
+
 ├── NP-SBJ
+
 │   ├── DT  The
+
 │   └── NN  internet
+
 ├── VP
+
 │   ├── VBZ gives
+
 │   ├── NP
+
 │   │   └── NN  everyone
+
 │   └── NP
+
 │       ├── DT  a
+
 │       └── NN  voice
+
 └── .   .
 
 **The man saw the dog with the telescope.**
 
 (S
+
   (NP-SBJ (DT The) (NN man))
+  
   (VP (VBD saw)
+  
       (NP (DT the) (NN dog))
+      
       (PP (IN with)
+      
           (NP (DT the) (NN telescope))))
+          
   (. .))
+  
 
 S
+
 ├── NP-SBJ
+
 │   ├── DT  The
+
 │   └── NN  man
+
 ├── VP
+
 │   ├── VBD saw
+
 │   ├── NP
+
 │   │   ├── DT  the
+
 │   │   └── NN  dog
+
 │   └── PP
+
 │       ├── IN  with
+
 │       └── NP
+
 │           ├── DT  the
+
 │           └── NN  telescope
+
 └── .   .
+
 
 
 
