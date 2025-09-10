@@ -694,7 +694,7 @@ The system should scale to large file volumes without loss of performance and re
 Automating file scanning and analysis reduces manual effort and improves speed. By detecting malware and ensuring data integrity, the agent strengthens cybersecurity and minimises breach risks. Automated PII handling enhances compliance, while classification and reporting increase transparency. Overall, the system delivers efficiency gains, cost savings, improved risk management, and greater organisational trust. Such benefits demonstrate the value of delegating operational monitoring tasks to intelligent agents (Russell and Norvig, 2021).
 
 
-<img width="502" height="620" alt="image" src="https://github.com/user-attachments/assets/90c7821d-eec0-4cd3-a664-893a36071067" />
+<img width="504" height="651" alt="image" src="https://github.com/user-attachments/assets/8543c5cd-7c01-48b1-9b33-8ce946703415" />
 
 
 **System Architecture**
