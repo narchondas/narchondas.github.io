@@ -641,6 +641,139 @@ S
 [**Group D Contract**](https://docs.google.com/document/d/1RhPnR619GzCJswkbZsA7rtuLk7V3z4n_D2sXLvpiNvM/edit?tab=t.0)
 
 
+**This assignment sees you positioned as a team of software consultants and specialists in agent design and development. You are required to develop an agent that is capable of performing tasks for an organisation with domain-specific requirements.**
+
+**Authors: Elias Medig, Mohamed Khaled Eissa Almail Alzaabi & Nikolaos Archontas**
+
+**Introduction**
+
+This report presents the design and architecture of a multi-agent system to automate and support business processes in the Digital Forensics domain of a fictional company. Its purpose is to define business requirements, architecture, methodology, and key challenges. Agent-based systems are well suited to this field as they combine autonomy, reactivity, and social ability (Wooldridge, 2009). Their application in corporate cybersecurity reflects the shift towards delegating repetitive monitoring tasks to intelligent systems (Russell and Norvig, 2021).
+
+The company operates in a mixed IT environment with Windows and Linux endpoints. To support scalability and collaboration, it uses Microsoft Azure for storage and compute, integrated with the Microsoft ecosystem, including Power BI, Teams, and productivity tools.
+
+
+**Business Requirements**
+
+The agent must support secure file handling, metadata extraction and analysis, content inspection, and structured reporting to assist investigators. Users include law enforcement, corporate security, and compliance officers who need tools capable of scanning large file volumes, detecting forensic artefacts, and preserving evidential integrity with full auditability. In short, the agent should collect, process, and present digital forensic evidence such as log files, metadata, and network traces.
+
+The agent should deliver:
+
+●	File identification and collection: Extract relevant files (Office documents, PDFs, executables).
+
+●	Metadata analysis and integrity checking: Capture timestamps, authorship, and apply cryptographic hashing.
+
+●	Malware detection: Scan for virus signatures, malware, or encrypted payloads.
+
+●	PII detection: Identify names, emails, phone numbers, or financial data for GDPR compliance.
+
+●	Anonymisation and redaction: Mask PII before storage in shared repositories.
+
+●	Classification and tagging: Categorise files by sensitivity or risk.
+
+●	Audit logging: Record all actions for full traceability.
+
+●	Reporting and visualisation: Generate structured reports and dashboards.
+
+●	Secure storage: Store outputs in encrypted repositories with access control.
+
+These requirements reflect principles of reactivity and accountability in multi-agent systems (Brooks, 1991; Wooldridge, 2009).
+
+
+**Functional Requirements**
+
+The agent must identify, and extract specified file types, analyse metadata, verify integrity, detect malware, and locate and anonymise PII. Files should be classified by sensitivity, with all actions logged to ensure accountability. Processed outputs must be securely stored and presented with structured datasets and visual summaries for rapid interpretation. Automation ensures consistency and reliability, core attributes of agent-based systems (Wooldridge, 2009).
+
+
+**Non-Functional Requirements**
+
+The system should scale to large file volumes without loss of performance and remain accurate in detection. Security is critical: data must be encrypted, with access tightly controlled. Audit logs must be comprehensive, the system extensible for new formats or rules, and maintainable through modular updates. Compliance with GDPR and data protection policies is essential. These qualities align with layered architectures such as InteRRaP, which emphasise modularity and adaptability in dynamic environments (Russell and Norvig, 2021).
+
+
+**Expected Business Benefits**
+
+Automating file scanning and analysis reduces manual effort and improves speed. By detecting malware and ensuring data integrity, the agent strengthens cybersecurity and minimises breach risks. Automated PII handling enhances compliance, while classification and reporting increase transparency. Overall, the system delivers efficiency gains, cost savings, improved risk management, and greater organisational trust. Such benefits demonstrate the value of delegating operational monitoring tasks to intelligent agents (Russell and Norvig, 2021).
+
+
+<img width="750" height="294" alt="image" src="https://github.com/user-attachments/assets/6707aa59-0b15-4977-bb4c-4db349b0f2a8" />
+
+
+**System Architecture**
+
+The proposed system uses a hybrid layered architecture modelled on InteRRaP, combining reactive, planning, and cooperative layers to balance responsiveness with reasoning (Wooldridge, 2009).
+
+●	Reactive layer: Provides immediate safeguards, such as malware detection or blocking suspicious access.
+
+●	Planning layer: Manages workflows including file collection, metadata analysis, verification, and classification.
+
+●	Cooperative layer: Enforces compliance rules, generates reports and dashboards, and ensures integration with external services.
+
+Control flows upward when lower layers cannot manage an event (bottom-up activation) and downward when higher layers issue executable plans (top-down execution) (see Annex, Activity Diagram, and High-Level Design). This two-pass flow, central to InteRRaP, ensures responsiveness and structured reasoning (Brooks, 1991; Maes, 1991).
+
+
+<img width="750" height="294" alt="image" src="https://github.com/user-attachments/assets/9855c4da-b5a4-484d-aa1a-13bb07124a58" />
+
+Figure 1: Activity Diagram
+
+<img width="729" height="296" alt="image" src="https://github.com/user-attachments/assets/1ab89f7a-12db-4459-9aea-9b68628b6928" />
+ 
+Figure 2: High Level Design
+
+<img width="753" height="449" alt="image" src="https://github.com/user-attachments/assets/da3daa3a-6cc7-488e-af5d-d295c2021604" />
+ 
+Figure 3: Sequence Diagram 
+
+
+**Technology and Communication**
+
+Implementation will use Python, chosen for its strong ecosystem in security and data handling. Core libraries include hashlib for hashing, pytsk3/dfVFS for forensic file access, pandas for data processing, matplotlib for visualisation, SQLite for lightweight encrypted storage.  This stack ensures scalability, auditability, and compliance while reducing development risk (Wooldridge, 2009).
+
+For communication, the design adopts KQML/Knowledge Query and Manipulation Language, which uses performatives such as inform, request, and query to express message intent (Finin et al., 1994; Searle, 1969). Although KQML lacks strict semantics and transport definitions, limiting interoperability, its performatives remain useful for clear agent interactions when paired with modern protocols.
+
+
+**Development Methodology**
+
+The project will follow an iterative, incremental approach inspired by agile principles. Development will begin with core functions such as file retrieval and hashing, before extending to malware detection, PII handling, and reporting. Each iteration delivers testable components validated against requirements and refined by feedback. This approach reduces complexity risks and fits the modular, layered architecture (Wooldridge, 2009).
+
+**Challenges & Justification**
+
+Technical challenges include managing large file volumes, addressed through efficient parsing and sampling. Ethical issues concern user privacy, requiring GDPR-compliant detection, anonymisation, and secure storage of PII. Legal challenges involve maintaining chain of custody for admissible evidence, addressed through audit logging and immutable action records. These reflect best practices in agent-based design, where modularity, accountability, and compliance are vital (Wooldridge, 2009).
+
+Scholarly reviews highlight that AI-enabled digital forensics remains uneven, partly due to the absence of standardised datasets and reproducible benchmarks, which hinders comparability across tools (Ragho and Chaudhari, 2025). Although deep learning offers accuracy gains, its opacity and adversarial fragility undermine forensic reliability (Fattahi, 2024). These issues underscore the need for explainable AI, adversarial testing, and shared evaluation standards.
+
+Critically, InteRRaP offers significant strengths by combining reactive safeguards with planning and cooperative reasoning, making it well suited to forensic tasks in dynamic environments (Wooldridge, 2009). Yet layered architectures can increase design complexity and lack the formal semantics of purely logic-based approaches (Russell and Norvig, 2021). Despite these trade-offs, InteRRaP remains a pragmatic choice for balancing responsiveness, planning, and accountability.
+
+
+**Conclusion**
+
+This project proposed the design of an autonomous agent to support digital forensics in a corporate cybersecurity setting. Business, functional, and non-functional requirements were defined, centred on secure file handling, metadata analysis, malware detection, PII anonymisation, and reporting. These were translated into a hybrid layered architecture inspired by InteRRaP, combining reactive safeguards, workflow planning, and cooperative compliance enforcement.
+
+The Python-based technology stack with specialist forensic libraries makes the design both robust and feasible. KQML provides clarity in agent communication design, complemented by modern protocols for interoperability.
+
+The system offers clear benefits: reduced manual effort, improved consistency, enhanced GDPR compliance, and strengthened organisational trust. Key challenges remain in data scalability, privacy protection, and evidential integrity, but these are mitigated through efficient data processing, encryption, and comprehensive audit logging. Literature further highlights the need for explainable and reproducible AI practices (Ragho and Chaudhari, 2025; Fattahi, 2024).
+
+Overall, the agent demonstrates how intelligent systems can automate complex forensic tasks, offering a scalable and pragmatic solution that supports efficiency, compliance, and accountability (Russell and Norvig, 2021).
+
+
+[Appendix](https://docs.google.com/document/d/1TOFQ_LlSlDj97TQNznrwBXjlEIozvM_YGEJDQn0K1PY/edit?tab=t.0)
+
+
+#### References
+
+Brooks, R. A. (1991). “Intelligence Without Representation.” Artificial Intelligence, 47(1–3), 139–159.
+
+Fattahi, J. (2024). Machine Learning and Deep Learning Techniques Used in Cybersecurity and Digital Forensics: a Review. arXiv:2501.03250 [cs.CR], submitted 24 December 2024. Available at: arXiv.org [Accessed on2 September 2025].
+
+Finin, T., Fritzson, R., McKay, D., & McEntire, R. (1994). “KQML as an agent communication language.” CIKM.
+
+Searle, J. R. (1969). Speech Acts. CUP. 
+
+Maes, P. (1991). “The Agent Network Architecture (ANA).” SIGART Bulletin, 2(4), 115–120. 
+
+Ragho, S. R. & Chaudhari, N. (2025). Artificial Intelligence in Digital Forensics: A Review of Cyber-Attack Detection Models and Frameworks. Journal of Information Systems Engineering and Management, 10(57s), published 19 July 2025. Available at: JISEM-Journal.com [Accessed on 2 September 2025].
+
+Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
+
+
 
 
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/578a5914-ca8d-4a31-81eb-a090a9a927f0" />
