@@ -360,10 +360,17 @@ Labrou, Y. and Finin, T. (1997) ‘Semantics and conversations for an agent comm
 
 
 
+<img width="866" height="464" alt="image" src="https://github.com/user-attachments/assets/6202e02a-6cb9-4777-b0cb-c2cc974fd3d3" />
+
+
+
 ### Collaborative Discussion 3
 
 
 **The advent of new technologies supported by Deep Learning models mean that it is now possible to generate ‘new’ content, for example, Dall-E AI to generate images or ChatGPT to create prose. Do you think that these new technologies offer any ethical issues that should be considered, and if not, why not?**
+
+
+**Initial Post**
 
 
 The rapid rise of generative AI technologies, such as DALL-E for images and ChatGPT for prose, has intensified debates on copyright and creativity. These systems rely on deep learning models trained on vast corpora, often including copyrighted works. While some jurisdictions allow text-and-data mining under fair use or statutory exceptions, scholars emphasise that transparency about datasets and fair remuneration mechanisms are essential to avoid the uncompensated extraction of creative labour (Tyagi, 2024; Senftleben, 2023).
