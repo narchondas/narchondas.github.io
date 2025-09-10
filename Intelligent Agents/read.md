@@ -360,6 +360,33 @@ Labrou, Y. and Finin, T. (1997) ‘Semantics and conversations for an agent comm
 
 
 
+### Collaborative Discussion 3
+
+
+**The advent of new technologies supported by Deep Learning models mean that it is now possible to generate ‘new’ content, for example, Dall-E AI to generate images or ChatGPT to create prose. Do you think that these new technologies offer any ethical issues that should be considered, and if not, why not?**
+
+
+The rapid rise of generative AI technologies, such as DALL-E for images and ChatGPT for prose, has intensified debates on copyright and creativity. These systems rely on deep learning models trained on vast corpora, often including copyrighted works. While some jurisdictions allow text-and-data mining under fair use or statutory exceptions, scholars emphasise that transparency about datasets and fair remuneration mechanisms are essential to avoid the uncompensated extraction of creative labour (Tyagi, 2024; Senftleben, 2023).
+
+Copyright law has long been grounded in the requirement of human intellectual creativity, yet works produced without substantial human involvement disrupt this foundation and may undermine proper recognition of human authors (Ginsburg and Budiardjo, 2019). Moreover, research shows that although AI can enhance individual productivity, it tends to reduce the diversity of outputs, privileging statistically common patterns and potentially narrowing cultural expression (Doshi et al., 2024). This creates ethical concerns about homogenisation and the underrepresentation of minority voices.
+
+Addressing these issues does not mean rejecting generative AI, but embedding its development within responsible frameworks. Three elements are crucial. First, enforceable opt-outs allow creators to signal that their works should not be used in training datasets, ensuring respect for their choices. Second, licensing or collective management schemes enable works to be lawfully included in AI training, while securing fair remuneration for rightsholders. Finally, clear attribution rules guarantee that human contributors receive appropriate credit and that audiences can distinguish between human-created and AI-assisted content.
+
+In this way, society can balance the legitimate public interest in advancing knowledge with the ethical duty to safeguard authors’ rights and preserve cultural diversity. Generative AI should therefore be understood as an assistive tool that augments, rather than substitutes, human intelligence and creative agency.
+
+
+#### References
+Doshi, A.R., Tang, A., Leung, M., Lin, A., Melkonyan, A., Liu, A., Dorn, C., Sethi, A., Prasad, P., Xu, C., Bailey, J. and Yang, D. (2024) ‘Generative AI enhances individual creativity but reduces diversity’, Science Advances, 10(21), eadn5290. https://doi.org/10.1126/sciadv.adn5290
+
+Ginsburg, J.C. and Budiardjo, L.A. (2019) ‘Authors and Machines’, Berkeley Technology Law Journal, 34(2), pp. 343–430. Available at https://btlj.org/data/articles2019/34_2/01_Ginsburg_Web.pdf [Accessed on 9 September 2025]
+
+Senftleben, M. (2023) ‘Generative AI and Author Remuneration’, IIC – International Review of Intellectual Property and Competition Law, 54(12), pp. 1535–1560. Available at https://link.springer.com/article/10.1007/s40319-023-01399-4 [Accessed on 9 September 2025]
+
+Tyagi, K. (2024) ‘Copyright, text & data mining and the innovation dimension of generative AI’, Journal of Intellectual Property Law & Practice, 19(7), pp. 557–566. https://doi.org/10.1093/jiplp/jpae047
+
+
+
+
 
 <img width="890" height="524" alt="image" src="https://github.com/user-attachments/assets/65ee5769-dceb-404d-8d7a-2be46c87ea1c" />
 
