@@ -625,7 +625,7 @@ S
 
 
 
-**Unit 10 Activity**
+**Unit 10**
 
 **You are required to research an application of Deep Learning that you think is going to have an impact on society (whether that is positive or negative).**
 
