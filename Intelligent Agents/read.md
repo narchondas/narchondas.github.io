@@ -625,6 +625,38 @@ S
 
 
 
+**Unit 10 Activity**
+
+**You are required to research an application of Deep Learning that you think is going to have an impact on society (whether that is positive or negative).**
+
+
+**Facial Recognition & Surveillance**
+
+**Overview of the technology**
+
+Facial recognition technology (FRT) is a biometric system designed to identify or verify individuals by analysing their facial features. It is widely used in domains such as law enforcement, border security, access control, and increasingly in public surveillance systems (Garvie, Bedoya and Frankle, 2016). In practice, it allows authorities and organisations to track, recognise, and monitor individuals across different spaces, often without their explicit consent, raising significant ethical and legal concerns (Smith and Miller, 2021).
+
+**How it works**
+
+Modern FRT operates through a multi-stage pipeline. First, faces are detected within images or video streams using object detection algorithms. The identified faces are then aligned and normalised to a consistent orientation. Deep learning models, particularly convolutional neural networks (CNNs), extract discriminative features, transforming the face into a numerical embedding that captures identity-related patterns (Schroff, Kalenichenko and Philbin, 2015). These embeddings are compared against databases using similarity metrics to either verify or identify a subject. While the accuracy of such systems has significantly improved with deep learning, performance can still degrade under conditions of occlusion (masks, glasses), poor lighting, or demographic imbalance in training data (Buolamwini and Gebru, 2018).
+
+**Potential impacts**
+
+The societal impacts of FRT are profound and multidimensional. On the positive side, it can enhance security, aid in locating missing persons, and support faster identification in emergencies (Introna and Wood, 2004). However, there are substantial risks. Misidentifications can lead to wrongful arrests and discrimination, particularly against marginalised groups, as studies show higher error rates for women and people of colour (Buolamwini and Gebru, 2018). The pervasive collection of biometric data also threatens privacy and civil liberties, creating “chilling effects” on public life (people modify behaviour knowing they are watched) and freedom of expression (Smith and Miller, 2021). Furthermore, FRT can enable mass surveillance and mission creep (using technology beyond its original purpose) when deployed without clear regulatory safeguards (Garvie, Bedoya and Frankle, 2016). Although regulatory and technical proposals such as transparency requirements and fairness-oriented model training are emerging, the ethical challenges of balancing security with fundamental rights remain unresolved (Introna and Wood, 2004).
+
+
+#### References
+
+Buolamwini, J. and Gebru, T. (2018) ‘Gender shades: Intersectional accuracy disparities in commercial gender classification’, Proceedings of Machine Learning Research, 81, pp. 1–15.
+
+Garvie, C., Bedoya, A. and Frankle, J. (2016) The perpetual line-up: Unregulated police face recognition in America. Georgetown Law Center on Privacy & Technology.
+
+Introna, L. and Wood, D. (2004) ‘Picturing algorithmic surveillance: The politics of facial recognition systems’, Surveillance & Society, 2(2/3), pp. 177–198.
+
+Schroff, F., Kalenichenko, D. and Philbin, J. (2015) ‘FaceNet: A unified embedding for face recognition and clustering’, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 815–823.
+
+Smith, R. and Miller, K. (2021) ‘Ethical implications of facial recognition in law enforcement’, AI & Society, 36(3).
+
 
 
   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/1730cc7b-320c-48ba-ad5c-826557b62df2" />
