@@ -393,6 +393,75 @@ Tyagi, K. (2024) ‘Copyright, text & data mining and the innovation dimension o
 
 
 
+**Summary Post**
+
+
+The emergence of generative AI technologies such as DALL-E and ChatGPT has transformed debates on authorship, creativity, and cultural production. These systems, trained on extensive datasets often containing copyrighted material, raise significant ethical and legal challenges concerning ownership, fair use, and the recognition of creative labour. Scholars argue that while certain jurisdictions allow text-and-data mining under fair use or statutory exceptions, transparency about training datasets and equitable remuneration mechanisms remain crucial to prevent the uncompensated extraction of artistic value (Tyagi, 2024; Senftleben, 2023; Al-Kfairy et al., 2024).
+
+Copyright frameworks built upon the notion of human intellectual creation are now strained by works produced without substantial human input (Ginsburg and Budiardjo, 2019). The consequences extend beyond legal questions to the cultural and aesthetic sphere. Generative AI, although capable of enhancing productivity, often privileges statistically common patterns, which can homogenise outputs and limit the diversity of creative expression (Doshi et al., 2024). As Hagendorff (2024) notes, such tendencies risk marginalising experimental and minority artistic voices, thereby diminishing cultural pluralism.
+
+To mitigate these concerns, responsible governance should combine enforceable opt-outs for creators, collective licensing schemes to ensure fair compensation, and transparent attribution rules that distinguish human from AI-generated content. Yet the persistence of asymmetries between major technology corporations and individual artists underscores the need for more equitable power relations within creative ecosystems.
+
+Ultimately, generative AI should be viewed not as a replacement for human ingenuity but as an augmentative tool that supports and extends it. Embedding ethical safeguards, dataset transparency, and cultural diversity within AI development is essential to ensure that innovation proceeds in harmony with the protection of authors’ rights and the enrichment of creative expression.
+
+
+#### References
+
+Al-Kfairy, M. et al. (2024) ‘Ethical challenges and solutions of generative AI: An interdisciplinary perspective’, Informatics, 11(3), p. 58.
+
+Doshi, A.R. et al. (2024) ‘Generative AI enhances individual creativity but reduces diversity’, Science Advances, 10(21), eadn5290.
+
+Ginsburg, J.C. and Budiardjo, L.A. (2019) ‘Authors and Machines’, Berkeley Technology Law Journal, 34(2), pp. 343–430.
+Hagendorff, T. (2024) ‘Mapping the ethics of generative AI: A comprehensive scoping review’, Minds and Machines, 34(4), p. 39.
+
+Senftleben, M. (2023) ‘Generative AI and Author Remuneration’, IIC – International Review of Intellectual Property and Competition Law, 54(12), pp. 1535–1560.
+
+Tyagi, K. (2024) ‘Copyright, text & data mining and the innovation dimension of generative AI’, Journal of Intellectual Property Law & Practice, 19(7), pp. 557–566.
+
+
+
+#### Response to my peers' posts
+
+
+You raise key ethical concerns about authorship and creativity in generative AI. While these systems undeniably challenge traditional notions of originality, they can also enhance creativity by expanding human expressive capacities. As Boden (2016) explains, creativity often arises through the combinational reconfiguration of existing ideas. In this sense, AI models trained on vast internet datasets may facilitate new artistic pathways, generating hybrid forms of art that humans alone might not have conceived.
+
+However, such recombination relies on pre-existing works, raising unresolved questions about ownership and recognition. When AI systems emulate identifiable artistic styles, the boundary between inspiration and imitation becomes blurred (Abbott and Rothman, 2023). Moreover, as Gervais (2023) argues, authorship in the AI era should be reconsidered as collaborative, ensuring that human creators receive due acknowledgment and remuneration. Without transparent attribution, ethical use of training data, and fair compensation mechanisms, these tools risk appropriating rather than augmenting creative labour.
+
+Thus, while AI can democratise creativity and stimulate novel aesthetic directions, it simultaneously intensifies the urgency to protect artistic rights. A balanced governance framework, combining licensing schemes, dataset transparency, and attribution standards, is essential to ensure that generative AI becomes a partner in human creativity rather than its silent substitute.
+
+
+#### References
+
+Abbott, R. and Rothman, E. (2023) ‘Disrupting creativity: Copyright law in the age of generative artificial intelligence’, Florida Law Review, 75, p. 1141.
+
+Boden, M.A. (2016) AI: Its nature and future. Oxford: Oxford University Press.
+
+Gervais, D.J. (2023) ‘The machine as author’, Harvard Journal of Law & Technology, 36(2), pp. 311–364. Available at: https://jolt.law.harvard.edu/
+
+Senftleben, M. (2023) ‘Generative AI and Author Remuneration’, IIC – International Review of Intellectual Property and Competition Law, 54(12), pp. 1535–1560. https://doi.org/10.1007/s40319-023-01399-4
+
+
+
+Your post rightly highlights the transformative yet ethically complex nature of generative AI. I particularly agree that the question of originality and ownership lies at the heart of the debate. While systems such as ChatGPT and DALL-E democratise content creation and expand access to creative tools, their reliance on large-scale datasets of human-made works raises unresolved issues of authorship and attribution. As Ginsburg and Budiardjo (2019) observe, copyright law is premised on human intellectual creation. Outputs generated autonomously by AI therefore challenge the legal and moral framework that protects creative labour.
+
+Nonetheless, it could be argued that generative AI does not merely imitate but enables augmented creativity. Boden (2016) defines such creativity as 'combinational', where novelty arises through the reconfiguration of existing ideas, a process AI models emulate statistically. When guided by human intent, these tools can foster new aesthetic expressions and interdisciplinary collaboration, amplifying rather than diminishing human ingenuity (Franceschelli and Musolesi, 2024).
+
+The challenge, then, is not the existence of AI-generated art itself but ensuring ethical governance that preserves transparency, fair remuneration, and clear attribution. As Senftleben (2023) emphasises, establishing collective licensing and opt-out mechanisms is essential to reconcile innovation with respect for creators’ rights.
+
+
+#### References
+
+Boden, M.A. (2016) AI: Its Nature and Future. Oxford: Oxford University Press.
+
+Franceschelli, G. and Musolesi, M. (2024) ‘Generative AI and the philosophy of creativity: Novelty, value and meaning’, AI & Society, 39(3), pp. 1123–1139. Available at https://www.mircomusolesi.org/papers/aiandsociety24.pdf  [Accessed on 8 October 2025]
+
+Ginsburg, J.C. and Budiardjo, L.A. (2019) ‘Authors and Machines’, Berkeley Technology Law Journal, 34(2), pp. 343–430. Available at: https://btlj.org/data/articles2019/34_2/01_Ginsburg_Web.pdf 
+
+Senftleben, M. (2023) ‘Generative AI and Author Remuneration’, IIC – International Review of Intellectual Property and Competition Law, 54(12), pp. 1535–1560. https://doi.org/10.1007/s40319-023-01399-4
+
+
+
+
 
 
 <img width="890" height="524" alt="image" src="https://github.com/user-attachments/assets/65ee5769-dceb-404d-8d7a-2be46c87ea1c" />
