@@ -17,6 +17,8 @@ Use the following links to navigate to the start of the sections
 
 [4. Development Team Project Report](#development-team-project-report)
 
+[5. Individual Development Project](#individual-development-project)
+
 
 
 
@@ -878,6 +880,30 @@ Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
 
 
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/578a5914-ca8d-4a31-81eb-a090a9a927f0" />
+
+
+
+[Back to the top](#intelligent-agents)
+
+
+
+
+## Individual Development Project
+
+
+
+**Individual Development Project: Presentation**(https://docs.google.com/presentation/d/12aYwoeKXVCTZB6u6iCNMxIu2LfREVIQbgf4FkqQzNLY/edit?slide=id.p1#slide=id.p1)
+
+
+
+**Transcript of Presentation**(https://docs.google.com/document/d/1YOLNobXpc8Pj2nwEATruk4_VLM_iksWM0ZaKXCFEn4A/edit?tab=t.0)
+
+
+
+**Read.me file**(https://docs.google.com/document/d/1XxX12eyFgJuOIQbT4BuL3kVGaqqaR3_gTb1_FRA4G0s/edit?tab=t.0)
+
+
+**Colab Notebook video**(https://drive.google.com/drive/u/0/home)
 
 
 
