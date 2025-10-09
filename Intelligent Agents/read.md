@@ -896,14 +896,14 @@ Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
 
 
 
-[Transcript of Presentation](https://docs.google.com/document/d/1YOLNobXpc8Pj2nwEATruk4_VLM_iksWM0ZaKXCFEn4A/edit?tab=t.0)
+[Transcript of presentation audio file](https://docs.google.com/document/d/1YOLNobXpc8Pj2nwEATruk4_VLM_iksWM0ZaKXCFEn4A/edit?tab=t.0)
 
 
 
-[Read.me file](https://docs.google.com/document/d/1XxX12eyFgJuOIQbT4BuL3kVGaqqaR3_gTb1_FRA4G0s/edit?tab=t.0)
+[README file](https://docs.google.com/document/d/1XxX12eyFgJuOIQbT4BuL3kVGaqqaR3_gTb1_FRA4G0s/edit?tab=t.0)
 
 
-[Colab Notebook video](https://drive.google.com/drive/u/0/home)
+[Colab Notebook video]([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1j2X3XqKBJjxPmA-zVT_PvZjEGKvd9C-t/view?usp=drive_link))
 
 
 
