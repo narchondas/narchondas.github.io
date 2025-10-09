@@ -892,21 +892,22 @@ Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
 
 
 
-**Individual Development Project: Presentation**(https://docs.google.com/presentation/d/12aYwoeKXVCTZB6u6iCNMxIu2LfREVIQbgf4FkqQzNLY/edit?slide=id.p1#slide=id.p1)
+[Individual Development Project: Presentation](https://docs.google.com/presentation/d/12aYwoeKXVCTZB6u6iCNMxIu2LfREVIQbgf4FkqQzNLY/edit?slide=id.p1#slide=id.p1)
 
 
 
-**Transcript of Presentation**(https://docs.google.com/document/d/1YOLNobXpc8Pj2nwEATruk4_VLM_iksWM0ZaKXCFEn4A/edit?tab=t.0)
+[Transcript of Presentation](https://docs.google.com/document/d/1YOLNobXpc8Pj2nwEATruk4_VLM_iksWM0ZaKXCFEn4A/edit?tab=t.0)
 
 
 
-**Read.me file**(https://docs.google.com/document/d/1XxX12eyFgJuOIQbT4BuL3kVGaqqaR3_gTb1_FRA4G0s/edit?tab=t.0)
+[Read.me file](https://docs.google.com/document/d/1XxX12eyFgJuOIQbT4BuL3kVGaqqaR3_gTb1_FRA4G0s/edit?tab=t.0)
 
 
-**Colab Notebook video**(https://drive.google.com/drive/u/0/home)
+[Colab Notebook video](https://drive.google.com/drive/u/0/home)
 
 
 
+<img width="1144" height="501" alt="image" src="https://github.com/user-attachments/assets/222cf1de-510e-4597-adc1-6c43a2197939" />
 
 
 
