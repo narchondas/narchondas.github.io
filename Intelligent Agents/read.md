@@ -916,6 +916,7 @@ Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
 
 
 
+
 <img width="1144" height="501" alt="image" src="https://github.com/user-attachments/assets/222cf1de-510e-4597-adc1-6c43a2197939" />
 
 
