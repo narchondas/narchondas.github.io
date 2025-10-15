@@ -19,6 +19,8 @@ Use the following links to navigate to the start of the sections
 
 [5. Individual Development Project](#individual-development-project)
 
+[6. Individual Reflection](#individual-reflection)
+
 
 
 
@@ -922,6 +924,99 @@ Wooldridge, M. J. (2009). An Introduction to Multiagent Systems. Wiley.
 
 
 [Back to the top](#intelligent-agents)
+
+
+
+## Individual reflection
+
+
+**Module Content and Learning Outcomes**
+
+Through this module, I gained critical insights into the theory, tools, and techniques of intelligent agents, focusing on both their individual behaviour and interactive dynamics. The learning outcomes encompassed the ability to:
+
+•	analyse and differentiate agent-based architectures, 
+
+•	apply and evaluate intelligent agent techniques to real-world problems involving risk and uncertainty, and to
+
+•	deploy appropriate software tools, while considering legal, ethical, and professional implications. 
+
+Additionally, the module enhanced my capacity to collaborate effectively within a virtual development team, adopting realistic professional roles and organisational practices (UoEO Module Home, n.d.).
+
+For this individual reflection, I will make use of mainly two reflective models: 
+
+a) ‘What? So What? Now what?’ (experience, implication of the situation and action plan) (Driscol, 1994 and Rolfe et al., 2001) and 
+
+b) the Gibbs’ reflective Cycle (description, feelings, evaluation, analysis, conclusion, action plan) (UoEO Short Guide to Reflective Writing, n.d.; The University of Edinburgh Reflection Toolkit, n.d.).  
+
+**Understanding of Intelligent Agents**
+
+The theoretical part of the module strengthened my grasp of the conceptual foundations of agent-based computing. Wooldridge (2009) defines an agent as a system situated in an environment, capable of autonomous action to meet delegated objectives. This autonomy distinguishes agents from ordinary objects: “objects do it for free; agents do it because they want to.” Such reasoning capacity reflects the ability of agents to decide independently, while still cooperating with others, a property that underpins the efficiency of distributed systems.
+
+The analysis of agent architectures, particularly reactive, deliberative and hybrid approaches, allowed me to understand how different models balance autonomy and control. The study of subsumption architecture in Unit 3 clarified how simple rule-based behaviours can be hierarchically layered to produce complex activity, where low-level behaviours such as obstacle avoidance take precedence over higher-level goals. The examination of hybrid architectures and the InteRRaP model was particularly enlightening: vertical layering separates behavioural, planning and cooperative levels, thus integrating reactivity with social coordination (Wooldridge 2009).
+
+The exploration of communication languages further deepened my understanding of inter-agent cooperation. KQML (Knowledge Query Manipulation Language) emerged as a pivotal element, combining message formatting and semantic protocol to enable knowledge sharing (Finin et al., 1994; Labrou & Finin, 1994). Grounded in speech-act theory, KQML demonstrates how software agents can exchange intentions, performatives and requests in a structured way, ensuring meaningful collaboration rather than simple data transfer.
+
+Another important area was Natural Language Processing (NLP) within agent systems. Units 7-8 introduced me to word embeddings, constituency-based and dependency parsing. These formalisms clarified how agents can process linguistic input, enabling dialogue and contextual reasoning. Understanding that constituency parsing decomposes sentences into hierarchical sub-phrases, while dependency parsing captures syntactic relations among words offered insights into how agents “understand” text structure. 
+
+**Learning Process and Engagement**
+
+From the beginning, I approached the module with high motivation and structured organisation. I adhered to a consistent weekly study plan, ensured timely submission of tasks, and exploited feedback loops through discussions with peers and the tutor (see Annex). I attended almost all live seminars and actively engaged with the tutor during Q&A sessions to clarify theoretical and technical aspects of the material. Furthermore, I contributed to the Collaborative Discussions forum by posting reflective entries and responding to my peers’ contributions, which stimulated meaningful academic dialogue and enhanced collective understanding (see Annex).
+
+Running Colab notebooks, particularly those supporting the Individual Development Presentation, enabled me to develop an experimental attitude to coding. By practising with datasets and assignment requirements, I deepened my comprehension of algorithmic dynamics and graphical outputs. When uncertainties arose, I consulted supplementary tutorials, accessed additional academic readings, or employed AI-assisted tools to verify and consolidate my reasoning, thereby reinforcing self-directed learning.
+
+I also thoroughly enjoyed studying the module’s reading materials, which provided valuable theoretical grounding and complemented the practical activities. I diligently maintained and regularly updated my GitHub repository, systematically documenting my work and learning progression (this is duly evidenced in the Annex). Overall, this reflective and proactive strategy proved effective in achieving the learning outcomes, allowing me to cultivate analytical independence, critical evaluation, and the ability to connect abstract agent theory with computational implementation. My GitHub repository thus served both as evidence of progress and as a self-assessment instrument to monitor continuous growth.
+
+**Team Project Experience**
+
+Our team project focused on the design and architecture of a multi-agent system to automate and support business processes in the Digital Forensics domain of a fictional company. Its purpose was to define business requirements, architecture, methodology, and key challenges.
+
+The system aimed to integrate autonomous file handling, metadata analysis, malware detection and PII anonymisation within a layered architecture inspired by InteRRaP, balancing reactivity, planning, and cooperative reasoning.
+
+As a team member, I took the initiative from the outset: I established a WhatsApp group to facilitate real-time coordination and organised the first online meeting. We collaboratively created a shared Google Doc to draft the project outline, assign sections and exchange feedback. While the two of the three members engaged actively and maintained a constructive, respectful dialogue, the third was less responsive, which inevitably constrained progress. Nonetheless, teamwork remained collegial, and the final report demonstrated coherent structure and technical feasibility.
+
+Reflecting through Gibbs’s model, I recognised that my strengths lay in organisation, communication and initiative. I encouraged inclusivity by integrating peer suggestions and providing feedback constructively. However, I also identified the need to develop assertiveness when addressing uneven participation. While the non-responsiveness of one member might have stemmed from external pressures, more direct follow-up could have ensured equitable workload distribution. Going forward, I plan to apply clearer task allocation and use interim deadlines to maintain engagement.
+
+**Development Individual Project**
+
+The subsequent development individual project translated the team’s conceptual design into an executable artefact. It required developing and testing functional code, supported by a PowerPoint presentation and an explanatory transcript. This phase tested my technical self-reliance as I had to engage in coding as well as to implement and document the workflow independently, while adhering to the design principles defined collaboratively.
+
+By demonstrating and recording the code execution, I enhanced my confidence in translating theoretical architectures into operational systems. The task also reinforced my awareness of professional and ethical considerations: agent-based solutions must always comply with transparency, accountability and data-protection principles. In this respect, the legal and ethical dimensions of autonomous decision-making systems, emphasised in the module’s learning outcomes, became tangible learning objectives.
+
+**Evaluation and Future Actions**
+
+Overall, the Intelligent Agents module strengthened my academic understanding and practical competence. The theoretical knowledge acquired was effectively integrated into collaborative and individual projects. From a reflective standpoint, I learned that productive teamwork relies on clear communication and shared responsibility, while individual development project depends on disciplined time management and feedback integration.
+
+By systematically applying reflective practice and integrating both theoretical and practical learning, I have developed a comprehensive understanding of intelligent agents and their relevance to AI-driven public and organisational systems. This knowledge will inform my ongoing MSc research and my professional engagement in designing AI solutions for evidence-based governance.
+
+**List of References**
+
+Driscoll J. (1994). Reflective practice for practise. Senior Nurse, 13, 47 -50
+
+Finin, T., Fritzson, R., McKay, D. and McEntire R. (1994) ‘KQML as an agent communication language’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM), ACM, pp. 456–463. Available at: https://dl.acm.org/doi/10.1145/191246.191322 Accessed on 6 October 2025]
+
+Labrou, Y. and Finin, T. (1994) ‘A semantics approach for KQML—a general purpose communication language for software agents’, Proceedings of the 3rd International Conference on Information and Knowledge Management (CIKM). ACM, pp. 447–455. Available at: https://www.researchgate.net/publication/221614440_A_Semantics_Approach_for_KQML
+
+Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan 
+
+The University of Edinburgh (n.d.). Reflection Toolkit. Available from https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience [Accessed on 23 September 2025]
+
+UoEO (n.d.). Intelligent Agents July 2025, Module Home Available from https://www.my-course.co.uk/course/view.php?id=13792&section=0
+[Accessed on 24 September 2025]
+
+UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to reflective writing.pdf [Accessed on 6 October 2025]
+
+UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 6 October 2025]
+
+Wooldridge, M.J. (2009) An Introduction to Multiagent Systems. Chichester: John Wiley & Sons. 
+
+
+
+<img width="692" height="556" alt="image" src="https://github.com/user-attachments/assets/561ab4be-6199-4698-9075-207907e3f514" />
+
+
+
+[Back to the top](#intelligent-agents)
+
 
 
 [Go to main Menu](https://narchondas.github.io/)
