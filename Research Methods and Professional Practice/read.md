@@ -47,7 +47,7 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#research-practices-and-professional-practice)
+[Back to the top](#research-methods-and-professional-practice)
 
 
 
@@ -128,7 +128,7 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#research-practices-and-professional-practice)
+[Back to the top](#research-methods-and-professional-practice)
 
 
 
@@ -146,7 +146,7 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#research-practices-and-professional-practice)
+[Back to the top](#research-methods-and-professional-practice)
 
 
 
@@ -163,7 +163,7 @@ Use the following links to navigate to the start of the sections
 
 
 
-[Back to the top](#research-practices-and-professional-practice)
+[Back to the top](#research-methods-and-professional-practice)
 
 
 
