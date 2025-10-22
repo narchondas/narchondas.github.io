@@ -137,7 +137,28 @@ Use the following links to navigate to the start of the sections
 ### Initial, summary posts & response to peers' posts
 
 
-### Collaborative Discussion 1
+### Collaborative Discussion 1: Codes of Ethics and Professional Conduct
+
+
+
+**Initial Post**
+
+The Blocker Plus case study, provided by the Association of Computing Machinery (ACM), illustrates the ethical complexity of deploying machine learning systems in socially sensitive contexts. While the system initially aligned with CIPA’s (Children’s Internet Protection Act) legal obligations, the developers breached key provisions of the BCS (British Computer Society) Code of Conduct. Activist groups exploited Blocker Plus’s feedback mechanism to manipulate the machine learning model, leading it to classify legitimate content on gay and lesbian marriage, vaccination, climate change, and other socially relevant topics as harmful to children. The failure to prevent bias and safeguard against malicious data input constituted a violation of the principles of Public Interest, particularly the duty to avoid discrimination and to promote inclusivity (BCS, 2021).
+
+Furthermore, the insufficient transparency and lack of public disclosure regarding the model’s limitations contravened the requirement for Professional Competence and Integrity, as responsible practitioners must ensure compliance with legislation and uphold honesty in technical reporting. The decision to preserve a corrupted model, rather than mitigate harms, also breached their Duty to Relevant Authority by neglecting due diligence and public accountability.
+
+Ethically, this case study underscores the centrality of the principles of fairness, accountability, and transparency to contemporary AI governance frameworks (Fjeld et al., 2020; Finn and Shilton, 2023). It also resonates with the European Commission’s High-Level Expert Group on AI, which stresses the necessity of human oversight and explainability as safeguards against algorithmic discrimination. As Kluge Corrêa et al. (2023) observe, the transition from voluntary ethics to binding AI regulation reflects a growing recognition that professional responsibility must be matched by enforceable accountability. This case study exemplifies that professionalism in computing extends beyond legal compliance to the moral stewardship of technology’s societal impact.
+
+ 
+#### References
+
+
+BCS (2021) Code of Conduct.
+
+Fjeld, J. et al. (2020) Principled Artificial Intelligence. Berkman Klein Center.
+
+Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Report’, Social Studies of Science, 53(3), pp. 315–340.
+
 
 
 
