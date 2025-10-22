@@ -43,6 +43,8 @@ I view administrative reform as a continuous and inspiring journey — one marke
 
 [6. Intelligent Agents](/Intelligent Agents/read.md)
 
+[7. Research Methods and Professional Practice](/Research Methods and Professional Practice/read.md)
+
 
 
 
