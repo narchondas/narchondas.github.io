@@ -23,24 +23,24 @@ Use the following links to navigate to the start of the sections
 
 ### In the module Research Methods and Professional Practice I shall:
 
-*Understand the motivations for, and appropriate use of, agent-based computing.
+*Acquire the ability to study and reflect on key principles and methods in research based on the scientific method and relevant to various disciplines.
 
-*Understand the main agent models in use today and their grounding in artificial intelligence research.
+*Acquire the ability to examine various research strategies and designs as applicable to projects at hand.
 
-*Acquire the knowledge and skills to develop, deploy and evaluate the tools and techniques of intelligent systems to solve real-world problems.
+*Acquire the ability to develop research competencies, in particular those relating to the collection and analysis of data types to enable a critical design and evaluation of independent research.
 
-*Understand contemporary research issues in the area of intelligent agent systems.
+*Have the opportunity to take a reflective and independent approach to the learning process.
 
 
 ### On completion of the module Research Methods and Professional Practice, I will be able to:
 
-*Identify and critically analyse agent-based systems, differentiating between architectures and approaches.
+*Appraise the professional, legal, social, cultural and ethical issues that affect computing professionals.
 
-*Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.
+*Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.
 
-*Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.
+*Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.
 
-*Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
+*Produce and evaluate critically a research proposal for the chosen topic.
 
 
 <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/bf246f8d-495f-4a6d-beba-33406b2242d7" />
