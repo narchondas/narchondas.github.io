@@ -137,8 +137,10 @@ Use the following links to navigate to the start of the sections
 ### Initial, summary posts & response to peers' posts
 
 
-### Collaborative Discussion 1: Codes of Ethics and Professional Conduct
+### Collaborative Discussion 1
 
+
+**Codes of Ethics and Professional Conduct**
 
 
 **Initial Post**
@@ -158,8 +160,6 @@ BCS (2021) Code of Conduct.
 Fjeld, J. et al. (2020) Principled Artificial Intelligence. Berkman Klein Center.
 
 Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Report’, Social Studies of Science, 53(3), pp. 315–340.
-
-
 
 
 
