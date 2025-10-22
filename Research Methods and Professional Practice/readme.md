@@ -140,8 +140,13 @@ Use the following links to navigate to the start of the sections
 ### Collaborative Discussion 1
 
 
-[Back to the top](#research-practices-and-professional-practice)
 
+
+<img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
+
+
+
+[Back to the top](#research-practices-and-professional-practice)
 
 
 
@@ -150,6 +155,11 @@ Use the following links to navigate to the start of the sections
 
 
 ### Unit Formative Activities
+
+
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fc27c23c-18ce-43a8-87e0-488ca4dddb3c" />
+
 
 
 
