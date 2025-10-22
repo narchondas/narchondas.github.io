@@ -66,13 +66,11 @@ Use the following links to navigate to the start of the sections
 
 ### Set goals
 
-* Learn to identify and critically analyse agent-based systems, differentiating between architectures and approaches
+* Study and reflect on key principles and methods in research based on the scientific method and relevant to various disciplines.
 
-* Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.
+* Examine various research strategies and designs as applicable to projects at hand.
 
-* Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.
-
-* Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
+* Develop research competencies, in particular those relating to the collection and analysis of data types to enable a critical design and evaluation of independent research.
 
 * Regularly update my GitHub.
 
@@ -84,10 +82,6 @@ Use the following links to navigate to the start of the sections
 * Take e-notes and highlight the most important sections.
 
 * Understand the formative activities and test my knowledge with examples.
-
-* Prepare all seminar activities.
-
-* Perform the required formative activities of the Module Unit.
 
 * Plan in advance for the assignments.
 
