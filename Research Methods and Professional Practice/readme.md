@@ -140,6 +140,8 @@ Use the following links to navigate to the start of the sections
 ### Collaborative Discussion 1
 
 
+[Back to the top](#research-practices-and-professional-practice)
+
 
 
 
@@ -148,4 +150,10 @@ Use the following links to navigate to the start of the sections
 
 
 ### Unit Formative Activities
+
+
+
+[Back to the top](#research-practices-and-professional-practice)
+
+
 
