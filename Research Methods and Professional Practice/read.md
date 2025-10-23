@@ -178,6 +178,60 @@ Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Repo
 ### Unit Formative Activities
 
 
+#### Unit 1: Reflective Activity 1 – Ethics in Computing in the age of Generative AI
+
+
+**Towards a Balanced Framework for Governance and Professional Responsibility**
+
+The unprecedented expansion of AI technologies has ushered in what Corrêa et al. (2023) term the “AI ethics boom”, a period marked by a proliferation of guidelines, recommendations, and normative frameworks intended to direct the responsible use of AI. While this global momentum reflects growing awareness of the societal implications of automation and algorithmic decision-making, it simultaneously exposes a pressing challenge: how to maintain ethical integrity and public trust while enabling innovation and competitiveness. The ensuing discussion explores the evolution of AI ethics, the different forms of regulatory and self-regulatory governance, and proposes a variable-geometry model capable of harmonising binding obligations with voluntary principles.
+
+AI technologies are now deeply embedded in social, economic, and political systems, influencing healthcare, education, finance, and governance. Corrêa et al. (2023) identify over 200 ethical frameworks worldwide, revealing a remarkable convergence around eight recurrent principles: fairness and non-discrimination, privacy, accountability, transparency, safety and security, professional responsibility, human control of technology, and promotion of human values. These principles echo the findings of Fjeld et al. (2020), who mapped consensus across diverse institutional settings, confirming fairness, transparency, and accountability as near-universal ethical anchors.
+
+The acceleration of AI development, particularly in generative models and predictive analytics, necessitates that these principles move beyond theoretical ethical ideals and acquire enforceable status. As Dawson (2015) observed regarding research ethics, integrity, honesty, and respect for participants and intellectual property are not optional virtues but professional duties. In AI practice, this translates into ensuring that algorithms do not perpetuate bias, violate privacy, or undermine human autonomy. Deckard (2023) further emphasises that AI ethicists must possess interdisciplinary literacy, that is, combining technical proficiency with philosophical, legal, and sociological insight, to mediate between innovation and societal good.
+
+Historically, the governance of AI began as voluntary self-regulation. Technology firms, research institutions, and professional bodies developed codes of conduct and internal review procedures in the absence of formal legislation. The BCS (2021) Code of Conduct, for instance, underscores the duty of computing professionals to act with integrity, safeguard public interest, and promote inclusion and fairness. Such self-commitments aligned with what Corrêa et al. (2023) classify as soft law or non-binding guidelines, designed to integrate ethical principles into practice without imposing coercive sanctions.
+
+However, voluntary codes alone have proven insufficient to mitigate systemic risks such as algorithmic discrimination, misinformation, and opacity. The Menlo Report examined by Finn and Shilton (2023) offers a paradigm shift: recognising that data produced by or about machines can have direct human impact. This ontological realignment, treating network data as ethically sensitive, bridged the gap between technological research and human subjects protection. Consequently, ethics governance shifted from voluntary moral guidance to a more formalised, institutional process embedded within law and public policy.
+
+Across jurisdictions, different trajectories have emerged in the institutionalisation of AI ethics. The EU has assumed a leadership role through the AI Act, a risk-based regulatory framework designed to ensure that AI systems placed on the market are transparent, explainable, and safe. The Act draws heavily upon the High-Level Expert Group on Artificial Intelligence (European Commission, 2019) and embodies a legally binding model, a hard-law approach, that mandates compliance with ethical principles. Its flexibility lies in its proportionality mechanism: high-risk applications (e.g., biometric surveillance, recruitment) face stringent requirements, while low-risk innovations remain less constrained. Nevertheless, critics argue that excessive regulatory burdens could stifle innovation and deter investment, echoing concerns expressed in Fjeld et al. (2020) about balancing accountability with technological progress.
+
+In contrast, the US seems to have prioritised innovation and market dynamism. Federal policy relies primarily on soft law, voluntary standards and guidance such as the National Institute of Standards and Technology (NIST) AI Risk Management Framework, emphasising transparency and industry self-governance rather than prescriptive regulation. China, meanwhile, presents a more complex case: a hybrid model combining state-centric control with strategic promotion of AI leadership. Ethical oversight is closely intertwined with social governance objectives, raising questions about privacy, autonomy, and freedom (Corrêa et al., 2023).
+
+Beyond national frameworks, international institutions such as UNESCO, the OECD, and the G7 have advanced convergent principles promoting human rights, fairness, and accountability. These efforts signal the gradual emergence of a global ethical infrastructure, yet one still fragmented by divergent political and economic priorities.
+Given the diversity of legal traditions and innovation ecosystems, a uniform, binding, and comprehensive global framework remains impractical. A pragmatic solution lies in adopting a variable-geometry model, a multi-layered structure combining binding regulations, non-binding recommendations, and voluntary professional codes. Under such model, legally enforceable instruments would target high-risk applications with significant potential for harm (e.g., medical diagnostics, autonomous vehicles), ensuring transparency, auditability, and accountability. Complementing these, soft law instruments such as OECD recommendations or corporate principles like IBM’s Trust and Transparency Guidelines (n.d.) and SAP’s (n.d.) AI Principles, would encourage ethical alignment in lower-risk contexts while allowing agility in technological experimentation.
+
+The strength of such a framework lies in its adaptability. Ethical principles are inherently dynamic.  As AI evolves, so too must the mechanisms that govern it. Continuous review, stakeholder participation, and cross-sector collaboration are therefore vital to maintain legitimacy and public confidence. As Deckard (2023) notes, effective AI ethicists must also participate in public policy debates, bridging the gap between technical design and democratic accountability.
+
+The EU possesses a unique capacity to shape global standards through market power, through the so-called “Brussels effect.” By making compliance with its ethical and legal standards a prerequisite for access to the Single Market, the EU can indirectly compel external actors, including third-country providers, to adhere to high levels of transparency, safety, and fairness. This extraterritorial influence, already observed in data protection through the General Data Protection Regulation (GDPR), could similarly extend to AI, promoting a race to the top in ethical compliance.
+
+Nevertheless, the EU’s approach must remain sufficiently flexible to accommodate innovation while maintaining vigilance against potential harms. Excessive rigidity could drive technological development outside its jurisdiction, undermining both competitiveness and ethical influence. A balance between innovation-friendly regulation and robust enforcement is therefore indispensable.
+
+For computing professionals, the convergence of ethical and legal expectations demands a renewed commitment to professional responsibility. The BCS (2021) and the Menlo framework emphasise the dual obligation to comply with legal norms and to act in the public interest, even when the law remains silent. This entails developing AI systems that are explainable, repeatable, and accountable, qualities that reinforce public trust and reduce systemic risks. Ethical literacy must thus become a core competence of the digital profession, alongside technical proficiency.
+
+In conclusion, the governance of AI should evolve towards a variable-geometry structure in which binding legal norms secure essential safeguards against harm, soft-law instruments promote shared ethical alignment, and professional codes cultivate individual accountability. Such a layered system would ensure that innovation proceeds in a manner consistent with human rights, democratic values, and social welfare. The EU AI Act can serve as a cornerstone for this model, provided it remains adaptive and internationally engaged. Ultimately, the ethical trajectory of AI will depend not solely on laws or algorithms, but on the collective integrity and professional responsibility of those who design, deploy, and oversee intelligent systems.
+
+**References**
+
+BCS (2021) The Chartered Institute for IT: Code of Conduct. London: BCS. 
+
+Corrêa, N.K. et al. (2023) ‘Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance’, Patterns, 4(10).
+
+Dawson, C. (2015) Projects in Computing and Information Systems: A Student’s Guide. Harlow: Pearson.
+
+Deckard, R. (2023) ‘What Are Ethics in AI’, AI and Ethics Journal, 5(2).
+
+European Commission (2019) High-Level Expert Group on Artificial Intelligence: Ethics Guidelines for Trustworthy AI. Brussels: European Commission.
+
+Finn, M. and Shilton, K. (2023) ‘Ethics governance development: The case of the Menlo Report’, Social Studies of Science, 53(3), pp. 315–340.
+
+Fjeld, J. et al. (2020) Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI. Berkman Klein Center Research Publication.
+
+IBM (no date) Principles for Trust and Transparency. Armonk, NY: IBM.
+
+SAP (no date) Guiding Principles for Artificial Intelligence. Walldorf: SAP.
+
+
+
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fc27c23c-18ce-43a8-87e0-488ca4dddb3c" />
 
