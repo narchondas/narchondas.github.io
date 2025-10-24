@@ -178,7 +178,7 @@ Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Repo
 ### Unit Formative Activities
 
 
-**Reflective Activity 1 – Ethics in Computing in the age of Generative AI**
+**Unit 1**
 
 
 **Towards a Balanced Framework for Governance and Professional Responsibility**
