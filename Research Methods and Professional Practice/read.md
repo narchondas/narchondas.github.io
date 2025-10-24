@@ -181,7 +181,7 @@ Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Repo
 **Unit 1**
 
 
-**Towards a Balanced Framework for Governance and Professional Responsibility**
+**Towards a balanced framework for governance and professional responsibility**
 
 The unprecedented expansion of AI technologies has ushered in what Corrêa et al. (2023) term the “AI ethics boom”, a period marked by a proliferation of guidelines, recommendations, and normative frameworks intended to direct the responsible use of AI. While this global momentum reflects growing awareness of the societal implications of automation and algorithmic decision-making, it simultaneously exposes a pressing challenge: how to maintain ethical integrity and public trust while enabling innovation and competitiveness. The ensuing discussion explores the evolution of AI ethics, the different forms of regulatory and self-regulatory governance, and proposes a variable-geometry model capable of harmonising binding obligations with voluntary principles.
 
