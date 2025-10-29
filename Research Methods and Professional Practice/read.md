@@ -163,6 +163,66 @@ Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Repo
 
 
 
+**Response to my peers' posts**
+
+
+
+I fully agree with your analysis that the Accessibility in Software Development case highlights how disregarding ethical principles can lead to exclusion and reputational harm. As you rightly note, failure to comply with the ACM and BCS codes, especially their requirements to promote fairness, non-discrimination, and equal access, undermines the very social purpose of computing. The ethical obligation of inclusiveness extends beyond technical accessibility as it also concerns the broader duty to ensure that digital systems do not marginalise individuals or communities through design choices, biased data, or neglect of diverse needs.
+
+In this respect, inclusiveness represents both a moral imperative and a professional standard. The BCS Code of Conduct (2021) explicitly requires computing professionals to promote equal access to the benefits of IT and to act without discrimination on any grounds. This obligation aligns with the principles of fairness and human well-being articulated in the ACM Code of Ethics (2025) and with the European Commission’s High-Level Expert Group on AI, which emphasises diversity, accountability, and human oversight as safeguards against exclusion.
+
+As I discussed in relation to the Blocker Plus case, ethical lapses can also emerge in algorithmic contexts where models are manipulated to suppress content on sensitive issues such as same-sex marriage or climate change. Such incidents reveal that inclusiveness must be embedded not only in user interfaces but also in data governance, model transparency, and participatory design, ensuring that technology serves all sectors of society equitably.
+
+
+
+#### References
+
+ACM (2025) Code of Ethics and Professional Conduct.
+
+BCS (2021) Code of Conduct.
+
+European Commission (2020) Ethics Guidelines for Trustworthy AI.
+
+
+
+I fully agree with your analysis of the Medical Implant Risk Analysis case, which illustrates how the company’s failure to anticipate technical and ethical risks represents not merely a design flaw but a breach of professional responsibility. As you rightly observe, the hard-coded values constitute a neglect of due diligence, directly contravening the BCS Code of Conduct (BCS, 2022) requirement to show due regard for public health, safety, and well-being. However, the company’s ethical duties extend beyond technical competence: they encompass a broader corporate responsibility toward employees, customers, and society at large.
+
+From an internal perspective, management has a duty to foster an ethical culture that empowers engineers to report design flaws without fear of reprisal, thereby reinforcing professional integrity and competence (BCS, 2022). Externally, the company must ensure that its customers, especially vulnerable patients, are treated not merely as consumers but as stakeholders whose safety, autonomy, and dignity are paramount. This aligns with Nickel’s (2011) argument that direct computer-patient interfaces demand heightened ethical attention to maintain trust and uphold patient autonomy. Transparent communication about product risks and the inclusion of diverse user perspectives in testing and evaluation are therefore ethical imperatives.
+
+More broadly, inclusiveness must guide the design and deployment of medical technologies. As emphasised by Pasricha (2022), ethical digital medicine design requires embedding accountability and inclusivity throughout the lifecycle of medical IoT systems. By integrating these principles, transparency, inclusiveness, and accountability into their corporate ethos, companies can ensure that technological innovation serves not only commercial objectives but also the collective welfare and trust of society (BCS, 2022).
+
+
+ 
+#### References
+
+BCS, The Chartered Institute for IT (2022) BCS Code of Conduct for Members.
+
+Nickel, P.J. (2011) ‘Ethics in e-trust and e-trustworthiness: the case of direct computer-patient interfaces’, Ethics and Information Technology, 13(4), pp. 355–363.
+
+Pasricha, S. (2022) ‘Ethics for Digital Medicine: A Path for Ethical Emerging Medical IoT Design.’  Arxiv. https://doi.org/10.48550/arXiv.2210.12007
+
+
+
+Your discussion of the Abusive Workplace Behaviour case powerfully illustrates how breaches of ethical and professional standards extend beyond individual misconduct to systemic organisational failure. I fully concur that both Max’s actions and Jean’s inaction violate fundamental principles of the ACM and BCS Codes of Conduct, undermining professional integrity and the ethical fabric of the workplace (Gotterbarn, Miller and Rogerson, 2018; BCS, 2021). In such cases, ethical responsibility cannot be viewed as hierarchical but collective, shared across all levels of management and technical staff.
+
+A crucial dimension of this case concerns inclusiveness and respect for diversity. The BCS Code (2021, clauses 1b and 2d) explicitly mandates members to value alternative viewpoints and to avoid unfair discrimination. By tolerating gender-based aggression and denying authorship credit, the organisation not only breaches these duties but also erodes the inclusive culture essential for innovation, trust, and well-being (Johnson, 2020). Ethical computing practice, therefore, requires cultivating environments where all professionals, regardless of gender, ethnicity, or orientation, can contribute freely and safely.
+
+Moreover, psychological safety constitutes an ethical prerequisite for professional competence. Employees who fear reprisal or humiliation cannot exercise critical judgment, creativity, or accountability, which are values central to both ACM principle 1.1 and the BCS commitment to public welfare (ACM, n.d.; Gotterbarn, Miller and Rogerson, 2018). The failure to intervene against abuse thus represents not merely managerial negligence but a profound ethical lapse. Promoting inclusiveness and dignity at work must be recognised as an ongoing ethical duty and a cornerstone of professional excellence in computing.
+
+
+ 
+#### References
+
+ACM (n.d.) Case Study: Abusive Workplace Behaviour. Available at: https://www.acm.org/code-of-ethics/case-studies/abusive-workplace-behavior (Accessed: 25 October 2025).
+
+BCS (2021) Code of Conduct. British Computer Society. Available at: https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/ (Accessed: 25 October 2025).
+
+Gotterbarn, D., Miller, K. and Rogerson, S. (2018) ‘ACM Code of Ethics and Professional Conduct’, Communications of the ACM, 61(1), pp. 21–28.
+
+Johnson, D.G. (2020) Computer Ethics. 5th edn. Harlow: Pearson.
+
+
+
 <img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
 
 
