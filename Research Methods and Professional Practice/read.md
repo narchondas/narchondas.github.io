@@ -163,6 +163,40 @@ Finn, M. and Shilton, K. (2023) ‘Ethics Governance Development: The Menlo Repo
 
 
 
+**Summary Post**
+
+
+
+The Blocker Plus case study, published by the Association of Computing Machinery (ACM), exemplifies the ethical fragility of machine learning systems deployed in socially sensitive contexts. Although the system initially complied with the Children’s Internet Protection Act (CIPA), its developers violated core principles of the BCS (2021) Code of Conduct by failing to prevent bias, safeguard data integrity, and ensure accountability. Activist groups exploited the feedback mechanism to corrupt the model through malicious data injection, leading it to classify legitimate content, such as LGBTQ+ rights, vaccination, and climate change, as harmful. This incident underscores how insufficient resilience against adversarial manipulation and weak validation mechanisms can translate directly into discriminatory outcomes (Gomez et al., 2024).
+
+Beyond technical failure, the case reveals a deeper ethical deficit in AI system design. As Rahwan (2018) argues, ethical resilience demands that systems anticipate manipulation and adapt to evolving social contexts rather than rely on static principles. The divergence between ethics by design and ethics in practice persists, often aggravated by institutional pressures prioritising speed and functionality over responsibility (Morley et al., 2021).
+
+Moreover, the incident highlights the need for participatory governance frameworks that align professional ethics with democratic oversight (Whittaker et al., 2021). Embedding human oversight, transparency, and explainability within AI governance remains essential for sustaining public trust (Fjeld et al., 2020; Ribeiro et al., 2025). Yet, as Robles and Mallinson (2025) observe, fragmented ethical guidelines are inadequate without enforceable accountability structures and proactive organisational practices.
+
+Ultimately, Blocker Plus illustrates that ethical AI governance must extend beyond legal compliance. It requires continuous risk assessment, adversarial testing, and transparent incident response protocols, ensuring that the moral stewardship of technology is embedded not only in codes of conduct but in the very architecture of AI systems.
+
+ 
+
+#### References
+
+BCS (2021) Code of Conduct. London: British Computer Society.
+
+Fjeld, J., Achten, N., Hilligoss, H., Nagy, A. and Srikumar, M. (2020) Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI. Cambridge, MA: Berkman Klein Center for Internet & Society.
+
+Gomez, J.F., Shukla, A., Gómez, S. and Ruiz, C. (2024) ‘Algorithmic arbitrariness in content moderation’, Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT '24), Rio de Janeiro, Brazil, 3–6 June. New York: Association for Computing Machinery, pp. 2234–2253. https://doi.org/10.1145/3630106.3659036
+
+Morley J., Elhalal A., Garcia F, Kinsey L., Mökander J., Floridi L. (2021) Ethics as a Service: A Pragmatic Operationalisation of AI Ethics. Minds Mach (Dordr).  https://doi.org/10.1007/s11023-021-09563-w
+
+Rahwan, I. (2018) Society-in-the-loop: programming the algorithmic social contract. Ethics Inf Technol 20, 5–14 (2018). https://doi.org/10.1007/s10676-017-9430-8
+
+Ribeiro, D., Rocha, T., Pinto, G., Cartaxo, B., Amaral, M., Davila, N. and Camargo, A. (2025) ‘Toward effective AI governance: a review of principles’, arXiv preprint, arXiv:2505.23417. https://doi.org/10.48550/arXiv.2505.23417
+
+Robles, P. and Mallinson, D.J. (2025) ‘Advancing AI governance with a unified theoretical framework: a systematic review’, Perspectives on Public Management and Governance, gvaf013, pp. 1–15. https://doi.org/10.1093/ppmgov/gvaf013
+
+Whittaker, M., Crawford, K., Dobbe, R., Fried, G., Kaziunas, E., Mathur, V. and Schwartz, O. (2021) The AI Now Report 2021: Participatory Governance in AI Systems. New York: AI Now Institute.
+
+
+
 **Response to my peers' posts**
 
 
