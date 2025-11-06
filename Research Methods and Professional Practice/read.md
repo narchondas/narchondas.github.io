@@ -326,6 +326,40 @@ SAP (no date) Guiding Principles for Artificial Intelligence. Walldorf: SAP.
 
 
 
+**Unit 4**
+
+
+**Inappropriate Use of Surveys**
+
+**In 2018, Cambridge Analytica was in the news in the United Kingdom and the USA (Confessore, 2018) for obtaining and sharing data obtained from millions of Facebook users. They obtained the data through innocuous surveys on Facebook (you may have seen this type of survey and probably participated at times). This is probably the highest profile of surveys used for alternative means and, probably, monetary gains. However, this happens often through various media.
+Consider how exactly this happened and why it was used. Find one or two further examples of inappropriate use of surveys and highlight the impact of all these examples from the various ethical, social, legal and professional standpoints that apply.**
+
+
+
+In 2016, Cambridge Analytica executed a large-scale data exploitation operation through the Facebook platform, acquiring personal data from approximately 87 million users without informed consent. The operation utilised a personality quiz application entitled "This Is Your Digital Life," supposedly developed for academic psychological research but repurposed as an instrument for political profiling and targeted campaign messaging. Through Facebook's data-sharing protocols, the application harvested information not only from quiz participants but also from their social network connections, creating an extensive data collection operation that captured users' preferences, behaviours, and psychological characteristics (Cadwalladr & Graham-Harrison, 2018; The New York Times, 2018).
+
+This acquired data enabled the construction of psychographic profiles designed to identify individual voters' psychological predispositions, value orientations, and potential responsiveness to specific messaging strategies. Cambridge Analytica subsequently deployed microtargeted communication campaigns during both the US presidential election and the UK's Brexit referendum, employing data-driven techniques to influence voter decision-making processes through personalised content delivery based on psychological profiling derived from users' own digital footprints.
+
+The proliferation of data-driven persuasion techniques in political campaigns raises significant concerns regarding democratic legitimacy and citizen autonomy. When information provided for allegedly benign purposes is covertly redirected toward political influence operations, the principle of informed consent is fundamentally compromised. Citizens cannot exercise autonomous political judgment when their electoral decisions are influenced by targeted interventions engineered from surveillance of their digital behaviour. This phenomenon transforms electoral processes from deliberative exercises based on public discourse into asymmetric information environments where political actors with sophisticated data analytics capabilities can systematically influence outcomes. The implications extend beyond individual privacy concerns to encompass threats to electoral integrity and the erosion of institutional trust in both digital platforms and democratic processes.
+
+This pattern of data exploitation manifests internationally. In Hungary, government-administered digital infrastructure collecting COVID-19 vaccination data and tax benefit information was subsequently utilised to target citizens with political campaign messaging supporting the incumbent government, thereby demonstrating how state apparatus can be instrumentalised for partisan political purposes (Human Rights Watch, 2022). In Kenya's 2013 and 2017 elections, Cambridge Analytica employed survey instruments presented as academic research to construct voter profiles and deliver psychologically targeted content designed to influence electoral behaviour through appeals to ethnic identity and social divisions (Unwanted Witness, 2020).
+
+Addressing these challenges requires regulatory frameworks that transcend market-based self-governance mechanisms. The application of ethical principles and data protection standards cannot be relegated to market forces or voluntary corporate compliance. Strong national and supra-national regulatory authorities must possess the capacity to impose sanctions proportionate to violating organisations' revenues, thereby eliminating financial incentives for exploitative practices. Effective governance requires rigorous institutional monitoring and supervisory mechanisms capable of detecting violations proactively, public accountability measures that impose reputational costs on non-compliant entities, and systematic public information initiatives to enhance citizen awareness regarding potential data misuse. Safeguarding democratic integrity necessitates not merely regulatory articulation but consistent enforcement mechanisms and institutional accountability for actors who exploit personal data to undermine electoral processes and manipulate citizens through surveillance-enabled psychological targeting.
+
+
+**References**
+
+Cadwalladr, C. & Graham-Harrison, E. (2018) 'Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach', The Guardian, 17 March.
+
+The New York Times (2018) 'Cambridge Analytica and Facebook: The Scandal and the Fallout', NYT, 4 April.
+
+Human Rights Watch (2022) 'Hungary: Data Misused for Political Campaigns', Human Rights Watch, 1 December.
+
+Unwanted Witness (2020) 'Data exploitation in digital political campaigns and its implication on electoral democracy', Unwanted Witness, 15 October.
+
+
+
+
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fc27c23c-18ce-43a8-87e0-488ca4dddb3c" />
 
