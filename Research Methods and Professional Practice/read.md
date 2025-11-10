@@ -352,11 +352,17 @@ The study meaningfully contributes to the collective understanding of AI ethics 
 
 The meta-analysis and descriptive research design are appropriate for the objective, as the goal is to review and compare existing guidelines, not test hypotheses. The two-phase method (collection and coding of 200 documents) and typological analysis suit the purpose of mapping global ethical patterns.
 
-4. Data collection and analysis appropriateness	Data were collected from public repositories and web scraping, filtered across five languages, and analysed using manual coding, typologies, and n-gram text mining. These are appropriate for qualitative synthesis and pattern identification. Open-access tools enhance transparency and reproducibility.
+4. Data collection and analysis appropriateness
 
-5. Evidence and argument support	The authors explicitly support claims with quantitative summaries (e.g., frequency of ethical principles) and comparisons to prior studies (e.g., Jobin et al., Hagendorff). They present clear evidence of geographical, institutional, and thematic patterns to justify their conclusions.
+Data were collected from public repositories and web scraping, filtered across five languages, and analysed using manual coding, typologies, and n-gram text mining. These are appropriate for qualitative synthesis and pattern identification. Open-access tools enhance transparency and reproducibility.
 
-6. Enhancement Suggestions	Expand to non-English and underrepresented regions (Africa, Latin America, Middle East).
+5. Evidence and argument support
+
+The authors explicitly support claims with quantitative summaries and comparisons to prior studies. They present clear evidence of geographical, institutional, and thematic patterns to justify their conclusions.
+
+6. Enhancement suggestions
+
+*Expand to non-English and underrepresented regions (Africa, Latin America, Middle East).
     
 *Include academic papers beyond guidelines to capture broader ethical discourse.
 
@@ -365,7 +371,7 @@ The meta-analysis and descriptive research design are appropriate for the object
 *Address gender bias and language limitations in future iterations.
 
 
-**Article: Labrou Y. and Finin T.  (1998) 'Semantics and Conversations for an Agent Communication Language' https://doi.org/10.48550/arXiv.cs/9809034**
+**Article: Labrou Y. and Finin T.  (1998) Semantics and Conversations for an Agent Communication Language. https://doi.org/10.48550/arXiv.cs/9809034**
 
 
 1. Purpose, problem, objective, or research question
@@ -390,13 +396,13 @@ The paper provides explicit formal definitions, logical frameworks, and illustra
 
 6. Enhancement suggestions
 
-Extend evaluation with empirical or simulation-based validation of agent communication efficiency.
+*Extend evaluation with empirical or simulation-based validation of agent communication efficiency.
 
-Include comparative analysis with newer agent languages 
+*Include comparative analysis with newer agent languages 
 
-Provide implementation case studies to demonstrate applicability.
+*Provide implementation case studies to demonstrate applicability.
 
-Enhance discussion on scalability and real-world interoperability of KQML semantics.
+*Enhance discussion on scalability and real-world interoperability of KQML semantics.
 
 
 
