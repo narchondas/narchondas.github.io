@@ -326,6 +326,51 @@ SAP (no date) Guiding Principles for Artificial Intelligence. Walldorf: SAP.
 
 
 
+**Unit 3**
+
+
+**Source at least 2 papers in a Computing subject of your choice (AI, Cybersecurity, Data Science, or a general interest topic in Computer Science), provided they utilise two different types of research methods to achieve their goal/research aims. Now answer the following questions (please provide justifications for your answers) and be prepared to discuss them in the session: 
+-Familiarise yourself with the purpose, problem, objective or research question of each paper. Are they in line with your experience or thoughts on the topic, contributing to the collective body of knowledge in this area?
+-Is the research methodology utilised in each paper appropriate for the stated purpose or question? 
+-In terms of data collection and analysis, is this also appropriate for the stated purpose or question? 
+-Does each paper support its claims and conclusions with explicit arguments or evidence?
+-How would you enhance the work/paper?**
+
+
+
+Article: Corrêa N.K., Galvão C., Santos J.W., Del Pino C., Pinto E.P., Barbosa C., Massmann D., Mambrini R., Galvão L., Terem E., de Oliveira N, (2023) Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance, Patterns, Volume 4, Issue 10, https://doi.org/10.1016/j.patter.2023.100857
+
+1. Purpose, problem, objective, or research question
+
+The paper aims to determine whether a global consensus exists regarding ethical principles guiding AI development. It addresses the lack of a comprehensive global description of AI ethics guidelines by conducting a meta-analysis of 200 governance policies. This contributes to understanding shared values and gaps in AI governance worldwide.
+
+2. Alignment with field knowledge / contribution to body of knowledge
+
+The study meaningfully contributes to the collective understanding of AI ethics by offering an open-source global dataset and visualisation tool, something previous works lacked. It enhances transparency and accessibility in global AI governance research, aligning with ongoing discourse on responsible AI development.
+   
+3. Research methodology appropriateness
+
+The meta-analysis and descriptive research design are appropriate for the objective, as the goal is to review and compare existing guidelines, not test hypotheses. The two-phase method (collection and coding of 200 documents) and typological analysis suit the purpose of mapping global ethical patterns.
+
+4. Data collection and analysis appropriateness	Data were collected from public repositories and web scraping, filtered across five languages, and analysed using manual coding, typologies, and n-gram text mining. These are appropriate for qualitative synthesis and pattern identification. Open-access tools enhance transparency and reproducibility.
+
+5. Evidence and argument support	The authors explicitly support claims with quantitative summaries (e.g., frequency of ethical principles) and comparisons to prior studies (e.g., Jobin et al., Hagendorff). They present clear evidence of geographical, institutional, and thematic patterns to justify their conclusions.
+
+6. Enhancement Suggestions	Expand to non-English and underrepresented regions (Africa, Latin America, Middle East).
+    
+Include academic papers beyond guidelines to capture broader ethical discourse.
+
+Deepen analysis with qualitative interviews or case studies to interpret cultural and contextual differences.
+
+Address gender bias and language limitations in future iterations.
+
+<img width="274" height="362" alt="image" src="https://github.com/user-attachments/assets/3af0aa17-d2ca-4046-9ad1-5297016e5b7e" />
+
+
+
+
+
+
 **Unit 4**
 
 
