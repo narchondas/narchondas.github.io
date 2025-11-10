@@ -338,7 +338,7 @@ SAP (no date) Guiding Principles for Artificial Intelligence. Walldorf: SAP.
 
 
 
-Article: Corrêa N.K., Galvão C., Santos J.W., Del Pino C., Pinto E.P., Barbosa C., Massmann D., Mambrini R., Galvão L., Terem E., de Oliveira N, (2023) Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance, Patterns, Volume 4, Issue 10, https://doi.org/10.1016/j.patter.2023.100857
+**Article: Corrêa N.K., Galvão C., Santos J.W., Del Pino C., Pinto E.P., Barbosa C., Massmann D., Mambrini R., Galvão L., Terem E., de Oliveira N, (2023) Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance, Patterns, Volume 4, Issue 10, https://doi.org/10.1016/j.patter.2023.100857**
 
 1. Purpose, problem, objective, or research question
 
@@ -358,16 +358,45 @@ The meta-analysis and descriptive research design are appropriate for the object
 
 6. Enhancement Suggestions	Expand to non-English and underrepresented regions (Africa, Latin America, Middle East).
     
-Include academic papers beyond guidelines to capture broader ethical discourse.
+*Include academic papers beyond guidelines to capture broader ethical discourse.
 
-Deepen analysis with qualitative interviews or case studies to interpret cultural and contextual differences.
+*Deepen analysis with qualitative interviews or case studies to interpret cultural and contextual differences.
 
-Address gender bias and language limitations in future iterations.
-
-<img width="274" height="362" alt="image" src="https://github.com/user-attachments/assets/3af0aa17-d2ca-4046-9ad1-5297016e5b7e" />
+*Address gender bias and language limitations in future iterations.
 
 
+**Article: Labrou Y. and Finin T.  (1998) 'Semantics and Conversations for an Agent Communication Language' https://doi.org/10.48550/arXiv.cs/9809034**
 
+
+1. Purpose, problem, objective, or research question
+   
+The paper aims to provide a formal semantic foundation for the Knowledge Query and Manipulation Language (KQML), an agent communication language, and to define conversation policies for how agents use KQML performatives to communicate effectively. The central problem addressed is the lack of formal semantics and structured dialogue models in agent communication.
+
+2. Alignment with field knowledge / contribution to body of knowledge
+
+The study contributes significantly to multi-agent systems and AI communication by integrating speech act theory into agent language design. It bridges linguistic theory and software engineering, supporting the development of interoperable intelligent agents, highly aligned with theoretical and practical concerns in AI communication.
+
+3. Research methodology appropriateness
+
+The methodology, conceptual modeling and formal semantic specification, is well-suited for the study’s theoretical aim. The authors employ speech act theory and Definite Clause Grammars (DCGs) to define semantics and conversations, appropriately addressing the abstract nature of communication protocols.
+ 
+4. Data collection and analysis appropriateness
+   
+Since this is a theoretical and modeling paper, traditional data collection is not applicable. The analysis consists of formal logic expressions, preconditions/postconditions modeling, and grammar-based simulations. This analytical approach is appropriate for formal language design and validation.
+
+5. Evidence and argument support
+   
+The paper provides explicit formal definitions, logical frameworks, and illustrative examples. The theoretical constructs are backed by linguistic and computational arguments, ensuring the claims are well-supported.
+
+6. Enhancement suggestions
+
+Extend evaluation with empirical or simulation-based validation of agent communication efficiency.
+
+Include comparative analysis with newer agent languages 
+
+Provide implementation case studies to demonstrate applicability.
+
+Enhance discussion on scalability and real-world interoperability of KQML semantics.
 
 
 
