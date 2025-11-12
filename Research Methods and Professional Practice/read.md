@@ -15,6 +15,8 @@ Use the following links to navigate to the start of the sections
 
 [3. Seminar and formative activities](#seminar-and-formative-activities)
 
+[4. Literature review outline](#literature-review-outline)
+
 
 
 
@@ -443,6 +445,66 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fc27c23c-18ce-43a8-87e0-488ca4dddb3c" />
 
+
+
+[Back to the top](#research-methods-and-professional-practice)
+
+
+## Literature Review Outline
+
+
+**The Impact of Large Language Models (LLMs) in the policymaking**
+
+The proposed literature review will focus on the application of Large Language Models (LLMs) within the context of public policymaking and governance. Its academic aim will be to operationalise LLM capabilities for governance contexts, advancing in that way the body of research on AI for governance. The review will seek to examine how LLMs, as an advanced form of Natural Language Processing (NLP), can support policy formulation, analysis, consultation, and evaluation. Its practical aim is to identify models and approaches that may reduce policy analysis time and costs, enhance evidence-based policymaking, and promote transparency and trust within public administrations. The primary audience may comprise researchers in public administration, AI governance, and computational science, as well as policy practitioners interested in the integration of AI tools into governance processes.
+
+There is a need for a systematic review of literature at the intersection of AI, LLMs, and public policymaking, as empirical studies remain fragmented and often technologically driven rather than policy-oriented. The significance of this review lies in bridging the gap between technical capabilities and governance applications. It will contribute to both academic discourse and practical implementation by illustrating how advanced NLP and LLM technologies can facilitate more inclusive, transparent, and efficient decision-making. 
+
+The perspective adopted will be primarily interdisciplinary, integrating insights from computer science, public administration, and policy analysis. To synthesise the literature, a conceptual-analytical framework will be employed, mapping the relationships between LLM capabilities and their technical foundations as well as the governance outcomes. 
+
+Sources will be drawn primarily from peer-reviewed journal articles, academic books, and reputable institutional publications. Preliminary searches have already been conducted through major databases such as Scopus, Google Scholar etc, complemented by grey literature and reports from relevant organisations (e.g., OECD, European Commission, and AI governance institutes). Selection criteria will prioritise recent peer-reviewed studies to ensure up-to-date coverage, while also including foundational works on NLP theory, LLM architectures, and AI ethics to provide theoretical grounding. 
+
+The review will be structured as follows:
+
+1.	Introduction -outlines the purpose, scope, and significance of the literature review.
+   
+3.	Foundations of NLP and LLMs -presents the technical underpinnings and theoretical models.
+   
+5.	Capabilities and limitations of NLP Models -evaluates performance, interpretability, and potential ethical considerations.
+   
+7.	Applications in public sector and tourism -analyses real-world implementations and case studies illustrating cross-sector insights.
+   
+9.	Conclusion and future directions -summarises findings and proposes pathways for research and policy innovation.
+    
+Finally, the envisaged literature review will aim to support a balanced and accountable AI integration in governance, aligning technological innovation with democratic principles and public values.
+
+**Indicative of list references (to be further enriched)**
+
+AI.GOV.UK, i.AI Consultation analyser, (n.d.) Available at Consultations - Incubator for Artificial Intelligence - GOV.UK 
+
+Blei, D. (2012), Probabilistic topic models, Communications of the ACM, Volume 55, Issue 4 Pages 77 – 84 https://doi.org/10.1145/2133806.2133826
+
+Blei, D. Ng Michal, A., Jordan I. (2003), Latent Dirichlet Allocation, Journal of Machine Learning Research 3, 993-1022
+
+Buhmann, A., & Fieseler, C. (2021). Towards a deliberative framework for responsible innovation in artificial intelligence. Technology in Society, 64, 101475. https://doi.org/10.1016/j.techsoc.2020.101475
+
+Devlin, J., Chang, M.-W., Lee, K. and Toutanova, K. (2019) ‘BERT: Pre-training of deep bidirectional transformers for language understanding’, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 4171–4186.
+
+Fahland, D., Fournier, F., Mosqueira-Rey, E., Hernández-Pereira, E., Alonso-Ríos, D., Rai, A. (2020). Explainable AI: from black box to glass box. Journal of the Academy of Marketing Science, 48(1), 137–141. https://doi.org/10.1007/s11747-019-00710-5
+
+Galati F., Galati R. (2019), Cross-country analysis of perception and emphasis of hotel attributes, Tourism Management, Volume 74, Pages 24-42, https://doi.org/10.1016/j.tourman.2019.02.011.
+
+Guan J., Huang F., Zhao Z., Zhu X. & Huang, M. 2020. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. Transactions of the Association for Computational Linguistics, 8:93–108.
+
+Li, Shu & Li, Gang & Law, Rob & Paradies, Yin. (2020). Racism in tourism reviews. Tourism Management. 80. 104100. 10.1016/j.tourman.2020.104100.
+ Ligthart A., Catal C., Tekinerdogan B. (2021) Systematic reviews in sentiment analysis: a tertiary study, Artificial Intelligence Review, 54:4997–5053, https://doi.org/10.1007/s10462-021-09973-3 
+ 
+Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador - Omdena | Projects | Omdena
+
+Siachos, I., & Karacapilidis, N. (2024). Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings. Future Internet, 16(7). https://doi.org/10.3390/fi16070241
+
+
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/be5e51ff-71da-4991-99be-2e95bf99851c" />
 
 
 
