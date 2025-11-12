@@ -450,7 +450,7 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 [Back to the top](#research-methods-and-professional-practice)
 
 
-## Literature Review Outline
+## Literature review outline
 
 
 **The Impact of Large Language Models (LLMs) in the policymaking**
