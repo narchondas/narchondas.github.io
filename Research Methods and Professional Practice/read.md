@@ -349,7 +349,7 @@ The paper aims to determine whether a global consensus exists regarding ethical 
 2. Alignment with field knowledge / contribution to body of knowledge
 
 The study meaningfully contributes to the collective understanding of AI ethics by offering an open-source global dataset and visualisation tool, something previous works lacked. It enhances transparency and accessibility in global AI governance research, aligning with ongoing discourse on responsible AI development.
-   
+
 3. Research methodology appropriateness
 
 The meta-analysis and descriptive research design are appropriate for the objective, as the goal is to review and compare existing guidelines, not test hypotheses. The two-phase method (collection and coding of 200 documents) and typological analysis suit the purpose of mapping global ethical patterns.
@@ -375,7 +375,6 @@ The authors explicitly support claims with quantitative summaries and comparison
 
 **Article: Labrou Y. and Finin T.  (1998) Semantics and Conversations for an Agent Communication Language. https://doi.org/10.48550/arXiv.cs/9809034**
 
-
 1. Purpose, problem, objective, or research question
    
 The paper aims to provide a formal semantic foundation for the Knowledge Query and Manipulation Language (KQML), an agent communication language, and to define conversation policies for how agents use KQML performatives to communicate effectively. The central problem addressed is the lack of formal semantics and structured dialogue models in agent communication.
@@ -387,7 +386,7 @@ The study contributes significantly to multi-agent systems and AI communication 
 3. Research methodology appropriateness
 
 The methodology, conceptual modeling and formal semantic specification, is well-suited for the study’s theoretical aim. The authors employ speech act theory and Definite Clause Grammars (DCGs) to define semantics and conversations, appropriately addressing the abstract nature of communication protocols.
- 
+
 4. Data collection and analysis appropriateness
    
 Since this is a theoretical and modeling paper, traditional data collection is not applicable. The analysis consists of formal logic expressions, preconditions/postconditions modeling, and grammar-based simulations. This analytical approach is appropriate for formal language design and validation.
@@ -496,10 +495,11 @@ Galati F., Galati R. (2019), Cross-country analysis of perception and emphasis o
 Guan J., Huang F., Zhao Z., Zhu X. & Huang, M. 2020. A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation. Transactions of the Association for Computational Linguistics, 8:93–108.
 
 Li, Shu & Li, Gang & Law, Rob & Paradies, Yin. (2020). Racism in tourism reviews. Tourism Management. 80. 104100. 10.1016/j.tourman.2020.104100.
- Ligthart A., Catal C., Tekinerdogan B. (2021) Systematic reviews in sentiment analysis: a tertiary study, Artificial Intelligence Review, 54:4997–5053, https://doi.org/10.1007/s10462-021-09973-3 
  
-Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador - Omdena | Projects | Omdena
+Ligthart A., Catal C., Tekinerdogan B. (2021) Systematic reviews in sentiment analysis: a tertiary study, Artificial Intelligence Review, 54:4997–5053, https://doi.org/10.1007/s10462-021-09973-3 
 
+Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Omdena
+ 
 Siachos, I., & Karacapilidis, N. (2024). Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings. Future Internet, 16(7). https://doi.org/10.3390/fi16070241
 
 
