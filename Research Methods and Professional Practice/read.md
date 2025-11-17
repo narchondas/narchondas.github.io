@@ -342,27 +342,27 @@ SAP (no date) Guiding Principles for Artificial Intelligence. Walldorf: SAP.
 
 **Article: Corrêa N.K., Galvão C., Santos J.W., Del Pino C., Pinto E.P., Barbosa C., Massmann D., Mambrini R., Galvão L., Terem E., de Oliveira N, (2023) Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance, Patterns, Volume 4, Issue 10, https://doi.org/10.1016/j.patter.2023.100857**
 
-1. Purpose, problem, objective, or research question
+#### Purpose, problem, objective, or research question
 
 The paper aims to determine whether a global consensus exists regarding ethical principles guiding AI development. It addresses the lack of a comprehensive global description of AI ethics guidelines by conducting a meta-analysis of 200 governance policies. This contributes to understanding shared values and gaps in AI governance worldwide.
 
-2. Alignment with field knowledge / contribution to body of knowledge
+#### Alignment with field knowledge / contribution to body of knowledge
 
 The study meaningfully contributes to the collective understanding of AI ethics by offering an open-source global dataset and visualisation tool, something previous works lacked. It enhances transparency and accessibility in global AI governance research, aligning with ongoing discourse on responsible AI development.
 
-3. Research methodology appropriateness
+#### Research methodology appropriateness
 
 The meta-analysis and descriptive research design are appropriate for the objective, as the goal is to review and compare existing guidelines, not test hypotheses. The two-phase method (collection and coding of 200 documents) and typological analysis suit the purpose of mapping global ethical patterns.
 
-4. Data collection and analysis appropriateness
+#### Data collection and analysis appropriateness
 
 Data were collected from public repositories and web scraping, filtered across five languages, and analysed using manual coding, typologies, and n-gram text mining. These are appropriate for qualitative synthesis and pattern identification. Open-access tools enhance transparency and reproducibility.
 
-5. Evidence and argument support
+#### Evidence and argument support
 
 The authors explicitly support claims with quantitative summaries and comparisons to prior studies. They present clear evidence of geographical, institutional, and thematic patterns to justify their conclusions.
 
-6. Enhancement suggestions
+#### Enhancement suggestions
 
 *Expand to non-English and underrepresented regions (Africa, Latin America, Middle East).
     
@@ -375,27 +375,27 @@ The authors explicitly support claims with quantitative summaries and comparison
 
 **Article: Labrou Y. and Finin T.  (1998) Semantics and Conversations for an Agent Communication Language. https://doi.org/10.48550/arXiv.cs/9809034**
 
-1. Purpose, problem, objective, or research question
+#### Purpose, problem, objective, or research question
    
 The paper aims to provide a formal semantic foundation for the Knowledge Query and Manipulation Language (KQML), an agent communication language, and to define conversation policies for how agents use KQML performatives to communicate effectively. The central problem addressed is the lack of formal semantics and structured dialogue models in agent communication.
 
-2. Alignment with field knowledge / contribution to body of knowledge
+#### Alignment with field knowledge / contribution to body of knowledge
 
 The study contributes significantly to multi-agent systems and AI communication by integrating speech act theory into agent language design. It bridges linguistic theory and software engineering, supporting the development of interoperable intelligent agents, highly aligned with theoretical and practical concerns in AI communication.
 
-3. Research methodology appropriateness
+#### Research methodology appropriateness
 
 The methodology, conceptual modeling and formal semantic specification, is well-suited for the study’s theoretical aim. The authors employ speech act theory and Definite Clause Grammars (DCGs) to define semantics and conversations, appropriately addressing the abstract nature of communication protocols.
 
-4. Data collection and analysis appropriateness
+#### Data collection and analysis appropriateness
    
 Since this is a theoretical and modeling paper, traditional data collection is not applicable. The analysis consists of formal logic expressions, preconditions/postconditions modeling, and grammar-based simulations. This analytical approach is appropriate for formal language design and validation.
 
-5. Evidence and argument support
+#### Evidence and argument support
    
 The paper provides explicit formal definitions, logical frameworks, and illustrative examples. The theoretical constructs are backed by linguistic and computational arguments, ensuring the claims are well-supported.
 
-6. Enhancement suggestions
+#### Enhancement suggestions
 
 *Extend evaluation with empirical or simulation-based validation of agent communication efficiency.
 
