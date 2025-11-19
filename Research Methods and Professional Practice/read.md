@@ -441,6 +441,25 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 
 
 
+**Unit 7**
+
+
+[Exercise 7.2B](https://docs.google.com/spreadsheets/d/1jk8mYnyx2W1qHmClOpHpf-R2mEWHmi6PWqJslhKHU20/edit?usp=sharing)
+
+[Exercise 7.3D](https://docs.google.com/spreadsheets/d/1s-B2QzU9Jldo3SEO8lJ6lACw4dYrSAw2htWuAdfZChU/edit?usp=sharing)
+
+[Exercise 7.4F](https://docs.google.com/spreadsheets/d/1SrJmuEibpLO6HOnE7T-K0iVmytesBipNb_HBJdeirwc/edit?usp=sharing)
+
+[Exercise 7.6B](https://docs.google.com/spreadsheets/d/1AxEK5d7QfPpkHaI3SVntXQAY0g_aAbjlVyavXfZyNFs/edit?usp=sharing)
+
+[Exercise 7.4G](https://docs.google.com/spreadsheets/d/1SrJmuEibpLO6HOnE7T-K0iVmytesBipNb_HBJdeirwc/edit?usp=sharing)
+
+[Exercise 7.1B](https://docs.google.com/spreadsheets/d/1QEj67jGtACV1G-smn2xWvmLdKVijuupEAzjwNIARJDk/edit?usp=sharing)
+
+[Exercise 8.6G](https://docs.google.com/spreadsheets/d/1IS6m74lBdLdUmSV_svzlyQbTVPf2wbYjVG0SfRphULU/edit?usp=sharing)
+
+
+
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fc27c23c-18ce-43a8-87e0-488ca4dddb3c" />
 
