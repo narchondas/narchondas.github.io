@@ -456,7 +456,7 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 
 [Exercise 7.1B](https://docs.google.com/spreadsheets/d/1QEj67jGtACV1G-smn2xWvmLdKVijuupEAzjwNIARJDk/edit?usp=sharing)
 
-[Exercise 8.6G](https://docs.google.com/spreadsheets/d/1IS6m74lBdLdUmSV_svzlyQbTVPf2wbYjVG0SfRphULU/edit?usp=sharing)
+[Exercise 8.6C](https://docs.google.com/spreadsheets/d/1IS6m74lBdLdUmSV_svzlyQbTVPf2wbYjVG0SfRphULU/edit?usp=sharing)
 
 
 
