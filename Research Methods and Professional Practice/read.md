@@ -444,6 +444,8 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 **Unit 7**
 
 
+**Hypothesis Testing and Summary Measures Worksheet**
+
 [Exercise 7.2B](https://docs.google.com/spreadsheets/d/1jk8mYnyx2W1qHmClOpHpf-R2mEWHmi6PWqJslhKHU20/edit?usp=sharing)
 
 [Exercise 7.3D](https://docs.google.com/spreadsheets/d/1s-B2QzU9Jldo3SEO8lJ6lACw4dYrSAw2htWuAdfZChU/edit?usp=sharing)
