@@ -259,6 +259,35 @@ Johnson, D.G. (2020) Computer Ethics. 5th edn. Harlow: Pearson.
 
 
 
+
+### Collaborative Discussion 2
+
+**Discussion Topic - Case Study: Accuracy of information**
+
+
+**Initial Post**
+
+
+Abi’s dilemma centres on truthfulness, transparency, and the responsible communication of statistical evidence. As Berenson, Levine and Szabat emphasise, ethical statistical practice requires the accurate reporting of all observed results, the clear communication of analytical procedures used, and the avoidance of selective presentation that may mislead stakeholders (Berenson et al., 2019). Altering data values would constitute a direct breach of professional integrity, but selectively reporting only favourable analyses, while technically using correct data, still represents a serious ethical violation because it distorts the integrity of the evidence base.
+
+The findings of Malički et al. (2023) reinforce this position. Their survey demonstrates that researchers, reviewers, and editors overwhelmingly view full transparency in methods, data, and results as essential to research integrity. Selective reporting, especially the omission of negative findings, is recognised as a form of misconduct because it undermines reproducibility and public trust. Their insights strengthen the argument that Abi is obligated to present all legitimate analyses, both favourable and unfavourable, and to explain any methodological divergence that yields conflicting results.
+
+This duty is further supported by the BCS Code of Ethics, which requires professionals to avoid misrepresentation, act with diligence, and uphold the public interest (BCS, 2021). Even if Abi is not entirely responsible for how the manufacturer ultimately uses the findings, his association with the study gives him an indirect ethical responsibility to the broader community. If he reasonably expects selective dissemination, he may request guarantees of full disclosure, document limitations explicitly, or refuse authorship should the results be misrepresented. Such actions align with principles of accountability, transparency, and professional responsibility widely endorsed in contemporary ethical frameworks (Fjeld et al., 2020; Deckard, 2023).
+
+ 
+**References**
+
+BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
+
+Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+Deckard, R. (2023) ‘What are Ethics in AI’. IBM Institute for Business Value.
+
+Fjeld, J. et al. (2020) ‘Principled Artificial Intelligence’. Berkman Klein Center Research Publication.
+
+Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
+
+
 <img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
 
 
