@@ -262,7 +262,8 @@ Johnson, D.G. (2020) Computer Ethics. 5th edn. Harlow: Pearson.
 
 ### Collaborative Discussion 2
 
-**Discussion Topic - Case Study: Accuracy of information**
+
+**Accuracy of information**
 
 
 **Initial Post**
@@ -275,7 +276,7 @@ The findings of Malički et al. (2023) reinforce this position. Their survey dem
 This duty is further supported by the BCS Code of Ethics, which requires professionals to avoid misrepresentation, act with diligence, and uphold the public interest (BCS, 2021). Even if Abi is not entirely responsible for how the manufacturer ultimately uses the findings, his association with the study gives him an indirect ethical responsibility to the broader community. If he reasonably expects selective dissemination, he may request guarantees of full disclosure, document limitations explicitly, or refuse authorship should the results be misrepresented. Such actions align with principles of accountability, transparency, and professional responsibility widely endorsed in contemporary ethical frameworks (Fjeld et al., 2020; Deckard, 2023).
 
  
-**References**
+#### References
 
 BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
 
