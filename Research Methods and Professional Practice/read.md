@@ -289,6 +289,79 @@ Fjeld, J. et al. (2020) ‘Principled Artificial Intelligence’. Berkman Klein 
 Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
 
 
+
+**Response to my peers' posts**
+
+
+Your analysis appropriately underscores the seriousness of the ethical dilemma Abi faces, and I fully concur that both data fabrication and selective reporting constitute profound violations of research integrity. As you note, presenting only favourable outcomes distorts the evidential basis on which decisions are made. This is consistent with the core principles of ethical statistical practice, which emphasise accuracy, transparency, and the obligation to communicate all observed results without omission (Berenson et al., 2019). Any attempt to suppress unfavourable findings therefore represents a breach of professional responsibility.
+
+The importance of such transparency is further supported by empirical work showing that researchers broadly recognise full disclosure of methods, data, and results as essential to maintaining scientific integrity and reproducibility (Malički et al., 2023). Your point that selectively withholding negative results undermines public trust directly echoes concerns raised about the broader social consequences of distorted research outputs. Given that the product in question may pose health risks, the ethical imperative to communicate complete and unbiased analyses becomes even more pressing.
+
+Moreover, your argument on the necessity of ethical governance frameworks aligns with the broader expectation that professionals act with honesty, diligence, and in the public interest (BCS, 2021). If Abi anticipates that his findings may be selectively disseminated, he is ethically justified in insisting on full disclosure, documenting limitations, or distancing himself from any report that compromises transparency. Such actions are essential to maintaining both scientific credibility and professional integrity.
+
+ 
+#### References
+
+BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
+
+Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
+
+
+
+Your analysis accurately captures the seriousness of the ethical dilemma Abi faces. As has been extensively argued in the literature, ethical statistical practice requires the comprehensive reporting of all results and the avoidance of analytical manoeuvres that generate misleading or inconsistent conclusions (Berenson et al., 2019; Bouaziz et al., 2022). Even if numerical values remain correct, presenting only favourable outputs constitutes a distortion of the evidential record and undermines the integrity of the research process.
+
+The broader research community also recognises full transparency as indispensable to scientific credibility and reproducibility. Empirical studies show that omissions or selective disclosure in methods and results are widely viewed as forms of misconduct because they compromise public trust and hinder informed decision making (Malički et al., 2023; Salonen, 2024). In this case, the risks extend beyond scientific norms: inaccurate representations of the nutritional quality or safety of a product may have direct implications for consumer health and expose both Abi and the manufacturer to regulatory or legal consequences (Kitchen and Tourky, 2022).
+
+Professional ethical frameworks reinforce these obligations by requiring diligence, honesty, and the prioritisation of the public interest (BCS, 2021; Fjeld et al., 2020; Deckard, 2023). Abi is therefore justified in presenting both positive and negative findings transparently. If the manufacturer insists on selective reporting, withdrawing from the project remains a legitimate means of preserving his professional integrity and avoiding complicity in misrepresentation.
+
+
+#### References
+
+BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
+
+Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+Bouaziz, G., Brulin, D. and Campo, E., 2022. Technological solutions for social isolation monitoring of the elderly: a survey of selected projects from academia and industry. Sensors, 22(22), p.8802. Available at: https://doi.org/10.3390/s22228802
+
+Deckard, R. (2023) ‘What are Ethics in AI’. IBM Institute for Business Value.
+
+Fjeld, J. et al. (2020) ‘Principled Artificial Intelligence’. Berkman Klein Center Research Publication.
+
+Kitchen, P. J., & Tourky, M. E. (2022). Integrated marketing communications: A global brand-driven approach. Springer Nature. https://books.google.com.pk/books?hl=en&lr=lang_en&id=YJtXEAAAQBAJ&oi=fnd&pg=PR6&dq=Ethical+Concerns+in+Data+Analysis+for+Whizzz+Cereal&ots=Y1qgb9Om1u&sig=6nmnjMM6UW1eytnXXM3rvh1xXEs&redir_esc=y#v=onepage&q&f=false
+
+Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
+
+Salonen, A.S., 2024. Creator, saviour, garburator:(Re) imagining the human role in the world through a case of food waste. Social Compass, 71(3), pp.425-441. https://doi.org/10.1177/00377686221144400
+
+
+
+I fully agree with your assessment that choosing tests specifically because they portray Whizzz more favourably constitutes a form of analytical bias, violating the norms of integrity and objectivity expected in professional statistical work (ASA, 2018). As has been widely recognised, misleading stakeholders through selective testing can be as ethically damaging as fabrication itself, since it distorts the underlying evidence and undermines confidence in scientific outputs (Gelman and Loken, 2014).
+
+This aligns closely with broader principles of ethical statistical practice, which emphasise complete, transparent reporting of all observed results and the avoidance of selective presentation that may influence decisions in a misleading manner (Berenson et al., 2019). The expectation of full disclosure is further reinforced by empirical evidence showing that researchers overwhelmingly view methodological and results transparency as essential to research integrity (Malički et al., 2023). When consumer health is at stake, the omission of adverse findings becomes even more serious, falling within the broader obligation to prevent harm articulated in contemporary research ethics frameworks (Zwitter, 2014).
+
+I also concur with your view that Abi retains responsibility for the accuracy and clarity of his outputs even if he cannot dictate the manufacturer’s later actions. Professional codes highlight duties of honesty, diligence, and public interest (BCS, 2021; Fjeld et al., 2020; Deckard, 2023). If selective reporting appears likely, providing a balanced, contextualised report, or ultimately withdrawing, may be necessary to preserve both ethical standards and professional integrity.
+
+
+#### References
+
+American Statistical Association (ASA) (2018) Ethical guidelines for statistical practice. Available at: https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice (Accessed: 3 December 2025).Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
+
+Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+Deckard, R. (2023) ‘What are Ethics in AI’. IBM Institute for Business Value.
+
+Fjeld, J. et al. (2020) ‘Principled Artificial Intelligence’. Berkman Klein Center Research Publication.
+
+Gelman, A. and Loken, E. (2014) ‘The garden of forking paths’, American Scientist, 102(6), pp. 460–465. Available at: https://doi.org/10.1511/2014.111.460
+
+Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
+
+Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. Available at: https://doi.org/10.1177/2053951714559253
+
 <img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
 
 
