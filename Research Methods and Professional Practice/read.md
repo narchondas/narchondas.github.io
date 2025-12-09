@@ -365,7 +365,7 @@ Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023
 
 Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. Available at: https://doi.org/10.1177/2053951714559253
 
-<img width="301" height="214" alt="image" src="https://github.com/user-attachments/assets/7b82a296-19b2-4b3a-854f-ac909b02e6a9" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a8657f0-3108-4052-b866-a45cc999d1dd" />
 
 
 [Back to the top](#research-methods-and-professional-practice)
