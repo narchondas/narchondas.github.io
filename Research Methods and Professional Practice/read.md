@@ -367,8 +367,6 @@ Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. A
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e040686d-d542-45d6-9eee-acd12f87177c" />
 
-
-
 [Back to the top](#research-methods-and-professional-practice)
 
 
