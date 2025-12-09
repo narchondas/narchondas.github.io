@@ -578,7 +578,9 @@ Unwanted Witness (2020) 'Data exploitation in digital political campaigns and it
 
 Analysis
 
-<img width="744" height="236" alt="image" src="https://github.com/user-attachments/assets/2e1d3432-fa28-4963-a119-933c9f8549c2" />
+
+<img width="1590" height="427" alt="image" src="https://github.com/user-attachments/assets/1ad24a7b-936b-4e37-9164-9e74b0523ca5" />
+
 
 <img width="1464" height="417" alt="image" src="https://github.com/user-attachments/assets/88319d59-154a-4a09-ae7b-f3a3e3e0ef9e" />
 
