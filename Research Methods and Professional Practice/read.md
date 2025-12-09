@@ -259,6 +259,9 @@ Johnson, D.G. (2020) Computer Ethics. 5th edn. Harlow: Pearson.
 
 
 
+<img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
+
+
 
 ### Collaborative Discussion 2
 
@@ -287,10 +290,6 @@ Deckard, R. (2023) ‘What are Ethics in AI’. IBM Institute for Business Value
 Fjeld, J. et al. (2020) ‘Principled Artificial Intelligence’. Berkman Klein Center Research Publication.
 
 Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
-
-
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e040686d-d542-45d6-9eee-acd12f87177c" />
 
 
 
@@ -366,7 +365,7 @@ Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023
 
 Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. Available at: https://doi.org/10.1177/2053951714559253
 
-<img width="737" height="445" alt="image" src="https://github.com/user-attachments/assets/d4eb2ce3-0933-4bf4-bdbe-a18cf7b89de0" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e040686d-d542-45d6-9eee-acd12f87177c" />
 
 
 
