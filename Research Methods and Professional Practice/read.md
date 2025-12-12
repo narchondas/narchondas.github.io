@@ -17,7 +17,7 @@ Use the following links to navigate to the start of the sections
 
 [4. Literature review outline](#literature-review-outline)
 
-[5.Literature review](#literature-review)
+[5. Literature review](#literature-review)
 
 
 
