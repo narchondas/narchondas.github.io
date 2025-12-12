@@ -17,6 +17,8 @@ Use the following links to navigate to the start of the sections
 
 [4. Literature review outline](#literature-review-outline)
 
+[5.Literature review](#literature-review)
+
 
 
 
@@ -652,6 +654,115 @@ Siachos, I., & Karacapilidis, N. (2024). Explainable Artificial Intelligence Met
 
 
 <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/be5e51ff-71da-4991-99be-2e95bf99851c" />
+
+
+
+[Back to the top](#research-methods-and-professional-practice)
+
+
+
+
+## Literature Review
+
+
+**Introduction**
+
+This literature review examines the applications of Large Language Models (LLMs) within public policymaking and governance, with the academic aim of operationalising LLM capabilities in governance contexts and contributing to the growing body of research on Artificial Intelligence (AI) for public-sector decision-making. As advanced forms of Natural Language Processing (NLP), LLMs offer new possibilities for supporting policy formulation, analysis, consultation, and evaluation through open-text analysis, document classification, legislative interpretation, data mining from reports of international organisations, and generation of predictive and foresight insights. These technologies can assist policymakers and public administration officials in collecting, prioritising, analysing, and retrieving information, as well as summarising complex material and generating substantiated policy options. Crucially, such applications presuppose a human-in-the-loop approach in which technical experts, managers, and organisational hierarchies verify and validate outputs before they are shared with political decision-makers, ensuring both accuracy and accountability.
+
+The practical objective of this review is to identify models and approaches that may reduce the time and cost of policy analysis, strengthen evidence-based policymaking, and promote transparency, inclusiveness, and trust in public administrations. In doing so, LLMs can facilitate open, participatory governance by enabling policymakers to systematically integrate multi-source data, stakeholder opinions and expert assessments into structured insights. Their potential extends to supporting scenario modelling, foresight exercises, and predictive analytics, which can improve the quality and timeliness of policy decisions.
+
+This review is particularly useful because existing empirical studies at the intersection of AI/LLMs/policymaking remain fragmented, often prioritising technical performance over policy relevance. To synthesise the literature, a conceptual-analytical framework is employed to map NLP/LLM capabilities to governance outcomes, providing a structured understanding of both their technical foundations and practical implications.
+
+Sources are drawn primarily from peer-reviewed journal articles, academic books, and reputable institutional reports, supplemented by grey literature and publications from relevant organisations such as the European Commission, OECD and AI governance institutes. Selection criteria prioritise recent studies to ensure up-to-date coverage, while including foundational works on NLP theory, LLM architectures, and AI ethics to provide theoretical grounding. 
+
+**Foundations of NLP and LLMs**
+
+NLP is a foundational area of AI enabling computers to interpret, analyse, and generate human language in ways that are operationally meaningful and actionable. By converting unstructured textual data into structured outputs, NLP facilitates tasks such as classification, information extraction, text summarisation, clustering, and sentiment analysis (Hemmatian and Sohrabi, 2017). In essence, NLP acts as a bridge between human communication and machine-readable formats, providing policymakers and public administration officials with tools to efficiently process and make sense of large volumes of complex textual information. This capability is particularly valuable for evidence-informed governance, where timely and accurate interpretation of legislative texts, stakeholder inputs, reports from international organisations, and policy impact assessments is critical.
+
+More concretely, LLMs represent a sophisticated subset of NLP, built on transformer architectures and trained on massive corpora. They do not replace traditional NLP methods but rather extend and integrate them within a single, scalable framework. By modelling syntax, semantics, and contextual relationships, LLMs provide state-of-the-art capabilities for tasks that were previously computationally intensive or unfeasible at scale. Prominent models such as BERT, RoBERTa, and GPT demonstrate how transformer-based deep learning frameworks can capture nuanced language patterns more effectively than earlier statistical approaches (Devlin et al., 2019). Despite these advances, LLMs remain fundamentally probabilistic systems as they do not “understand” language in a human sense, but infer meaning through vector representations, statistical associations, and optimisation of training objectives (Vinodhini and Chandrasekaran, 2012).
+
+Several NLP techniques underpin policy-relevant applications: 
+
+Text summarisation condenses lengthy and complex legislative texts, reports, stakeholder submissions, or open-ended feedback into concise, informative representations. Extractive summarisation selects key phrases from the original text, whereas abstractive summarisation generates semantically faithful reformulations that mimic human summarisation (Hemmatian and Sohrabi, 2017 in Lighthart et al., 2021). In policymaking, summarisation supports the rapid preparation of briefing notes, impact assessments, and consultation synopses, enabling policymakers to access condensed insights, while preserving the richness of the diverse input.
+
+Sentiment analysis, or opinion mining, detects and categorises evaluative language in text, providing granularity at the document, sentence, or aspect level (Akshi Kumar and Sebastian, 2012; Mite-Baidal et al., 2018). This is particularly important in participatory policymaking, where respondents may express conditional or mixed support for specific measures. Approaches range from lexicon-based systems using dictionaries such as SentiWordNet or VADER, to corpus-based statistical methods, and to supervised machine learning models including Support Vector Machines (SVMs), Long Short-Term Memory networks (LSTMs), and transformer-based architectures such as BERT (Hemmatian and Sohrabi, 2017; Vinodhini and Chandrasekaran, 2012; Mite-Baidal et al., 2018). These methods enable policymakers to systematically capture sentiment across diverse, multilingual contributions, identifying key trends, outliers, and potential areas of contention.
+
+Topic modelling, exemplified by Latent Dirichlet Allocation (LDA), uncovers latent thematic structures within large corpora of text, providing a probabilistic representation of topics and their relationships (Blei et al., 2003). In governance contexts, topic modelling can enable policy teams to cluster contributions by theme, detect emerging issues, and prioritise policy concerns efficiently, enhancing both transparency and inclusiveness in stakeholder engagement processes.
+
+At the technical core of these applications is vectorisation, which converts textual content into numerical representations suitable for machine learning and statistical analysis. Traditional approaches, such as Bag of Words and TF-IDF (Term Frequency-Inverse Document Frequency), capture word frequency and document relevance, while disregarding word order (Salton and McGill, 1983). More advanced embeddings, including Word2Vec and GloVe, capture semantic proximity, while contextual models such as BERT dynamically adjust word representations based on surrounding context, improving performance on downstream tasks such as summarisation, clustering, and classification (Devlin et al., 2019). These capabilities enable scalable and nuanced analysis of multi-format and multilingual policy documents, legislative texts, stakeholder feedback etc.
+
+By integrating these technical functions, NLP and LLMs offer practical utility for public administrations by synthesising large volumes of information, identifying sentiment and thematic trends, and by providing structured insights that inform evidence-based decision-making. When applied thoughtfully, these tools can enhance the operationalisation of frameworks such as the European Commission’s Better Regulation, supporting transparent, inclusive, and participatory policymaking by allowing public administration officials to systematically analyse legislative texts, drafts, reports, consultations and impact assessments. Nonetheless, human oversight remains indispensable, ensuring that outputs are ethically sound, contextually accurate, and aligned with democratic governance principles.
+
+**Capabilities and limitations of NLP Models**
+
+Despite their considerable strengths, NLP and LLM systems face critical limitations that must be acknowledged, particularly in high-stakes environments such as policymaking. Their statistical and probabilistic foundations can lead to misinterpretation of metaphors, idioms, sarcasm, or implied meanings, and can produce “hallucinated” or inaccurate content during generative tasks. Furthermore, models often reflect biases present in their training data, raising ethical concerns and potential distortions in outputs (Akshi Kumar and Sebastian, 2012; Blei, 2012). Even the most advanced architectures lack human-like intentionality, socio-cultural reasoning, and ethical judgement. They infer patterns rather than understanding language, which makes human oversight indispensable, especially when analysing nuanced or sensitive policy matters.
+
+AI-generated outputs, including text summaries or synthetic narratives, can be compelling but present limitations in their semantic comprehension as well. As Hutson (2021) describes, AI language systems are like “a mouth without a brain,” producing text that appears meaningful yet may lack substantive understanding. Bender et al. (2024) similarly caution that humans may erroneously impute meaning to synthetic content, creating risks for misinterpretation of data and open-text input. Other common challenges include repetition, logical inconsistencies, lack of long-range coherence, and limited novelty, all of which highlight the need for careful human validation (Guan et al., 2020; Engstrom et al., 2020). These limitations underscore the importance of maintaining interpretability, traceability, and explainability in any AI-supported policy workflow.
+
+Interpretability and explainability are closely related but distinct concepts crucial for responsible deployment of NLP/LLMs. Interpretability refers to the inherent transparency of a model’s structure, allowing humans to understand its mechanics without additional tools. Simpler models such as decision trees or linear regressions are typically interpretable, as their decision-making process can be directly followed step by step (Barredo Arrieta et al., 2019). Explainability, in contrast, is an active process that clarifies how a model generates specific outputs, particularly in opaque or “black box” systems like deep neural networks. Post-hoc techniques, such as feature importance scores, attention visualisations, textual explanations, and example-based demonstrations, enhance understanding for technical experts, policy officers, and the public (Buhmann & Fieseler, 2021; Coussement et al., 2024; Fahland et al., 2020; Mosqueira-Rey et al., 2020; Siachos & Karacapilidis, 2024). For policy applications, distinguishing between interpretability and explainability is essential.  Policymakers must trust outputs, understand the assumptions behind them, and be able to justify recommendations in democratic decision-making processes.
+
+The operational implications of the NLP capabilities are significant. In policymaking, they can systematically process, among others, unstructured open text of legislation, reports, ministerial decrees, reports of international organisations, stakeholder inputs, position papers, emails, or web submissions, transforming them into structured insights such as topic clusters, sentiment profiles, or summary reports. Within the European Commission, these technologies can enhance, for example, the Better Regulation framework by enabling more efficient synthesis of stakeholders’ contributions from portals like Have Your Say, supporting transparent and evidence-informed policymaking (European Commission, 2021). However, the full value of NLP/LLMs depends not only on human oversight but also on proper institutional integration, and clear accountability frameworks, as explained earlier. Outputs must be explainable and traceable to maintain procedural legitimacy and public trust.
+
+Hybrid model architectures that combine interpretable models with high-performance but opaque LLMs offer a promising approach to balance analytical sophistication with transparency (Barredo Arrieta et al., 2019). Such layered strategies allow cross-validation of outputs, improve reliability, and provide multiple levels of explanation suitable for different stakeholders. By embedding these practices into policy workflows, governments can leverage NLP’s technical advantages while safeguarding ethical standards, transparency, and democratic accountability.
+
+**Applications in the public sector: illustrative examples from the UK and El Salvador**
+
+Real-world adoption of NLP across public administrations demonstrates its ability to enhance efficiency, responsiveness, and democratic accountability. In the United Kingdom, Plymouth City Council, South Hams District Council, and West Devon Borough Council partnered with Commonplace to trial NLP tools for analysing extensive open-text consultation feedback (AI.GOV.UK, i.AI Consultation analyser, n.d.). Manual thematic coding, previously requiring weeks, was replaced with NLP pipelines for keyword extraction, topic modelling, sentiment scoring, and geographic trend mapping. This produced a 66% reduction in processing and validation time, cutting up to 10 minutes of review per submission. Estimated gross savings ranged from £19,000 to £38,000 per consultation, with net savings of £7,000–£30,500 after licensing costs. Consultations with over 3,000 respondents became cost-neutral or cost-saving. Beyond financial effects, NLP enabled earlier detection of emerging issues and sentiment patterns, supporting more agile and legitimate policymaking.
+
+El Salvador similarly illustrates NLP-driven administrative modernisation. Tools were used to classify citizen submissions, flag urgency, and route complaints to relevant ministries through platforms like WhatsApp (Omdena, n.d.). Multilingual models and real-time dashboards revealed sentiment trends and systemic service failures, showing that even resource-constrained governments can use NLP to boost responsiveness and citizen satisfaction (Omdena, n.d.). Together, these cases underscore the need to embed NLP into institutional workflows to reinforce transparency, proportionality, and participatory governance.
+
+**Conclusion and future directions**
+
+The literature reviewed demonstrates that NLP/LLM technologies have significant potential to transform policymaking. When deployed thoughtfully, these tools empower policy officers to engage meaningfully with open text and improve the quality, legitimacy, and responsiveness of public policy decisions. By converting unstructured text, NLP can support the preparation of legislative analyses, consultation synopses, impact assessments, and evaluations. This allows decision-makers to access comprehensive evidence before selecting preferred policy options, strengthening both procedural legitimacy and public trust. In this way, NLP is not merely a technical tool but a foundational enabler of responsive, participatory, and evidence-informed governance in the digital age.
+
+Nevertheless, as already stressed, human oversight remains indispensable, particularly in contexts involving sensitive policy choices, complex societal challenges, or high-stakes decisions. AI systems must function as assistive tools rather than a replacement, augmenting the interpretive capacity of policy units and ensuring, in parallel, outputs are explainable, traceable, and ethically sound. Embedding these AI-enabled tools into policy workflows requires institutional integration, clear accountability frameworks, and user training to safeguard systems are usable, trusted, and transparent.
+
+Further research could explore additional NLP capabilities such as named entity recognition, clustering and classification, transfer learning and multilingual processing, and advanced text generation, as these functions can further enhance the efficiency and inclusivity of policymaking. When integrated with human oversight, such functionalities can help governments address societal, economic, and environmental challenges at scale and in real time.
+
+Overall, this literature review aimed to support a balanced and accountable integration of AI in governance, aligning technological innovation with democratic principles and public values. By strengthening evidence-based policymaking, promoting inclusivity, and supporting transparent, open, and participatory governance, NLP/LLMs have the potential to become strategic enablers for modern liberal democracies confronting complex and “super-wicked” problems. Ensuring that AI supports rather than substitutes human judgment remains key to harnessing these technologies effectively, enhancing transparency and open government, and achieving policy outcomes that are both informed and democratically accountable.
+
+
+**References**
+
+AI.GOV.UK, i.AI Consultation analyser, (n.d.) Available at Consultations - Incubator for Artificial Intelligence - GOV.UK 
+
+Barredo Arrieta A., Díaz-Rodríguez N., Del Ser J., Bennetot A., Tabik S., Barbado A., Garcia S., Gil-Lopez S., Molina D., Benjamins R., Chatila R., Herrera F., (2020) Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI, Information Fusion, Volume 58, Pages 82-115, https://doi.org/10.1016/j.inffus.2019.12.012
+
+Blei, D. (2012), Probabilistic topic models, Communications of the ACM, Volume 55, Issue 4 Pages 77 – 84 https://doi.org/10.1145/2133806.2133826
+
+Blei, D. Ng Michal, A., Jordan I. (2003), Latent Dirichlet Allocation, Journal of Machine Learning Research 3, 993-1022
+
+Coussement, K., Abedin, M. Z., Kraus, M., Maldonado, S., & Topuz, K. (2024). Explainable AI for enhanced decision-making. Decision Support Systems, 184, 114276. https://doi.org/10.1016/j.dss.2024.114276
+
+Devlin, J., Chang, M.-W., Lee, K. and Toutanova, K. (2019) ‘BERT: Pre-training of deep bidirectional transformers for language understanding’, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 4171–4186.
+
+Engstrom, David Freeman and Ho, Daniel E. and Sharkey, C. M. and Cuéllar, M.-F., (2020) Government by Algorithm: Artificial Intelligence in Federal Administrative Agencies. NYU School of Law, Public Law Research Paper No. 20-54, Available at http://dx.doi.org/10.2139/ssrn.3551505
+
+European Commission (2021) Better Regulation Guidelines, SWD(2021) 305 final. Available at: https://commission.europa.eu/document/download/d0bbd77f-bee5-4ee5-b5c4-6110c7605476_en?filename=swd2021_305_en.pdf
+
+European Commission (2021) Better Regulation Toolbox. Available at: https://ec.europa.eu/info/sites/default/files/br_toolbox-nov_2021_en_0.pdf
+
+Hemmatian F, Sohrabi MK (2017) A survey on classification techniques for opinion mining and sentiment analysis. Artif Intell Rev 52(3):1495–1545. https://doi.org/10.1007/s10462-017-9599-6
+
+Hutson, M. (2021) Robo-writers: the rise and risks of language-generating AI, Nature 591, 22-25 doi: https://doi.org/10.1038/d41586-021-00530-0
+
+Kumar A, Sebastian TM (2012) Sentiment analysis: a perspective on its past, present and future. Int J Intell Syst Appl 4(10):1–14. https://doi.org/10.5815/ijisa.2012.10.01
+
+Ligthart A., Catal C., Tekinerdogan B. (2021) Systematic reviews in sentiment analysis: a tertiary study, Artificial Intelligence Review, 54:4997–5053, https://doi.org/10.1007/s10462-021-09973-3 
+
+Mite-Baidal K, Delgado-Vera C, Solís-Avilés E, Espinoza AH, Ortiz-Zambrano J, Varela-Tapia E (2018) Sentiment analysis in education domain: a systematic literature review. Commun Comput Inf Sci 883:285–297. https://doi.org/10.1007/978-3-030-00940-3_21 (Scopus)
+
+Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador - Omdena | Projects | Omdena
+
+Salton, G. and McGill M. (1983) Introduction to Modern Information Retrieval.
+
+Siachos, I., & Karacapilidis, N. (2024). Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings. Future Internet, 16(7). https://doi.org/10.3390/fi16070241
+
+Vinodhini G, Chandrasekaran RM (2012) Sentiment analysis and opinion mining: a survey. Int J 2(6):282–292
+
+
+
+<img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/157ac895-b376-4780-99e7-50b134caa8ec" />
 
 
 
