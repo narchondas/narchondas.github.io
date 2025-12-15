@@ -752,9 +752,7 @@ Ligthart A., Catal C., Tekinerdogan B. (2021) Systematic reviews in sentiment an
 
 Mite-Baidal K, Delgado-Vera C, Solís-Avilés E, Espinoza AH, Ortiz-Zambrano J, Varela-Tapia E (2018) Sentiment analysis in education domain: a systematic literature review. Commun Comput Inf Sci 883:285–297. https://doi.org/10.1007/978-3-030-00940-3_21 (Scopus)
 
-Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador - Omdena | Projects | Omdena
-
-Salton, G. and McGill M. (1983) Introduction to Modern Information Retrieval.
+Omdena Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, Available at Developing an AI-Driven Sentiment Analysis Tool for Political Actors in El Salvador, OmdenaSalton, G. and McGill M. (1983) Introduction to Modern Information Retrieval.
 
 Siachos, I., & Karacapilidis, N. (2024). Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings. Future Internet, 16(7). https://doi.org/10.3390/fi16070241
 
