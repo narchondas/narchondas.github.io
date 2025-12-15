@@ -367,7 +367,6 @@ Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023
 
 Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. Available at: https://doi.org/10.1177/2053951714559253
 
-<img width="974" height="712" alt="image" src="https://github.com/user-attachments/assets/577abdda-aab9-470e-b437-db28bdc65573" />
 
 
 **Summary Post**
@@ -400,6 +399,10 @@ Montgomery, P. and Belle Weisman, C. (2021) ‘Non-financial conflict of interes
 Taquette & Souza (2022) Taquette, S.R. and Borges da Matta Souza, L.M., 2022. Ethical dilemmas in qualitative research: A critical literature review. International Journal of Qualitative Methods, 21, p.16094069221078731. Available at: https://doi.org/10.1177/1609406922107873 
 
 Wicherts, J.M., Bakker, M. and Molenaar, D. (2011) ‘Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results’, PLOS ONE, 6(11), p. e26828. Available at: https://doi.org/10.1371/journal.pone.0026828.
+
+
+
+<img width="974" height="712" alt="image" src="https://github.com/user-attachments/assets/577abdda-aab9-470e-b437-db28bdc65573" />
 
 
 
