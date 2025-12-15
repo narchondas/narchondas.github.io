@@ -370,6 +370,38 @@ Zwitter, A. (2014) ‘Big data ethics’, Big Data & Society, 1(2), pp. 1–6. A
 <img width="974" height="712" alt="image" src="https://github.com/user-attachments/assets/577abdda-aab9-470e-b437-db28bdc65573" />
 
 
+**Summary Post**
+
+
+Abi’s dilemma fundamentally concerns truthfulness, transparency, and responsible statistical communication. Ethical statistical practice requires the accurate reporting of all observed results, clear disclosure of analytical procedures, and the avoidance of selective presentation that may mislead stakeholders (Berenson et al., 2019). While direct data manipulation would constitute an obvious breach of integrity, selectively reporting only favourable analyses remains ethically unacceptable because it distorts the evidential basis on which decisions are made.
+
+Empirical evidence reinforces this obligation. Researchers and gatekeepers (journal editors, peer reviewers, institutional review bodies, funding bodies or sponsors etc.) consistently regard full transparency in methods, data, and results as central to research integrity, with selective omission of unfavourable findings widely recognised as misconduct that undermines reproducibility and public trust (Malički et al., 2023). Moreover, non-financial conflicts of interest, such as the desire to satisfy a client, can bias interpretation and reporting even when data remain unchanged (Montgomery & Belle Weisman, 2021). In industry-sponsored contexts, funding bias may shape not only reporting but the research agenda itself, further heightening the ethical stakes (Bero, 2022).
+
+These concerns align with broader warnings that normalising selective reporting can skew entire research fields over time (Ioannidis, 2005; Fanelli, 2012). Strengthened expectations for data storage, preservation, and methodological clarity can therefore act as safeguards against post-hoc selection and misrepresentation (Wicherts et al., 2011). In line with professional codes and contemporary ethical frameworks, Abi should insist on full disclosure of all results, favourable or otherwise, and consider pre-specified analytical protocols to prevent selective dissemination (BCS, 2021; Fjeld et al., 2020). If transparency cannot be guaranteed, explicitly stating limitations or withdrawing authorship represents a proportionate and ethically defensible response that protects both professional integrity and the public interest (Taquette & Souza, 2022; Gouvea, 2024).
+
+
+#### References
+
+
+BCS (2021) BCS Code of Ethics. The Chartered Institute for IT.
+
+Berenson, L., Levine, D. and Szabat, K. (2019) Basic Business Statistics: Concepts and Applications. 14th edn. Pearson.
+
+Fanelli, D. (2012) ‘Negative results are disappearing from most disciplines and countries’, Scientometrics, 90(3), pp. 891–904. Available at: https://doi.org/10.1007/s11192-011-0494-7.
+
+Gouvea, J.S., 2024. Ethical dilemmas in current uses of AI in science education. CBE—Life Sciences Education, 23(1), p.fe3. Available at: https://doi.org/10.1187/cbe.23-12-0239 
+
+Ioannidis, J.P.A. (2005) ‘Why Most Published Research Findings Are False’, PLOS Medicine, 2(8), p. e124. Available at: https://doi.org/10.1371/journal.pmed.0020124
+
+Malički, M., Aalbersberg, I.J., Bouter, L., Mulligan, A. and ter Riet, G. (2023) ‘Transparency in conducting and reporting research’, PLOS ONE, doi: 10.1371/journal.pone.0270054
+
+Montgomery, P. and Belle Weisman, C. (2021) ‘Non-financial conflict of interest in social intervention trials and systematic reviews: An analysis of the issues with case studies and proposals for management’, Children and Youth Services Review, 120, p. 105642. Available at: https://doi.org/10.1016/j.childyouth.2020.105642
+
+Taquette & Souza (2022) Taquette, S.R. and Borges da Matta Souza, L.M., 2022. Ethical dilemmas in qualitative research: A critical literature review. International Journal of Qualitative Methods, 21, p.16094069221078731. Available at: https://doi.org/10.1177/1609406922107873 
+
+Wicherts, J.M., Bakker, M. and Molenaar, D. (2011) ‘Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results’, PLOS ONE, 6(11), p. e26828. Available at: https://doi.org/10.1371/journal.pone.0026828.
+
+
 
 [Back to the top](#research-methods-and-professional-practice)
 
