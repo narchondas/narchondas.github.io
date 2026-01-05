@@ -19,6 +19,8 @@ Use the following links to navigate to the start of the sections
 
 [5. Literature review](#literature-review)
 
+[6. Research proposal presentation](#research-proposal-presentation)
+
 
 
 
@@ -796,6 +798,25 @@ Vinodhini G, Chandrasekaran RM (2012) Sentiment analysis and opinion mining: a s
 
 
 <img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/157ac895-b376-4780-99e7-50b134caa8ec" />
+
+
+
+[Back to the top](#research-methods-and-professional-practice)
+
+
+
+## Research proposal presentation
+
+
+
+[Research proposal presentation](https://docs.google.com/presentation/d/1pynsEwsDU_2U4L2YgjLMopJevXO_89yIYqHnqF9EcKo/edit?usp=sharing)
+
+
+[Transcript of the research proposal presentation](https://docs.google.com/document/d/1GjlfX2dnm0BC-tM_wLmoEDC1oFB66TJ4r1ljZVSrb6k/edit?usp=sharing)
+
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/35e100ef-cad8-4146-8268-29ff9fe4a69c" />
 
 
 
