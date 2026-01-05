@@ -817,7 +817,7 @@ Vinodhini G, Chandrasekaran RM (2012) Sentiment analysis and opinion mining: a s
 
 
 
-<img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/91068f04-6d4f-4ea4-a189-7e6bb2185a42" />
+<img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/0af8094e-a1f4-4797-8f92-805cfa6ad130" />
 
 
 
