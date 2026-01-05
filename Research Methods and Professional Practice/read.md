@@ -21,6 +21,8 @@ Use the following links to navigate to the start of the sections
 
 [6. Research proposal presentation](#research-proposal-presentation)
 
+[7. Individual reflection](#individual-reflection)
+
 
 
 
@@ -818,6 +820,95 @@ Vinodhini G, Chandrasekaran RM (2012) Sentiment analysis and opinion mining: a s
 
 
 <img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/0af8094e-a1f4-4797-8f92-805cfa6ad130" />
+
+
+
+[Back to the top](#research-methods-and-professional-practice)
+
+
+
+
+## Individual reflection
+
+
+
+**Module content and learning outcomes**
+
+Through this module, I developed a structured and critical understanding of research methods and professional practice, with a strong emphasis on applying methodologies within practical and project-based contexts. The module introduced key theories, tools, and techniques underpinning scientifically grounded research, while developing my capacity to design, conduct, and evaluate independent study (UoEO Module Home, n.d.).
+
+In line with these aims, the learning outcomes focused on developing the ability to critically reflect on core research principles, select appropriate research designs for specific projects, collect and analyse diverse data types, and adopt an independent and reflective approach to learning. Together, these outcomes provided a strong foundation for conducting rigorous, ethically informed, and methodologically sound research (UoEO Module Home, n.d.).
+
+For the purposes of this individual reflection, I draw primarily on two established models of reflective practice. First, the “What? So What? Now What?” framework is employed to structure reflection around experience, its implications, and future action (Driscoll, 1994; Rolfe et al., 2001). Second, Gibbs’ Reflective Cycle is used to support a systematic progression from description and evaluation to analysis, conclusion, and action planning (UoEO Short Guide to Reflective Writing, n.d.; The University of Edinburgh Reflection Toolkit, n.d.). 
+
+**Understanding of research methods and professional practice**
+
+The theoretical component of the module enhanced my understanding of the foundational principles of research methods and professional practice. It clarified research as a systematic, scientific process aimed at addressing defined problems, emphasising rigour, transparency, and replicability (QuestionPro, 2021). This conceptual framework guided the exploration of research designs, data collection strategies, and analytical approaches.
+
+A key learning area was the distinction between qualitative and quantitative methods and their epistemological orientations. Qualitative research explores experiences, behaviours, and emotions, using inductive logic to allow theory to emerge from data, suitable for exploratory and interpretative studies (Lecturecast Unit 3). Techniques such as interviews, focus groups, observations, case studies, and surveys were introduced, highlighting their strengths and limitations. Questionnaires were defined as the instruments containing questions, whereas surveys referred to the wider methodological process that includes data collection, processing, and analytical interpretation (SurveyMonkey, n.d.). 
+
+Quantitative research focuses on numerical data to identify patterns and support generalisation, typically using deductive reasoning to answer questions such as “how much?” or “to what extent?”. Inferential statistics were introduced as tools for drawing conclusions about larger populations from samples, with concepts such as null and alternative hypotheses, p-values, and statistical significance central to testing assumptions (Purdue University, 2023).
+
+Ethical and professional considerations were emphasised, particularly in computing and research. Responsible AI frameworks consistently emphasised core principles such as privacy, accountability, safety, transparency, human control, professional responsibility, and alignment with societal values. (Fjeld et al., 2020). Professional codes stressed acting with integrity, competence, and awareness of broader consequences (BCS, 2021).
+
+Finally, the module addressed structuring and communicating research outputs, highlighting the IMRAD framework (Introduction, Method, Results, Discussion) for clarity and logical progression (Lecturecast Unit 2). 
+
+**Learning process and engagement**
+
+From the outset, I approached the module with strong motivation and a structured study strategy. The content was both engaging and relevant, with well-designed materials that effectively supported postgraduate learning. Lectures were particularly valuable in consolidating prior knowledge and clarifying complex methodological concepts, with tutor explanations helping to strengthen my overall understanding.
+
+My engagement with the module was characterised by consistent organisation and active participation. I followed a regular weekly study plan, completed formative tasks on time, and systematically incorporated feedback throughout the course. Collaborative discussions with peers were an important aspect of my learning, encouraging critical reflection, exposure to alternative perspectives, and practical application of key concepts (see Annex).
+
+I also maintained constructive communication with the tutor, regularly seeking clarification and formative feedback, which played a significant role in improving the quality of my work (see Annex). Attendance at live seminars further reinforced my learning, allowing me to address theoretical and technical issues through active participation. Engagement with the module readings complemented lectures and practical exercises, creating an integrated learning experience. Overall, this reflective and proactive approach enabled me to meet the module’s learning outcomes and develop greater analytical independence, critical evaluation skills, and confidence in research methods and professional practice.
+
+**Literature review and research proposal presentation**
+
+A central component of the module’s applied learning involved the development of a literature review and a research proposal presentation. 
+
+The literature review, I submitted in Unit 7, examined the application of Natural Language Processing (NLP) techniques in public policymaking and governance, situating the discussion within the broader field of AI for governance. It explored how Large Language Models (LLMs) can support policy formulation, analysis, consultation, and evaluation, highlighting applications such as open-text analysis, document classification, legislative interpretation, and data mining. These uses were assessed in terms of their capacity to support policymakers in analysing and synthesising complex information and developing evidence-informed policy options.
+
+The research proposal presentation, I submitted in Unit 10, dealt with a comparative analysis of AI governance frameworks in the European Union and the United States, examining regulatory approaches and leveraging automated text-mining methods to analyse policy documents. This research project aims to identify patterns of convergence and divergence and their implications for global AI governance. 
+
+Throughout this process, I engaged in constructive exchanges with the tutor, including email clarifications and an online meeting to refine the structure and scope of the proposal (see Annex). The feedback received was instrumental in sharpening my research focus, strengthening argumentative coherence, and producing a methodologically sound and conceptually clear proposal.
+
+**Evaluation and future actions**
+
+Overall, this module consolidated both my academic understanding and practical competence in conducting methodologically sound research. Theoretical foundations were effectively integrated into applied tasks, particularly the literature review and research proposal, enabling me to translate methodological principles into concrete research design decisions and reinforcing the importance of coherence between research questions, methods, ethics, and analysis.
+
+From a reflective perspective, the module emphasised the importance of effective time management and systematic engagement with feedback. This underscored that successful research depends not only on methodological knowledge, but also on organisation and critical self-evaluation.
+
+More broadly, the module provided a structured framework for MSc thesis preparation, guiding the research process from literature review to data analysis and presentation. By addressing both qualitative and quantitative approaches and offering practical guidance on thesis structure, it is expected to reduce uncertainty and support the development of academically rigorous research outputs.
+
+In conclusion, through reflective practice and the systematic integration of theoretical frameworks into applied research design, I have developed a robust understanding of research methods and professional practice. This foundation will directly inform my MSc thesis and support my professional engagement in AI, particularly in contexts requiring robust evidence, ethical awareness, and clear communication.
+
+**List of References**
+
+Driscoll J. (1994). Reflective practice for practise. Senior Nurse, 13, 47 -50
+
+Fjeld, J.et al. (2020) Principled artificial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. Berkman Klein Center Research Publication.
+
+QuestionPro. (2021) What is research?
+
+Purdue University. (2023) Basic Inferential Statistics: Theory and Application. 
+https://owl.purdue.edu/owl/research_and_citation/using_research/writing_with_statistics/basic_inferential_statistics.html
+
+Rolfe, G., Freshwater, D. & Jasper, M. (2001) Critical reflection in nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan 
+
+Survey Monkey. (no date) Survey vs Questionnaire: What is the difference?
+
+The University of Edinburgh (n.d.). Reflection Toolkit. Available from https://reflection.ed.ac.uk/reflectors-toolkit/reflecting-on-experience [Accessed on 23 December 2025]
+
+UoEO (n.d.). Lecturecast Unit 2, Unit 3 Research Methods and Professional Practice July 2025.
+
+UoEO (n.d.). Research Methods and Professional Practice July 2025, Module Home Available from https://www.my-course.co.uk/course/view.php?id=14231&section=0
+[Accessed on 24 December 2025]
+
+UoEO (n.d.).  Short Guide to Reflective Writing. Available from A short guide to reflective writing.pdf [Accessed on 20 December 2025]
+
+UoEO (n.d.).  Study Skills Hub. Reflective Writing Video. Available from https://www.my-course.co.uk/course/view.php?id=13&section=9#reflectivewriting [Accessed on 20 December 2025]
+
+
+
+<img width="576" height="384" alt="image" src="https://github.com/user-attachments/assets/e485dc83-51b0-461a-ac14-42ddd8357d0d" />
 
 
 
