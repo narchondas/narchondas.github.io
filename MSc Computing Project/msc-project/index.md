@@ -73,7 +73,7 @@ The custom notebook uses the same v1.3 logic:
 
 This version is therefore intended for reuse and experimentation. It allows researchers to test how other AI-related legal, policy, strategic, institutional or organisational documents are positioned on the same regulatory spectrum.
 
-[AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
+[AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test](notebooks)
 
 ## Open in Colab
 
