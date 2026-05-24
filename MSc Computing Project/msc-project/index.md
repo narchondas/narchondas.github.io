@@ -82,7 +82,8 @@ The full custom artefact will be available here:
 [AI Governance Regulatory Spectrum Artefact v1.3](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
 
 ## Open in Colab
-[![Open Custom Test Notebook in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-governance-regulatory-spectrum-v1-3/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb]
+
+[Open the custom arterfact notebook in Google Colab](https://colab.research.google.com/drive/1Q57pGWiLIeZ95LPFXXLLrJE1m4-lyqtv?usp=sharing)
 
 ## Status
 
