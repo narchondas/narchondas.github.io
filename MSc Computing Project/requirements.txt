@@ -1,1 +1,7 @@
-
+pymupdf
+spacy
+plotly
+wordcloud
+openpyxl
+pandas
+matplotlib
