@@ -75,7 +75,6 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 [Open the Custom Test Notebook](https://github.com/narchondas/artefact/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb)
 
-
 ## Open in Colab
 
 [Open the custom arterfact notebook in Google Colab](https://colab.research.google.com/drive/1Q57pGWiLIeZ95LPFXXLLrJE1m4-lyqtv?usp=sharing)
