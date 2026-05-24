@@ -45,7 +45,7 @@ I view administrative reform as a continuous and inspiring journey — one marke
 
 [7. Research Methods and Professional Practice](/Research Methods and Professional Practice/read.md)
 
-[8. MSc Computing Project][Comparative AI Governance: EU–US Regulatory Spectrum Artefact](readme.md/)
+[8. MSc Computing Project] [Comparative AI Governance: EU–US Regulatory Spectrum Artefact](/MSc Computing Project/read.md)
 
 
 
