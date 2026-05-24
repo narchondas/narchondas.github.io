@@ -79,7 +79,7 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 The full custom artefact will be available here:
 
-[AI Governance Regulatory Spectrum Artefact v1.3](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
+[AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test]()
 
 ## Open in Colab
 
