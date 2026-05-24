@@ -75,13 +75,11 @@ The custom notebook uses the same v1.3 logic:
 
 This version is therefore intended for reuse and experimentation. It allows researchers to test how other AI-related legal, policy, strategic, institutional or organisational documents are positioned on the same regulatory spectrum.
 
-## Where to find and upload the custom notebook
+## Custom artefact repository
 
-The custom test notebook is stored in the `notebooks/` folder:
+The full custom artefact will be available here:
 
-```text
-notebooks/
-└── AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb
+[AI Governance Regulatory Spectrum Artefact v1.3](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
 
 ## Open in Colab
 [![Open Custom Test Notebook in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-governance-regulatory-spectrum-v1-3/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb]
