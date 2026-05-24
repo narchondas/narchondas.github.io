@@ -4,7 +4,7 @@
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/adc3dac5-b284-4a10-9b5c-e24a42dea44d" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/3146ce58-8c94-4c4e-b431-0bd4a7e812ea" />
 
 ## Overview
 
