@@ -1,11 +1,10 @@
 # MSc project — Comparative AI Governance
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/adc3dac5-b284-4a10-9b5c-e24a42dea44d" />
-
-
 ## Project title
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/adc3dac5-b284-4a10-9b5c-e24a42dea44d" />
 
 ## Overview
 
