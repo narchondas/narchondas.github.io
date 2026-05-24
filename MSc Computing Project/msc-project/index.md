@@ -87,4 +87,5 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 This page forms part of my MSc learning path and presents the artefact developed for my thesis in Artificial Intelligence.
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/982b69d9-2fc2-430c-84e2-26cc005aa9cb" />
+<img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
+
