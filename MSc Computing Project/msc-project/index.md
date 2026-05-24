@@ -1,10 +1,10 @@
-# MSc project — Comparative AI Governance
+# MSc Computing Project
 
 ## Project title
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/3146ce58-8c94-4c4e-b431-0bd4a7e812ea" />
+<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_48 PM (1)" src="https://github.com/user-attachments/assets/acb6926d-18d8-4d9f-8747-9155d76ddcc7" />
 
 ## Overview
 
@@ -45,7 +45,7 @@ The full reproducible artefact will be available here:
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing)
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8b21edee-12e8-4848-af6b-35b2fb635310" />
+<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_49 PM (2)" src="https://github.com/user-attachments/assets/7d69f1b6-00f7-41ad-bb23-5c682e57d471" />
 
 ## Custom artefact notebook
 
@@ -87,5 +87,4 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 This page forms part of my MSc learning path and presents the artefact developed for my thesis in Artificial Intelligence.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4748aed1-3ca7-448d-babb-6569dde59771" />
-
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/982b69d9-2fc2-430c-84e2-26cc005aa9cb" />
