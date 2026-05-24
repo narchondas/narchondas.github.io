@@ -41,7 +41,7 @@ The full reproducible artefact will be available here:
 
 ## Open in Colab
 
-[Open the replication notebook in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/ai-governance-regulatory-spectrum-v1-3/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Replication.ipynb)
+[Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing))
 
 ## Status
 
