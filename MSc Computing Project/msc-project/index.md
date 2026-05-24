@@ -45,7 +45,7 @@ The full reproducible artefact will be available here:
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing)
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/52877ead-1af1-4fa5-a158-2477eca08b0f" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8b21edee-12e8-4848-af6b-35b2fb635310" />
 
 ## Custom artefact notebook
 
