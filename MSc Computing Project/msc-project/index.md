@@ -43,15 +43,13 @@ The full reproducible artefact will be available here:
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing)
 
-## Custom test notebook
+## Custom artefact notebook
 
-In addition to the replication notebook, this repository also includes a **custom test notebook**:
+In addition to the replication notebook, a custom version of the artefact is also available.
 
-`AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb`
+The replication notebook reproduces the thesis results using the same 24 public AI governance documents. By contrast, the custom notebook allows another researcher to upload different documents and apply the same v1.3 methodology.
 
-The purpose of this notebook is different from the replication file. While the replication notebook reproduces the thesis results using the same 24 public EU and US AI governance documents, the custom test notebook allows other researchers to apply the same v1.3 artefact to their own documents.
-
-Researchers can upload their own PDF files, define a simple metadata table, assign each document to a group such as `Group I` or `Group II`, specify the document type and legal-force multiplier, and then run the same analytical pipeline.
+Researchers may define their own document groups, such as `Group I` and `Group II`, assign document types and legal-force multipliers, and generate the same categories of outputs, including the regulatory spectrum graph, four-component profile, heatmap, quadrant distribution, driver terms, slope chart, document-type comparison and vocabulary audit tables.
 
 The custom notebook produces the same categories of outputs as the thesis artefact, including:
 
@@ -75,11 +73,7 @@ The custom notebook uses the same v1.3 logic:
 
 This version is therefore intended for reuse and experimentation. It allows researchers to test how other AI-related legal, policy, strategic, institutional or organisational documents are positioned on the same regulatory spectrum.
 
-## Custom artefact notebook
-
-The custom version of the artefact allows researchers to apply the same v1.3 methodology to their own documents.
-
-[Open the Custom Test Notebook](notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb)
+[Open the Custom Test Notebook](https://github.com/narchondas/artefact/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb)
 
 
 ## Open in Colab
