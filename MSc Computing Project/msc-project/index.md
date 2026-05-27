@@ -121,7 +121,7 @@ No word-level weights are applied. All vocabulary terms and phrases are counted 
 
 ## Reproducible artefact repository
 
-The full reproducible artefact will be available here:
+The full reproducible artefact is available here:
 
 [AI Governance Regulatory Spectrum Artefact v1.3](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
 
