@@ -94,3 +94,6 @@ This page forms part of my MSc learning path and presents the artefact developed
 
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
 
+<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 10_58_15 PM" src="https://github.com/user-attachments/assets/51b38507-dece-4005-953f-be051c726086" />
+
+
