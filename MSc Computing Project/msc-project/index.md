@@ -7,11 +7,11 @@ This is my learning experience from Module 7 of the MSc Artificial Intelligence
 
 Use the following links to navigate to the start of the sections
 
-[1. Learning Outcomes](#learning_outcomes)
+[1. Learning Outcomes](#learning-outcomes)
 
-[2. Project Title and Research Proposal](#project_title-and_research_proposal)
+[2. Project Title and Research Proposal](#project-title-and-research-proposal)
 
-[3. Software artefact: AI Governance Regulatory Spectrum](#software_artefact_AI_governance_regulatory_spectrum_artefact)
+[3. Software artefact: AI Governance Regulatory Spectrum](#software-artefact-AI-governance-regulatory-spectrum-artefact)
 
 
 ## Learning outcomes 
@@ -42,7 +42,7 @@ Use the following links to navigate to the start of the sections
 -Evaluate critically the research conducted and present the resulting artefact as a form of a defence of the research.
 
 
-[Back to the top](#MSc_computing_project)
+[Back to the top](#MSc-computing-project)
 
 
 ## Project title and research proposal
@@ -81,7 +81,7 @@ RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, 
 [Participation Information Sheet and Consent Form for interviewees](https://drive.google.com/file/d/1xhCsifUOLv-Fe57gGE5z6AqerKnhpoP3/view?usp=sharing)
 
 
-[Back to the top](#MSc_computing_project)
+[Back to the top](#MSc-computing-project)
 
 
 ## Software artefact: AI Governance Regulatory Spectrum
@@ -179,7 +179,7 @@ This page forms part of my MSc learning path and presents the artefact developed
 
 
 
-[Back to the top](#MSc_computing_project)
+[Back to the top](#MSc-computing-project)
 
 
 
