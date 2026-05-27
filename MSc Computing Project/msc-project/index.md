@@ -6,6 +6,9 @@
 
 <img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
+<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_48 PM (1)" src="https://github.com/user-attachments/assets/155eaf99-9b9f-43a3-8ee9-386c4f453d9f" />
+
+
 ## Overview
 
 This MSc project examines how EU and US artificial intelligence governance documents position themselves across a regulatory spectrum. The project develops a reproducible NLP-based artefact that analyses selected legislative, policy and strategic documents and maps them across two axes:
