@@ -1,11 +1,57 @@
 # MSc Computing Project
 
-## Project title
+This is my learning experience from Module 7 of the MSc Artificial Intelligence
+
+Use the following links to navigate to the start of the sections
+
+[1. Learning Outcomes](#learning_outcomes)
+
+[2. Project Title and research proposal](#project_title-and_research_proposal)
+
+[3. Software artefact: AI Governance Regulatory Spectrum](#software_artefact_AI_governance_regulatory_spectrum_artefact)
+
+
+## Learning outcomes 
+
+## In the module MSc Computing Project I shall:
+
+-Understand the methods of project planning.
+
+-Investigate ways of identifying, quantifying and mitigating any risks.
+
+-Explore a range of project types and appropriate research methods.
+
+-Develop the concept of a literature review and horizon scanning.
+
+-Engage with the ethical issues associated with my research.
+
+-Understand the issues surrounding intellectual property in research.
+
+
+## On completion of the module <Sc Computing Project, I will be able to:
+
+-Systematically identify research problem(s) within a suitable research topic involving computing.
+
+-Carry out, structure, and present effectively a focused critical and analytical reading and synthesis of accessed information on the topic.
+
+-Articulate the professional, legal, ethical and social issues related to the chosen topic and follow relevant professional codes of conduct.
+
+-Evaluate critically the research conducted and present the resulting artefact as a form of a defence of the research.
+
+
+## Project title and research proposal
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
 
 <img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
+**Research proposal 
+
+[Reasearch proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
+
+
+
+## Software artefact: AI Governance Regulatory Spectrum
 
 ## Overview
 
