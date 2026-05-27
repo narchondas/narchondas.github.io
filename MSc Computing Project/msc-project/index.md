@@ -97,7 +97,7 @@ This MSc project examines how EU and US artificial intelligence governance docum
 The artefact uses dictionary-based NLP techniques, PDF text extraction, tokenisation, lemmatisation, predefined analytical vocabularies and document-level legal-force multipliers.
 
 
-## AI Governance Regulatory Spectrum Artefact v1.3
+## AI Governance Regulatory Spectrum 
 
 The final artefact processes a corpus of 24 EU and US AI governance documents and generates:
 
