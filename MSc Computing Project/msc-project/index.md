@@ -153,13 +153,7 @@ The custom notebook produces the same categories of outputs as the thesis artefa
 - analytical vocabulary audit tables;
 - exported Excel and HTML outputs.
 
-The custom notebook uses the same v1.3 logic:
-
-- no word-level weights;
-- all terms and phrases count as one occurrence;
-- the document-level legal-force multiplier is applied only to the mandatory/control count;
-- the X-axis measures rights/citizen safeguards versus innovation;
-- the Y-axis measures voluntary/soft-law versus mandatory/control language.
+The custom notebook uses the same v1.3 logic. No word-level weights. All terms and phrases count as one occurrence. The document-level legal-force multiplier is applied only to the mandatory/control count. 
 
 This version is therefore intended for reuse and experimentation. It allows researchers to test how other AI-related legal, policy, strategic, institutional or organisational documents are positioned on the same regulatory spectrum.
 
@@ -171,9 +165,6 @@ This version is therefore intended for reuse and experimentation. It allows rese
 [Open the custom arterfact notebook in Google Colab](https://colab.research.google.com/drive/1Q57pGWiLIeZ95LPFXXLLrJE1m4-lyqtv?usp=sharing)
 
 
-## Status
-
-This page forms part of my MSc learning path and presents the artefact developed for my thesis in Artificial Intelligence.
 
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
 
