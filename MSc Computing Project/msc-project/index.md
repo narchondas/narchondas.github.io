@@ -6,8 +6,6 @@
 
 <img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
-<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_48 PM (1)" src="https://github.com/user-attachments/assets/155eaf99-9b9f-43a3-8ee9-386c4f453d9f" />
-
 
 ## Overview
 
@@ -50,8 +48,6 @@ The full reproducible artefact will be available here:
 
 <img width="409" height="308" alt="image" src="https://github.com/user-attachments/assets/6e7fd09f-0b42-47b2-9733-a43a32896b65" />
 
-<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_49 PM (2)" src="https://github.com/user-attachments/assets/eedd2497-14d0-454e-b447-6a38dd04d663" />
-
 ## Custom artefact notebook
 
 In addition to the replication notebook, a custom version of the artefact is also available.
@@ -93,7 +89,3 @@ This version is therefore intended for reuse and experimentation. It allows rese
 This page forms part of my MSc learning path and presents the artefact developed for my thesis in Artificial Intelligence.
 
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
-
-<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 10_58_15 PM" src="https://github.com/user-attachments/assets/51b38507-dece-4005-953f-be051c726086" />
-
-
