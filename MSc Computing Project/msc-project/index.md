@@ -2,6 +2,9 @@
 
 This is my learning experience from Module 7 of the MSc Artificial Intelligence
 
+<img width="203" height="105" alt="image" src="https://github.com/user-attachments/assets/6f0efbe0-c118-4e22-ad25-283c350627b4" />
+
+
 Use the following links to navigate to the start of the sections
 
 [1. Learning Outcomes](#learning_outcomes)
@@ -28,7 +31,7 @@ Use the following links to navigate to the start of the sections
 -Understand the issues surrounding intellectual property in research.
 
 
-## On completion of the module <Sc Computing Project, I will be able to:
+## On completion of the module MSc Computing Project, I will be able to:
 
 -Systematically identify research problem(s) within a suitable research topic involving computing.
 
@@ -45,10 +48,14 @@ Use the following links to navigate to the start of the sections
 
 <img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
-**Research proposal 
+
+**Research proposal**
 
 [Reasearch proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
 
+**Participation Information Sheet and Consent Form for interviewees**
+
+[Participation Information Sheet and Consent Form for interviewees](https://drive.google.com/file/d/1xhCsifUOLv-Fe57gGE5z6AqerKnhpoP3/view?usp=sharing)
 
 
 ## Software artefact: AI Governance Regulatory Spectrum
