@@ -71,6 +71,7 @@ RQ2 Where do their regulatory models converge or diverge, and how do AI text-min
 
 RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, and societal/ethical protection? 
 
+**Full Research Proposal** 
 
 [Full research proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
 
