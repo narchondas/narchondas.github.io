@@ -42,6 +42,9 @@ Use the following links to navigate to the start of the sections
 -Evaluate critically the research conducted and present the resulting artefact as a form of a defence of the research.
 
 
+[Back to the top](#MSc_computing_project)
+
+
 ## Project title and research proposal
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
@@ -59,6 +62,7 @@ The rationale for selecting this topic lies in the rapidly evolving nature of AI
 
 The research addresses a clear gap in the existing literature. Although some comparative analyses exist, they are limited in scope and are not fully up to date. Moreover, there is insufficient triangulation across academic literature, policy documentation, and expert perspectives. Existing studies also make limited use of computational text analysis tools. This thesis responds to these limitations by integrating AI-supported text-mining methods into a structured qualitative comparative framework, thereby enhancing analytical depth and methodological rigour. 
 
+
 **Research questions**
 
 RQ1 What trends and patterns define EU vs. US AI governance? 
@@ -73,11 +77,14 @@ RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, 
 
 **Participation Information Sheet and Consent Form for interviewees**
 
-
 [Participation Information Sheet and Consent Form for interviewees](https://drive.google.com/file/d/1xhCsifUOLv-Fe57gGE5z6AqerKnhpoP3/view?usp=sharing)
 
 
+[Back to the top](#MSc_computing_project)
+
+
 ## Software artefact: AI Governance Regulatory Spectrum
+
 
 ## Overview
 
@@ -87,6 +94,7 @@ This MSc project examines how EU and US artificial intelligence governance docum
 - **Y-axis:** voluntary/soft-law ↔ mandatory/control
 
 The artefact uses dictionary-based NLP techniques, PDF text extraction, tokenisation, lemmatisation, predefined analytical vocabularies and document-level legal-force multipliers.
+
 
 ## AI Governance Regulatory Spectrum Artefact v1.3
 
@@ -102,11 +110,13 @@ The final artefact processes a corpus of 24 EU and US AI governance documents an
 - vocabulary audit tables;
 - reproducible Excel and HTML outputs.
 
+
 ## Final modelling logic
 
 The final version of the artefact is **v1.3**.
 
 No word-level weights are applied. All vocabulary terms and phrases are counted equally. The only weighting mechanism is the document-level legal-force multiplier applied to the mandatory/control count.
+
 
 ## Reproducible artefact repository
 
@@ -114,11 +124,13 @@ The full reproducible artefact will be available here:
 
 [AI Governance Regulatory Spectrum Artefact v1.3](https://github.com/narchondas/ai-governance-regulatory-spectrum-v1-3)
 
+
 ## Open in Colab
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing)
 
 <img width="409" height="308" alt="image" src="https://github.com/user-attachments/assets/6e7fd09f-0b42-47b2-9733-a43a32896b65" />
+
 
 ## Custom artefact notebook
 
@@ -152,9 +164,11 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 [AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test](https://github.com/narchondas/custom-ai-governance-regulatory-spectrum-v1-3/blob/main/notebooks/AI_Governance_Regulatory_Spectrum_Artefact_v1_3_Custom_Test.ipynb)
 
+
 ## Open in Colab
 
 [Open the custom arterfact notebook in Google Colab](https://colab.research.google.com/drive/1Q57pGWiLIeZ95LPFXXLLrJE1m4-lyqtv?usp=sharing)
+
 
 ## Status
 
@@ -163,7 +177,9 @@ This page forms part of my MSc learning path and presents the artefact developed
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
 
 
+
 [Back to the top](#MSc_computing_project)
+
 
 
 [Go to main Menu](https://narchondas.github.io/)
