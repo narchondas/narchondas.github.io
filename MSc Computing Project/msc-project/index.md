@@ -9,7 +9,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Learning Outcomes](#learning_outcomes)
 
-[2. Project Title and research proposal](#project_title-and_research_proposal)
+[2. Project Title and Research Proposal](#project_title-and_research_proposal)
 
 [3. Software artefact: AI Governance Regulatory Spectrum](#software_artefact_AI_governance_regulatory_spectrum_artefact)
 
@@ -72,7 +72,7 @@ RQ2 Where do their regulatory models converge or diverge, and how do AI text-min
 RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, and societal/ethical protection? 
 
 
-[Research proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
+[Full research proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
 
 
 **Participation Information Sheet and Consent Form for interviewees**
