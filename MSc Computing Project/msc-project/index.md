@@ -4,7 +4,7 @@
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
 
-<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_48 PM (1)" src="https://github.com/user-attachments/assets/acb6926d-18d8-4d9f-8747-9155d76ddcc7" />
+<img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
 ## Overview
 
@@ -45,7 +45,7 @@ The full reproducible artefact will be available here:
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/16RC0ycwxF866B_RKDviYexnJhvZ9ZLsA?usp=sharing)
 
-<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_49 PM (2)" src="https://github.com/user-attachments/assets/7d69f1b6-00f7-41ad-bb23-5c682e57d471" />
+<img width="409" height="308" alt="image" src="https://github.com/user-attachments/assets/6e7fd09f-0b42-47b2-9733-a43a32896b65" />
 
 ## Custom artefact notebook
 
