@@ -51,9 +51,30 @@ Use the following links to navigate to the start of the sections
 
 **Research proposal**
 
+**Research summary** 
+
+This thesis proposes a comparative analysis of AI governance in the European Union and the United States, with the objective of identifying and mapping regulatory trends and emerging policy models through the integration of automated AI-supported text-mining analysis. The research seeks to provide an up-to-date comparative assessment of the two predominant AI governance frameworks up to mid-2026. By examining convergences, divergences, and thematic patterns, the study aims to generate a typology of regulatory approaches and to evaluate their broader policy implications. 
+
+In order to operationalise this overarching aim, the research is structured around three principal objectives. First, it will develop a comparative governance mapping of the key regulatory and institutional trends shaping AI policy in both jurisdictions, identifying the structural features, policy instruments, and institutional configurations that characterise each approach. Second, it will propose a structured analytical framework incorporating AI-supported text-mining tools, in order to systematically analyse thematic trends and patterns across relevant policy documents and institutional communications. Third, it will critically assess the extent to which the findings of the abovementioned exercises on the EU and US AI governance, particularly regarding innovation, competitiveness, and the protection of societal and ethical values, are corroborated by the opinions and the perceptions of the experts (e.g., policy officers, academia). 
+
+The rationale for selecting this topic lies in the rapidly evolving nature of AI governance. In the early stages of AI development, jurisdictions demonstrated caution and uncertainty regarding regulatory intervention, reflecting broader questions about the trajectory of the technology. As AI systems have become increasingly embedded in economic and societal structures, regulatory frameworks have begun to crystallise. The EU and the US represent the two leading and contrasting regulatory jurisdictions shaping global AI governance. The EU tends to adopt a rights-centred, risk-based, and precautionary approach, emphasising safeguards, guidelines, and legislative instruments. In contrast, the US has generally favoured an innovation-oriented, market-driven, and sectoral regulatory model. Examining this emerging regulatory contrast and assessing the extent to which it is supported by evidence is essential for understanding its long-term policy implications for innovation, competitiveness, and the protection of societal and ethical values. 
+
+The research addresses a clear gap in the existing literature. Although some comparative analyses exist, they are limited in scope and are not fully up to date. Moreover, there is insufficient triangulation across academic literature, policy documentation, and expert perspectives. Existing studies also make limited use of computational text analysis tools. This thesis responds to these limitations by integrating AI-supported text-mining methods into a structured qualitative comparative framework, thereby enhancing analytical depth and methodological rigour. 
+
+**Research questions**
+
+RQ1 What trends and patterns define EU vs. US AI governance? 
+
+RQ2 Where do their regulatory models converge or diverge, and how do AI text-mining tools help identify these trends? 
+
+RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, and societal/ethical protection? 
+
+
 [Reasearch proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
 
+
 **Participation Information Sheet and Consent Form for interviewees**
+
 
 [Participation Information Sheet and Consent Form for interviewees](https://drive.google.com/file/d/1xhCsifUOLv-Fe57gGE5z6AqerKnhpoP3/view?usp=sharing)
 
