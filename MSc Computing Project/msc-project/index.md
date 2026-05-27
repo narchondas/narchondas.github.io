@@ -49,8 +49,6 @@ Use the following links to navigate to the start of the sections
 <img width="407" height="307" alt="image" src="https://github.com/user-attachments/assets/6d561b18-82fa-46c5-ac13-956bb5be552f" />
 
 
-**Research proposal**
-
 **Research summary** 
 
 This thesis proposes a comparative analysis of AI governance in the European Union and the United States, with the objective of identifying and mapping regulatory trends and emerging policy models through the integration of automated AI-supported text-mining analysis. The research seeks to provide an up-to-date comparative assessment of the two predominant AI governance frameworks up to mid-2026. By examining convergences, divergences, and thematic patterns, the study aims to generate a typology of regulatory approaches and to evaluate their broader policy implications. 
@@ -70,7 +68,7 @@ RQ2 Where do their regulatory models converge or diverge, and how do AI text-min
 RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, and societal/ethical protection? 
 
 
-[Reasearch proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
+[Research proposal](https://drive.google.com/file/d/1UOfMgUMTHHdBV4tzxVvqvVLjuhxuNSn2/view?usp=drive_link)
 
 
 **Participation Information Sheet and Consent Form for interviewees**
