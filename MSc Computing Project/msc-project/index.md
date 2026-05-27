@@ -161,3 +161,9 @@ This version is therefore intended for reuse and experimentation. It allows rese
 This page forms part of my MSc learning path and presents the artefact developed for my thesis in Artificial Intelligence.
 
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
+
+
+[Back to the top](#MSc_computing_project)
+
+
+[Go to main Menu](https://narchondas.github.io/)
