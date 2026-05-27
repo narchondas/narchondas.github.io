@@ -47,6 +47,8 @@ The full reproducible artefact will be available here:
 
 <img width="409" height="308" alt="image" src="https://github.com/user-attachments/assets/6e7fd09f-0b42-47b2-9733-a43a32896b65" />
 
+<img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 11_18_49 PM (2)" src="https://github.com/user-attachments/assets/eedd2497-14d0-454e-b447-6a38dd04d663" />
+
 ## Custom artefact notebook
 
 In addition to the replication notebook, a custom version of the artefact is also available.
