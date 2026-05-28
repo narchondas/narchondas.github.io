@@ -11,8 +11,8 @@ Use the following links to navigate to the start of the sections
 
 [2. Project Title and Research Proposal](#project-title-and-research-proposal)
 
-[3. Software artefact: AI Governance Regulatory Spectrum](#software-artefact-AI-governance-regulatory-spectrum)
-
+[3. Software artefact: AI Governance Regulatory Spectrum](#software-artefact:-AI-governance-regulatory-spectrum)
+## Software artefact: AI Governance Regulatory Spectrum
 
 ## Learning outcomes 
 
@@ -42,7 +42,7 @@ Use the following links to navigate to the start of the sections
 -Evaluate critically the research conducted and present the resulting artefact as a form of a defence of the research.
 
 
-[Back to the top](#MSc-computing-project)
+[Back to the top](#msc-computing-project)
 
 
 ## Project title and research proposal
@@ -81,7 +81,7 @@ RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, 
 [Participation Information Sheet and Consent Form for interviewees](https://drive.google.com/file/d/1xhCsifUOLv-Fe57gGE5z6AqerKnhpoP3/view?usp=sharing)
 
 
-[Back to the top](#MSc-computing-project)
+[Back to the top](#msc-computing-project)
 
 
 ## Software artefact: AI Governance Regulatory Spectrum
@@ -170,7 +170,7 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 
 
-[Back to the top](#MSc-computing-project)
+[Back to the top](#msc-computing-project)
 
 
 
