@@ -11,7 +11,7 @@ Use the following links to navigate to the start of the sections
 
 [2. Project Title and Research Proposal](#project-title-and-research-proposal)
 
-[3. Software artefact AI Governance Regulatory Spectrum](#software-artefact-AI-governance-regulatory-spectrum)
+[3. Software artefact AI Governance Regulatory Spectrum](#software-artefact-ai-governance-regulatory-spectrum)
 
 
 ## Learning outcomes 
@@ -86,7 +86,6 @@ RQ3 What benefits, risks, and trade-offs arise for innovation, competitiveness, 
 
 ## Software artefact AI Governance Regulatory Spectrum
 
-
 ## Overview
 
 This MSc project examines how EU and US artificial intelligence governance documents position themselves across a regulatory spectrum. The project develops a reproducible NLP-based artefact that analyses selected legislative, policy and strategic documents and maps them across two axes:
@@ -135,11 +134,9 @@ The full reproducible artefact is available here:
 
 ## Custom artefact notebook
 
-In addition to the replication notebook, a custom version of the artefact is also available.
+A custom version of the artefact is also available, allowing researchers to upload different documents and apply the same v1.3 methodology.
 
-The replication notebook reproduces the thesis results using the same 24 public AI governance documents. By contrast, the custom notebook allows another researcher to upload different documents and apply the same v1.3 methodology.
-
-Researchers may define their own document groups, such as `Group I` and `Group II`, assign document types and legal-force multipliers, and generate the same categories of outputs, including the regulatory spectrum graph, four-component profile, heatmap, quadrant distribution, driver terms, slope chart, document-type comparison and vocabulary audit tables.
+Researchers may define their own document groups, such as `Group I` and `Group II`, assign document types and legal-force multipliers, and generate the same categories of outputs.
 
 The custom notebook produces the same categories of outputs as the thesis artefact, including:
 
