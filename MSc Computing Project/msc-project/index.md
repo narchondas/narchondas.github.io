@@ -12,7 +12,7 @@ Use the following links to navigate to the start of the sections
 [2. Project Title and Research Proposal](#project-title-and-research-proposal)
 
 [3. Software artefact: AI Governance Regulatory Spectrum](#software-artefact-AI-governance-regulatory-spectrum)
-## Software artefact: AI Governance Regulatory Spectrum
+
 
 ## Learning outcomes 
 
