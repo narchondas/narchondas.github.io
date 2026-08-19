@@ -34,7 +34,7 @@ No word-level weights are applied. All vocabulary terms and phrases are counted 
 
 ## Repository
 
-The full reproducible artefact is available here:
+The reproducible research material accompanying the article, comprising the analytical notebook and the full corpus of eighteen documents, is available here:
 
 [EU AI Governance Corpus Replication v1.3](https://github.com/narchondas/eu-ai-governance-corpus-v1-3_Replication)
 
@@ -42,8 +42,6 @@ The full reproducible artefact is available here:
 
 [Open the replication notebook in Google Colab](https://colab.research.google.com/drive/1BtrCoPCjLdFZphm986MSrw3xnLneX4nK?usp=sharing)
 
-
-The reproducible research material accompanying the article, comprising the analytical notebook and the full corpus of eighteen documents, is available at eu-ai-governance-artefact.
 
 <img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_33 PM (2)" src="https://github.com/user-attachments/assets/37ed8aa2-4011-475a-b8ba-aa9c09ebf31d" />
 
