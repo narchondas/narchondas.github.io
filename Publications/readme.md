@@ -36,7 +36,7 @@ No word-level weights are applied. All vocabulary terms and phrases are counted 
 
 The full reproducible artefact is available here:
 
-[AI Governance Regulatory Spectrum Artefact v1.3]()
+[EU AI Governance Corpus Replication v1.3](https://github.com/narchondas/eu-ai-governance-corpus-v1-3_Replication)
 
 ## Open in Colab
 
