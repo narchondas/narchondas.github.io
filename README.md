@@ -47,7 +47,7 @@ I view administrative reform as a continuous and inspiring journey — one marke
 
 [8. MSc Computing Project](/MSc Computing Project/msc-project/)
 
-[9. Publications](/Publications)
+[9. Publications](/Publications/)
 
 
 
