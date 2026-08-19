@@ -1,4 +1,4 @@
-1. Trends and patterns of EU AI governance: A text-mining-supported analysis
+# 1. Trends and patterns of EU AI governance: A text-mining-supported analysis
 
 Punto y Coma, special issue on AI innovation ecosystems, forthcoming 2026.
 
