@@ -13,6 +13,8 @@ Use the following links to navigate to the start of the sections
 
 [3. Software artefact: AI Governance Regulatory Spectrum](#software-artefact-ai-governance-regulatory-spectrum)
 
+[4. Executive Summary](#executive-summary)
+
 
 ## Learning outcomes 
 
@@ -166,6 +168,46 @@ This version is therefore intended for reuse and experimentation. It allows rese
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
 
 
+## Executive Summary
+
+This research project examines the differing and evolving patterns of artificial intelligence (AI) governance in the European Union (EU) and the United States (US), while demonstrating how reproducible AI-supported text mining can assist the systematic analysis of policy and regulatory documents. It combines a comparative analysis of AI governance instruments with the development of a reproducible analytical artefact designed to identify, measure and visualise differences in regulatory orientation.
+
+The empirical analysis provides evidence of a differentiated EU–US regulatory orientation. Within the corpus examined, EU documents generally exhibit stronger safeguard- and mandatory-oriented characteristics, whereas US documents generally show stronger innovation- and voluntary-oriented characteristics. This distinction should, however, be understood as a dominant pattern rather than a rigid division. Neither jurisdiction is internally uniform. EU governance includes innovation-oriented strategies and voluntary initiatives, while US instruments also contain significant safeguards, risk-management approaches and regulatory elements. The results therefore point to different prevailing institutional and regulatory configurations rather than two completely opposed models of AI governance.
+
+<img width="1350" height="900" alt="newplot (5)" src="https://github.com/user-attachments/assets/cc7c53b6-23fb-4a4c-a12b-29f881e1426b" />
+
+A second important finding is the substantial internal variation within both jurisdictions. Legislation, strategies, guidance, executive instruments and voluntary initiatives occupy different positions within the regulatory landscape. This variation demonstrates the limitations of treating either the EU or the US as a single, homogeneous regulatory model. The findings also indicate that the relationship between innovation, safeguards and legal force is multidimensional. The research therefore employs a two-dimensional analytical model combining innovation versus safeguards with mandatory versus voluntary characteristics. This provides a more informative representation of governance positions than a single linear regulatory spectrum, particularly where instruments display comparable substantive priorities but differ substantially in their degree of legal force.
+
+<img width="1100" height="900" alt="newplot (6)" src="https://github.com/user-attachments/assets/0ee9cb56-0d24-4edb-bba2-6fa8d939bf59" />
+
+The research also identifies elements of convergence alongside divergence. EU and US AI governance cannot be understood simply as opposing regulatory trajectories. Both increasingly address innovation, safeguards, security, competitiveness and responsible AI, although these priorities are articulated and implemented through different institutional arrangements and regulatory instruments. The resulting picture is therefore one of differentiated governance with areas of substantive convergence rather than complete regulatory separation.
+
+<img width="1300" height="750" alt="newplot (7)" src="https://github.com/user-attachments/assets/038671e3-e8b7-49a0-8bb0-d276e1a3db52" />
+
+The methodological contribution complements these substantive findings. The research artefact applies structured text-mining techniques to a defined policy corpus, converting textual patterns into comparable frequencies, analytical scores and visualisations. The results demonstrate the potential of reproducible NLP-based analysis to support the systematic comparison of policy documents and to make complex regulatory patterns more visible. The artefact is consequently best understood as a reproducible analytical tool and proof of concept for supporting comparative policy analysis, rather than as an autonomous or definitive classification system. Its value lies in supporting systematic comparison and generating evidence that can subsequently be examined and interpreted by researchers and policy analysts.
+
+<img width="1350" height="750" alt="newplot (19)" src="https://github.com/user-attachments/assets/e0892d49-5bea-4848-85c1-6a7412d9ede7" />
+
+The documentary and computational findings were further contextualised through expert interviews. Their contribution was not to replace the empirical analysis, but to test and interpret the patterns identified through the documentary corpus and the artefact. The triangulation reinforces the interpretation that differences in AI governance reflect not only regulatory choices but also broader institutional, economic and policy environments. At the same time, the interviews underline the importance of avoiding overly simplified explanations of EU–US differences, particularly where questions of innovation, competitiveness, investment and regulatory capacity interrelate.
+
+<img width="1100" height="800" alt="newplot (28)" src="https://github.com/user-attachments/assets/d454f64b-2733-43e4-adc0-2be4e1e3a73c" />
+
+The findings should nevertheless be interpreted in light of several limitations. The results are dependent on the composition of the selected corpus, the rapidly evolving nature of AI governance, and the vocabulary and weighting choices underlying the text-mining approach. Automated text analysis can identify systematic textual patterns, but it cannot independently establish the full legal, institutional or political meaning of a document. Human validation and interpretation therefore remain essential. These limitations reinforce rather than undermine the role of the artefact as an analytical aid and establish appropriate boundaries for its use.
+
+<img width="1350" height="750" alt="newplot (19)" src="https://github.com/user-attachments/assets/36fae006-81b6-425a-b73e-12b6ad261ca0" />
+
+Overall, the research makes a combined substantive and methodological contribution. Substantively, it provides empirical evidence for differentiated EU and US AI governance orientations while demonstrating the internal diversity and partial convergence that characterise both regulatory environments. Methodologically, it develops a reproducible framework for transforming policy text into structured evidence that can be compared and visualised systematically. The research thus demonstrates how computational text analysis can complement established qualitative and documentary approaches to policy research, while retaining human interpretation at the centre of the analytical process.
+
+<img width="1400" height="800" alt="newplot (11)" src="https://github.com/user-attachments/assets/e2cff0b3-9546-48e2-84b4-50e5cb28a81d" />
+
+
+## Artefact presentation
+
+Below is the presentation of the AI-supported text-mining artefact developed as part of the thesis. It provides an overview of the artefact, its analytical framework, workflow, methodology and principal outputs.
+
+The presentation is intended to provide researchers with a concise introduction to the artefact and its potential use as a reproducible analytical tool for comparative policy analysis.
+
+[View the Artefact Presentation](https://docs.google.com/presentation/d/1dNavA1vlAsvzpH2fEvJHkAzDGdFYxkX-42Bc9e9Ew3I/edit?usp=sharing)
 
 [Back to the top](#msc-computing-project)
 
