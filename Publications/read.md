@@ -4,7 +4,7 @@ Use the following links to navigate to the start of the sections
 
 [1. Exploring	an AI-driven	solution	for	analysing consultation results in the European Commission](#exploring-an-ai--driven-solution-for-analysing-consultation-results-in-the-european-commission)
 
-[2. Trends and patterns of EU AI governance: A text-mining-supported analysis](#trends-and-patterns-of-eu-ai-governance:-a-text-mining-supported-analysis)
+[2. Trends and patterns of EU AI governance: A text-mining-supported analysis](#trends-and-patterns-of-eu-ai-governance-a-text-mining-supported-analysis)
 
 
 # Exploring	an AI-driven	solution	for	analysing consultation results in the European Commission
