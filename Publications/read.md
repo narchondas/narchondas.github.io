@@ -11,7 +11,6 @@ Use the following links to navigate to the start of the sections
 
 DG.O 2026 Proceedings - 27th Annual International Conference on Digital Government Research June 01-04, 2026, Omaha, Nebraska, U.S.A., forthcoming 2026
 
-<img width="450" height="212" alt="image" src="https://github.com/user-attachments/assets/26c68222-dfe0-4637-94c9-df861023e652" />
 
 ## Abstract
 
@@ -28,8 +27,6 @@ The main output is a conceptual service design and requirements specification fo
 **DOI:** number to be added after acceptance
 
 **ORCID:** https://orcid.org/0009-0003-5941-4291
-
-<img width="431" height="175" alt="image" src="https://github.com/user-attachments/assets/d5c8a492-52ad-453c-a607-1529697df5d4" />
 
 
 # Trends and patterns of EU AI governance: A text-mining-supported analysis
