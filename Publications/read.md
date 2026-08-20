@@ -28,6 +28,10 @@ The main output is a conceptual service design and requirements specification fo
 
 **ORCID:** https://orcid.org/0009-0003-5941-4291
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Aug 20, 2026, 10_40_15 AM" src="https://github.com/user-attachments/assets/7f1c90dc-111f-416a-ba1d-d8676ad2db8a" />
+
+
 [Back to the top](#publications)
 
 
