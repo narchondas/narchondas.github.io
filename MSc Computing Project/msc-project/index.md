@@ -120,6 +120,15 @@ The final version of the artefact is **v1.3**.
 No word-level weights are applied. All vocabulary terms and phrases are counted equally. The only weighting mechanism is the document-level legal-force multiplier applied to the mandatory/control count.
 
 
+## Artefact presentation
+
+Below is the presentation of the AI-supported text-mining artefact developed as part of the thesis. It provides an overview of the artefact, its analytical framework, workflow, methodology and principal outputs.
+
+The presentation is intended to provide researchers with a concise introduction to the artefact and its potential use as a reproducible analytical tool for comparative policy analysis.
+
+[View the Artefact Presentation](https://docs.google.com/presentation/d/1dNavA1vlAsvzpH2fEvJHkAzDGdFYxkX-42Bc9e9Ew3I/edit?usp=sharing)
+
+
 ## Reproducible artefact repository
 
 The full reproducible artefact is available here:
@@ -200,14 +209,6 @@ Overall, the research makes a combined substantive and methodological contributi
 
 <img width="1400" height="800" alt="newplot (11)" src="https://github.com/user-attachments/assets/e2cff0b3-9546-48e2-84b4-50e5cb28a81d" />
 
-
-## Artefact presentation
-
-Below is the presentation of the AI-supported text-mining artefact developed as part of the thesis. It provides an overview of the artefact, its analytical framework, workflow, methodology and principal outputs.
-
-The presentation is intended to provide researchers with a concise introduction to the artefact and its potential use as a reproducible analytical tool for comparative policy analysis.
-
-[View the Artefact Presentation](https://docs.google.com/presentation/d/1dNavA1vlAsvzpH2fEvJHkAzDGdFYxkX-42Bc9e9Ew3I/edit?usp=sharing)
 
 [Back to the top](#msc-computing-project)
 
