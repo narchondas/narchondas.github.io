@@ -177,6 +177,9 @@ This version is therefore intended for reuse and experimentation. It allows rese
 <img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/93d2e5f1-98c8-4305-946d-a005268ae0d2" />
 
 
+[Back to the top](#msc-computing-project)
+
+
 ## Executive Summary
 
 **Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
