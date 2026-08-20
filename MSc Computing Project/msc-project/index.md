@@ -179,6 +179,8 @@ This version is therefore intended for reuse and experimentation. It allows rese
 
 ## Executive Summary
 
+**Comparative AI Governance: regulatory trends and emerging policy models in the European Union and the United States, leveraging automated AI text-mining analysis**
+
 This research project examines the differing and evolving patterns of artificial intelligence (AI) governance in the European Union (EU) and the United States (US), while demonstrating how reproducible AI-supported text mining can assist the systematic analysis of policy and regulatory documents. It combines a comparative analysis of AI governance instruments with the development of a reproducible analytical artefact designed to identify, measure and visualise differences in regulatory orientation.
 
 The empirical analysis provides evidence of a differentiated EU–US regulatory orientation. Within the corpus examined, EU documents generally exhibit stronger safeguard- and mandatory-oriented characteristics, whereas US documents generally show stronger innovation- and voluntary-oriented characteristics. This distinction should, however, be understood as a dominant pattern rather than a rigid division. Neither jurisdiction is internally uniform. EU governance includes innovation-oriented strategies and voluntary initiatives, while US instruments also contain significant safeguards, risk-management approaches and regulatory elements. The results therefore point to different prevailing institutional and regulatory configurations rather than two completely opposed models of AI governance.
