@@ -54,6 +54,10 @@ The discussion examines the resulting trade-offs between innovation, competitive
 
 **Keywords:** artificial intelligence, EU AI governance, text-mining, regulatory spectrum, Brussels effect 
 
+**DOI:** number to be added after acceptance
+
+**ORCID:** https://orcid.org/0009-0003-5941-4291
+
 ## Artefact
 
 The artefact is implemented as a reproducible Python/Google Colab notebook. It processes 18 EU AI governance documents and generates:
