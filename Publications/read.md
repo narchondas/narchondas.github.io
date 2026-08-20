@@ -28,6 +28,8 @@ The main output is a conceptual service design and requirements specification fo
 
 **ORCID:** https://orcid.org/0009-0003-5941-4291
 
+[Back to the top](#publications)
+
 
 # Trends and patterns of EU AI governance: A text-mining-supported analysis
 
@@ -91,6 +93,7 @@ The reproducible research material accompanying the article, comprising the anal
 <img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_33 PM (2)" src="https://github.com/user-attachments/assets/37ed8aa2-4011-475a-b8ba-aa9c09ebf31d" />
 
 
+[Back to the top](#publications)
 
 
 [Go to main Menu](https://narchondas.github.io/)
